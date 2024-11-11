@@ -1,4 +1,5 @@
 import axios from "axios";
+import { promisify } from "util";
 import { v4 as uuidv4 } from "uuid";
 class TranslationService {
   constructor(
