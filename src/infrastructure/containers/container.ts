@@ -1,6 +1,7 @@
 import { ChatOpenAI } from "@langchain/openai";
 import { IGPTService } from "../../domain/interfaces/IGPTService";
 import { GPTService } from "../services/GPTService";
+import OpenAIService from "../services/OpenAIService";
 import { IWordCloudService } from "../../domain/interfaces/IWordCloudService";
 import { WordCloudService } from "../services/WordCloudService";
 import { ConversationRepository } from "../repositories/ConversationRepository";
@@ -17,6 +18,8 @@ import { HandleGetConversationCountUseCase } from "../../application/useCases/Ha
 import { HandleGetChatUserCase } from "../../application/useCases/HandleGetChatUserCase";
 import { HandleCreateChatUseCase } from "../../application/useCases/HandleCreateChatUseCase";
 import { MockGPTService } from "../services/MockGPTService";
+import IndexingService from "../services/IndexingService";
+import VectorStoreSingleton from "../services/VectorStoreSingleton";
 
 const isProd = process.env.RUNTIME_ENV === "production";
 console.log("Project Started at", isProd ? "Prod" : "Dev", "environment");
@@ -36,6 +39,10 @@ const promptService: IPromptService = new PromptService();
 //   ? new GPTService(chatGPTModel)
 //   : new MockGPTService();
 const gptService: IGPTService = new MockGPTService();
+
+const indexingService = new IndexingService();
+const openAIService = new OpenAIService();
+
 const wordCloudService: IWordCloudService = new WordCloudService(
   wordRepository,
   conversationRepository,
@@ -77,5 +84,6 @@ export const handleGetConversationCountUseCase =
 export const handleGetChatUserCase = new HandleGetChatUserCase(chatRepository);
 
 export const handleCreateChatUseCase = new HandleCreateChatUseCase(
-  chatRepository
+  chatRepository,
+  openAIService
 );

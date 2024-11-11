@@ -1,0 +1,1373 @@
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+Finalité      
+Ce processus a pour finalité de : 
+ 
+- Planifier, mettre en œuvre et maîtriser les activités 
+relatives à la gestion et le déroulement des stages, , 
+des projets de fin d’études et des mémoires de 
+mastère. 
+ 
+- Satisfaire les exigences supplémentaires relatives à 
+l'éducation spécialisée en ce qui concerne les 
+stages, les PFE, les mémoires de mastère. 
+Professionnel 
+- Stages D’été 
+- Stages SFE 
+- Stages PFE 
+ 
+Pilote du processus 
+Pilote : Direction de Stages : Nihel Ben Youssef 
+Copilote : Ali Khemiri  
+Copilote : Zohra Channouf  
+ 
+Fournisseurs Clients 
+- Le processus conception des programmes de 
+formation et gestion pédagogique CPE-03 
+- Le processus scolarité GSA-07 
+- Processus GRH-08 
+- Processus Services Généraux GSG-09 
+- Apprenants et autres bénéficiaires 
+- Enseignants permanents et Experts 
+- Partenaires professionnels  
+- Parties intéressées  
+- Les processus examen et des délibération EXD-06 
+- Le processus scolarité des apprenants GSA-07 
+- Apprenants et autres bénéficiaires 
+- Enseignants permanents et Experts 
+- Partenaires professionnels  
+- Cellule de communication 
+Données d’entrées Données de sorties 
+- Curriculum et programme des parcours. 
+- Dossier d'habilitation et les caractéristiques des 
+produits et services éducatifs. 
+- Planification de l’année universitaire 
+- Exigences supplémentaires relatives à l'éducation 
+spécialisée. 
+- Feedback de l’écoute et satisfaction des apprenants 
+et des autres bénéficiaires. 
+- Résultat de traitement des non-conformités et des 
+produits éducatifs non conformes. 
+- Traitement des réclamations et des appels. 
+- Résultats des audits internes et externes. 
+- Liste des partenaires professionnels. 
+- Liste des enseignants encadrants de stage.  
+- Exigences anti-plagiat. 
+ 
+ 
+ 
+ 
+- Satisfaction des besoins des apprenants en stages 
+d’été, et stage SFE/PFE. 
+- Planification des stages d’été, et stage SFE/PFE. 
+- Satisfaction des besoins et attentes des parties 
+intéressées. 
+- Satisfaction des exigences supplémentaires relatives 
+à l'éducation spécialisée. 
+- Informations documentées relatives à la 
+reconnaissance de l'apprentissage évalué. 
+- État des actions correctives, des actions face aux 
+risques et des actions d’amélioration. 
+- Traitement des non-conformités, réclamations et 
+appels. 
+- Rapport sur le déroulement des stages d’été, et 
+stage SFE/PFE. (Avec recommandations). 
+ 
+ 
+ 
+Objectifs du processus 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+- Assurer la planification et le déroulement des stages. 
+- Maitriser le déroulement des stages. 
+- Atteindre les objectifs escomptés des stages. (Assurer la satisfaction des parties prenantes des stages) 
+- Planifier les actions nécessaires pour la prise en charge des exigences supplémentaires relatives à l'éducation 
+spécialisée en ce qui concerne les stages. 
+ 
+Indicateurs de performances 
+Indicateur Formule Périodicité Source d’information 
+Taux de respect de la planification 
+des stages 
+ 
+ 
+Nombre de stages réalisés 
+à temps / Nombre total de 
+stages 
+- 1 indicateur pour 
+chaque catégorie de 
+stage  
+Annuelle 
+Tableau de bord des 
+apprenants en stage par 
+catégorie 
+Taux de satisfaction des 
+partenaires professionnels 
+ 
+ 
+Nombre de partenaires 
+professionnels satisfaits / 
+Nombre total de 
+partenaires professionnels 
+- 1 indicateur pour 
+chaque catégorie de 
+stage 
+Annuelle Enquête de satisfaction 
+des professionnels 
+ 
+ 
+Taux de satisfaction des 
+apprenants  
+ 
+Nombre de apprenants 
+satisfaits /Nombre total de 
+apprenants 
+- 1 indicateur pour 
+chaque catégorie de 
+stage 
+Annuelle 
+Enquête de satisfaction de 
+l’apprenant vis-à-vis de 
+l’organisme d’accueil   
+Taux de non-conformités par 
+étudiant pour les stages  
+ 
+ 
+ 
+Nombre de non-
+conformités détectées lors 
+du déroulement des stages 
+/ Nombre d’étudiants 
+concernés par les stages 
+- 1 indicateur pour 
+chaque catégorie 
+Annuelle 
+ 
+Fiche de traitement de 
+non-conformités 
+Taux de satisfaction des besoins 
+spécifiques des étudiants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nombre de besoins 
+spécifiques des apprenants 
+concernant les stages 
+satisfaits / Nombre total 
+de besoins spécifiques des 
+apprenants concernant les 
+stages 
+1 indicateur pour chaque 
+catégorie de stage 
+            Annuelle 
+ 
+Fiche de traitement de 
+besoins spécifiques 
+ 
+ 
+ 
+Documents de références 
+ISO 21001 Version 2018 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+ISO 21001 
+Documents internes au processus 
+GSP-PR-01- Procédure de gestion et déroulement des stages d’été 
+GSP-PR-02- Procédure de gestion et déroulement de stage SFE/ PFE  
+GSP-PR-03- Procédure de gestion des Soutenances 
+GSP-PP-05- Plan processus gestion des stages d’été, SFE (Licences)PFE (Ingénieurs/Mastères) et Soutenances 
+PAC-DOC-00- Exigence Législative (Charte administrative des PFE) 
+PAC-DOC-01 Calendrier Pédagogique 
+GSA-FR-02- Fiche des besoins spécifiques 
+GSP-FR-01- demande de stage d’été 
+GSP-FR-02- Convention de stage d’été National 
+GSP-FR-03- Convention de stage d’été International 
+GSP-FR-04-Cooperation Agreement  
+GSP-FR-05- Formulaire de dépôt de convention de stage d’été 
+GSP-FR-06- Lettre d’affectation de stage d’été 
+GSP-FR-07- Attestation de stage d’été 
+GSP-FR-08- Formulaire de dépôt d’attestation Stage d’été 
+GSP-FR-09- Formulaire de dépôt de rapport de stage d’été  
+GSP-FR-10- Demande de stage SFE/PFE 
+GSP-FR-11- Convention de stage SFE/PFE National 
+GSP-FR-12- Convention de stage SFE/PFE International 
+GSP-FR-13- Coopération Agreement 
+GSP-FR-14-Formulaire de dépôt de convention de stage SFE/PFE 
+GSP-FR-15-Lettre d’affectation de stage SFE/PFE 
+GSP-FR-16 Demande de Modification de stage SFE/PFE 
+GSP-FR-17 Avenant à la convention Initial de stage SFE/PFE 
+GSP-FR-18 Demande d’annulation de stage SFE/PFE 
+GSP-FR-19 Attestation d’annulation de stage  
+GSP-FR-20 Calendrier des Session de soutenance et Deadline dépôt 
+GSP-FR-21- Affectation Final Des Encadrants Académiques 
+GSP-FR-22- Affectation Final Des étudiants 
+GSP-FR-23 Guide de Rédaction 
+GSP-FR-24 Template Latex 
+GSP-DOC-25-Procédure de dépôt de rapport SFE 
+GSP-DOC-26-Procédure de dépôt de rapport PFE 
+GSP-FR-27 Dossier de dépôt des Rapports SFE/PFE (Page de Garde. Page de signature. Image de code) 
+GSP-FR-28-Le Journal de stage SFE/PFE 
+GSP-DOC-29 Certificat de Plagiat 
+GSP-FR-30-Fiche d’évaluation Individuel 
+GSP-FR-31-Formulaire de dépôt des Rapports SFE/PFE 
+GSP-FR-32- Enquête de satisfaction des Professionnels 
+GSP-FR-33- Enquête de satisfaction des Stagiaires vis-à-vis de l’organisme d’accueil 
+GSP-FR-34-Planning des Soutenances SFE/PFE 
+GSP-FR-35-Dossier de soutenance (PV de soutenance. Rapport Rapporteur. Rapport Encadrant Fiche de note)  
+GSP-DOC-36- Etat de remise des dossiers de soutenance 
+GSP-FR-37- Enquête de satisfaction des encadrants 
+GSP-FR-38- Sondage Alumni 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+Documents externes au processus 
+PAC-DOC-00 : Exigence légale et réglementaire 
+PAC-DOC-01 : Calendrier pédagogique 
+GSA-FR-02 :Fiche de Demande de besoin spécifique 
+ 
+ 
+ 
+ANALYSE DES RISQUES 
+Risques internes Modalités de maîtrise 
+La base de données relative aux structures 
+d'accueil, notamment pour le stage 1, n'est pas 
+mise à jour. 
+Mise à jour de la base de données relative aux 
+structures d'accueil à chaque rentrée universitaire. 
+Les apprenants ne sont pas suffisamment informés 
+sur la procédure de stage. 
+Un mail d'information est envoyé à tous les apprenants 
+à la rentrée universitaire. 
+Le début des stages 1 et 2 avant la remise de 
+l'autorisation d'accueil et/ou de la lettre 
+d'affectation ou avant la signature des conventions 
+de stage pour les PFE et Masters 
+. 
+Prévoir des actions d’information et de sensibilisation 
+auprès des apprenants. 
+Le non-respect des délais de dépôts des rapports et 
+documents associés au stage par les apprenants.  
+Prévoir des actions d’information et de sensibilisation 
+auprès des apprenants.  
+La remise de documents manquants liés au stage. Prévoir des actions d’information et de sensibilisation 
+auprès des apprenants.  
+Le non-respect des délais de remise des notes par 
+les enseignants évaluateurs. 
+Prévoir des actions d’information et de sensibilisation 
+auprès des enseignants évaluateurs. 
+Risques Externes  
+Modalités de maîtrise 
+ 
+Modalités de maîtrise  
+Modalités de maîtrise 
+ 
+Autorisation d'accueil reçue tardivement au service 
+des stages de la part des organismes d'accueil. 
+Prévoir des actions d’information portant sur 
+l’importance des stages dans le parcours pédagogique 
+et des actions de sensibilisation auprès des organismes 
+d’accueil.  
+La non-disponibilité d’un organisme d’accueil pour 
+couvrir les besoins de l’apprenant.  
+Assister/conseiller l'apprenant dans ses recherches et 
+renforcer le réseau de partenaires socio-économiques. 
+Conditions météorologiques non adaptées aux 
+besoins et aux objectifs des activités. 
+Revoir la planification des périodes de stage en 
+conséquence. 
+Conflits avec les structures d'accueil (interruption 
+de stage, non délivrance de documents, etc.). 
+Médiation assurée par le directeur des stages ou le 
+directeur de département / le coordENSTABeur du 
+master ou le responsable académique. 
+ 
+Historiques des modifications  le coordENSTABeur 
+Révision Date Motif de la modification  Tous les pilotes des processus 
+00  Création   
+     
+ 
+ Etabli par Vérification Approbation 
+Nom et Prénom    
+Fonction    
+Date    
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+Signature     
+Déroulement du processus 
+ 
+Responsable Etape /Action Description Documents 
+associés 
+Direction des 
+études 
+Direction des 
+stages 
+ 
+ 
+Le directeur en collaboration avec la direction 
+des études et la direction des stages  élaborent 
+le planning annuel de l’année universitaire qui 
+précise les périodes de stage, de PFE et de 
+mémoires de master et les périodes de dépôt 
+et de soutenance. La direction des stages 
+récupère depuis l’université et le ministère, les 
+lois et la règlementation qui régissent le 
+déroulement des stages, notamment le  
+décret-loi JORT (8 décembre 2017, n° 98 page 
+4187) 
+ 
+ 
+PAC-DOC-01 
+Calendrier 
+pédagogique 
+ 
+PAC-DOC-00 
+Exigence légale 
+et 
+réglementaire 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Direction des 
+études 
+Direction des 
+stages 
+Directeur de 
+département 
+Commission 
+Mastère 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A la rentrée, et dans le cadre des journées 
+d'intégration, une réunion d'information 
+et de sensibilisation sur les 
+procédures/modalités des stages est 
+organisée pour tous les apprenants. 
+Lors de cette rencontre, il sera rappelé 
+aux app renants le caractère obligatoire 
+des stages, les durées, les périodes 
+possibles de stage ainsi que la nécessité 
+de respecter le règlement intérieur des 
+établissements d'accueil. 
+De plus, les apprenants sont informés de : 
+La nécessité de lancer la recherche  de 
+stages le plus tôt possible et de veiller au 
+respect de la procédure de stage. 
+La liste des organismes d'accueil, 
+indicative et non exhaustive, et des 
+encadrants académiques, mais aussi les 
+règles d'affectation des organismes 
+d'accueil et des encadrant s : l'affectation 
+se fera selon plusieurs critères comme la 
+catégorie du stage, ou l'adéquation entre 
+le sujet du stage/PFE/mémoire et la 
+spécialité de l'encadrant, mais aussi la 
+charge maximale d'encadrement par 
+enseignant selon les départements et 
+commissions de master, notamment pour 
+le PFE ou le stage de master . Cette liste 
+est établie par le directeur des stages, et 
+en concertation avec la direction des 
+ 
+ 
+ 
+ 
+ 
+GSP-PR-01 
+Procédure de 
+gestion et 
+déroulement 
+de stage D’été 
+ 
+ 
+GSP-PR-02 
+Procédure de 
+gestion et 
+déroulement 
+de stage 
+SFE/PFE 
+ 
+GSP-PR-03 
+Procédure de 
+soutenances 
+ 
+GSP-DOC-04 
+Doc dossier 
+forum 
+ 
+Calendrier 
+pédagogiqu
+e 
+Exigences 
+légales et 
+réglementair
+es 
+Réunion d’information et de 
+sensibilisation 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+études, les directeurs de départements et 
+les commissions de master, notamment 
+pour les PFE et les m asters. Au cours de 
+cette réunion, les étudiants seront 
+informés de : 
+La liste des différentes catégories et 
+procédures de stage à suivre. 
+La liste des organismes d'accueil  
+des encadrants, et les critères 
+d'affectation. 
+Le planning annuel des stages. 
+Le j ournal de stage, notamment pour les 
+stages D’été. 
+La demande et autorisation de stage. 
+La lettre d’affectation de stage.  
+La convention de stage. 
+- Les enquêtes de satisfaction... 
+- La fiche d’enregistrement du sujet de 
+PFE / Mastère. 
+- Etc. 
+ 
+Responsable 
+Scolarité 
+ L’identification des besoins spécifiques des 
+apprenants formalisés par un formulaire  à la 
+scolarité. Les  mesures nécessaires seront 
+proposées et validées par l’administration et 
+ou les départements 
+ 
+ 
+GSA-FR-02 
+Fiche de 
+Demande de 
+Besoin 
+spécifique 
+ 
+Etudiant 
+(Licence, 
+Master, 
+Ingénieur) 
+Direction des 
+stages 
+Entreprise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La recherche de sujet PFE se fait par 
+priorité :  
+Par l’étudiant (autonomie)   
+Par la direction des stages, à travers 
+l’organisation de séminaires info session 
+présentés par les entreprises et/ou forum 
+entreprises et/ou les conventions ou les 
+offres/catalogues reçus ou sollicitation 
+des entreprises et plateformes dédiées 
+(fabskill…) /Sollicitation des 
+enseignants/Formulaire de sondage 
+Diffusion des offres de stages SFE/PFE via 
+mailings-listes des étudiants concernés  
+Faire appel aux enseignants pour aider à la 
+recherche d’offres de stages 
+PFE/Proposition de sujets  
+  Faire Appel aux alumni diplômés ISI pour 
+recenser les offres proposées par les 
+sociétés ou ils sont embauchés 
+ 
+ 
+ 
+GSP-DOC-05 
+Offres de 
+stages 
+GSP-FR-3 
+Sondage 
+Alumni 
+Recherche de propositions de 
+sujet SFE/PFE (licences, masters 
+pro, ingénieurs) 
+Identification des Stagiaires ayant 
+des Besoins Spécifiques 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+Etudiant 
+Service de 
+stages 
+Entreprise 
+ Entrée 
+-L’étudiant peut demander par email ou 
+directement auprès du service de stage 
+une demande de stage requise par 
+l’entreprise lors du dépôt de candidature 
+au stage  
+ 
+Sortie 
+La direction des stages signe la demande 
+de stage attestant que l’étudiant est 
+autorisé à effectuer son stage durant  la 
+période indiquée 
+ 
+GSP-FR-01 
+Demande de 
+stage d’été 
+ 
+GSP-FR-10 
+Demande de 
+stage SFE/PFE 
+ 
+ 
+Etudiant 
+Service de 
+stages 
+Entreprise 
+Chef de 
+département 
+Responsable 
+Master – 
+Enseignant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ L’étudiant reçoit le document 
+Convention de stage à remplir par Mail 
+ou en version papier du service de 
+stages.  
+-La convention de stage doit être déposée 
+Obligatoirement via Formulaire en ligne 
+de dépôt de convention de stage PFE/SFE 
+et via Formulaire en ligne de dépôt de 
+convention de stage d’été 
+ -La convention de stage doit 
+obligatoirement être signée par 
+l’entreprise avec cachet 
+- La signature de l’encadrant académique 
+n’est pas obligatoire.  
+- Un fichier Excel (Partagé avec les chefs 
+des départements et les responsables des 
+Masters) est préparé par le service de 
+stage c ontenant les informations 
+contenues dans la convention de stage  y 
+compris l’encadrant académique choisi 
+par l’étudiant provisoirement. Une 
+colonne     « confirmé » est ajoutée si 
+l’enseignant a signé la fiche proposition 
+confirmant son approbation 
+d’encadrement (L’affectation n’est 
+définitive qu’après validation du chef de 
+département en premier lieu et par la 
+direction de stages en deuxième lieu suite 
+à la vérification de la charge maximale 
+autorisée et à l’équité d’encadrement 
+(taux) à l’échelle du départ ement et 
+établissement, défini chaque année 
+suivant la proportion nombre de PFE à 
+encadrer/nombre d’enseignants habilités 
+à encadrer..  
+ 
+GSP-FR-02 
+Convention de 
+stage d’été 
+National 
+ 
+GSP-FR-03 
+Convention de 
+stage d’été 
+International 
+ 
+GSP-FR-04 
+Coopération 
+Agreement 
+ 
+GSP-FR-11 
+Convention de 
+stage SFE/PFE 
+National 
+ 
+GSP-FR-12 
+Convention de 
+stage SFE/PFE 
+International 
+ 
+GSP-FR-13 
+Coopération 
+Agreement 
+ 
+GSP-FR-05 
+Formulaire 
+dépôt 
+convention de 
+stage d’été 
+ 
+GSP-FR-14 
+Formulaire 
+dépôt 
+convention de 
+Retrait de demande de 
+stage (SFE/PFE ou Stage 
+d’été) 
+Dépôt de convention de 
+stage (National et à 
+l’étranger) PFE/SFE  
+Ou de stage d’été 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+Stage SFE/PFE 
+ 
+ 
+Service de 
+stages 
+Directeur des 
+stages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Après vérification des données comprises 
+dans les conventions de stages 
+notamment, pour les stages SFE/PFE, le 
+respect de la durée minimale du PFE 
+requise, la fiabilité de L’établissement 
+d’accueil…. Une lettre d’affectation sera 
+préparée par le service de stage, signée 
+par le directeur de stage et délivrée à 
+l’étudiant par email.  
+L’étudiant peut récupérer la lettre 
+directement chez le service de stages ou 
+par email 
+La lettr e d’affectation comporte 
+principalement les informations suivantes 
+: Nom de la société, nom de l’étudiant 
+stagiaire, la période du stage, et la 
+mutuelle ou assurance sur laquelle le 
+stage se réfère le stagiaire 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GSP-FR-15 
+Lettre 
+D’affectation 
+de stage 
+SFE/PFE 
+ 
+ 
+Etudiant 
+Service de 
+stages 
+Entreprise 
+Direction des 
+stages 
+  
+ 
+GSP-PR-01 
+Procédure de 
+gestion des 
+stages d’été 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Service de 
+stages 
+Chefs de 
+département 
+Responsables 
+des masters 
+professionnels 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diffusion de l’état des 
+affectations des 
+encadrements 
+académiques 
+Le chef de département ou le responsable 
+de master procède à l’affectation des 
+encadrants académiques en Tenant 
+compte de (confirmation d’encadrement 
+selon le champs « confirmé » du fichier, 
+proposition de l’étudiant, la spécialité 
+requise selon le sujet déposé et le quota 
+des encadrements à respecter par 
+enseignant)  
+- Les chefs de départements et 
+responsables de master envoie la 
+proposition d’affectation des encadrants 
+académiques à la direction de stage.  
+Le directeur de stage vérifie le respect de 
+quota d’encadrement par enseignant intra 
+et inter départements et au niveau des 
+masters 
+Le directeur de stage ainsi que les chefs de 
+GSP –FR-20 
+Affectation 
+Final Des 
+Encadrants 
+Académique 
+ 
+ 
+ 
+ 
+ 
+ 
+GSP –FR-21 
+Affectation 
+Final des 
+étudiants 
+Remise de la Lettre 
+D’affectation Stage SFE/PFE)  
+Gestion et déroulement des 
+stages d’été 
+Affectation des 
+encadrants académiques 
+pour un sujet SFE/PFE 
+ 
+Procédure de gestion et 
+déroulement des stages d’été 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+départements diffusent la liste des 
+affectations finales par filière (Excel ou 
+PDF) par email aux enseignants et aux 
+étudiants   
+Les étudiants sont appelés à contacter 
+leurs encadrants académiques pour le 
+suivi.  
+La liste des affectations peut être mise à 
+jour en cas de modification ou d’ajout de 
+sujets PFE déposés en retard (Processus 
+ 
+Direction des 
+stages 
+Étudiant 
+Enseignant 
+(encadrant 
+académique) 
+Entreprise 
+(encadrant 
+professionnel) 
+ 
+ 
+Traitement des non-
+conformités 
+( Modification /Annulation de 
+stage ) 
+Si l’étudiant souhaite modifier le stage 
+(Modification au niveau de l’intitulé du 
+sujet. L’encadrant professionnel.la durée 
+de stage…etc) ou annuler le stage, Une 
+demande de modification ou 
+respectivement une demande 
+d’annulation est délivrée à l’intéressé. 
+L’étudiant doit remplir la demande en 
+question et la déposer via un formulaire 
+en ligne  
+La demande doit être signee par les 
+encadrants académique et professionnel  
+En cas d’annulation de stage, l’étudiant 
+doit remettre la lettre d’affectation 
+originelle au service de stage  
+Une fois les informations de la demande 
+(modification/annulation) sont vérifiées 
+par le service de stage, respectivement, 
+un avenant de convention de stage ou 
+une attestation d’annulation seront 
+délivrés 
+- Suite a l’annulation de stage, si l’étudiant 
+veut entamer un nouveau stage, il doit 
+reprendre l’étape : « Dépôt de convention 
+de stage (National et à l’étranger) PFE/SFE 
+GSP-FR-16 
+Demande de 
+Modification 
+de Stage 
+ 
+ 
+ 
+GSP-FR-18 
+Demande 
+d’annulation 
+de Stage 
+ 
+GSP-FR-17 
+Avenant à la 
+convention 
+Initial de stage 
+ 
+Etudiant 
+Service de 
+stages 
+Direction des 
+études 
+ 
+Diffusion du Guide de 
+rédaction de PFE, 
+informations et documents 
+utiles au déroulement du 
+stage 
+Au début de la période de stages, le 
+service de stage envoie par email un guide 
+de rédaction de rapport en .doc, un 
+Template Latex, le journal de stage a 
+remplir par t’étudiant et signe par 
+l’encadrant professionnel et académique 
+en début, milieu et fin de stage.  
+Le service de stage informe aussi les 
+étudiants concernant le taux de plagiat 
+maximum toléré fixes par les comités 
+pédagogiques et valides par le conseil 
+scientifique chaque année. 
+Après validation des chefs de 
+GSP-FR_19 
+Attestation 
+d’annulation 
+de stage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GSP-FR-22 
+Guide de 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+département et la direction des études en 
+tenant compte du calendrier universitaire 
+en cours, le service de stage diffuse le 
+calendrier des trois sessions de 
+soutenances Juin/Septembre avec les 
+deadlines de dépôts de rapports aux 
+étudiants et aux enseignants  
+ 
+ 
+Rédaction 
+Des Rapports 
+ 
+ 
+GSP-FR-23 
+Template Latex 
+ 
+ 
+ 
+GSP-FR-20 
+Calendrier des 
+Sessions de 
+soutenance et 
+Deadline de 
+dépôt 
+ 
+ 
+ 
+ 
+Directeur de 
+Stages 
+Chefs de 
+Départements 
+Responsables 
+master 
+Enseignant 
+ 
+ 
+ 
+Préparation des sessions  
+(Juin/Septembre/ Décembre) 
+des soutenances 
+SFE/PFE 
+ 
+Le directeur de stages rediffuse les listes 
+finales des affectations après les 
+modifications potentielles qui ont eu lieu 
+en mode partagé aux chefs de 
+département qu’ils diffusent par la suite 
+aux enseignants par département  
+L’enseignant doit indiquer la session 
+(juin/septembre/décembre) au cours de 
+laquelle les sujets SFE/PFE qu’ils 
+encadrent vont être soutenus 
+ 
+ 
+ 
+Directeur de 
+stages 
+Chefs de 
+Départements 
+Responsables 
+Master 
+Enseignant 
+Etudiants 
+ 
+ 
+Planification des sessions 
+de soutenances SFE/PFE 
+ 
+ 
+Les chefs de département consultent les 
+fichiers d’affectation partagés et mis à 
+jour par les enseignants (Sujets 
+soutenables en juin/Septembre) et 
+préparent un planning des soutenances 
+en affectant 3 membres du jury 
+(Président de jury, rapporteur, 
+encadrant) et un invité  (Encadrant 
+professionnel) pour les PFE (Bac+5) et 
+deux membres de jury (président de jury, 
+encadrant)et un invité(encadrant 
+professionnel) pour les SFE (Bac+3) et ce 
+en tenant compte de la charge 
+d’encadrement des enseignants et la 
+spécialité intrinsèque au sujet de stage  
+Le directeur de stages reçoit les plannings 
+GSP-FR-34 
+Planning des 
+soutenances 
+SFE/PFE 
+ 
+ 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+proposés par les chefs de département et 
+vérifie la cohérence des données et 
+l’absence de chevauchements  
+Le directeur de stage attribue les salles au 
+niveau des plannings Le directeur de 
+stages envoie les plannings des 
+soutenances finaux aux enseignants et 
+des étudiants par email 
+Service de 
+stages 
+- Directeur de 
+stage 
+- Etudiants 
+ 
+ 
+Dépôt des rapports 
+SFE/PFE 
+Le service de stages et le directeur de 
+stages préparent le dossier » dépôt de 
+rapports  
+Le dossier de dépôt de rapports comporte 
+:  
+La fiche d’évaluation du stagiaire à remplir 
+par l’encadrant professionnel et rendu en 
+pli fermé au président de jury au début de 
+la soutenance  
+ Modèle de page de garde du rapport,  
+  Page de signature des deux encadrants   
+Image montrant l’étiquette à coller au 
+rapport où l’étudiant doit noter son 
+numéro de PFE (première colonne numéro 
+dans le fichier liste des affectations) et sa 
+spécialité pour favoriser l’organisation des 
+rapports et leurs archivages au service de 
+stage  
+ 
+ les où dépôt de procédure Document
+ des srèglementation et règles
+ déroulements leurs et soutenances
+ clos Huis exemple (par citées seront
+ combien COVID, période la durant
+ être doivent papier d’exemplaires
+ bureau, quel de niveau au et déposés
+ rapporteur le contacter de l’obligation
+ iquetechn soutenance une planifier pour
+ présentation dela jour le avant (PFE)
+ à documents des liste la orale…),
+ rapport rapport, de Nombre : remettre
+stage de journal plagiat, de 
+Le directeur de stages envoie un mail aux 
+étudiants et enseignants en mettant en 
+copie les chefs de département et la 
+direction contenant le document 
+procédure de dépôt des rapports papier et 
+le formulaire de dépôt en ligne  
+Le formulaire de dépôt en ligne récolte les 
+Informations concernant le projet, 
+Essentiellement : 
+L’étudiant  
+GSP-FR-25 
+Procédure de 
+dépôt SFE 
+ 
+ 
+ 
+GSP-FR-26 
+Procédure de 
+dépôt PFE 
+ 
+ 
+ 
+GSP-FR-27 
+Dossier de 
+dépôt des 
+rapports 
+SFE/PFE 
+ 
+ 
+GSP-FR-31 
+Formulaire de 
+dépôt des 
+rapports 
+SFE/PFE 
+ 
+ 
+GSP-FR-28 
+Le Journal De 
+stage 
+ 
+GSP-FR-29 
+Certificat de 
+Plagiat 
+ 
+GSP-FR-33 
+Enquête de 
+satisfaction 
+des stagiaires 
+vis-à-vis de 
+l’organisme 
+d’accueil 
+ 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+Le sujet/Projet  
+Les encadrants professionnels et 
+académiques 
+Le contact de l’entreprise d’accueil  
+La satisfaction des étudiants 
+(appréciation de l’insertion 
+professionnelle)  
+Données personnelles avec les entreprises 
+qui les requièrent pour des fins 
+d’embauche. 
+Rapport en version PDF signe(archivage) 
+Journal de stage 
+plagiat de Certificat/rapport 
+ 
+ 
+GSP-FR-30 
+Fiche 
+d’évaluation 
+Individuel 
+ 
+ 
+ 
+Service de 
+stages 
+Enseignant 
+ 
+ 
+ 
+ 
+ 
+ 
+Gestion Avant Les 
+Soutenances 
+Une fois le planning des soutenances prêt 
+et l’étape de dépôt des rapports achevée, 
+Le service de stage prépare le dossier de 
+soutenance comportant :  
+1. Modèles de PV de soutenance selon la 
+filière  
+2. fiche de notes   
+3. Rapport de l’encadrant 
+4. Rapport du rapporteur 
+5. Rapports SFE/PFE 
+6. Certificat/rapport de plagiat 
+7. Journal de stage 
+L’enseignant se présente quelques jours 
+avant la soutenance au service de stage 
+pour récupérer son dossier 
+Et signer devant son nom dans le 
+planning au niveau de chaque sujet PFE 
+ou il figure parmi les membres de jury 
+afin de confirmer la récupération des 
+documents.  
+ de service le soutenances, les Avant -
+ à veillent stages de directeur le et stage
+ coté soutenances de salles les préparer
+ vidéo place, en (mise logistique
+climatisation…) , eursproject 
+ 
+GSP-FR-35 
+Dossier de 
+soutenance 
+ 
+ 
+ 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+Enseignant 
+Direction des 
+études 
+Service de stage 
+Service Examen 
+ 
+ 
+ 
+Gestion Après les 
+Soutenances et 
+Traitement des non-
+conformités 
+ 
+6.Consentement pour le partage des 
+données personnelles avec les entreprises 
+qui les requièrent pour des fins 
+d’embauche. 
+7.Rapport en version PDF signe(archivage) 
+8.Journal de stage 
+plagiat de Certificat/rapport 
+Après le déroulement des soutenances, le 
+président de jury est appelé à déposer 
+dossier de soutenance à la direction des 
+études 
+ de service le déposées, notes les fois Une-
+ de PV des copie une récupère stage
+ et stages de journal soutenances,
+ sfin des pour plagiat de certificat
+ dossier le préparer de afin et d’archivage
+encadrements des paiement de 
+ 
+En cas de non validation du rapport par le 
+jury de soutenance et après traitement de la 
+part de service d’examen le service de 
+stage récupère la nouvelle version du 
+rapport après va lidation (signature) du 
+rapporteur     
+ 
+GSP-FR-36 
+Etat de remise 
+des documents 
+de stage 
+ 
+Direction des 
+stages 
+Entreprise 
+Alumni 
+Enseignants 
+Encadrants 
+ 
+ 
+Recensement de la 
+Satisfaction 
+ 
+Après le déroulement des soutenances, la 
+direction des stages récupère les contacts 
+des entreprises à travers le formulaire de 
+dépôt en ligne destines aux encadrants 
+professionnels et aux contacts RH des 
+entreprises d’accueil et envoie un 
+formulaire en ligne de Sondage pour 
+recenser leurs niveaux de satisfactions des 
+stages PFE et leurs avis sur la formation de 
+nos stagiaires, récupérer les offres de 
+stages, liens utiles et proposer un projet 
+de collaboration/convention/partenariat 
+ultérieur. 
+ 
+La direction de stage envoie un formulaire 
+en ligne destiné aux encadrants pour 
+relever leurs retours concernant le 
+déroulement de stage, le classement des 
+entreprises, récupérer quelques points 
+forts, difficultés, problématiques et points 
+d’améliorations perçus et proposés. 
+ 
+Après 2 à 3 mois du déroulement de 
+soutenance, la direction de stage diffuse 
+un formulaire en ligne destiné aux 
+GSP-FR-32 
+Enquête de 
+satisfaction 
+des 
+Professionnels 
+ 
+ 
+GSP-FR-37 
+Enquête de 
+satisfaction 
+des encadrants 
+académique 
+ 
+GSP-FR-38 
+Sondage 
+Alumni 
+ 
+ 
+ 
+ 
+ PLAN PROCESSUS GSP-PP-05-00 
+GESTION DES STAGES ET PROJET DE FIN 
+D’ETUDES 
+18/10/2023 
+ 
+ 
+ 
+nouveaux diplômés pour sonder plusieurs 
+informations concernant l’employabilité, 
+retour sur la formation, sollicitation de 
+contribution a la formation … 
+ 
+Direction des 
+stages 
+Départements 
+Commissions 
+des mastères 
+ 
+ 
+En cas de détection de besoins 
+spécifiques, la partie concernée prendra 
+les mesures adéquates qui seront notées 
+dans le Plan de Gestion des besoins 
+spécifiques 
+ 
+Direction des 
+stages 
+ 
+  
+ 
+L’évaluation se fait par la direction des 
+stages de tout le processus de stage via 
+une analyse des retours des apprenants, 
+du milieu socioéconomique et des 
+encadrants 
+ 
+ 
+ 
+Des pistes 
+d’amélioration 
+ 
+ 
+ 
+Traitement des besoins 
+spécifiques des étudiants 
+Evaluation des stages  

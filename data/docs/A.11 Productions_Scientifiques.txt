@@ -1,0 +1,339 @@
+Productions scientifiques des enseignants chercheurs de l’ISI 
+2023-2024 
+Titre Titre du journal/Conférence Auteurs 
+Online conflict resolution 
+strategies for human activity 
+recognition in smart homes 
+ 
+- Journal of Control and decision, 2023 - Taylor & 
+Francis 
+ 
+A Jarraya,  
+A Bouzeghoub,  
+A Borgi  
+ 
+Evolutionary Graph-Clustering 
+vs Evolutionary Cluster 
+Detection Approaches for 
+Community Identification in 
+PPI Networks 
+Conference on Information, 2023 - Springer M Ben M'Barek,  
+S Ben Hmida,  
+A Borgi 
+ 
+P17-Refinement of a ligand 
+activity and representation of 
+topological pharmacophores in 
+a colored network 
+sfci-sciencesconf.org 2023 R Bureau, 
+ A Lepailleur,  
+A Borgi  
+Shunt faults detection and classification in 
+electrical power transmission line systems 
+based on artificial neural networks 
+ 
+The international journal for computation and 
+mathematics in  in electrical and electronic 
+engineering 
+ 
+K Assadi,  
+JB Slimane, 
+ H Chalandi,  
+S Salhi 
+ 
+Performance Enhancement of Optical 4× 2 
+Encoder Based on Hourglass-Shaped Photonic 
+Crystal Ring Resonator 
+ 
+2023 29th International Conference on 
+Telecommunications (ICT), 1-6 
+ 
+W Mehrez,  
+M Najjar 
+ 
+: Evaluating the Impact of Perceptually 
+Uniform Encoding on the Performance of 
+Feature Descriptors for HDR Image Retrieval 
+INSTIA, 2023 R. Khwildi, 
+ A. Ouled Zaid,  
+Frédéric Dufaux 
+Real-time design patterns for the verification of 
+safety-critical embedded systems in model-
+based approach 
+ 
+The Journal of Supercomputing, 1-43 R Mzid 
+ 
+A reinforcement learning-based approach for 
+online optimal control of self-adaptive real-
+time systems 
+ 
+Neural Computing and Applications 35 (27), 
+20375-20401 
+B Haouari,  
+R Mzid,  
+O Mosbahi 
+ 
+On Language-Based Opacity Verification 
+Problem in Discrete Event Systems Under 
+Orwellian Observation 
+ 
+International Conference on Verification and 
+Evaluation of Computer  
+ 
+S Habbachi, 
+ I Ben Hafaiedh, 
+ Z Li, M Krichen 
+ 
+Exploring modified areas for updating 
+influential nodes 
+ 
+Information Systems 112, 102132 W Karoui,  
+N Hafiene,  
+LB Romdhane 
+ 
+Robust Interval State Observer Method for 
+Linear Switched Systems 
+ 
+2023 IEEE International Conference on 
+Advanced Systems and Emergent Technologies 
+(IC_ASET) 
+Wissal Khemiri;  
+Ali Sghaier Tlili 
+CoMod: An Abstractive Approach to 
+Discourse Context Identification 
+ 
+IEEE Access R Guetari,  
+N Kraiem 
+ 
+Computer-aided diagnosis systems: a 
+comparative study of classical machine learning 
+versus deep learning-based approaches 
+ 
+Knowledge and Information Systems, 1-41 R Guetari, 
+ H Ayari, 
+ H Sakly 
+ 
+Brain Tumor Radiogenomic Classification of 
+O6-Methylguanine-DNA Methyltransferase 
+Promoter Methylation in Malignant Gliomas-
+Based Transfer Learning 
+ 
+Cancer Control 30, 10732748231169149 H Sakly,  
+M Said, 
+ J Seekins,  
+R Guetari,  
+N Kraiem,  
+M Marzougui 
+Adaptive PID gain-scheduling for 3D smart 
+quadrotor flight controller 
+ 
+Authorea Preprints 
+ 
+W Arfa,  
+CB Jabeur,  
+Y Faleh,  
+H Seddik 
+ 
+Automatic triaging of acute ischemic stroke 
+patients for reperfusion therapies using 
+Artificial Intelligence methods and multiple 
+MRI features: A review 
+ 
+Clinical Imaging, 109992 IB Alaya,  
+H Limam,  
+T Kraiem 
+ 
+A novel hybrid approach for feature selection 
+enhancement: COVID-19 case study 
+ 
+Computer Methods in Biomechanics and 
+Biomedical Engineering 26 (10), 1183-1197 
+H Limam,  
+O Hasni,  
+IB Alaya 
+ 
+A systematic review on moving objects’ 
+trajectory data and trajectory data warehouse 
+modeling 
+ 
+Computer Science Review 47, 100516 W Oueslati,  
+S Tahri,  
+H Limam,  
+J Akaichi 
+ 
+Automatic Detection of Implicit and Typical 
+Implementation of Singleton Pattern Based on 
+Supervised Machine Learning. 
+ 
+ICAART (3), 202-210 A Nacef,  
+S Bahroun,  
+A Khalfallah,  
+SB Ahmed 
+ 
+Supervised Machine Learning for Recovering 
+Implicit Implementation of Singleton Design 
+Pattern. 
+ 
+ENASE, 354-361 A Nacef,  
+S Bahroun,  
+A Khalfallah,  
+SB Ahmed 
+Online handwritten scripts classification using 
+fuzzy attributed relational graphs 
+ 
+International Journal of Machine Learning and 
+Cybernetics, 1-18 
+R Zitouni,  
+H Bezine,  
+N Arous 
+ 
+Crisis management within the social system 
+theory retrospective and prospective analysis of 
+COVID-19 crisis in tourism and hospitality 
+ 
+International Journal of Knowledge 
+Management in Tourism and Hospitality 
+AB Yahia,  
+F Choura,  
+SB Saad 
+ 
+Towards better interaction between salespeople 
+and consumers: the role of virtual 
+recommendation agent 
+ 
+European Journal of Marketing 57 (3), 858-903 S Ben Saad,  
+F Choura 
+ 
+A comprehensive review of video 
+watermarking technique in deep learning 
+environments 
+ 
+International Conference on Cyberworlds (CW), 
+70-77 
+S Mansour,  
+SB Jabra,  
+E Zagrouba 
+ 
+An Efficient Anaglyph 3D Content based 
+Video Retrieval using Watermarking Technique 
+ 
+International Conference on Cyberworlds (CW), 
+157-164 
+D Dhaou,  
+SB Jabra,  
+E Zagrouba 
+ 
+Unraveling the Black Box: Interpreting CNNs 
+for Leaf Disease Detection through Model 
+Analysis and Feature Importance 
+ 
+International Conference on Innovations in 
+Intelligent Systems 
+H Ghazouani,  
+W Barhoumi,  
+G Jeon,  
+E Zagrouba 
+ 
+Generalized Multi-modal Medical Image 
+Fusion Method using NSML and WLF in 
+NSST Domain and YIQ color space 
+ 
+International Conference on Innovations in 
+Intelligent Systems 
+H Ouerghi,  
+O Mourali,  
+E Zagrouba 
+ 
+Hierarchical convolutional neural networks for 
+leaf disease detection 
+ 
+IEEE International Conference on Fuzzy Systems 
+(FUZZ), 1-6 
+E Chakroun,  
+H Ghazouani,  
+W Barhoumi,  
+E Zagrouba,  
+G Jeon 
+Explainable AI for Deep Learning Based 
+Potato Leaf Disease Detection 
+ 
+IEEE International Conference on Fuzzy Systems 
+(FUZZ), 1-6 
+S Bengamra,  
+E Zagrouba,  
+A Bigand 
+ 
+Multi-View-Based Apple Maturity 
+Classification Using Similarity Network Fusion 
+Versus Classical Machine Learning Classifiers 
+ 
+2023 IEEE International Conference on Fuzzy 
+Systems (FUZZ), 1-6 
+A Elaoud,  
+W Barhoumi,  
+E Zagrouba 
+ 
+Explainable AI for deep learning based potato 
+leaf disease detection 
+ 
+2023 IEEE International Conference on Fuzzy 
+Systems 
+SB Bidouk,  
+E Zagrouba, 
+ A Bigand 
+ 
+A new efficient anaglyph 3D image and video 
+watermarking technique minimizing generation 
+deficiencies 
+ 
+ 
+Multimedia Tools and Applications, 1-31 SB Jabra, 
+ E Zagrouba, 
+ MB Farah 
+An eXplainable Artificial Intelligence Method 
+for Deep Learning-Based Face Detection in 
+Paintings 
+ 
+2023 IEEE Symposium on Computers and 
+Communications (ISCC), 745-751 
+S Bengamra,  
+E Zagrouba,  
+A Bigand 
+ 
+A comprehensive survey on object detection in 
+Visual Art: taxonomy and challenge 
+Multimedia Tools and Applications, 1-34 
+ S Bengamra,  
+O Mzoughi,  
+A Bigand,  
+E Zagrouba 
+ 
+Towards Explainability in Using Deep 
+Learning for Face Detection in Paintings 
+12th International Conference on Pattern 
+Recognition Applications 
+S Bengamra,  
+O Mzoughi,  
+A Bigand,  
+E Zagrouba 
+ 
+A Robust Deep Learning-Based Video 
+Watermarking Using Mosaic Generation 
+ 
+ S Mansour,  
+SB Jabra, 
+ E Zagrouba 
+Deep 3D-LBP: CNN-based fusion of shape 
+modeling and texture descriptors for accurate 
+face recognition 
+ 
+The Visual Computer 39 (1), 239-254 
+ 
+S Bahroun,  
+R Abed,  
+E Zagrouba 
+ 
+ 
+ 
+ 
+ 

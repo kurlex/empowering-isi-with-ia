@@ -1,0 +1,307 @@
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+Plan d’Orientation Stratégique de l’ISI 
+2024-2027 
+ 
+ 
+Introduction 
+La planification stratégique est une démarche nécessaire pour tout d’organisme lui permettant de 
+concrétiser une vision claire à moyen et long terme. Son but est de fixer les choix stratégiques en 
+phase avec la mission, la vision et les valeurs de l’établissement. 
+C’est dans ce contexte, que le plan d’orientation stratégique (POS) de l’ISI a été élaboré pour la 
+période 2024-2027. Il a été validé par son conseil scientifique du 14/12/2023. 
+L’élaboration de ce plan stratégique a suivi une méthodologie claire qui a commencé par l’analyse 
+du contexte de l’institut à travers : 
+- Définition de la mission, la vision et les valeurs de l’ISI. 
+- Diagnostic externe réalisé dans le cadre de la mise en place du système ISO 21001 :2018. 
+- Diagnostic interne, à travers les retours d’expériences des différentes parties prenantes : 
+sondages réalisés auprès des étudiants, enseignants, administratifs, diplômés et entreprises 
+partenaires 
+Ce diagnostic a permis d’identifier l'ensemble des facteurs internes et externes qui influencent l’ISI. 
+Il comprend les forces et les faiblesses, ainsi que les opportunités et les menaces qui se présentent 
+à elle. 
+En identifiant les opportunités et les défis auxquels l’ISI est confronté, le POS aspire à définir une 
+feuille de route pour les quatre années à venir permettant à l’ISI de devenir un pôle d’excellence 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+non seulement dans la transmission de connaissances, mais également dans la formation d'individus 
+compétents, innovants et socialement responsables. 
+Identification du contexte stratégique de l’ISI : 
+L'identification du contexte stratégique est une étape essentielle de l'élaboration d'un plan 
+d’orientation stratégique. En effet, le plan stratégique doit être aligné sur le contexte stratégique de 
+l'établissement pour être efficace. Cette étape commence par la définition de la mission, la vision 
+et les valeurs de l’ISI : 
+ 
+ 
+Mission 
+L’ISI a trois missions principales : 
+- La formation diplômante (Licence, Master et ingénieur) dans le domaine de l’informatique 
+et ses applications 
+- La recherche scientifique et l’innovation 
+- La formation continu et l’ouverture sur l’environnement professionnel 
+ 
+Vision : 
+La vision de l'ISI est d'être un leader reconnu dans l'enseignement supérieur en informatique, en 
+offrant des programmes d'excellence et en formant des professionnels qui sont à la pointe des 
+avancées technologiques. L'ISI aspire à être un pôle d'innovation, de recherche et de transfert de 
+connaissances, contribuant ainsi à l'avancement de la société et à la transformation numérique. 
+ 
+Valeurs 
+- Excellence  
+- Ethique 
+- Diversité et Inclusion 
+- Appartenance 
+- Créativité 
+ 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+ 
+L’étape de diagnostic et de collecte d’informations a permis d’identifier les forces, les faiblesses, les 
+opportunités et les menaces résumés dans la matrice SWOT suivante : 
+Matrice SWOT 
+Forces Faiblesses 
+-  Réputation Solide 
+- Corps enseignants qualifiés et expérimentés. 
+- Vie estudiantine active  
+- Excellent Taux d'encadrement 
+-  Input des étudiants de qualité  
+- Centre 4C  
+- PAQ qualité  
+- Nombreux partenariats avec les industriels  
+- Certifications Microsoft, IBM, CISCO 
+gratuites pour enseignants et étudiants 
+ 
+- Local en location et non adapté 
+- Programme de formation non 
+actualisé 
+- Faibles partenariats à l'international  
+- Faible motivation du corps 
+administratif   
+- Autonomie financière limitée 
+ 
+Opportunités Menaces 
+- Demande croissante de professionnels 
+qualifiés dans le secteur du numérique 
+- Emergence de nouvelles technologies 
+à intégrer dans les programmes 
+- Possibilité d’établir des coopérations 
+stratégiques avec des universités 
+étrangère. 
+- Internationalisation des formations 
+ 
+- Concurrences accrues d’autres 
+institutions 
+- Evolution rapide des technologies 
+- Pressions financières  
+- Situation politique difficile 
+ 
+ 
+Les enjeux 
+Une analyse approfondie de la matrice SWOT permet d’identifier les enjeux auxquels l’ISI doit 
+faire face. En Effet, L’excellente réputation de l’institut se confirme d’année en année aux vues des 
+scores d’orientation post bac qui place l’ISI parmi les trois établissements les plus demandés à 
+l’échelle nationale et l’établissement le plus demandé au concours spécifique d’entrée aux 
+formations d’ingénieur. L'ISI dispose aussi de forces importantes qui lui permettent de se 
+positionner comme un acteur majeur de l'enseignement supérieur dans le domaine du numérique.  
+Cependant, elle doit faire face à certaines faiblesses et notamment l’environnement de travail. L’ISI 
+se doit aussi de relever certains défis notamment la concurrence accrue d'autres institutions, 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+l'évolution rapide des technologies, et les pressions financières. Ainsi les principaux enjeux déclinés 
+à partir de l’analyse de la matrice SWOT sont les suivant : 
+ 
+Enjeu 1 : Amélioration de la qualité des formations 
+Enjeu 2 : Renforcement des capacités de recherche et innovation 
+Enjeu 3 : Amélioration l'environnement de travail 
+Enjeu 4 : Renforcement la réputation de l'Institut 
+ 
+Exigences des apprenants et besoins et attentes des parties prenantes 
+Exigences des apprenants : 
+1. Formation de qualité : Les étudiants s'attendent à recevoir une formation de haute qualité, à jour 
+avec les avancées technologiques, et qui leur permettra d'acquérir les compétences nécessaires pour 
+leur insertion professionnelles 
+2. Environnement d'apprentissage adapté : Les étudiants recherchent un environnement 
+d'apprentissage stimulant, un environnement pour une vie estudiantine active. 
+3. Accès à des ressources et des infrastructures adéquates : Les apprenants ont besoin d'accéder à 
+des ressources pédagogiques et technologiques de qualité, tels que des laboratoires informatiques 
+bien équipés, réseau Wifi performant, des outils logiciels nécessaires à leur apprentissage. 
+4. Encadrement et soutien : Les apprenants attendent un encadrement pédagogique adéquat, avec 
+des enseignants compétents et disponibles pour répondre à leurs questions, les guider dans leurs 
+projets et les soutenir dans leur progression académique. 
+ 
+Besoin et attentes des parties intéressées et prenantes : 
+- Employeurs : Les employeurs attendent des diplômés de l'ISI qu'ils soient bien préparés, 
+compétents et adaptés aux besoins du marché du travail.  
+- Anciens élèves : Les anciens élèves de l'ISI ont besoin d'un réseau professionnel solide et 
+d'opportunités de réseautage pour faciliter leur insertion professionnelle et leur 
+développement de carrière.  
+- Organismes gouvernementaux : Les organismes gouvernementaux ont besoin que l'ISI 
+réponde aux politiques et réglementations éducatives en vigueur, et s'attendent à ce que 
+l'institut contribue à la formation de professionnels qualifiés dans le domaine de 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+l'informatique, répondant ainsi aux besoins du pays en termes de développement 
+technologique. 
+- Corps enseignants et personnel administratif  : Le personnel de l'ISI ont besoin de 
+ressources et de soutien adéquats pour accomplir leurs tâches, ainsi que de possibilités de 
+développement professionnel continu pour rester à jour avec les dernières avancées en 
+informatique et en éducation. 
+- Universités et instituts de recherche partenaires : Les partenaires universitaires et de 
+recherche attendent de l'ISI une collaboration fructueuse dans des projets de recherche, des 
+échanges académiques. 
+ 
+Les axes stratégiques 
+Tenant compte du contexte stratégique : mission, vision et valeurs ainsi que de l’analyse SWOT et 
+de la déclinaison des enjeux et défis majeurs de l’établissement, le plan d’orientation stratégique de 
+l’ISI s’articule autour de trois axes stratégiques : 
+1. Excellence académique, Innovation pédagogique et employabilité 
+2. Développement de la recherche scientifique 
+3. Gouvernance, environnement de travail et digitalisation. 
+A partir de ces trois axes, dix objectifs ont été définis. 
+Axe 1 : Excellence académique et employabilité 
+L'axe stratégique Excellence académique et employabilité de l'ISI a pour objectif de former des 
+professionnels compétents et responsables, capables de répondre aux besoins du marché du travail. 
+Ce but se décline en trois objectifs spécifiques : 
+ Améliorer la qualité des programmes d'études 
+ Favoriser l'innovation pédagogique 
+ Faciliter l'insertion professionnelle des diplômés 
+Objectif 1.1 : Améliorer la qualité des programmes d'études 
+Cet objectif vise à garantir que les programmes d'études de l'ISI répondent aux besoins des 
+étudiants et du marché du travail. Pour ce faire, l'ISI s'engage à : 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+ Accréditer les formations d’ingénieur 
+ Réviser régulièrement les programmes d'études pour les mettre à jour et les adapter aux 
+nouvelles technologies et aux évolutions des métiers. 
+ Renforcer la formation des enseignants dans les nouvelles technologies 
+ Renforcer l’intervention des professionnels dans les formations 
+ Renforcer les compétences entrepreneuriales et comportementales 
+Objectif 1.2 : Favoriser l'innovation pédagogique 
+Cet objectif vise à créer un environnement d'apprentissage innovant et stimulant pour les étudiants. 
+Pour ce faire, l'ISI s'engage à : 
+ Investir dans les nouvelles technologies de l'éducation. 
+ Former les enseignants à l'innovation pédagogique. 
+ Créer des espaces d'apprentissage collaboratifs. 
+ Renforcer l’auto-apprentissage 
+Objectif 1.3 : Faciliter l'insertion professionnelle des diplômés 
+Cet objectif vise à aider les diplômés de l'ISI à trouver un emploi. Pour ce faire, l'ISI s'engage à : 
+ Développer des partenariats avec les entreprises. 
+ Développer les certifications des étudiants dans les nouvelles technologies émergentes 
+ Renforcer la mobilité internationale des étudiants 
+ Organiser des événements de recrutement. 
+ 
+Axe 2 : Développement de la recherche scientifique 
+ 
+L'axe stratégique Développement de la recherche scientifique de l'ISI a pour objectif de contribuer 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+au développement de la connaissance et de l'innovation dans les domaines de l'informatique, de 
+l'ingénierie et des sciences. 
+Ce but se décline en trois objectifs spécifiques : 
+ Développer la recherche fondamentale et appliquée 
+ Favoriser la collaboration entre la recherche et l'enseignement 
+ Valoriser les résultats de la recherche 
+Objectif 2.1 : Développer la recherche scientifique 
+Cet objectif vise à soutenir la production de connaissances nouvelles et innovantes dans les 
+domaines de l'informatique, de l'ingénierie et des sciences. Pour ce faire, l'ISI s'engage à : 
+ Doter les structures de recherche d’un environnement adéquat 
+ Mettre en place une formation doctorale 
+ Soutenir les projets de recherche innovants avec les partenaires nationaux et internationaux 
+Objectif 2.2 : Favoriser la collaboration entre la recherche et l'enseignement 
+Cet objectif vise à renforcer les liens entre la recherche et l'enseignement pour favoriser l'innovation 
+et la transmission des connaissances. Pour ce faire, l'ISI s'engage à : 
+ Intégrer la recherche dans les programmes d'enseignement 
+ Encourager les enseignants à mener des recherches 
+ Créer des programmes de double compétence recherche-enseignement (formation 
+ingénieur/master de recherche) 
+ 
+Objectif 2.3 : Valoriser les résultats de la recherche 
+Cet objectif vise à diffuser les résultats de la recherche auprès des communautés scientifiques et du 
+grand public. Pour ce faire, l'ISI s'engage à : 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+ Organiser des événements scientifiques et technologiques 
+ Promouvoir les résultats de la recherche auprès des entreprises et des partenaires 
+Axe 3 : Gouvernance, environnement de travail et digitalisation 
+L'axe stratégique Gouvernance, environnement de travail et digitalisation de l'ISI a pour objectif 
+de créer un environnement propice à l'excellence académique, à la recherche et à l'innovation. 
+Ce but se décline en trois objectifs spécifiques : 
+ Renforcer l’efficacité, transparence, la redevabilité et l’autonomie financière  
+ Créer un environnement de travail favorable à l'innovation et à la performance 
+ Digitaliser les activités de l'ISI 
+Objectif 3.1 : Renforcer l’efficacité, la transparence, la redevabilité et l’autonomie financière  
+ 
+Cet objectif  vise à devenir une organisation plus efficace, transparente, responsable et autonome 
+financièrement. Cela se traduira par une meilleure coordination interne, une plus grande ouverture 
+aux parties prenantes, une gestion responsable des ressources et une diminution de la dépendance 
+aux financements externes. 
+ Mettre en place la certification ISO 21001 
+ Accéder au statut d’EPST 
+ Organiser des réunions publiques régulières pour informer les parties prenantes des 
+décisions prises par l'ISI 
+ Mettre en place un système de reddition des comptes qui permet de mesurer l'efficacité des 
+actions de l'ISI 
+ 
+Objectif 3.2 : Créer un environnement de travail favorable à l'innovation et à la performance 
+Cet objectif vise à créer un environnement de travail stimulant et motivant pour les étudiants, les 
+enseignants et les personnels administratifs. Pour ce faire, l'ISI s'engage à : 
+ 
+ 
+Ministère de l’enseignement supérieur  
+Et de la recherche scientifique  
+Institut Supérieur d’Informatique  
+ 
+ 
+ Mettre en place une politique de motivation 
+ Favoriser la collaboration entre les équipes 
+ Mettre en place des actions pour améliorer la qualité de vie à l’ISI 
+ Offrir des opportunités de développement professionnel 
+Objectif 3.3 : Digitaliser les activités de l'ISI 
+Cet objectif vise à tirer parti des technologies numériques pour améliorer l'efficacité et la qualité 
+des activités de l'ISI. Pour ce faire, l'ISI s'engage à : 
+ Moderniser les infrastructures numériques de l'ISI 
+ Développer des solutions numériques pour soutenir l'enseignement, la recherche et la 
+gestion de l'ISI 
+ 
+Le directeur 
+Salah SALHI 

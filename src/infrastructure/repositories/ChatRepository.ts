@@ -4,6 +4,7 @@ import prisma from "../prisma/prismaClient";
 
 export class ChatRepository implements IChatRepository {
   getUserChatsOrCreateDefault = async (userId: string): Promise<Chat[]> => {
+    console.log("userId", userId);
     const userChats = await prisma.chat.findMany({
       where: { userId },
       orderBy: { createdAt: "desc" },

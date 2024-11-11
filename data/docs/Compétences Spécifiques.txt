@@ -1,0 +1,311 @@
+ Compétences 
+Spécifiques 
+Description 
+CS1 
+Maîtriser des outils 
+scientifiques de sciences 
+de l’ingénieur. 
+- Maîtriser les sciences fondamentales pour la 
+formation d’ingénieur 
+- Maîtriser les outils scientifiques nécessaires pour 
+modéliser et analyser des systèmes complexes 
+CS2 
+Concevoir, développer, 
+et maîtriser des logiciels 
+informatiques 
+- Acquérir des habilités théoriques et pratiques en 
+informatique. 
+- Concevoir et développer des applications 
+informatiques, dans différents langages et sous 
+différents systèmes. 
+- Exploiter, gérer et analyser de grands volumes de 
+données, structurées et non structurées. 
+Modéliser et concevoir 
+des applications en 
+systèmes embarqués et 
+objets connectés  
+- Acquérir des habiletés théoriques et pratiques 
+autour des applications en systèmes embarqués 
+communicants  
+- Modéliser des applications embarqués web et 
+mobile en utilisant l’UML 
+- Exploiter, gérer et analyser des données à l’aide des 
+plateformes embarquées (Raspberry Pi, ESP32, 
+STM32, etc.) 
+- Gérer la planification du projet en adoptant le cycle 
+en V ou la méthode Scrum 
+Piloter des projets 
+innovants destinés aux 
+systèmes communicants 
+suivant l’évolution des 
+technologies 
+émergentes 
+- Acquérir les bonnes pratiques pour mettre en place 
+de méthodes de gestion et de pilotage des projets 
+innovants. 
+- S’adapter à ce qui existe déjà sur le marché, en 
+proposant des solutions nouvelles adaptées à des 
+besoins, poursuivant un objectif de compétitivité. 
+- Définir les objectifs, qualités, coûts et délais du 
+projet. 
+- Planifier les tâches et les activités et suivre leurs 
+avancements. 
+CS3 
+Intégrer et mettre en 
+œuvre des architectures 
+logicielles 
+- Acquérir les  compétences spécifiques en 
+architectures logicielles. 
+- Faire des choix d’architecture en connaissance des 
+causes et des conséquences. 
+Maîtriser et développer 
+des applications 
+informatiques en 
+rapport avec les 
+- Acquérir les compétences spécifiques en 
+développement informatique  
+- Maîtriser des langages de programmation (Python, 
+Java, C++, etc.) pour développer des applications 
+systèmes embarqués et 
+les systèmes 
+communicants (IoT) 
+embarquées 
+- Maîtriser la partie matérielle en intégrant des 
+solutions informatiques embarquées  
+Assurer le 
+fonctionnement 
+technique du système 
+informatique selon les 
+normes liées à la qualité 
+et à la sécurité du 
+système d’information. 
+- Acquérir les bonnes pratiques en sécurité des 
+systèmes d’information.  
+- Assurer la configuration, le dépannage et la gestion 
+de systèmes et de réseaux locaux et des 
+infrastructures 
+- Assurer la sécurité des systèmes informatiques en 
+appliquant les normes de qualité et de sécurité. 
+CS4 
+Concevoir et développer 
+des solutions 
+informatiques 
+innovantes 
+- Concevoir des solutions informatiques à partir d’un 
+cahier de charges spécifique. 
+- Définir et élaborer les spécifications fonctionnelles 
+et techniques d'une solution. 
+- Faire une veille scientifique et savoir l’exploiter pour 
+proposer des solutions innovantes. 
+- Superviser, mesurer la performance, analyser les 
+conditions de fonctionnement et d'utili sation et 
+mettre en place des solutions d'ajustements, 
+d'évolutions des solutions innovantes proposées 
+Maîtriser les concepts 
+du réseau et les 
+protocoles de 
+communication 
+nécessaires pour la 
+création d’un objet 
+connecté intelligent 
+- Maîtriser et de concevoir des réseaux à partir d’un 
+cahier de charges spécifique  
+- Définir et élaborer les spécifications fonctionnelles 
+et techniques d'un réseau (matériel, logiciel, 
+implantation)  
+- Concevoir, configurer et administrer des réseaux 
+informatiques dans différents environnements 
+- Superviser, exploiter les données et mettre en place 
+des solutions IoT intelligentes 
+Concevoir, développer, 
+mettre en service des 
+solutions TIC et des 
+politiques de sécurité du 
+SI 
+- Acquérir des habiletés théoriques et pratiques en 
+informatique. 
+- Concevoir et développer des applications 
+informatiques utilisant des ressources réseaux, dans 
+différents langages et sous différents systèmes. 
+- Exploiter, gérer et analyser de grands volumes de 
+données, structurées et non structurées. 
+CS5 Planifier et gérer des 
+projets Informatiques 
+- Planifier et gérer des projets informatiques selon 
+des méthodes reconnues. 
+- Maîtriser les outils de gestion permettant un suivi 
+efficace et des échanges fructueux avec les 
+collaborateurs. 
+- Savoir anticiper les retards et les changements de 
+planning afin de réussir à respecter les délais et les 
+exigences clients. 
+Concevoir et mettre en 
+œuvre des applications 
+automatisées dans une 
+chaîne de production 
+industrielle 
+- Maîtriser l’ingénierie des systèmes automatisés  
+- Etudier les besoins opérationnels et techniques 
+d’une chaîne de production industrielle  
+- Modéliser et concevoir le système à automatiser par 
+des outils électroniques, automatiques, robotiques 
+et architecturales 
+- Automatiser des tâches de commande de la chaîne 
+de production conçue 
+Tester et valider le 
+fonctionnement des SI 
+en termes de 
+connectivité, capacité 
+de l’infrastructure et de 
+la sécurité. 
+- Concevoir des réseaux d’info à partir d’un cahier de 
+charges spécifique. 
+- Définir et élaborer les spécifications fonctionnelles 
+et techniques d'un réseau (matériel, logiciel, 
+implantation) 
+- Concevoir et administrer des réseaux informatiques 
+et de télécommunications dans différents 
+environnements. 
+- Superviser, mesurer la performance, analyser les 
+conditions de fonctionnement et d'utilisation et 
+mettre en place des solutions d'ajustements, 
+d'évolutions ou de migrations de réseaux et de 
+ressources 
+CS6 
+Maîtriser des 
+environnements de  
+Programmation 
+- Exploiter des environnements de programmation 
+reconnus et de s’adapter aux nouveaux 
+environnements de programmation. 
+Instrumenter, tester et 
+valider des dis positifs 
+embarqués 
+- Acquérir les compétences spécifiques pour tester et 
+valider des dispositifs embarqués  
+- Définir les exigences de validation : fonctionnalités 
+attendues, performances et contraintes  
+- Analyser la communication entre les différentes 
+composantes du système et comprendre leurs 
+comportements  
+- Maîtriser les outils et les méthodologies de test des 
+systèmes embarqués 
+- Instrumenter des dispositifs embarqués pour 
+observer et mesurer le comportement du système à 
+savoir des capteurs, des interfaces de débogage 
+Maîtriser les outils 
+scifiques de mise en 
+- Acquérir des habiletés théoriques et pratiques en 
+informatique. 
+place de nouvelles 
+solutions de stockage 
+virtuel de données et 
+valider les aspect s 
+techniques du stockage. 
+- Concevoir et développer des applications 
+informatiques utilisant des solutions de stockage 
+virtuel de données. 
+- Exploiter, gérer et analyser de grands volumes de 
+données, structurées et non structurées. 
+CS7 
+Concevoir et développer 
+des systèmes 
+intelligents 
+- Concevoir des solutions informatiques intelligentes 
+à partir d’un cahier de charges spécifique. 
+- Définir et élaborer les spécifications fonctionnelles 
+et techniques d'une solution intelligente. 
+- Faire une veille scientifique et savoir l’exploiter pour 
+proposer des solutions intelligentes. 
+- Superviser, mesurer la performance, anal yser les 
+conditions de fonctionnement et d'utilisation et 
+mettre en place des solutions d'ajustements, 
+d'évolutions des solutions intelligentes proposées. 
+Maîtriser la 
+programmation 
+matérielle et logicielle et 
+la co -conception des 
+architectures 
+hétérogènes 
+embarquées 
+- Concevoir et programmer des systèmes embarqués 
+hétérogènes  
+- Acquérir des connaissances en électronique : 
+composants électroniques, les signaux et les 
+protocoles de communication  
+- Maîtriser des langages de programmation 
+embarqué C et C++ pour développer un code 
+efficace  
+- Connaître les architectures matérielles : 
+microcontrôleurs, processeurs ARM, FPGA, SOC 
+- Etudier les systèmes d’exploitation temps réel 
+Maîtriser les normes et 
+les bonnes pratiques en 
+vue d’auditer les SI et de 
+proposer des 
+améliorations. 
+- Assimiler des solides compétences en réseaux, 
+sécurité et comptabilité optimiser la sécurité des SI 
+- Analyse des systèmes d'information, des procédures 
+et de tous les moyens informatiques existant et 
+suggérer les améliorations éventuelles. 
+- Perfectionner la sécurité des systèmes 
+d’information et garantir la fiabilité des données à 
+transmettre. 
+CS8 Tester et valider des 
+systèmes Informatiques 
+- Maîtriser l’ingénierie et les techniques 
+d’automatisation des tests.  
+- Rédiger et exécuter des plans de tests fonctionnels. 
+- Effectuer des tests sur les scripts ou les 
+configurations. 
+- Automatiser des tâches de gestion de réseaux 
+informatiques 
+Maîtriser et concevoir 
+des systèmes 
+intelligents et innovants 
+- Maîtriser l’ingénierie et les techniques nécessaires 
+pour concevoir un système embarqué innovant et 
+intelligent  
+- Maîtriser les techniques de l’intelligence artificielle 
+et d’apprentissage automatique (machine learning)  
+- Développer des connaissances en conception 
+matérielles permettant de concevoir des circuits 
+électroniques spécifiques et innovants 
+- Maîtriser l’architecture matérielle adaptée à l’IA 
+embarquée 
+  
+CS9 
+Maitriser les 
+compétences 
+managériales et de 
+culture industrielle 
+- Savoir gérer un groupe de collaborateurs. 
+- Avoir une culture industrielle qui aide la réussite en 
+milieu socio-économique. 
+CS10 
+Maitriser les techniques 
+de communication avec 
+un public varié et les  
+langues étrangères. 
+- Maîtriser les langues vivantes et les techniques de 
+communication pour aider son intégration dans un 
+milieu professionnel et ses futures collaborations. 
+CS11 
+Avoir la capacité 
+de l’auto-
+développement 
+personnel et 
+professionnel 
+- Avoir des capacités d’auto -apprentissage 
+scientifiques et comportementales en autonomie. 
+- Faire la veille scientifique pour maintenir et faire 
+évoluer son savoir. 
+- Savoir s’auto-développer humainement pour réussir 
+son intégration dans un milieu professionnel et ses 
+futures collaborations. 
+ 
+Filière IDL 
+Filière ISEOC 
+Filière IDISC 
+ 

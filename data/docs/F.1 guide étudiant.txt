@@ -1,0 +1,534 @@
+Le guide l’´ etudiant de l’Institut Sup´ erieur
+d’Informatique
+Ce document regroupe les informations utiles aux ´ etudiants
+pour le bon d´ eroulement de leurs ´ etudes d’une mani` ere
+structur´ ee et simplifi´ ee permettant de les guider.
+Sommaire
+1 Pr´ esentation 3
+1.1 La direction de l’ISI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.2 Les d´ epartements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.3 Contacts utiles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2 Formations 4
+2.1 Les cycles d’Ing´ enieurs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.2 Les Licences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.3 Les mast` eres . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3 R´ egime des ´ etudes 5
+3.1 La dur´ ee des ´ etudes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.2 Les sp´ ecialit´ es . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.3 L’organisation des ´ etudes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.4 l’assiduit´ e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.5 Les stages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3.6 Le projet de fin d’´ etudes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3.7 Les modalit´ es d’´ evlauation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3.8 Le calcul des moyennes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3.9 Les modalit´ es de passage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.10 Le rattrapage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.11 Le redoublement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3.12 L’obtention d’un diplˆ ome . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4 Le r´ egime des ´ etudes et des examens de la formation de licence 9
+4.1 Pr´ esentation des parcours LMD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.2 Les modalit´ es d’´ evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.2.1 La capitalisation des cr´ edits . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.2.2 R´ egimes d’´ evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+4.3 Le passage ` a un niveau sup´ erieur . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+4.4 Le cas du rachat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+4.5 Stage de fin d’´ etudes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+5 La vie ` a l’ISI 13
+5.1 La vie estudiantine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.2 Vos repr´ esentants ´ etudiants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.3 Les biblioth` eques universitaires . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.4 L’assiduit´ e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.5 Sant´ e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.6 Discipline g´ en´ erale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.6.1 Article 1: le respect du r` eglement . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.6.2 Les emplois du temps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.6.3 Article 3: Les informations et tableaux d’affichage . . . . . . . . . . . . . . . 14
+5.6.4 Article 4: Le rapport ´ etudiant-administration . . . . . . . . . . . . . . . . . . 14
+5.6.5 Article 5: le secr´ etariat g´ en´ eral . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.6.6 Article 6: la direction des ´ etudes et des stages . . . . . . . . . . . . . . . . . . 14
+5.6.7 Article 7: le comportement des ´ etudiants ` a l’institut . . . . . . . . . . . . . . 14
+5.6.8 Article 8: les activit´ es associatives . . . . . . . . . . . . . . . . . . . . . . . . 15
+5.6.9 Article 9: l’affichage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+1
+5.6.10 Article 10: le comportement des ´ etudiants vis-` a-vis du mat´ eriel et du mo-
+bilier mis ` a leurs disposition . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+5.6.11 Article 11: la perte de propri´ et´ e des ´ etudiants . . . . . . . . . . . . . . . . . . 15
+5.6.12 Article 12: le service internet et de messagerie ´ electronique . . . . . . . . . . 15
+5.6.13 Article 13: les fraudes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2
+Pr´ esentation
+L’Institut Sup´ erieur d’Informatique (ISI) relevant de l’Universit´ e Tunis El Manar a ´ et´ e cr´ e´ e par d´ ecret
+N° 1912 du 14 Aoˆ ut 2001. Il a un statut l’ ´Etablissement Public ` a caract` ere Administratif (EPA)
+ayant pour mission l’enseignement sup´ erieur et la recherche scientifique dans le domaine des sciences
+et techniques. Les formations de l’ISI sont sp´ ecialis´ ees dans l’informatique et ses applications.
+1.1 La direction de l’ISI
+• Directeur de l’ISI: Salah Salhi ( direction@isi.utm.tn).
+• Directrice des ´ etudes: Wafa Karoui ( (direction.etudes@isi.utm.tn).
+• Directrice des stages: Nihel Ben Youssef ( direction.stages@isi.utm.tn).
+• Secr´ etaire g´ en´ erale:Houda Techini (houda.themri@isi.utm.tn).
+1.2 Les d´ epartements
+• D´ epartementG´ enie Logiciel et Syst` eme d’Information(GLSI).
+Directeur: Sahbi Bahroun ( sahbi.bahroun@isi.utm.tn).
+• D´ epartementArchitecture, Syst` emes et R´ eseaux(ASR).
+Directrice: Sourour Mhenni ( sourour.mhenni@isi.utm.tn).
+• D´ epartementG´ enie´Electrique et Informatique Industrielle (GEII).
+Directeur: Ali Tlili ( ali.tlili@isi.utm.tn).
+• D´ epartementMath´ ematiques Appliqu´ ees(MA).
+Directrice: Cyrine Baccar ( cyrine.baccar@isi.utm.tn).
+1.3 Contacts utiles
+• Service de scolarit´ e: Lamia krichen ( lamia.krichen@isi.utm.tn).
+• Service des stages: Ali Khemiri ( ali.khemiri@isi.utm.tn).
+• Psychologue: ( psychologue.isi@isi.utm.tn).
+• Centre 4C: Walid Miladi (4c@isi.utm.tn).
+• Responsable des clubs: Essaied Garoui ( essaied.garoui@isi.utm.tn).
+• Biblioth` ecaire: Samia Salem ( samia.salem@isi.utm.tn).
+3
+Formations
+2.1 Les cycles d’Ing´ enieurs
+• Ing´ enierie du G´ enie Logiciel(IDL).
+• Ing´ enierie et D´ eveloppement des Infrastructures et des Services de Communications(IDISC).
+• Ing´ enierie des Syst` emes Embarqu´ es et Objets Connect´ es(ISEOC).
+2.2 Les Licences
+• Licence en science de l’informatique.
+Parcours: G´ enie Logiciel et Syst` emes d’Information(GLSI).
+• Licence en Ing´ enierie des Syst` emes d’Information.
+Parcours: Ing´ enierie des R´ eseaux et Syst` emes(IRS).
+• Licence en ´Electronique, ´Electrotechnique et Automatique.
+Parcours: Syst` emes Embarqu´ es(SE).
+2.3 Les mast` eres
+• Mast` ere de Recherche en Informatique.
+Coordinatrice: Rania Mzid ( rania.mzid@isi.utm.tn).
+• Master Professionnel en S´ ecurit´ e des Syst` emes d’Information et des Infrastructue(SSII).
+Coordinatrice: Meha Hachani (meha.hachani@isi.utm.tn).
+• Master Professionnel en S´ ecurit´ e des Syst` emes d’Information et des Infrastructues(SSII-FAD).
+Coordinatrice: Sourour Mhenni ( sourour.mhenni@isi.utm.tn).
+• Master Professionnel en D´ eveloppement Logiciel et Nouvelles Technologies(MDL).
+Coordinatrice: Imen Ben Hafaiedh ( imen.benhafaiedh@isi.utm.tn).
+• Master Professionnel en Syst` eme Intelligents et IOT(SIIOT).
+Coordinatrice: Zouhour Ben Azouz ( zouhour.benazouz@isi.utm.tn).
+• Mast` ere Professionnel enIng´ enierie du Logiciel - Open Source(MP2L).
+Coordinateur: Riadh Zaafrani ( riadh.zaafrani@isi.utm.tn).
+4
+R´ egime des ´ etudes
+Conform´ ement au d´ ecret n° 95-2602 du 25 d´ ecembre 1995, fixant le cadre g´ en´ eral du r´ egime des
+´ etudes et les conditions d’obtention du diplˆ ome national d’ing´ enieur, et plus pr´ ecis´ ement son article
+11, le conseil scientifique de l’Institut Sup´ erieur d’Informatique fixe le r´ egime des ´ etudes et des
+examens de la formation d’ing´ enieur par le texte ci-dessous.
+3.1 La dur´ ee des ´ etudes
+Les enseignements conduisant ` a l’obtention du diplˆ ome National d’Ing´ enieur en Informatique de l’ISI
+comprennent un volume horaire total de 2700 heures environ, r´ eparties sur trois ann´ ees d’´ etudes.
+La premi` ere et la deuxi` eme ann´ ee d’´ etudes comportent, chacune, trente-six (36) semaines d’enseignement,
+dont quatre (4) semaines de stages professionnels. La troisi` eme ann´ ee d’´ etudes comporte trente-deux
+(32) semaines dont seize (16) semaines r´ eserv´ ees ` a la r´ ealisation du projet de fin d’´ etudes.
+3.2 Les sp´ ecialit´ es
+Les candidats ` a l’admission ` a l’ISI postulent pour l’une des trois sp´ ecialit´ es offertes. Le nom-
+bre de places disponibles ` a l’admission pour chaque sp´ ecialit´ e est prononc´ e par le directeur de
+l’´ etablissement sur proposition des diff´ erents d´ epartements.
+3.3 L’organisation des ´ etudes
+Les ´ etudes sont organis´ ees en modules qui sont regroup´ es en unit´ es d’enseignements comme unit´ es
+d’´ evaluation des connaissances. Les listes de modules optionnels sont mises ` a jour chaque ann´ ee
+par le directeur des ´ etudes sur proposition du conseil scientifique. Les modules optionnels peuvent
+ne pas ˆ etre assur´ es si le nombre d’´ etudiants ing´ enieurs ayant opt´ e pour ces enseignements est jug´ e
+insuffisant, les ´ etudiants ing´ enieurs les ayant choisis sont alors invit´ es ` a reporter leur choix sur les
+autres modules aux choix.
+Les enseignements sont dispens´ es sous forme de cours (C) de travaux dirig´ es (TD), de travaux
+pratiques (TP) et de travaux personnels encadr´ es.
+3.4 l’assiduit´ e
+L’assiduit´ e ` a tous les enseignements et ` a toutes les activit´ es pr´ evues par le plan d’´ etudes est obli-
+gatoire. Lorsque les absences dans un module d´ epassent les 20% du volume horaire qui lui est
+allou´ e par le plan d’´ etudes, l’´ el` eve ing´ enieur concern´ e n’est pas autoris´ e ` a se pr´ esenter, ` a la session
+principale, aux ´ epreuves s’y rapportant. Toutefois, le cumul des absences ne peut d´ epasser 10% du
+volume horaire global d’une ann´ ee d’´ etudes, auquel cas l’´ el` eve ing´ enieur concern´ e n’est pas autoris´ e
+` a se pr´ esenter ` a l’ensemble des ´ epreuves de la session principale. Ce volume global inclut aussi
+l’ensemble des activit´ es p´ edagogiques (stages de courtes dur´ ees, visites techniques, s´ eminaires, et ce
+qui suit).
+5
+3.5 Les stages
+La formation est compl´ et´ ee par deux stage obligatoires:
+• Un stage ouvrier en premi` ere ann´ ee.
+• Un stage ing´ enieur en deuxi` eme ann´ ee qui fait l’objet d’un rapport ´ etabli par l’´ el` eve ing´ enieur
+qui l’a suivi. Le rapport de stage est ´ evalu´ e par un jury dont la composition, comprenant un
+enseignant des langues et un enseignant de la sp´ ecialit´ e, est fix´ ee par le directeur des stages,
+sur proposition du directeur du d´ epartement concern´ e. Tout stage d´ eclar´ e non concluant par
+le jury, n´ ecessite un stage de remplacement effectu´ e et ´ evalu´ e dans les mˆ emes conditions.
+Les rapports de stage non-remis dans les stages refaits sont ´ evalu´ es en session de rattrapage de
+soutenances de stages. La note des stages compte dans le classement final de la promotion.
+3.6 Le projet de fin d’´ etudes
+En troisi` eme ann´ ee, la formation inclut un projet de fin d’´ etudes (PFE), ` a caract` ere professionnel
+et en rapport avec la sp´ ecialit´ e suivie, sous forme d’un travail d’ing´ enierie encadr´ e par au moins un
+enseignant.
+Le PFE est soutenu devant un jury d´ esign´ e par le directeur de l’institut, apr` es avis du directeur du
+d´ epartement concern´ e. Le jury est compos´ e de trois (3) enseignants dont l’enseignant responsable
+du PFE. Le directeur de l’Institut peut inviter toute personne dont la comp´ etence est reconnue dans
+le domaine objet du PFE pour faire partie du jury. Ne sont autoris´ es ` a soutenir le PFE que les
+´ etudiants Ing´ enieurs ayant r´ eussi les examens de la troisi` eme ann´ ee et ayant valid´ e les modules objet
+de cr´ edit et ayant d´ epos´ e leur m´ emoire dans les d´ elais.
+3.7 Les modalit´ es d’´ evlauation
+L’acquisition des connaissances par les ´ etudiants ing´ enieurs est ´ evalu´ ee par un syst` eme de en deux
+sessions successives:
+• Une session principale dont la date pour chaque module est fix´ ee au d´ ebut de l’ann´ ee univer-
+sitaire par le directeur de l’Institut, apr` es avis du conseil scientifique.
+• Une session de rattrapage, qui doit se d´ erouler au moins une semaine apr` es la proclamation
+des r´ esultats de la session principale, pour chaque module.
+Les examens de la session principale et de la session de rattrapage sont organis´ ees sous forme
+d’´ epreuves ´ ecrites dont la dur´ ee est fix´ ee, au d´ ebut de chaque ann´ ee, par le directeur de l’institut
+apr` es avis du conseil scientifique et sur proposition du d´ epartement.
+Le contrˆ ole continu comprend, selon la forme des enseignements propres ` a chaque module, des
+tests ´ ecrits, oraux, pratiques et, le cas ´ ech´ eant, des travaux personnalis´ es en classe ou ` a la maison.
+Toute absence ` a l’une des ´ epreuves de l’examen final d’un module est sanctionn´ ee par la note z´ ero
+(0).
+3.8 Le calcul des moyennes
+Pour chaque module, il est calcul´ e une moyenne r´ esultant des notes obtenues dans les diff´ erentes
+´ epreuves de contrˆ ole des connaissances.
+Les coefficients de pond´ eration attribu´ es ` a ces ´ epreuves sont fix´ es selon la forme des enseignements
+propres ` a chaque module comme suit:
+• Modules organis´ es sous forme de cours ou de cours avec travaux dirig´ es:
+ 1/3 du contrˆ ole continu.
+ 2/3 de l’examen final.
+6
+• Modules organis´ es sous forme de cours, de travaux dirig´ es et de travaux pratiques:
+ 2/3 note th´ eorique:1/3 du contrˆ ole continu et1/3 de l’examen final.
+ 1/3 note de travaux pratiques.
+• Modules organis´ es exclusivement sous forme de travaux pratiques et/ou de travaux dirig´ es:
+ 100% contrˆ ole continu.
+Les modules organis´ es exclusivement sous forme de travaux pratiques et/ou de travaux dirig´ es ne
+peuvent faire l’objet de rattrapage.
+3.9 Les modalit´ es de passage
+Est d´ eclar´ e admis en ann´ ee sup´ erieure par le directeur de l’institut sur proposition du jury de
+d´ elib´ eration, l’´ el` eve ing´ enieur ayant satisfait aux conditions suivantes:
+• Obtention d’une moyenne g´ en´ erale ´ egale ou sup´ erieure ` a 10/20, apr` es les ´ epreuves principales
+ou de rattrapage.
+La moyenne g´ en´ erale est obtenue ` a partir des moyennes des unit´ es d’;enseignements affect´ es
+de leurs coefficients respectifs.
+• Obtention d’une moyenne ´ egale ou sup´ erieure ` a 08/20 dans chacune des unit´ es d’enseignements,
+apr` es les ´ epreuves principales ou de rattrapage. Le calcul de la moyenne de chaque unit´ e
+d’enseignements tient compte des coefficients de pond´ eration fix´ es par le plan d’´ etudes.
+3.10 Le rattrapage
+L’´ etudiant qui n’a pas ´ et´ e d´ eclar´ e admis ` a la session principale est autoris´ e ` a passer en session de
+rattrapage:
+• Si la moyenne g´ en´ erale est inf´ erieure ` a 10, l’´ el` eve est autoris´ e ` a passer l’´ epreuve de l’examen
+de rattrapage des modules dans lesquels il a obtenu une moyenne inf´ erieure ` a 10/20.
+• Si la moyenne g´ en´ erale de cet ´ el` eve est ´ egale ou sup´ erieure ` a 10/20, les modules objets de
+rattrapage sont limit´ es ` a ceux dont la moyenne est inf´ erieure ` a 10 et qui appartiennent aux
+UE dont la moyenne est inf´ erieure ` a 08/20.
+Les modules ´ evalu´ es exclusivement en contrˆ ole continu ne peuvent pas faire l’objet de rattrapage.
+Apr` es la session de rattrapage, la moyenne de chaque module est recalcul´ ee comme suit:
+1. On substitue le maximum des notes d’examen, obtenues en session principale et en session de
+rattrapage, ` a la note d’examen dans le calcul de la moyenne.
+2. La moyenne des UE et les moyennes semestrielles ainsi que la moyenne g´ en´ erale annuelle sont
+calcul´ ees dans les mˆ emes conditions pr´ evues pour la session principale.
+`A la fin de la premi` ere et deuxi` eme ann´ ee, chaque ´ el` eve ing´ enieur peut b´ en´ eficier, suite ` a la d´ ecision
+du conseil des classes annuel, du rachat:
+• D’au plus deux UE non valid´ ees (Moyenne inf´ erieur strictement ` a 8/20), ou
+• De la moyenne g´ en´ erale (moyenne inf´ erieure strictement ` a 10/20) et d’une UE au plus.
+Pour le premier semestre de la troisi` eme ann´ ee, chaque ´ el` eve ing´ enieur peut b´ en´ eficier, suite ` a la
+d´ ecision du conseil des classes annuel, du rachat d’au plus une UE d’enseignement non valid´ ee
+(moyenne inf´ erieur strictement inf´ erieur ` a 8):
+• Les conditions de rachat sont fix´ ees par le conseil des classes et apr` es validation par le conseil
+scientifique de l’´ etablissement.
+• Ne peuvent ˆ etre rachet´ es les UE ou les modules rattrapables pour lesquels l’´ el` eve ing´ enieur n’a
+pas pass´ e l’´ epreuve de rattrapage.
+• Ne peuvent ˆ etre rachet´ es les ´ etudiants ing´ enieurs qui ont une mesure disciplinaire.
+7
+3.11 Le redoublement
+Le redoublement est autoris´ e une seule fois au cours de la scolarit´ e. En cas de redoublement, l’´ el` eve
+ing´ enieur garde le b´ en´ efice des unit´ es d’enseignements et des modules dont la moyenne est sup´ erieure
+ou ´ egale ` a 10/20.
+3.12 L’obtention d’un diplˆ ome
+Le diplˆ ome national d’ing´ enieur de l’Institut Sup´ erieur d’Informatique est d´ elivr´ e aux ´ etudiants
+ing´ enieurs de troisi` eme ann´ ee ayant satisfaits aux conditions suivantes:
+• Avoir subi avec succ` es les examens de la troisi` eme ann´ ee,
+• Avoir valid´ e tous les stages requis,
+• Avoir obtenu une note ´ egale, au moins, ` a 10/20 au projet de fin d’´ etudes.
+8
+Le r´ egime des ´ etudes et des examens de la
+formation de licence
+Ce guide, pour l’´ etudiant ISI en licence ou en master dit parcoursLicence, Master, Doctorat (LMD),
+pr´ esente le r´ egime des ´ etudes LMD tel qu’introduit par les textes l´ egislatifs.
+4.1 Pr´ esentation des parcours LMD
+Les parcours LMD, de licence et de master, r´ epondent ` a des plans d’´ etudes qui r´ epartissent les
+enseignements respectivement en trois et deux ann´ ees universitaires. Chaque ann´ ee universitaire est
+structur´ ee en deux semestres. Chaque semestre correspond ` a quatorze (14) semaines. Le passage
+d’un ´ etudiant d’un niveau au niveau sup´ erieur se fait ` a l’issue de l’ann´ ee universitaire (et non du
+semestre) selon des crit` eres qui seront d´ etaill´ es dans la section 3.
+L’´ etudiant ´ etudie en un seul semestre entre cinq (5) et six (6) unit´ es d’enseignement. Chaque
+unit´ e est caract´ eris´ ee par un nombre de cr´ edits, entre quatre (4) et sept (7), et un coefficient. Le
+nombre total de cr´ edits par semestre, toutes unit´ es confondues, est ´ egal ` a trente (30).
+Une unit´ e est soit:
+• Fondamentale. Son contenu est ´ etroitement reli´ e au parcours de l’´ etudiant. Elle doit constituer
+au moins 75% des unit´ es du parcours (en nombre et en cr´ edits). Il s’agit d’une unit´ e obligatoire.
+• Transversale. Son contenu est reli´ e ` a des domaines divers tel que les langues, la culture de
+l’entreprise, et les Droits de l’Homme. Il s’agit d’une unit´ e obligatoire.
+• Optionnelle. Son enseignement a pour objectif d’approfondir les connaissances de l’´ etudiant
+dans une sp´ ecialit´ e particuli` ere reli´ ee ` a son parcours.
+L’unit´ e d’enseignement est dispens´ ee sous forme d’´ el´ ements constitutifs (au minimum un (1) seul et
+au maximum quatre (4)). Chaque ´ el´ ement est dispens´ e soit en s´ eances de cours, et/ou de travaux
+dirig´ es et/ou de travaux pratiques, soit en s´ eances de cours int´ egr´ e, soit sous forme d’un stage.
+Les ´ el´ ements constitutifs peuvent ˆ etre enseign´ es en cours ` a distance. Les ´ etudiants en sont inform´ es
+au d´ ebut de l’ann´ ee universitaire.
+4.2 Les modalit´ es d’´ evaluation
+4.2.1 La capitalisation des cr´ edits
+Le passage de l’´ etudiant du niveau courant au niveau sup´ erieur de son parcours repose sur l’´ evaluation
+des unit´ es d’enseignement. Chaque unit´ e d’enseignement est valid´ ee soit par capitalisation d´ efinitive,
+soit par compensation.
+La validation par capitalisation d´ efinitive se produit quand l’´ etudiant obtient la moyenne de dix
+(10) sur vingt (20) entre les ´ el´ ements constitutifs de l’unit´ e.
+La validation par compensation d’une unit´ e dont la moyenne est strictement inf´ erieure ` a dix (10)
+sur vingt (20) se produit quand l’´ etudiant obtient la moyenne de dix (10) sur vingt (20) sur toute
+l’ann´ ee universitaire. Cette moyenne est calcul´ ee par semestre (moyenne des unit´ es) et ensuite entre
+9
+les semestres (somme des deux moyennes de semestres divis´ ee par deux (2)).
+Dans le cas de la validation par compensation d’une unit´ e, l’´ etudiant ne capitalise pas d´ efinitivement
+l’unit´ e. Il capitalise n´ eanmoins les cr´ edits des ´ el´ ements constitutifs pour lesquels il a eu une moyenne
+sup´ erieure ` a dix (10). Pour le restant des ´ el´ ements constitutifs (pour lesquels il a eu une moyenne
+strictement inf´ erieure ` a dix (10)), il peut passer les examens de capitalisation d´ efinitive une seule
+fois, soit en session de rattrapage de l’ann´ ee universitaire courante, soit ` a la session de rattrapage de
+l’ann´ ee universitaire suivante. Au cas o` u l’´ etudiant obtient une moyenne sup´ erieure ou ´ egale ` a dix
+(10), il capitalise les cr´ edits de l’´ el´ ement et de l’unit´ e concern´ es. Cela dit, la moyenne de l’´ el´ ement et
+de l’unit´ e ne sont pas mis ` a jour sur les relev´ es de notes et les proc` es verbaux (PV) des d´ elib´ erations,
+ils sont uniquement mentionn´ es dans l’annexe du diplˆ ome.
+La capitalisation d´ efinitive des cr´ edits d’une unit´ e permet ` a l’´ etudiant de ne pas r´ e´ etudier et
+passer l’examen de l’unit´ e en question en cas de redoublement, de changement de parcours ou
+de r´ eorientation.
+4.2.2 R´ egimes d’´ evaluation
+L’´ evaluation consiste ` a passer un ou plusieurs devoirs par l’´ etudiant pour chaque unit´ e du parcours
+qu’il ´ etudie. La moyenne d’une unit´ e est calcul´ ee ` a travers les notes de ses ´ el´ ements, pond´ er´ ees par
+ses coefficients.
+Table 4.1: Exemple du calcul de la moyenne de l’unit´ e d’enseignementCloud et Big Data
+Unit´ e ´El´ ement constitutif Coefficient Moyenne d’un ´ el´ ement
+Cloud et Big data Virtualisation et cloud 1.5 13.5
+Framework et techniques Big Data 1 16
+Au tableau 4.1, la moyenne de l’unit´ eCloud et Big Data est ((1.5 ∗ 13.5) + (1∗ 16))
+2.5 = 14.5.
+Le r´ egime d’´ evaluation d’un ´ el´ ement constitutif r´ epond soit au r´ egime mixte, soit au r´ egime contrˆ ole
+continu d´ etaill´ es dans la suite.
+a- Le r´ egime mixte
+Il s’agit d’un r´ egime d’´ evaluation qui consid` ere les examens finaux (` a raison de 70% de la note fi-
+nale) ainsi que le contrˆ ole continu (` a raison de 30% de la note finale). La note du contrˆ ole continu
+est scind´ ee en devoirs surveill´ es et/ou travaux pratiques (20%) et d’exercices, de tests oraux, de
+pr´ esentations, etc. (10%).
+L’´ etudiant qui n’est pas admis en session principale a le droit de repasser, dans la session de rattra-
+page, les examens finaux des unit´ es de r´ egime mixte qu’il n’a pas r´ eussi.
+Table 4.2: Exemple de calcul de la moyenne de l’´ el´ ementAtelier de programmation 1
+Atelier de programmation 1
+Examen final 12
+Contrˆ ole continu 13
+Autre note 16
+Sur le Tableau 4.2, la moyenne de l’´ el´ ementAtelier programmation 1 est de:
+(12 ∗ 0.7) + (13∗ 0.2) + (16∗ 0.1) = 12.60
+a- Le r´ egime du contrˆ ole continu
+Ce r´ egime d’´ evaluation repose exclusivement sur le contrˆ ole continu (devoirs surveill´ es, tests oraux,
+pr´ esentations, travaux pratiques etc.). L’´ etudiant qui ne r´ eussit pas une unit´ e disposant du r´ egime
+de contrˆ ole continu (CC) ne peut plus la repasser en session de rattrapage.
+Le l´ egislateur permet deux modes d’´ evaluation. La premi` ere consiste ` a ´ evaluer l’unit´ e dans sa totalit´ e,
+` a travers des devoirs surveill´ es communs entre les ´ el´ ements constitutifs. La deuxi` eme m´ ethode, celle
+approuv´ ee par le conseil scientifique de l’ISI, consiste ` a ce que les devoirs surveill´ es soient effectu´ es
+pour chaque ´ el´ ement constitutif ` a part. La moyenne de l’unit´ e est calcul´ ee comme illustr´ e au Tableau
+10
+4.1 pr´ esent´ e plus haut.
+L’´ evaluation des unit´ es disposant du r´ egime de contrˆ ole continu repose sur deux notes pour chacun
+des ´ el´ ements constitutifs:
+• La premi` ere note est une moyenne entre les deux meilleures notes des devoirs surveill´ es. Le con-
+cept de note sup´ erieure n’est pris en consid´ eration que si l’enseignant responsable de l’´ el´ ement
+constitutif effectue plus que deux (2) devoirs surveill´ es. Au cas contraire (uniquement deux (2)
+devoirs surveill´ es effectu´ es), c’est la moyenne entre les deux devoirs surveill´ es qui sera compt-
+abilis´ ee. Cette premi` ere moyenne est comptabilis´ ee ` a hauteur de 80% de la moyenne globale
+de l’´ el´ ement constitutif.
+• La deuxi` eme note, comptabilis´ ee ` a hauteur de 20%, est une moyenne entre des travaux pra-
+tiques, des pr´ esentations, des exercices, des tests oraux, etc..
+Table 4.3: Calcul de moyennes des ´ el´ ements constitutifs d’une unit´ e au r´ egime CC
+Unit´ e ´El´ ement Devoirs surveill´ es Autres Moyenne de
+constitutif notes l’´ el´ ement constitutif
+Langue et Anglais 13 17
+13 + 15
+2 ∗ 0.8
+
++ (17 ∗ 0.2) = 14.6
+15
+communication Techniques de 12
+15
+12 + 16 + 14
+3 ∗ 0.8
+
++ (15 ∗ 0.2) = 14.216
+communication 14
+4.3 Le passage ` a un niveau sup´ erieur
+L’´ evaluation des ´ etudiants est semestrielle, mais le passage d’un niveau au niveau sup´ erieur est
+annuel.
+L’´ etudiant passe du niveau courant au niveau sup´ erieur si:
+• L’´ etudiant obtient une moyenne sup´ erieure ou ´ egale ` a dix (10) sur vingt (20) sur toutes les
+unit´ es du niveau courant. Dans ce cas l’´ etudiant capitalise d´ efinitivement toutes ses unit´ es.
+• L’´ etudiant obtient une moyenne annuelle sup´ erieure ou ´ egale ` a dix (10) sur vingt (20) par
+compensation entre les unit´ es du niveau courant.
+• L’´ etudiant peut passer de la premi` ere ann´ ee ` a la deuxi` eme ann´ ee par le syst` eme de cr´ edits, s’il
+obtient 75% des cr´ edits de la premi` ere ann´ ee c’est-` a-dire 45 cr´ edits au moins.
+• L’´ etudiant peut passer de la deuxi` eme ann´ ee ` a la troisi` eme ann´ ee par le syst` eme de cr´ edits
+s’il obtient 75% des cr´ edits de la deuxi` eme ann´ ee ` a condition de l’obtention des cr´ edits de la
+premi` ere ann´ ee en instance, le cas ´ ech´ eant. Les notes des unit´ es en instance sont comptabilis´ ees
+avec les notes de l’ann´ ee concern´ ee. L’´ etudiant ne peut pas obtenir son diplˆ ome s’il n’a pas
+obtenu les cr´ edits des unit´ es d’enseignement en instance.
+La session de rattrapage (SR) concerne les ´ etudiants qui n’ont pas ´ et´ e admis en session principale
+(SP). La participation ` a cette session se fait selon les modalit´ es et les d´ elais fix´ es par l’administration.
+Elle ne concerne que les unit´ es ` a r´ egime mixte pour lesquelles l’´ etudiant a eu une moyenne stricte-
+ment inf´ erieure ` a dix (10) sur vingt (20), et plus particuli` erement les ´ el´ ements constitutifs (de ces
+unit´ es) pour lesquels il a eu strictement moins que dix (10) sur vingt (20).
+En d’autres termes, l’´ etudiant recal´ e ` a la session de rattrapage repasse les examens finaux des
+´ el´ ements constitutifs o` u il a eu une moyenne strictement inf´ erieure ` a dix (10), dans les unit´ es
+d’enseignement ` a r´ egime mixte o` u il a eu une moyenne strictement inf´ erieure ` a dix (10). Le calcul
+de la moyenne de chaque ´ el´ ement constitutif pass´ e en session de rattrapage se fait comme suit:
+• L’´ etudiant garde la note d’examen sup´ erieure entre celle de la session principale et celle de la
+session de rattrapage.
+11
+• La note de contrˆ ole continu est comptabilis´ ee si elle est sup´ erieure ` a la note d’examen qui sera
+consid´ er´ ee (c’est-` a-dire la note sup´ erieure entre l’examen de la session principale et celui de la
+session de rattrapage) est comptabilis´ ee.
+Le tableau 4.4 illustre toutes les situations possibles du calcul de la moyenne d’un ´ el´ ement constitutif
+` a r´ egime mixte ` a la session de rattrapage.
+Table 4.4: Calcul de la moyenne d’un ´ el´ ement ` a r´ egime mixte dans une SR
+´El´ ement cons´ ecutifNotes au Note ` a l’examen Moyenne Notes ` a l’examen Moyenne
+en r´ egime mixte CC principale ` a la SP de rattrapage ` a la SR
+Situation 1 Analyse 1 13 7 8.8 10 10.9
+Situation 2 Analyse 1 13 7 8.8 5 8.8
+Situation 3 Analyse 1 5 7 6.4 10 10
+Situation 4 Analyse 1 5 7 6.4 6 7
+Le principe de la note sup´ erieure n’est valable que pour les ´ el´ ements qui sont pass´ es en session de
+rattrapage.
+Le principe de la non-comptabilisation de la note de contrˆ ole continu (au cas o` u elle est inf´ erieure ` a
+la note d’examen) n’est pas valable dans ces deux cas:
+• L’´ etudiant s’est absent´ e en session principale ou en session de rattrapage.
+• L’´ etudiant a remis une feuille d’examen blanche en session principale ou en session de rattra-
+page.
+En cas de redoublement, l’´ etudiant est dispens´ e de repasser les examens des unit´ es d’enseignement
+o` u il a eu une moyenne sup´ erieure ou ´ egale ` a dix (10) sur vingt (20). Il est dispens´ e aussi des ´ el´ ements
+d’enseignement dont ils ont eu une moyenne sup´ erieure ou ´ egale ` a dix pour les unit´ es auxquelles ils
+ont eu une moyenne inf´ erieure ou ´ egale ` a dix (10).
+4.4 Le cas du rachat
+Le jury des examens peut d´ ecider du rachat d’un ´ etudiant dans des conditions exceptionnelles, selon
+des crit` eres qu’il met en place. Le rachat peut concerner une seule ou plusieurs unit´ es d’enseignement.
+Sur d´ ecision du conseil scientifique de l’ISI, le rachat ne s’effectue qu’` a la session de rattrapage. Les
+´ etudiants ayant re¸ cu la moindre sanction disciplinaire n’ont pas droit ` a cette faveur.
+Il est important de noter que le rachat n’est pas un droit acquis, et seul le jury d’examen est habilit´ e
+` a d´ ecider du rachat ou non d’un ´ etudiant.
+4.5 Stage de fin d’´ etudes
+Le stage de fin d’´ etudes est effectu´ e au sixi` eme semestre pour les licences, et au quatri` eme semestre
+pour les mast` eres. Il conclut g´ en´ eralement un stage effectu´ e dans une entreprise. Le projet de fin
+d’´ etudes peut aussi concerner une ´ etude de cas, un projet de recherche scientifique, ou tout autre
+type de projet valid´ e par le d´ epartement reli´ e au parcours.
+Le rapport ou le m´ emoire est r´ edig´ e par l’´ etudiant sous la direction d’un encadrant de l’ISI et
+possiblement d’un encadrant de l’entreprise d’accueil.
+Au cas o` u le projet est non valid´ e, le jury peut attribuer une extension exceptionnelle d’une dur´ ee
+maximale de trois (3) mois ` a l’´ etudiant.
+Si le sixi` eme semestre d’une licence est allou´ e exclusivement ` a une seule unit´ e relative au projet
+de fin d’´ etudes, alors la moyenne du semestre cinq et six ne sont pas concern´ es par le principe de
+compensation. En d’autres termes, l’´ etudiant doit avoir une moyenne sup´ erieure ou ´ egale ` a dix (10)
+dans chacun des semestres.
+L’´ etudiant en licence a le droit de faire son SFE (semestre 6) sans que le semestre 5 soit valid´ e.
+L’´ etudiant en mast` ere doit valider le semestre 3 avant de commencer son PFE (semestre 4).
+12
+La vie ` a l’ISI
+5.1 La vie estudiantine
+Les ´ etudiants peuvent participer ` a la cr´ eation et ` a l’animation de divers clubs scientifiques, sportifs
+et culturels. Ils peuvent organiser des manifestations (excursions, repr´ esentations th´ eˆ atrales ou
+musicales, projection de films, etc.) avec la participation mat´ erielle de l’administration. Toutes ces
+activit´ es doivent ˆ etre soumises au visa pr´ ealable de l’administration.
+5.2 Vos repr´ esentants ´ etudiants
+ˆEtre ´ etudiant ` a l ISI, c’est prendre part ` a la vie de l’institut. Au sein des conseils et commissions,
+les ´ etudiants sont repr´ esent´ es par des ´ elus, dont le renouvellement est assur´ e en cours d’ann´ ee
+universitaire.
+Leurs missions? Participer aux prises de d´ ecision, d´ efendre les int´ erˆ ets des usagers et informer les
+´ etudiants des orientations prises par l’universit´ e en mati` ere de formation ou de vie estudiantine.
+5.3 Les biblioth` eques universitaires
+L’ISI offre ses services d’information et de documentation ` a tous ses ´ etudiants via deux biblioth` eques:
+une biblioth` eque ` a l’ISI et une biblioth` eque en ligne.
+Biblioth` eques en ligne ` a travers le R´ eseau BIRUNI: des milliers de ressources num´ eriques accessibles
+en ligne via le lien suivant: www.biruni.tn.
+Les ´ etudiants ont droit aussi ` a la consultation sur place ou au prˆ et ` a domicile de la documenta-
+tion. Pour user de ce droit, l’´ etudiant doit pr´ esenter sa carte de biblioth` eque.
+L’obtention des attestations de r´ eussite est tributaire de la remise de tous les ouvrages emprunt´ es.
+Les documents de la biblioth` eque doivent ˆ etre soigneusement manipul´ es. Tout manquement ` a cette
+obligation prive son auteur des services de la biblioth` eque.
+En cas de d´ et´ erioration ou de perte d’un document, l’´ el` eve est tenu de payer deux fois la valeur
+du document en question au comptable de l’institut.
+Tous les ´ etudiants ont droit ` a l’acc` es aux laboratoires moyennant l’autorisation de l’administration
+et sur proposition des enseignants et des directeurs des d´ epartements.
+Tout usager des ´ equipements des laboratoires est responsable de leur ´ etat et de leur utilisation.
+5.4 L’assiduit´ e
+La pr´ esence des ´ etudiants ` a tous les enseignements (cours, cours int´ egr´ es, travaux pratiques, s´ eminaires
+et visites d’entreprises) est obligatoire. Elle est contrˆ ol´ ee rigoureusement par les enseignants.
+Lorsque les absences dans une UE ou un EE d´ epassent 20% du volume horaire qui leur est allou´ e au
+plan d’´ etudes, l’´ etudiant concern´ e n’est pas autoris´ e ` a se pr´ esenter en session principale des ´ epreuves
+s’y rapportant.
+La pr´ esence ` a tous les contrˆ oles (tests, devoirs, examens, soutenance, etc.) est obligatoire. Toute
+absence ` a un contrˆ ole est sanctionn´ ee par un z´ ero. La pr´ esence aux s´ eances de TP est obligatoire.
+L’absence ` a une s´ eance de TP entraˆ ıne l’obtention de la note de 0/20 ` a cette s´ eance.
+13
+5.5 Sant´ e
+Des actions d’information et de pr´ evention sont initi´ ees par le service de la m´ edecine scolaire et
+universitaire. Des agents peuvent vous re¸ coivent sur rendez-vous, vous conseillent et vous orientent
+en cas de n´ ecessit´ e vers le corps m´ edical appropri´ e.
+5.6 Discipline g´ en´ erale
+5.6.1 Article 1: le respect du r` eglement
+Les ´ etudiants de l’ISI sont tenus au respect du pr´ esent r` eglement. Ils doivent se conformer aux
+instructions qui leurs sont donn´ ees par leurs enseignants et par l’administration de l’´ ecole.
+5.6.2 Les emplois du temps
+En r` egle g´ en´ erale les emplois du temps sont hebdomadaires. Ils sont port´ es ` a la connaissance des
+´ etudiants par affichage chaque vendredi pour la semaine suivante.
+5.6.3 Article 3: Les informations et tableaux d’affichage
+Pour qu’ils soient inform´ es ` a temps, des communiqu´ es et des notes des diff´ erents services de l’administration
+(emplois du temps, modifications des emplois du temps, calendriers des devoirs surveill´ es et des exa-
+mens, visites d’entreprises, stages, etc.). Les ´ etudiants doivent consulter r´ eguli` erement les tableaux
+d’affichage.
+5.6.4 Article 4: Le rapport ´ etudiant-administration
+Les suggestions des ´ etudiants, les ´ eventuels probl` emes et difficult´ es qu’ils peuvent rencontrer doivent
+ˆ etre transmis selon leur nature:
+• Au service de la scolarit´ e.
+• Au secr´ etariat g´ en´ eral.
+• `A la direction des ´ etudes et de stages.
+• Au directeurs des d´ epartements.
+Pour ce faire, un repr´ esentant de chaque classe est ´ elu par ses camarades pour assurer la liaison
+entre leur classe et les diff´ erents services d’administration.
+5.6.5 Article 5: le secr´ etariat g´ en´ eral
+Les ´ etudiants peuvent demander audience aupr` es de Madame la Secr´ etaire G´ en´ erale pour tout
+renseignement sur le r` eglement de leurs frais de scolarit´ e et l’octroi des diff´ erentes cartes (carte
+d’´ etudiants, carte de biblioth` eque).
+5.6.6 Article 6: la direction des ´ etudes et des stages
+Les ´ etudiants peuvent demander audience aupr` es du Directeur des´Etudes et des Stages pour tout
+ce qui concerne le d´ eroulement des ´ etudes, les stages, les visites d’entreprises, les voyages d’´ etudes,
+les projets de fin d’´ etudes, leurs suggestions de besoins en ouvrages bibliographiques et ´ equipement
+scientifiques et d’organisation de s´ eminaires scientifiques et socioculturels.
+5.6.7 Article 7: le comportement des ´ etudiants ` a l’institut
+Les ´ etudiants de l’ISI doivent se comporter d’une mani` ere convenable ` a l’int´ erieur de l’institut, ils
+doivent observer une attitude courtoise et respectueuse ` a l’´ egard du personnel ainsi qu’` a l’´ egard de
+leurs camarades.
+14
+5.6.8 Article 8: les activit´ es associatives
+Les activit´ es associatives (activit´ es socioculturelles, activit´ es sportives, organisation des s´ eminaires,
+organisation de festivit´ es, ´ editions de revues) par les ´ etudiants de l’ISI sont souhait´ ees et encourag´ ees.
+Toutefois les ´ etudiants sont tenus de demander autorisation pr´ ealable de la direction de l’ISI qui
+apportera tout son soutien pour toute activit´ e b´ en´ efique aux ´ etudiants.
+5.6.9 Article 9: l’affichage
+Un tableau d’affichage est mis ` a la disposition des ´ etudiants en tant que moyen d’information au
+public de l’´ ecole concernant l’organisation de leurs activit´ es associatives (club, sport, s´ eminaires,
+soir´ ees,). Toutefois l’affichage propos´ e doit ˆ etre soumis ` a l’autorisation pr´ ealable de l’administration.
+5.6.10 Article 10: le comportement des ´ etudiants vis-` a-vis du mat´ eriel et
+du mobilier mis ` a leurs disposition
+Les ´ etudiants ing´ enieurs doivent garder en bon ´ etat tous les ´ equipements et mat´ eriel mis ` a leur
+disposition. A cet ´ egard ils sont responsables de toute d´ et´ erioration volontaire ou involontaire de
+mat´ eriel et de toute d´ egradation des locaux. La r´ eparation de ces derniers sera ` a la charge de l’´ el` eve
+qui a caus´ e le d´ egˆ at en question, en plus des sanctions disciplinaires ´ eventuelles.
+5.6.11 Article 11: la perte de propri´ et´ e des ´ etudiants
+La responsabilit´ e de l’institut est d´ egag´ ee en cas de perte d’objets personnels appartenant aux
+´ etudiants. Les ´ etudiants doivent prendre toutes leurs pr´ ecautions et notamment s’abstenir d’abandonner
+; des objets de valeur sans surveillance ` a l’int´ erieur de l’institut. En cas de vol, il est rappel´ e que
+l’´ ecole ne peut pas se substituer aux autorit´ es judiciaires, seules qualifi´ ees pour conduire une enquˆ ete
+` a ce sujet.
+5.6.12 Article 12: le service internet et de messagerie ´ electronique
+Des points d’acc` es Wi-Fi sont mis ` a la disposition des ´ etudiants pour leurs permettre d’acc´ eder ` a
+leurs comptes, aux documents num´ eriques fournis par les enseignants ou ` a internet. L’´ etudiant est
+seul responsable juridiquement du contenu de ses messages et des sites auxquels il acc` ede. L’usage
+d’internet est contrˆ ol´ e par le responsable du service internet. Tout abus sera sanctionn´ e.
+5.6.13 Article 13: les fraudes
+Toute fraude ou tentative de fraude commise par l’´ etudiant ` a l’occasion d’un contrˆ ole ´ ecrit ou oral,
+toute collaboration non autoris´ ee tendant ` a fausser la sinc´ erit´ e de sa notation, entraˆ ınent d’office un
+z´ ero pour ce contrˆ ole et peuvent conduire l’´ el` eve fautif devant le conseil de discipline.
+15

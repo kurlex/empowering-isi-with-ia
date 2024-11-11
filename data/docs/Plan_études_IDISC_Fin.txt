@@ -1,0 +1,1529 @@
+Degree: Ingénieur en Sciences Appliquées et Technologiques
+Option: Ingénierie et Développement des Infrastructures et des Services de Communications (IDISC)
+Année
+Semestre
+Unités
+1
+Mathématique 1
+Signaux et Systèmes
+Algorithmique et mise en œuvre
+Théorie de
+l'informatique
+Systèmes
+d'exploitation et mise
+en œuvre
+Compétences
+comportementales I 
+semestre Unités
+2
+Mathématiques 2
+Télécommunications 
+Total première année1
+Systèmes et
+architectures 
+programmation et
+compilation 
+Bases de données et
+mise en œuvre
+Compétences
+comportementales II
+semestre Unités
+3
+2
+Systèmes distribués
+Mathématiques pour
+l'ingénieur
+Fondements des
+systèmes IoT 
+Génie du logiciel et
+des systèmes
+intelligents 
+Compétences
+comportementales III 
+2
+semestre Unités
+4
+Réseaux & Sécurité I
+1ECTS=30h(C+TD+TP+assimilation)
+Total deuxième année
+2
+Réseaux mobiles et
+sans fil 
+Technologies et
+protocoles des
+réseaux étendus
+Outils d'évaluation
+des réseaux 
+Services Web &
+développement
+mobile et réseaux 
+Compétences
+comportementales IV
+semestre Unités
+5
+3
+Réseaux & Sécurité II 
+Modules optionnelles
+Virtualisation des
+systèmes et réseaux
+Réseaux avancés et
+Ingénierie 
+VoIP, services télécoms
+& Multimédia 
+Sciences de données et
+veille technologique
+Compétences
+comportementales V
+3
+5
+2 PFE
+Total troisième année
+3
+Légende
+CS1 : Modéliser, analyser, simuler, et résoudre des problèmes des réseaux de télécommunications.
+CS2: Piloter des projets innovants destinés aux systèmes communicants suivant l'évolution des technologies émergentes.
+CS3: Assurer le fonctionnement technique du système informatique selon les normes liées à la qualité et à la sécurité du système d'information.
+CS4: Concevoir, développer, mettre en service des solutions TIC et des politiques de sécurité du SI.
+CS5: Tester et valider le fonctionnement des SI en termes de connectivité, capacité de l’infrastructure et de la sécurité.
+CS6: Maîtriser les outils scientifiques de mise en place de nouvelles solutions de stockage virtuel de données et valider les aspects techniques du stockage.
+CS7: Maîtriser les normes et les bonnes pratiques en vue d’auditer les SI et de proposer des améliorations.
+CS8: Développer les compétences managériales et de culture industrielle.
+CS9: Pouvoir entreprendre, innover, s'auto-développer personnellement et relationnellement, et communiquer avec différentes langues étrangères.
+CS10: S’intégrer dans la vie professionnelle et s’impliquer au sein de l’entreprise.
+Degree: Ingénieur en Sciences Appliquées et Technologiques
+Option: Ingénierie et Développement des Infrastructures et des Services de Communications (IDISC)
+Total face-to-face = 1920
+Modules/matières
+Algèbre linéaire
+Complément de mathématique
+Traitement de signal
+Electronique de l'ingénieur
+Theorie de l'info et codage
+Algorithmique fondamentale
+Mini projet algorithmique
+Théorie des langages et automates
+Logique informatique
+Systèmes d'exploitation avancés
+Mini projet Systèmes d'exploitations
+Langue et méthodologie
+Business Communication  
+Total 
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+Modules/matières
+Analyse appliquée
+Analyse numérique
+Théorie des systèmes dynamiques 
+Mini projet systèmes à microprocesseurs 
+Ondes et applications 
+Télécommunications analogiques et numériques 
+Programmation Objet
+Technique de compilation
+Bases de données et interfaçages
+Mini projet programmation objet et bases de données 
+Langue et Méthodologie 
+Management digital et système d'informations 
+Business Communication
+Total 
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+Architecture avancées des processeurs 
+Modules/matières
+Méthodes statistiques
+Optimisation
+Réseaux d'entreprises 
+Projet Systèmes distribués
+Génie Logiciel 
+IA et Systèmes experts 
+droit des TIC
+Stage d'initiation
+Total 
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+microcontrôleurs et objets
+connectés
+Systèmes à événements
+discrets
+Mini-projet
+microcontrôleurs et objets
+connectés Fondements des systèmes
+distribués 
+Architecture client/serveur
+et programmation
+middlewareProgrammation système
+sous Unix 
+Modélisation orientée
+objets
+Personnal Development
+and Socializing 
+Modules/matières
+Réseaux radio mobiles
+Cryptographie avancée 
+Communications optiques
+Simulation des réseaux 
+Modélisation stochastique
+Internet Marketing 
+Total 
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+Technologies réseaux sans fil
+et Internet des objets 
+Projet Expérimentation de
+l'IOT 
+Administration et
+supervision des réseaux
+Réseaux étendus et réseaux
+d'opérateurs 
+Développement des
+applications et services web 
+Développement des
+applications mobiles 
+Mini-Projet Développement
+mobile et réseaux 
+Personal development and
+socializing 
+Projet personnel et
+professionnel 
+Modules/matières
+Evolution et Migration vers la 5G 
+Sécurité des infrastructures
+Audit Sécurité et Pentesting
+Big Data
+Machine Learning 
+Anglais 
+Littératie universitaire et TICE
+Innovation et entreprenariat 
+Module optionnel 1 (blockchain)
+Module optionnel 2 (Cyber Security)
+Stage de perfectionnement
+Sommation S2
+Total crédits par compétence
+Virtualisation des Systèmes et
+Cloud computing 
+Virtualisation et
+Softwarisation des réseaux
+Ingénierie des réseaux radio
+mobiles 
+Mini-projet évaluation des
+performances des réseaux 
+Convergence tout IP et
+plateformes de services
+télécoms
+Codage et Sécurisation des
+données multimédia   
+Mini-projet VoIP et
+services télécoms
+Total volume horaire par  compétence
+Pourcentage
+Graduation Project
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+x: Débutant
+xx: Intermédaire
+xxx: Avancé
+Modéliser, analyser, simuler, et résoudre des problèmes des réseaux de télécommunications.
+Piloter des projets innovants destinés aux systèmes communicants suivant l'évolution des technologies émergentes.
+Assurer le fonctionnement technique du système informatique selon les normes liées à la qualité et à la sécurité du système d'information.
+Concevoir, développer, mettre en service des solutions TIC et des politiques de sécurité du SI.
+Tester et valider le fonctionnement des SI en termes de connectivité, capacité de l’infrastructure et de la sécurité.
+Maîtriser les outils scientifiques de mise en place de nouvelles solutions de stockage virtuel de données et valider les aspects techniques du stockage.
+Maîtriser les normes et les bonnes pratiques en vue d’auditer les SI et de proposer des améliorations.
+Développer les compétences managériales et de culture industrielle.
+Pouvoir entreprendre, innover, s'auto-développer personnellement et relationnellement, et communiquer avec différentes langues étrangères.
+S’intégrer dans la vie professionnelle et s’impliquer au sein de l’entreprise.
+Degree: Ingénieur en Sciences Appliquées et Technologiques
+Option: Ingénierie et Développement des Infrastructures et des Services de Communications (IDISC)
+Total face-to-face = 1920
+credit  ECTS
+répartition de la charge horaire
+Assimilation Cours
+3 40.00 37.50 30.00
+3 40.00 37.50 30.00
+2 30.00 30.00 22.50
+4 60.00 52.50 22.50
+2 30.00 30.00 22.50
+3 30.00 45.00 22.50
+1 20.00 22.50 0.00
+3 30.00 45.00 22.50
+3 30.00 45.00 22.50
+3 30.00 45.00 22.50
+1 20.00 15.00 0.00
+1 10.00 22.50 0.00
+1 10.00 22.50 0.00
+30 380.00 450.00 217.50
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+charge 
+totale
+credit  ECTS assimilation Cours
+2 30 30.00 22.50
+3 45 45.00 22.50
+3 45 45.00 22.50
+2.5 35 30.00 22.50
+1 10 15.00
+2.5 35 30.00 22.50
+3 45 45.00 22.50
+3 45 45.00 30.00
+3 45 45.00 22.50
+3 45 37.50 22.50
+1 10 15.00
+1 10 22.50
+1 10 22.50 18.00
+1 10 22.50 18.00
+30 420 450.00 246.00
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+900 464
+100% 52%
+charge 
+totale
+credit ECTS assimilation Cours
+3 45.00 37.50 30.00
+3 45.00 45.00 22.50
+2 30.00 30.00 22.50
+2 30.00 22.50 15.00
+3 45.00 37.50 22.50
+1 10.00 22.50 0.00
+1 10.00 22.50 15.00
+2 30.00 37.50 22.50
+1 10.00 30.00 22.50
+3 45.00 22.50 0.00
+3 45.00 45.00 22.50
+3 45.00 15.00 15.00
+1 10.00 37.50 22.50
+1 10.00 22.50 0.00
+1 10.00 22.50 18.00
+30 420.00 450.00 250.50
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+charge 
+totale
+credit ECTS assimilation Cours
+3 35.00 37.50 30.00
+3 35.00 37.50 22.50
+1 10.00 22.50
+3 35.00 37.50 22.50
+2 30.00 30.00 22.50
+2 30.00 30.00 22.50
+3 45.00 45.00 30.00
+3 45.00 30.00 22.50
+3 35.00 37.50 22.50
+2 30.00 30.00 22.50
+1 10.00 22.50 15.00
+1 10.00 22.50
+1 10.00 22.50 18.00
+1 10.00 22.50
+1 10.00 22.50
+30 380.00 450.00 250.50
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+100% 56%
+charge 
+totale
+credit ECTS assimilation Cours
+2.5 40.00 30.00 22.50
+2 30.00 22.50 11.25
+2.5 40.00 30.00 22.50
+2 30.00 22.50 15.00
+1 10.00 22.50
+2.5 40.00 30.00 22.50
+2.5 40.00 30.00 22.50
+2.5 40.00 30.00 22.50
+2.5 40.00 30.00 22.50
+1 10.00 22.50
+1 10.00 30.00 15.00
+1 10.00 22.50 15.00
+1 10.00 22.50
+1 10.00 22.50
+1 10.00 22.50 18.00
+2 30.00 30.00 22.50
+2 30.00 30.00 22.50
+30 430.00 450.00 254.25
+Total crédits par compétence
+charge 
+totale
+Total volume horaire par  compétence
+Pourcentage
+30 450
+Total crédits par compétence
+Total volume horaire par  compétence
+Pourcentage
+900.0 254.3
+100% 28%
+Piloter des projets innovants destinés aux systèmes communicants suivant l'évolution des technologies émergentes.
+Assurer le fonctionnement technique du système informatique selon les normes liées à la qualité et à la sécurité du système d'information.
+Maîtriser les outils scientifiques de mise en place de nouvelles solutions de stockage virtuel de données et valider les aspects techniques du stockage.
+Pouvoir entreprendre, innover, s'auto-développer personnellement et relationnellement, et communiquer avec différentes langues étrangères.
+Degree: Ingénieur en Sciences Appliquées et Technologiques
+Option: Ingénierie et Développement des Infrastructures et des Services de Communications (IDISC)
+Total face-to-face = 1920
+répartition de la charge horaire
+TD TP PeW CS1
+7.50 0 xx
+7.50 0 xx
+7.50 0
+15.00 9 6.00 x
+7.50 0
+22.50 0
+0.00 0 22.50
+22.50 0 x
+22.50 0 x
+15.00 3 4.50 xxx
+0.00 0 15.00
+18.00 4.50
+18.00 4.50
+163.50 12.00 57.00 262.5
+Total crédits par compétence 19
+Total volume horaire par  compétence 262.5
+Pourcentage 30%
+Outils scientifiques 
+et technique 
+TD TP PeW CS1
+7.50 xxx
+15.00 3.00 4.50 xxx
+15.00 3.00 4.50
+7.50 xxx
+15.00 xxx
+7.50 x
+7.50 9.00 6.00 x
+15.00
+15.00 3.00 4.50
+9.00 6.00
+15.00
+18.00 4.50
+4.50
+4.50
+93.00 42.00 69.00
+Total crédits par compétence 14
+Total volume horaire par  compétence 195
+Pourcentage 22%
+257 54 126 195
+29% 6% 14% 457.5
+24%
+TD TP PeW CS1
+7.50 0.00 x
+15.00 7.50 x
+7.50 0.00 x
+7.50 0.00 x
+0.00 9.00 6.00
+0.00 22.50 x
+7.50 0.00
+0.00 12.00 3.00
+0.00 7.50
+0.00 0.00 22.50
+15.00 7.50 xx
+0.00 0.00
+7.50 7.50 xx
+18.00 0.00 4.50
+0.00 0.00 4.50
+85.50 51.00 63.00 240
+Total crédits par compétence 15
+Total volume horaire par  compétence 240
+Pourcentage 24%
+TD TP PeW CS1
+7.50 x
+7.50 7.50 x
+22.50 x
+15.00
+7.50
+7.50 x
+15.00
+7.50
+7.50 7.50 xx
+7.50
+7.50
+22.50
+4.50
+18.00 4.50
+18.00 4.50
+58.50 67.50 73.50 165
+Total crédits par compétence 12
+Total volume horaire par  compétence 165
+Pourcentage 13%
+13% 15% 16% 405
+17%
+TD TP PeW CS1
+7.50
+11.25 x
+7.50 xx
+7.50 xx
+22.50
+3.00 4.50
+3.00 4.50
+7.50 x
+7.50
+22.50 x
+15.00 x
+7.50 x
+18.00 4.50
+18.00 4.50
+4.50
+7.50
+7.50
+88.50 39.75 67.50
+Total crédits par compétence 12
+Total volume horaire par  compétence 180
+Pourcentage 19%
+450
+Total crédits par compétence 0
+Total volume horaire par  compétence 0
+Pourcentage 0%
+88.5 39.8 517.5 180
+10% 4% 58% 9%
+TD : Travaux Dirigés
+TP : Travaux Pratiques
+PeW : Travaux personnels
+
+
+
+Degree: Ingénieur en Sciences Appliquées et Technologiques
+Option: Ingénierie et Développement des Infrastructures et des Services de Communications (IDISC)
+Total face-to-face = 1920
+ Technologiques  de metiers 
+CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9
+x
+x
+x x x
+xx xx
+xx xx
+x x
+x x x
+xxx
+xxx
+xx
+x x
+30 217.5 97.5 202.5 45 0 22.5 45
+2 14 6 14 3 0 1 2
+30 217.5 97.5 202.5 45 0 22.5 45
+3% 22% 10% 22% 5% 0% 2% 3%
+Outils scientifiques 
+et technique 
+Manag
+eriale
+auto-development, innovation 
+et projects
+CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9
+x
+xxx
+xxx
+x
+x x
+xx xx
+x x x
+x x x
+x x x
+xxx
+x x x
+xx xx
+9.5 13.5 10 10 0 0 2 3
+142.5 187.5 142.5 142.5 0 0 45 67.5
+15% 21% 15% 15% 0% 0% 3% 5%
+142.5 187.5 142.5 142.5 0 0 45 67.5
+172.5 405 240 345 45 0 67.5 112.5
+9% 21% 12% 18% 2% 0% 3% 6%
+CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9
+x x
+x
+xx xx xx xx
+x x
+x x x
+x x
+x x x
+x
+xx xx
+xx
+xx
+xx xx
+x
+52.5 150 187.5 157.5 37.5 37.5 97.5 22.5
+2 10 11 11 3 3 5 1
+52.5 150 187.5 157.5 37.5 37.5 97.5 22.5
+3% 16% 17% 17% 5% 5% 8% 2%
+CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9
+x x x
+x x x
+x x x x
+xxx xxx xxx xxx
+x x
+x
+xxx xxx xxx
+xxx xxx xxx
+xx xx
+x x
+xx x x
+xx xx
+xxx xxx
+xx xx
+97.5 210 105 247.5 112.5 112.5 112.5 90
+7 16 6 17 9 9 5 4
+97.5 210 105 247.5 112.5 112.5 112.5 90
+8% 18% 7% 19% 10% 10% 6% 4%
+150 360 292.5 405 150 150 210 112.5
+6% 15% 12% 17% 6% 6% 9% 5%
+CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9
+xx
+xxx
+xx
+xx
+xx xx x
+xx
+xxx xxx
+x
+xxx
+x x x x
+x x
+x x
+x
+xx x
+xx x
+xxx xxx
+xxx xxx
+8 1 6 12.5 6.5 2.5 4 5
+105 22.5 112.5 172.5 105 30 90 112.5
+13% 2% 10% 20% 10% 4% 6% 8%
+xxx
+0 0 0 0 0 0 0 30
+0 0 0 0 0 0 0 450
+0% 0% 0% 0% 0% 0% 0% 50%
+105 22.5 112.5 172.5 105 30 90 562.5
+5% 1% 6% 9% 5% 2% 5% 29%
+CS10 somme
+1
+1
+1
+2
+3
+2
+2
+3
+4
+2
+1
+xx 2
+x 3
+45
+2 63
+45 967.5
+3%
+auto-development, innovation 
+et projects
+CS10
+1
+1
+1
+2
+2
+2
+3
+2
+3
+3
+3
+xxx 2
+x 4
+xx 3
+3 65
+67.5 990
+5%
+45
+90 0 1935
+5%
+CS10
+1
+1
+3
+2
+4
+3
+3
+2
+3
+1
+3
+1
+2
+xx 3
+x 2
+45
+2 63
+45 1027.5
+3%
+CS10
+4
+4
+x 6
+4
+2
+2
+3
+3
+1
+2
+2
+3
+xx 3 Volume horaire C/TD/TP et TI
+xxx 3
+xx 3 Cours ( C )
+90 Travaux Dirigés (TD)
+4 89 Travaux Pratique (TP)
+90 1342.5 Travail Individuel (TI)
+4%
+135 2370
+6%
+CS10
+1
+2
+2
+2 Cours ( C )
+x 4 Travaux Dirigés (TD)
+1 Travaux pratique TP
+2 Travail Individuel TI
+2 Totale
+1
+x 6
+3 % Cours TD TP TPE par année
+3
+x 2
+x 3
+xx 3
+2
+2 Volume horaire par année
+5 62.5
+112.5 1042.5
+8% % Présentiel- Non Présentiel par année
+xxx
+30 60
+450 900
+50%
+562.5 1942.5
+29%
+Crédits par groupe de compétences
+Catégorie A : Outils scientifiques et techniques (CS1 + CS2)
+S1 33.33%
+S2 36.15%
+S3 26.98%
+S4
+S5 32.00%
+volume horaire par groupe de compétence
+Catégorie A : Outils scientifiques et techniques (CS1 + CS2)
+S1 30.23%
+S2 34.09%
+S3 28.47%
+S4 19.55%
+S5 32.00%
+volume horaire vs Compétences spécifique
+CS1
+S1 27.13%
+S2 19.70%
+S3 23.36%
+S4 12.29%
+S5 17.27%
+Crédits vs Compétences spécifique
+CS1
+S1 30.16%
+S2 21.54%
+S3 23.81%
+S4 13.48%
+S5 19.20%
+PFE 0.00%
+Volume horaire C/TD/TP et TI
+S1-S4
+Cours ( C ) 53.58%
+Travaux Dirigés (TD) 22.25%
+Travaux Pratique (TP) 9.58%
+Travail Individuel (TI) 14.58%
+Volume horaire par semestre
+S1
+Cours ( C ) 48.33%
+Travaux Dirigés (TD) 36.33%
+Travaux pratique TP 2.67%
+Travail Individuel TI 12.67%
+Totale 100%
+% Cours TD TP TPE par année
+ 1er Année
+Cours 51.50%
+TD 28.50%
+TP 6.00%
+Travail Personnel (TPe) 14.00%
+Volume horaire par année
+Cours 463.50
+TD 256.50
+TP 54.00
+Travail Personnel (TPe) 126.00
+% Présentiel- Non Présentiel par année
+Présentiel 86.00%
+Non Présentiel 14.00%
+Volume horaire de S1+S2+S3
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+Crédits par groupe de compétences
+Catégorie A : Outils scientifiques et techniques (CS1 + CS2)Catégorie B : Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)Catégorie C: Manageriale (CS8)
+33.33% 58.73% 1.59%
+36.15% 51.54% 3.08%
+26.98% 60.32% 7.94%
+64.04% 5.62%
+32.00% 45.60% 6.40%
+volume horaire par groupe de compétence
+Catégorie A : Outils scientifiques et techniques (CS1 + CS2)Catégorie B : Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)Catégorie C: Manageriale CS8
+30.23% 58.14% 2.33%
+34.09% 47.73% 4.55%
+28.47% 55.47% 9.49%
+19.55% 58.66% 8.38%
+32.00% 45.60% 6.40%
+volume horaire vs Compétences spécifique
+CS2 CS3 CS4 CS5
+3.10% 22.48% 10.08% 20.93%
+14.39% 18.94% 14.39% 14.39%
+5.11% 14.60% 18.25% 15.33%
+7.26% 15.64% 7.82% 18.44%
+10.07% 2.16% 10.79% 16.55%
+Crédits vs Compétences spécifique
+CS2 CS3 CS4 CS5
+3.17% 22.22% 9.52% 22.22%
+14.62% 20.77% 15.38% 15.38%
+3.17% 15.87% 17.46% 17.46%
+7.87% 17.98% 6.74% 19.10%
+12.80% 1.60% 9.60% 20.00%
+0% 0% 0% 0%
+Volume horaire C/TD/TP et TI Crédits  C/TD/TP et TI
+S5 Total
+56.50% 55.04% Cours ( C )
+19.67% 20.96% Travaux Dirigés(
+8.83% 9.21% Travaux Pratique
+15.00% 14.79% Travail individuel
+Volume horaire par semestre
+S2 S3 S4 S5
+54.67% 55.67% 55.67% 56.50%
+20.67% 19.00% 13.00% 19.67%
+9.33% 11.33% 15.00% 8.83%
+15.33% 14.00% 16.33% 15.00%
+100% 100% 100% 100%
+% Cours TD TP TPE par année
+2éme Année 3éme Année
+55.67% 28.25%
+16.00% 9.83%
+13.17% 4.42%
+15.17% 57.50%
+Volume horaire par année
+501.00 254.25
+144.00 88.50
+118.50 39.75
+136.50 517.50
+% Présentiel- Non Présentiel par année
+84.83% 42.50%
+15.17% 57.50%
+Volume horaire de S1+S2+S3
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+Crédits par groupe de compétences
+Catégorie C: Manageriale (CS8) Catégorie D: auto-development, innovation et projects (CS9 + CS10 )
+1.59%
+3.08% 9.23%
+7.94% 4.76%
+5.62% 8.99%
+6.40% 16.00%
+volume horaire par groupe de compétence
+Catégorie C: Manageriale CS8 Catégorie D: auto-development, innovation et projects (CS9 + CS10 )
+2.33% 9.30%
+4.55% 13.64%
+9.49% 6.57%
+8.38% 13.41%
+6.40% 16.00%
+volume horaire vs Compétences spécifique
+CS6 CS7 CS8
+4.65% 0.00% 2.33%
+0.00% 0.00% 4.55%
+3.65% 3.65% 9.49%
+8.38% 8.38% 8.38%
+10.07% 2.88% 8.63%
+Crédits vs Compétences spécifique
+CS6 CS7 CS8
+4.76% 0.00% 1.59%
+0.00% 0.00% 3.08%
+4.76% 4.76% 7.94%
+10.11% 10.11% 5.62%
+10.40% 4.00% 6.40%
+0% 0% 0%
+Crédits  C/TD/TP et TI
+S1-S4 S5 Total
+53.58% 56.50% 55.04%
+22.25% 19.67% 20.96%
+9.58% 8.83% 9.21%
+14.58% 15.00% 14.79%
+Crédits  C/TD/TP et TI
+S1
+Cours ( C ) 48.33%
+Travaux Dirigés(TD) 36.33%
+Travaux Pratique (TP) 2.67%
+Travail Personnel (TPE) 12.67%
+Charge horaire globale avec PFE
+Cours 45.14%
+TD 18.11%
+TP 7.86%
+Travail Personnel 28.89%
+Volume horaire de S1+S2+S3
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+Catégorie D: auto-development, innovation et projects (CS9 + CS10 )
+Catégorie D: auto-development, innovation et projects (CS9 + CS10 )
+volume horaire vs Compétences spécifique
+CS9 CS10
+4.65% 4.65%
+6.82% 6.82%
+2.19% 4.38%
+6.70% 6.70%
+10.79% 10.79%
+Crédits vs Compétences spécifique
+CS9 CS10
+3.17% 3.17%
+4.62% 4.62%
+1.59% 3.17%
+4.49% 4.49%
+8.00% 8.00%
+50% 50%
+ 1er Année 2éme Année 3éme Année
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+86.00% 84.83%
+42.50%
+14.00% 15.17%
+57.50%
+Présentiel - Non Présentiel/ année
+Présentiel Non Présentiel
+Crédits  C/TD/TP et TI
+S2 S3 S4 S5
+54.67% 55.67% 55.67% 56.50%
+20.67% 19.00% 13.00% 19.67%
+9.33% 11.33% 15.00% 8.83%
+15.33% 14.00% 16.33% 15.00%
+Charge horaire globale avec PFE
+Cours 40.43%
+TD 16.47%
+TP 7.13%
+Travail Personnel 36%
+40.43%
+16.47%
+7.13%
+36%
+Répartition de la charge horaire totale avec PFE
+Cours TD TP Travail Personnel
+40.43%
+16.47%
+7.13%
+36%
+Répartition de la charge horaire totale avec PFE
+Cours TD TP Travail Personnel
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+ 1er Année 2éme Année 3éme Année
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+86.00% 84.83%
+42.50%
+14.00% 15.17%
+57.50%
+Présentiel - Non Présentiel/ année
+Présentiel Non Présentiel
+S6
+100%
+40.43%
+16.47%
+7.13%
+36%
+Répartition de la charge horaire totale avec PFE
+Cours TD TP Travail Personnel
+40.43%
+16.47%
+7.13%
+36%
+Répartition de la charge horaire totale avec PFE
+Cours TD TP Travail Personnel
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+ 1er Année 2éme Année 3éme Année
+0%
+10000%
+20000%
+30000%
+40000%
+50000%
+60000%
+70000%
+80000%
+90000%
+100000%
+463.50 501.00
+254.25
+256.50 144.00
+88.50
+54.00
+118.50
+39.75
+126.00 136.50
+517.50
+Volume horaire des C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+ 1er Année 2éme Année 3éme Année
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+86.00% 84.83%
+42.50%
+14.00% 15.17%
+57.50%
+Présentiel - Non Présentiel/ année
+Présentiel Non Présentiel
+45.14%
+18.11%
+7.86%
+28.89%
+Répartition de la charge horaire totale sans PFE
+Cours TD TP Travail Personnel
+40.43%
+16.47%
+7.13%
+36%
+Répartition de la charge horaire totale avec PFE
+Cours TD TP Travail Personnel
+ 1er Année 2éme Année 3éme Année
+0%
+10000%
+20000%
+30000%
+40000%
+50000%
+60000%
+70000%
+80000%
+90000%
+100000%
+463.50 501.00
+254.25
+256.50 144.00
+88.50
+54.00
+118.50
+39.75
+126.00 136.50
+517.50
+Volume horaire des C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+45.14%
+18.11%
+7.86%
+28.89%
+Répartition de la charge horaire totale sans PFE
+Cours TD TP Travail Personnel
+40.43%
+16.47%
+7.13%
+36%
+Répartition de la charge horaire totale avec PFE
+Cours TD TP Travail Personnel
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage du volume horaire/compétence
+1er année 2éme année 3éme année
+ 1er Année 2éme Année 3éme Année
+0%
+10000%
+20000%
+30000%
+40000%
+50000%
+60000%
+70000%
+80000%
+90000%
+100000%
+463.50 501.00
+254.25
+256.50 144.00
+88.50
+54.00
+118.50
+39.75
+126.00 136.50
+517.50
+Volume horaire des C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+ 1er Année 2éme Année 3éme Année
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+86.00% 84.83%
+42.50%
+14.00% 15.17%
+57.50%
+Présentiel - Non Présentiel/ année
+Présentiel Non Présentiel
+45.14%
+18.11%
+7.86%
+28.89%
+Répartition de la charge horaire totale sans PFE
+Cours TD TP Travail Personnel
+ 1er Année 2éme Année 3éme Année
+0%
+10000%
+20000%
+30000%
+40000%
+50000%
+60000%
+70000%
+80000%
+90000%
+100000%
+463.50 501.00
+254.25
+256.50 144.00
+88.50
+54.00
+118.50
+39.75
+126.00 136.50
+517.50
+Volume horaire des C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+45.14%
+18.11%
+7.86%
+28.89%
+Répartition de la charge horaire totale sans PFE
+Cours TD TP Travail Personnel
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+CS1 CS2
+1er année 26% 9%
+2éme année 19% 6%
+3éme année 10% 6%
+Crédits vs Compétences spécifique
+CS1 CS2
+1er année 25.85% 8.89%
+2éme année 18.65% 5.52%
+3éme année 19.20% 12.80%
+ 1er Année 2éme Année 3éme Année
+0%
+10000%
+20000%
+30000%
+40000%
+50000%
+60000%
+70000%
+80000%
+90000%
+100000%
+463.50 501.00
+254.25
+256.50 144.00
+88.50
+54.00
+118.50
+39.75
+126.00 136.50
+517.50
+Volume horaire des C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+45.14%
+18.11%
+7.86%
+28.89%
+Répartition de la charge horaire totale sans PFE
+Cours TD TP Travail Personnel
+ 1er Année 2éme Année 3éme Année
+0%
+10000%
+20000%
+30000%
+40000%
+50000%
+60000%
+70000%
+80000%
+90000%
+100000%
+463.50 501.00
+254.25
+256.50 144.00
+88.50
+54.00
+118.50
+39.75
+126.00 136.50
+517.50
+Volume horaire des C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+45.14%
+18.11%
+7.86%
+28.89%
+Répartition de la charge horaire totale sans PFE
+Cours TD TP Travail Personnel
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+CS3 CS4 CS5 CS6
+21% 12% 19% 2%
+17% 12% 18% 7%
+1% 5% 10% 5%
+Crédits vs Compétences spécifique
+CS3 CS4 CS5 CS6
+21.50% 12.45% 18.80% 2.38%
+16.93% 12.10% 18.28% 7.44%
+1.60% 9.60% 20.00% 10.40%
+ 1er Année 2éme Année 3éme Année
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+51.50% 55.67%
+28.25%
+28.50% 16.00%
+9.83%
+6.00%
+13.17%
+4.42%
+14.00% 15.17%
+57.50%
+% C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+Catégorie B : Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+25.69% 56.05%
+Outils scientifiqu Technologiques de Manageriale (CS8Auto-development, innovation et projects (CS9 + CS10) 
+25.69% 56.05% 8.94% 11.33%
+CS7 CS8 CS9 CS10
+0% 2% 4% 4%
+7% 7% 3% 4%
+2% 3% 29% 29%
+Crédits vs Compétences spécifique
+CS7 CS8 CS9 CS10
+0.00% 2.33% 3.89% 3.89%
+7.44% 6.78% 3.04% 3.83%
+4.00% 6.40% 29.00% 29.00%
+ 1er Année 2éme Année 3éme Année
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+51.50% 55.67%
+28.25%
+28.50% 16.00%
+9.83%
+6.00%
+13.17%
+4.42%
+14.00% 15.17%
+57.50%
+% C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+25%
+55%
+9%
+11%
+Charge horaire globale par familles de compétences spécifiques
+Outils scientifiques et techniques (CS1 + CS2)
+Technologiques de metiers (CS3 + CS4 + CS5 +CS6 + CS7)
+ Manageriale (CS8)
+Auto-development, innovation et projects (CS9 + CS10) 
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Pourcentage des crédits/compétence 
+1er année 2éme année 3éme année
+Catégorie C: Manageriale (CS8) Catégorie D: auto-development, innovation et projects (CS9 + CS10 )
+8.94% 11.33%
+Auto-development, innovation et projects (CS9 + CS10) 
+ 1er Année 2éme Année 3éme Année
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+51.50% 55.67%
+28.25%
+28.50% 16.00%
+9.83%
+6.00%
+13.17%
+4.42%
+14.00% 15.17%
+57.50%
+% C, TD, TP et TPe/ année
+Cours TD TP Travail Personnel (TPe)
+Catégorie D: auto-development, innovation et projects (CS9 + CS10 )

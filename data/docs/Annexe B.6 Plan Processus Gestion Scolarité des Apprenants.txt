@@ -1,0 +1,588 @@
+ 
+ 
+PLAN PROCESSUS GSA-PP-07-00 
+GESTION DE LA SCOLARITE DES 
+APPRENANTS 
+Date :22/07/2022 
+Page 1 / 6 
+ 
+Finalité Domaine d’application 
+Ce processus a pour finalité de : 
+ Accueillir, renseigner et orienter les étudiants 
+ Inscrire les étudiants administrativement 
+ Fournir les informations documentées nécessaires relatives à la 
+scolarité des apprenants 
+ Garantir la prise en compte et le traitement des réclamations et des 
+plaintes ainsi que les besoins spécifiques des apprenants 
+ Assurer le suivi et informer les étudiants sur tout ce qui concerne leur 
+cursus universitaire en rapport avec les services de la scolarité 
+- Sauvegarder et protéger les données personnelles des 
+étudiants. 
+Ce processus s’applique à tous les étudiants de 
+l’établissement ISI El Manar
+ 
+ 
+Pilote du processus 
+Pilote : Lamia KRICHEN  
+Copilote : Houria MTIRA   
+Copilote : Najiba MRABET BELLAAJ    CpQ 
+ 
+Fournisseurs Clients 
+ Ministère de l’Enseignement Supérieur  
+ Université de Manar 
+ Conseil scientifique 
+ Commission mastère 
+ Apprenants 
+ Enseignants (feuille de présence) 
+ Processus Management et Amélioration Continue PAC 01 
+ Processus Gestion des Services Généraux GSG 09 
+ Ministère de l’Enseignement Supérieur 
+ Université de Manar 
+ Apprenants 
+ Enseignants 
+ Processus Gestion des examens et délibération EXD 06 
+  Processus Pédagogie PED 04 
+ 
+ 
+Eléments  d’entrées Eléments de sorties 
+- Curriculum et programme des parcours 
+- Dossier d'habilitation et les caractéristiques des produits et 
+services éducatifs 
+- Code de conduite et un code de déontologie. 
+- Exigences supplémentaires relatives à l'éducation spécialisée 
+- Écoute et satisfaction des apprenants et des autres bénéficiaires 
+- Résultat de traitement des non-conformités et des produits 
+éducatifs non conformes 
+-  
+- Plan de soutien administratif de l'apprentissage. 
+- Décisions et actions relatives à la facilitation de 
+l'apprentissage ; 
+- PV de réunions pédagogiques 
+- Emplois des parcours (enseignants, apprenants, salles 
+de cours, laboratoires ….) 
+- Satisfaction des exigences supplémentaires relatives à 
+l'éducation spécialisée 
+-  
+ 
+  
+Données d’entrées Données de sorties 
+ Exigences légales et réglementaires 
+ PV Commission de mastère 
+ Documents de la base de données (Salima et Ines) 
+ Documents issus de l’Université Manar 
+ Fiches de renseignements des étudiants 
+ Besoins et attentes des apprenants (Enquêtes de satisfaction) 
+ Décisions de la direction et du conseil scientifique 
+ Données personnelles des apprenants 
+ Besoins spécifiques des apprenants 
+ Besoins de traitement de réclamation 
+ Exigences SMOE 
+ Satisfaction des exigences légales et réglementaires 
+ Liste de suivi de présence des apprenants 
+ Communiqué de planification des inscriptions 
+ Attestation d’inscription 
+ Attestation de présence 
+ Attestation de réussite, etc. 
+ Relevé de notes 
+ Supplément de diplôme (à voir avec la direction) 
+ Diplômes : licence ; mastère et ingénieur 
+ Carte d’étudiant 
+ Attestation de report d’inscription 
+ Attestation de départ 
+ 
+ 
+PLAN PROCESSUS GSA-PP-07-00 
+GESTION DE LA SCOLARITE DES 
+APPRENANTS 
+Date :22/07/2022 
+Page 2 / 6 
+ Données saisies sur les plateformes MES 
+(statistique, Salima, etc.) 
+ Fiche de traitement de besoins spécifiques 
+ Traitement des réclamations 
+ Traitement des non-conformités et actions 
+correctives 
+ Tableau de suivi des indicateurs de performances 
+ 
+Objectifs du processus 
+ Objectif 1 : Satisfaire les besoins des apprenants en documents liés à leurs scolarités 
+ Objectif 2 : Garantir l’inscription à tant de tous les apprenants  
+ Objectif 3 : Satisfaction des réclamations et des plaintes traitées dans les délais des apprenants et PI 
+ Objectif 4 : Satisfaction aux apprenants à besoins spécifiques 
+ 
+ 
+ 
+ 
+Mode de suivi de l’efficacité du processus et de son amélioration 
+ Les réunions périodiques  
+ Les audits qualité interne 
+ Les indicateurs de performance 
+ La revue de direction 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Indicateurs de performances 
+Objectif Indicateur Formule Périodicité Source 
+d’information 
+Objectif 1 
+ 
+Taux de satisfaction des 
+demandes de documents dans 
+les délais
+ 
+Nombre de demandes satisfaites 
+à temps / nombre total des 
+demandes
+ 
+Semestrielle 
+Registre des 
+demandes de 
+documents/ 
+données portail 
+ISI
+ 
+Objectif 2 
+ 
+Taux des étudiants inscrits 
+dans les délais prescrits au 
+niveau du communiqué
+ 
+Nombre des étudiants inscrits 
+dans les délais / Nombre total 
+des étudiants inscrits
+ 
+Annelle Dossiers des 
+étudiants
+ 
+Objectif 3 
+ 
+Taux d'efficacité de 
+traitements des réclamations 
+et des plaintes traitées dans 
+les délais
+ 
+Somme des réclamations traité 
+efficacement dans les délais 
+/Total des réclamations 
+enregistrées
+ 
+Annuelle 
+Registre de suivi 
+des réclamations 
+apprenants et PI
+ 
+Objectif 4 
+Taux d'efficacité des 
+réclamations des apprenants 
+lié à besoin spécifique traitées 
+dans les délais
+ 
+Somme des réclamations traité 
+dans les délais /Total des 
+réclamations enregistré
+es 
+Annuelle 
+Registre de suivi 
+des réclamations 
+des apprenants 
+lié à besoin 
+spécifique
+ 
+ 
+ 
+PLAN PROCESSUS GSA-PP-07-00 
+GESTION DE LA SCOLARITE DES 
+APPRENANTS 
+Date :22/07/2022 
+Page 3 / 6 
+ 
+ Documents de références 
+Documents externes au Processus 
+ISO 21001 :2018 Norme de référence   
+Documents du MESRST Dcret du ..N°,,, 
+Dcret du ..N°,,, 
+Dcret du ..N°,,, 
+Dcret du ..N°,,, 
+  
+Listes des nouveau recrus 
+et réorientés Fournis par le MESRS et l’UTM   
+GED-PV-01 PV des délibérations de l'année N-1   
+GED-PV-02 PV des commissions de mastères   
+SCL-FR-01    
+PIL-DOC-01    
+PAC-FR-**    
+GED-PV-01 PVs des délibérations de l'année N-
+1   
+GED-PV-02 PVs des commissions de mastères   
+Documents du processus 
+GSA-FR-01 
+Liste des mutés, nouveaux recrues et réorientés 
+de UTM 
+ 
+GSA-IN-
+01 
+ᗷ             
+2023/2024 
+ 
+ 
+ 
+شهادة حضور 
+GSA-IN-
+02 النظام الداخ 
+GSA-FR-01 
+ 
+شهادة تبرير غياب 
+GSA-DO-
+01 
+ Attestation d’inscription 
+ Attestation de présence 
+ Attestation de réussite 
+ Relevé de notes 
+ Supplément de diplôme 
+ Diplômes : licence ; mastère et ingénieur 
+ Carte étudiante 
+ Attestation de report d’inscription 
+ Attestation de départ 
+ 
+GSA-FR-02 شهادة تأجيل الترسيم   
+GSA-FR-03 شهادة مغادرة سحب الملف الطبي    
+GSA-FR-04   
+نظير من وثيقة ادارية 
+  
+GSA-FR-05 اصﻼح وثيقة ادارية 
+ 
+  
+GVE-FR-06 شهادة افادة   
+GSA-FR-07 شهادة السيرة الجامعية   
+GSA-RP-01 مطلب اعادة ادماج   
+GSA-PV-01 مطلب مناقلة بين اﻷفواج   
+GSA-PV-02 
+  
+الدراسية لطلبة السنوات النهائية شهادة في الوضعية
+)اجازة/ تكوين المهندسين(  
+ 
+ 
+GSA-PV-03 
+  
+شهادة تفيد أن جميع الدروس بالمعهد تدرس باللغة
+الفرنسية 
+ 
+ 
+GSA-IN-01  Communiqué de planification des inscriptions 
+ 
+  
+  Avis de rattrapage   
+ 
+ 
+PLAN PROCESSUS GSA-PP-07-00 
+GESTION DE LA SCOLARITE DES 
+APPRENANTS 
+Date :22/07/2022 
+Page 4 / 6 
+ Données saisies sur les plateformes MES 
+(statistique, salima, etc.) 
+ Fiche de traitement de besoins spécifique 
+ Traitement de réclamation 
+ Actions face aux risques et opportunités 
+ Analyse de données 
+ Traitement des non-conformités et actions 
+correctives 
+Tableau de suivi des indicateurs de performances 
+GSA-FR-01 
+Liste des mutés, nouveaux recrues et réorientés 
+de UTM 
+ 
+ 
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+XXX-FR-04-00    
+ 
+ 
+ 
+ANALYSE DES 
+RISQUES 
+ 
+Risques internes 
+ 
+Modalités de maîtrise 
+  
+  
+    
+  
+  
+  
+ 
+ 
+ 
+Historiques des modifications  Destinataires 
+Révision Date Motif de la modification  Tous les pilotes des processus 
+00  Création   
+     
+     
+ 
+ Etabli par Vérification Approbation 
+Nom et Prénom Lamia KRICHEN Najiba MRABET BELLAAJ Salah SALHI 
+Fonction Chef service Responsable SMOE Directeur de l’ISI 
+Date 22/07/2022 06/07/2023  
+Signature     
+ 
+ 
+Déroulement du processus 
+ 
+ 
+ 
+PLAN PROCESSUS GSA-PP-07-00 
+GESTION DE LA SCOLARITE DES 
+APPRENANTS 
+Date :22/07/2022 
+Page 5 / 6 
+Qui ? (Responsable) Quoi ? (Etapes / Actions) Comment ? Enregistrements 
+MES 
+UTM 
+Directeur des études 
+Pilote GED 
+Pilote GSA 
+Commissions de mastères 
+ 
+ 
+L’ouverture de l’année 
+universitaire se fait pour les 
+nouveaux apprenants, les 
+redoublants, les réorientés, les 
+mutés et les apprenants ayant 
+réussi le passage de niveau, et ce, 
+sur la base de : 
+Pour les nouveaux étudiants : 
+  Liste des nouveaux bacheliers et 
+les réorientés de l’université 
+Manar pour les licences  
+ Les étudiants mutés via l’UTM 
+suite à une commission 
+interne à l’UTM 
+  Liste des nouveaux élèves 
+ingénieurs issue de la DGET 
+ Liste des étudiants en mastères 
+de recherche et professionnel 
+pour les nouveaux apprenants 
+de mastère 
+Pour les anciens étudiants :  
+  Les étudiants admis lors de 
+l’année N-1 
+Les redoublants :  
+La Liste des redoublants (PV de 
+délibérations de l’année N-1) 
+ 
+ 
+GSA-FR-01 
+Liste des mutés, 
+nouveaux recrues 
+et réorientés de 
+UTM 
+ 
+GED-PV-01 
+PV des 
+délibérations de 
+l'année N-1  
+(Liste des admis, 
+redoublants et 
+exclus) 
+ 
+ 
+GED-PV-02 
+PV des 
+commissions de 
+mastère 
+(Listes des 
+nouveaux 
+apprenants de 
+mastères) 
+GED-PV-01 
+PV des 
+délibérations de 
+l'année N-1  
+(Liste des admis, 
+redoublants et 
+exclus) 
+ 
+ 
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Direction des études 
+ Directeurs des départements 
+ Responsable service GRH 
+ 
+ La planification des activités liées à la 
+réalisation opérationnelle des activités 
+liées à la gestion des ressources 
+humaines et validée par le secrétaire 
+générale 
+GRH-FR-02 
+Registre de 
+planification des 
+activités 
+opérationnelles  
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ Les activités du processus GRH sont 
+présentées par trois procédures. Application interne 
+Système INSAF 
+tableau de bord  
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ Directeur des départements  
+ Il s’agit d’identifier les compétences 
+demandée (requises) pour chaque 
+fonction pour en assurer la maîtrise et 
+les compétences existantes (acquises) 
+à travers la matrice des compétences de 
+l’université.  Cette identification permet 
+d’identifier le besoin en formation ou en 
+recrutement ou en mutation. 
+Procédure gestion 
+des recrutements et 
+compétences 
+GRH-PR-01-00  
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ 
+  Le GRH assure la tenue à jour de la 
+liste des ressources humaines et de 
+leurs situations (détachement/mise en 
+disponibilité/congé/mutation..) sur 
+l’application dédié (système/ dossiers 
+administratifs) en suivant leur assiduité 
+Procédure gestion 
+administrative des 
+ressources 
+humaines  
+GRH-PR-02-00 
+Planification des activités 
+opérationnelles 
+Maitrise des activités opérationnelles 
+du GRH 
+Gestion des Recrutements et des 
+compétences du personnel  
+Gestion administrative des 
+ressources humaines  
+Gestion des activité de bien être au 
+travail  
+❶ 
+❷ 
+ 
+Clôture de d’année N-1/ Ouverture 
+de d’année N (admis/ redoublants/ 
+nouveaux / réorientés/mutés) 
+ 
+ 
+PLAN PROCESSUS GSA-PP-07-00 
+GESTION DE LA SCOLARITE DES 
+APPRENANTS 
+Date :22/07/2022 
+Page 6 / 6 
+(pointage) et effectue les mises à jour 
+nécessaires sur l’organigramme ainsi 
+que sur les fiches fonctions 
+ Répondre aux besoins et demandes 
+des ressources par des services offerts 
+ 
+Procédure de 
+gestion de bien être 
+au travail 
+GRH-PR-03-00 
+ 
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ 
+ Le responsable de l’activité assure le 
+suivi des activités opérationnelles à 
+l’aide d’un registre de suivi opérationnel  Registre des 
+activités 
+opérationnelles 
+GRH-TAB-01 
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ Toutes réclamation du personnel 
+administratif et pédagogique qui 
+concerne les activité RH seron 
+enregistré et suivi  
+Registre de suivi 
+des réclamations et 
+suggestions 
+GRH-FR-12 
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ Une enquête de satisfaction du parties 
+intéressées sera préparée Enquête de 
+satisfaction du 
+personnel 
+   
+ 
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ Assurer le suivi des objectifs du 
+processus par la mesure des 
+indicateurs. Tableau de bord : 
+GRH-TAB-01 
+ Directeur de l’ISSAT 
+ Secrétaire générale  
+ Responsable service GRH 
+ 
+L’amélioration continue vise à améliorer 
+ce processus en se concentrant sur le 
+renforcement des activités qui génèrent 
+le plus de valeur pour nos clients. 
+Registre de suivi 
+des actions 
+d’amélioration 
+ 
+ 
+ Entrées 
+ Plan 
+ Do 
+ A face aux Risques 
+ Check 
+ Act  
+ 
+ 
+ 
+ 
+Suivi et préservation des activités 
+opérationnelles 
+Amélioration continue des activités 
+des processus 
+ 
+Mesure de la satisfaction du 
+personnel/enseignant 
+Suivi et Mesure des objectifs du 
+processus 
+Gestion des réclamations et des 
+suggestions du personnel 
+Actions face aux risques et opportunités 
+❹ 
+❺ 
+❶ 
+❻ 
+❼ 

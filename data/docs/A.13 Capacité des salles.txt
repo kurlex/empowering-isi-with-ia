@@ -1,0 +1,65 @@
+Capacité des salles
+salle tp cours
+Capacite-
+EN
+Capacities-
+EX Tableau Blanc Ecran de projection Ecran de projection électrique Tableau Noir Video projecteur
+PC
+A001 x 35 25 01
+A012 x 60 01 01 interactif
+A102 x 35 35 02
+A104 X 12 02 11
+A117 X 20 01 11
+A120 X 01 10
+A122 x 20 01 12
+A124 X 35 25 01 01
+A127 X 25 20 01 01
+A130 X 01 01 11
+A131 x 35 25 01 01
+A201 X 11 01 11
+A202 x 11 01 11
+A206 X 35 28 01 01
+A207 X 35 25 02
+salle tp cours
+Capacite-
+EN
+Capacities-
+EX Tableau Blanc Ecran de projection Ecran de projection électrique Tableau Noir Video projecteur
+PC
+A208 X 35 25 01 01
+A209 X 35 28 02 01 01 interactif
+A214 x 36 01
+A226 x 25 15 01 01
+A329 x 36 30 01 01 interactif
+A401 x 20 01
+A402 x 20 01 20
+A405 X 35 28 01 01 01
+A406 X 35 25 01
+A407 X 35 25 02
+A408 x 35 25 02
+A414
+B103 x 35 25 02
+B104 X 25 02
+B106 X 25 15 01
+B203 X 35 25 02
+B204 X 18 15 01
+B302 X 35 28 02
+B303 X 30 25 02
+salle tp cours
+Capacite-
+EN
+Capacities-
+EX Tableau Blanc Ecran de projection Ecran de projection électrique Tableau Noir Video projecteur
+PC
+B305 X 24 01
+B401 X 35 25 02
+B402 X 35 25 02
+B404 X 25 20 01
+C101 X 01 11
+C102 x 24 01 12
+C201 X 25 20 02 01
+C202 X 30 20 02
+C301 X 35 25 02
+C302 X 35 25 01 01
+C401 X 35 25 02
+C402 X 35 25 01 01

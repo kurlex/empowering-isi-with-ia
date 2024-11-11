@@ -1,0 +1,898 @@
+Unité Eléments Constitutifs/Matière
+Mathématique 1
+Algèbre linéaire
+Complément de mathématiques
+Traitement de signal
+Electronique pour  l'ingénieur
+Théorie de l'information et codage
+Algorithmique fondamentale
+Mini projet algorithmique 
+Théorie des langages et automates
+Logique informatique 
+Systèmes d'exploitation avancés 
+Mini projet Systèmes d'exploitations
+Langue et méthodologie
+Business Communication  
+Total
+Signaux et 
+Systèmes
+Algorithmique et 
+mise
+en œuvre 
+Théorie de
+l'informatique
+Systèmes
+d'exploitation et 
+mise
+en œuvre
+Compétences
+comportementales 
+I 
+Unité Eléments Constitutifs/Matière
+Mathématiques 2
+Analyse appliquée
+Analyse numérique
+Théorie des systèmes dynamiques 
+Mini projet systèmes à microprocesseurs 
+Ondes et applications 
+Programmation Objet
+Techniques de compilation
+Bases de données et interfaçages
+Langue et Méthodologie 
+Management digital et système d'informations
+Business Communication
+Total
+Systèmes et
+architectures 
+Architecture avancées des pocesseurs
+Télécommunicatio
+ns Télécommunications analogiques et 
+numériques 
+programmation et
+compilation 
+Bases de données 
+et
+mise en œuvre Mini projet programmation
+objet et bases de données 
+Compétences
+comportementales 
+II
+Total (1ère année)
+Total face à face (1ère année)
+% C TD TP et TPE année 1
+% Présentiel vs non Présentiel année  1
+Unité Eléments Constitutifs/Matière
+Méthodes statistiques
+Optimisation
+Microcontrôleurs et objets connnectés
+Systèmes à événements discrets
+Réseaux d'entreprises 
+Programmation système sous Unix 
+Projet Systèmes distribués
+Modélisation orientée objet
+Mathématiques 
+pour
+l'ingénieur
+Fondements des
+systèmes IoT 
+Mini-projet Microcontrôleurs et objets 
+connectés
+Systèmes 
+distribués
+Fondements des systèmes distibués
+Architecture client/serveur et programmation 
+middleware
+Génie du logiciel 
+et
+des systèmes
+intelligents 
+IA et Systèmes experts
+Génie Logiciel 
+Droit des TIC
+Stage ouvrier
+Total
+Unité Eléments Constitutifs/Matière
+Modélisation stochastique
+Analyse de données
+Computer vision
+Parallélisme et calcul haute performance
+Qualité et test du logiciel
+Génie Logiciel avancé
+Ingénierie des processus métiers
+Génie du logiciel 
+et
+des systèmes
+intelligents 
+Compétences
+comportementales 
+III 
+Personnal Development and Socializing
+Sciences de 
+données 1
+Processus 
+Logiciel
+Systèmes 
+d'information
+Conception et programmation des interfaces 
+utilisateurs
+Développement d'applications mobiles
+Développement web avancé
+Mini projet systèmes complexes
+Internet Marketing 
+Total
+Total (2ème année)
+Total face à face (2ème année)
+% C TD TP et TPE  année 2
+% Présentiel vs non Présentiel année 2 
+Unité Eléments Constitutifs/Matière
+Techniques de calcul intelligent
+Apprentissage Artificel
+Systèmes 
+d'information
+Mini projet développement des sytèmes 
+d'information
+Méthodes et outils 
+pour les sytèmes 
+complexes
+Compétences
+comportementales 
+IV
+Personal development and socializing
+socializing 
+Projet personnel et professionnel
+professionnel 
+IA Avancée
+IA distribuée
+Mini projet IA avancée
+Indexation et recherche d'informations
+Big Data
+Mini projet sciences de données
+Architecture cloud
+Développement orienté services
+Vérification formelle des systèmes intelligents
+Module complémentaire 1 
+Module complémentaire 2 
+Anglais 
+Littérature universitaire et TICE 
+Innovation et entreprenariat
+Stage de perfectionnement
+Total
+IA Avancée
+Sciences de 
+données II
+Automatisme et 
+commande 
+avancée des 
+systèmes
+Analyse et modélisation de l'architecture 
+logicielle
+Modules 
+Complémentaires
+Compétences
+comportementales 
+V
+Unité Eléments Constitutifs/Matière
+PFE
+Total
+S1
+10.00
+S2
+8
+S3
+8
+S4
+4
+S5
+0.00
+S6
+0.00
+TOTAL1 29.00
+S1
+455.56%
+S2
+303.17%
+S3
+525.00%
+S4
+323.44%
+S5
+0.00%
+S6
+-
+TOTAL2 1607.17%
+CS1
+55%
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10 CS11
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Promotion IDL 2020/2021 
+% Etds réussis / CSi - Session Principale  
+Total face-to-face =1905
+Répartition
+Crédits ECTSCharge totale C
+71.43% 3 37.5 30
+49.21% 3 37.5 30
+73.02% 2 30 22.5
+68.25% 4 52.5 22.5
+77.78% 2 30 22.5
+17.46% 3 45 22.5
+100.00% 1 22.5
+11.11% 3 45 22.5
+38.10% 3 45 22.5
+80.95% 3 45 22.5
+100.00% 1 15
+95.24% 1 22.5
+80.95% 1 22.5
+30 450 217.5
+% des étudiants 
+réussis SP >10
+Crédits ECTSCharge totale C
+60.32% 2 30 22.5
+11.11% 3 45 22.5
+74.60% 3 45 22.5
+76.19% 2.5 30 22.5
+98.41% 1 15
+19.05% 2.5 30 22.5
+17.46% 3 45 22.5
+4.76% 3 45 30
+55.56% 3 45 22.5
+98.41% 3
+37.5 22.5
+98.41% 1 15
+80.95% 1 22.5
+90.48% 1 22.5 18
+76.19% 1 22.5 18
+30 450 246
+% des étudiants 
+réussis SP >10
+Total (1ère année) 900 463.5
+Total face à face (1ère année) 774
+% C TD TP et TPE année 1 52%
+% Présentiel vs non Présentiel année  1 86% 450
+Crédits Durée C
+53.13% 3 37.5 30
+78.13% 3 45 22.5
+51.56% 2 30 22.5
+32.81% 2 22.5 15
+96.88% 3 37.5 22.5
+100.00% 1 22.5
+56.25% 1 22.5 15
+85.94% 2 30 22.5
+100.00% 1 22.5
+100.00% 3 37.5 22.5
+87.50% 3 45 22.5
+% des étudiants 
+réussis SP >10
+98.44% 3 37.5 22.5
+90.63% 1 15 15
+90.63% 1 22.5
+48.44% 1 22.5 18
+100.00% 0
+30 450 250.5
+Crédits Durée C
+35.94% 3 37.5 30
+93.75%
+2
+22.5 15
+100.00% 3 37.5 22.5
+65.63% 3 37.5 22.5
+100.00% 3 37.5 15
+100.00% 1 22.5 15
+98.44% 2 30 22.5
+100.00% 2 30 22.5
+% des étudiants 
+réussis SP >10
+100.00% 1 22.5
+73.44% 3 37.5 15
+100.00% 3 37.5 15
+100.00% 1 22.5
+100.00% 1 22.5 18
+90.63% 1 22.5
+100.00% 1 22.5
+30 442.5 213
+Total (2ème année) 892.5 463.5
+Total face à face (2ème année) 762
+% C TD TP et TPE  année 2 52%
+% Présentiel vs non Présentiel année 2 85% 442.5
+Crédits Durée C
+96.72% 2 30 22.5
+96.72% 4 37.5 22.5
+% des étudiants 
+réussis SP >10
+70.49% 2 22.5 15
+100.00% 1 22.5
+100.00% 2 30 22.5
+85.25% 2 30 22.5
+100.00% 1 22.5
+80.33% 3 37.5 30
+85.25% 2 30 22.5
+72.13% 2 30 15
+72.13% 2 30 22.5
+59.02% 2 30 22.5
+93.44% 2 30 22.5
+67.21% 1 22.5
+32.79% 1 22.5
+98.36% 1 22.5 18
+100.00% 0
+30 450 258
+Crédits Durée C
+30 450
+30 450 0
+4.00 3.00 1.00 1.00
+3 5 2 2
+2 4 4 3
+9 2 4 4
+4 6 5 4
+- - - -
+22.00 20.00 16.00 14.00
+174.60% 261.90% 80.95% 100.00%
+136.51% 446.03% 28.57% 201.59%
+185.94% 364.06% 298.44% 298.44%
+871.88% 165.63% 398.44% 400.00%
+373.77% 465.57% 406.56% 357.38%
+- - - -
+1742.69% 1703.20% 1212.96% 1357.40%
+CS2 CS3 CS4 CS5
+79% 85% 76% 97%
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10 CS11
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Promotion IDL 2020/2021 
+% Etds réussis / CSi - Session Principale  
+Total face-to-face =1905
+Répartition
+TD TP Assimilation 
+7.5 40
+7.5 40
+7.5 30
+15 9 6 60
+7.5 30
+22.5 30
+22.5 10
+22.5 30
+22.5 30
+15 3 4.5 30
+15 20
+18 4.5 10
+18 4.5 10
+163.5 12 57 370
+Travail  
+Personnel
+Total crédits par 
+compétence
+TD TP Assimilation
+7.5 30
+15 3 4.5 45
+15 3 4.5 45
+7.5 35
+15 10
+7.5 35
+7.5 9 6 45
+15 45
+15 3 4.5 45
+9 6 45
+15 10
+18 4.5 10
+4.5 10
+4.5 10
+108 27 69 420
+Total volume horaire 
+par  compétence
+Travail  
+Personnel
+Total crédits par 
+compétence
+Total Crédits S1 et S2
+271.5 39 126 Total VH S1 et S2
+% VH par compétence
+30% 4% 14%
+14%
+TD TP Assimilation
+7.5 45
+15 7.5 45
+7.5 30
+7.5 30
+9 6 45
+22.5 10
+7.5 10
+7.5 30
+22.5 10
+12 3 45
+15 7.5 45
+Total volume horaire 
+par  compétence
+% crédits par 
+compétence
+Travail  
+Personnel
+7.5 7.5 45
+10
+18 4.5 10
+4.5 10
+10
+85.5 51 63 430
+TD TP Assimilation
+7.5 45
+7.5 30
+15 45
+15 45
+7.5 15 45
+3 4.5 10
+7.5 30
+7.5 30
+Total crédits par 
+compétence
+Total volume horaire 
+par  compétence
+Travail  
+Personnel
+22.5 10
+15 3 4.5 45
+7.5 15 45
+22.5 10
+4.5 10
+18 4.5 10
+18 4.5 10
+111 51 67.5 420
+Total crédits S3 et S4
+196.5 102 130.5 Total VH S3 et S4
+% VH par compétence
+22% 11% 15%
+15%
+TD TP Assimilation
+3 4.5 30
+7.5 3 4.5 37.5
+Total crédits par 
+compétence
+Total volume horaire 
+par  compétence
+% crédits par 
+compétence
+Travail  
+Personnel
+3 4.5 30
+22.5 10
+3 4.5 30
+3 4.5 30
+22.5 10
+7.5 45
+7.5 30
+15 30
+7.5 30
+7.5 30
+7.5 30
+18 4.5 10
+18 4.5 10
+4.5 10
+10
+81 30 81 412.5
+Total crédits par 
+compétence
+Total volume horaire 
+par  compétence
+TD TP Assimilation
+450
+0 0 450
+4.00 0.00 2.00 1.00
+5 6 1 3
+3 4 2 3
+7 4 2 3
+6 10 1 2
+- - - -
+25.00 24.00 8.00 12.00
+279.37% 0.00% 49.21% 80.95%
+355.56% 290.48% 55.56% 2.48%
+298.44% 284.38% 131.25% 131.25%
+637.50% 398.44% 200.00% 290.63%
+511.48% 839.34% 72.13% 198.36%
+- - - -
+2082.33% 1812.63% 508.14% 703.66%
+Travail  
+Personnel
+Total crédits par 
+compétence
+Total volume horaire 
+par  compétence
+CS6 CS7 CS8 CS9
+83% 76% 64% 59%
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10 CS11
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Promotion IDL 2020/2021 
+% Etds réussis / CSi - Session Principale  
+Technologies et veille scientifique
+CS1 CS2 CS3 CS4 CS5 CS6
+1
+2
+1
+1 1
+1 1
+2 1 1
+1
+1 1
+1
+2 1 2
+1 1
+0 0 0 0 0 0
+Outils scientifiques et 
+techniques
+0 0 0 0 0 0
+10.00 4.00 3.00 1.00 1.00 4.00
+473.02% 174.60% 261.90% 80.95% 100.00% 279.37%
+0.47 0.44 0.87 0.81 1.00 0.70
+CS1 CS2 CS3 CS4 CS5 CS6
+2
+1 1
+1 1
+1 1
+1 1 1
+1
+1 1
+1 1 1 1
+1 1 1
+1 1
+1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 3 5 2 3 5
+303.17% 136.51% 446.03% 28.57% 201.59% 355.56%
+0.38 0.46 0.89 0.14 0.67 0.71
+0 0 0 0 0 0
+0 0 0 0 0 0
+#DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0!
+#DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0!
+CS1 CS2 CS3 CS4 CS5 CS6
+2
+2
+1
+2
+1
+1 1
+1
+1 1
+1 1
+1 1
+1 1 1
+1 1 1
+1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 2 4 4 3 4
+525.00% 185.94% 364.06% 298.44% 298.44% 371.88%
+0.66 0.93 0.91 0.75 0.99 0.93
+CS1 CS2 CS3 CS4 CS5 CS6
+1
+2
+1 1
+1 1
+1 1
+1 1
+1 1 1
+1 1
+1 1
+1 1
+2 2 2
+1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 9 2 4 4 7
+323.44% 871.88% 165.63% 398.44% 400.00% 637.50%
+0.81 0.97 0.83 1.00 1.00 0.91
+0 0 0 0 0 0
+0 0 0 0 0 0
+0% 0% 0% 0% 0% 0%
+0% 0% 0% 0% 0% 0%
+CS1 CS2 CS3 CS4 CS5 CS6
+1
+1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0.00 4 6 5 4 6
+0.00% 373.77% 465.57% 406.56% 357.38% 511.48%
+- 0.93 0.78 0.81 0.89 0.85
+1 1
+1 1
+1
+1 1 1
+1 1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+CS1 CS2 CS3 CS4 CS5 CS6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4.00 4.00
+S1
+10.00
+5 6
+S2
+8
+5 4
+S3
+8
+4 4
+S4
+4
+5 8
+S5
+0.00
+- 1.00
+S6
+0.00
+23.00 27.00 TOTAL1 29.00
+376.19% 376.19%
+S1
+498.41%
+444.44% 463.49%
+S2
+346.03%
+439.06% 390.63%
+S3
+535.94%
+390.63% 354.24%
+S4
+329.69%
+400.00% 650.82%
+S5
+0.00%
+- 100.00%
+S6
+-
+2050.32% 2335.36% TOTAL2 1710.07%
+CS10 CS11 CS1
+89% 86% 59%
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10 CS11
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Promotion IDL 2020/2021 
+% Etds réussis / CSi - Session  de Rattrapage  
+Technologies et veille scientifique
+CS7 CS8 CS9 CS10 CS11
+Somme
+0
+0
+0
+0
+0
+0
+1 1 0
+1 0
+1 0
+0
+1 1 0
+1 1 0
+1 1 1 0
+0 0 0 0 0 0
+Communication, 
+management, 
+développement personnel et 
+innovation
+0 0 0 0 0 0
+0.00 2.00 1.00 4.00 4.00
+0.00% 49.21% 80.95% 376.19% 376.19%
+- 0.25 0.81 0.94 0.94
+CS7 CS8 CS9 CS10 CS11
+Somme
+0
+0
+1 0
+1 0
+1 1 1 0
+1 1 0
+1 0
+1 0
+1 0
+0
+1 1 0
+1 1 1 0
+1 1 1 0
+1 1 1 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 1 3 5 6
+290.48% 55.56% 247.62% 444.44% 463.49%
+0.48 0.56 0.83 0.89 0.77
+0 0 0 0 0 0
+0 0 0 0 0 0
+#DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0!
+#DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0! #DIV/0!
+CS7 CS8 CS9 CS10 CS11
+Somme
+0
+0
+1 0
+1 0
+0
+1 1 0
+1 0
+1 0
+0
+1 1 0
+0
+1 0
+1 0
+1 1 1 0
+1 1 0
+1 1 1 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 2 3 5 4
+284.38% 131.25% 239.06% 439.06% 390.63%
+0.71 0.66 0.80 0.88 0.98
+CS7 CS8 CS9 CS10 CS11
+Somme
+X 1
+0
+0
+0
+1 0
+1 1 0
+1 0
+1 0
+1 1 0
+0
+0
+1 1 1 0
+1 0
+1 1 1 0
+1 1 1 0
+3 0 0 0 0 3
+37.5 0 0 0 0 37.5
+4 2 3 4 4
+398.44% 200.00% 290.63% 390.63% 390.63%
+1.00 1.00 0.97 0.98 0.98
+3 0 0 0 0 3
+37.5 0 0 0 0 37.5
+100% 0% 0% 0% 0% 100%
+100% 0% 0% 0% 0% 100%
+CS7 CS8 CS9 CS10 CS11
+Somme
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1 1 1 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+10 1 2 5 8
+839.34% 72.13% 198.36% 400.00% 650.82%
+0.84 0.72 0.99 0.80 0.81
+1
+1 1 1
+1
+1 1
+1
+1
+1
+1
+1 1
+1 1
+1 1
+1 1
+1 1
+CS7 CS8 CS9 CS10 CS11
+Somme
+1 0
+0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4.00 3.00 1.00 1.00 4.00 0.00 2.00 1.00
+3 5 2 2 5 6 1 3
+2 4 4 3 3 4 2 3
+9 2 4 4 7 4 2 3
+4 6 5 4 6 10 1 2
+- - - - - - - -
+22.00 20.00 16.00 14.00 25.00 24.00 8.00 12.00
+192.06% 261.90% 80.95% 100.00% 280.95% 0.00% 50.79% 80.95%
+163.49% 463.49% 38.10% 219.05% 379.37% 326.98% 60.32% 2.75%
+190.63% 370.31% 303.13% 300.00% 300.00% 290.63% 134.38% 134.38%
+873.44% 168.75% 400.00% 400.00% 642.19% 400.00% 200.00% 292.19%
+400.00% 498.36% 427.87% 362.30% 522.95% 885.25% 75.41% 200.00%
+- - - - - - - -
+1819.62% 1762.82% 1250.04% 1381.34% 2125.46% 1902.86% 520.90% 710.26%
+CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9
+83% 88% 78% 99% 85% 79% 65% 59%
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10 CS11
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Promotion IDL 2020/2021 
+% Etds réussis / CSi - Session  de Rattrapage  
+
+
+
+
+
+
+4.00 4.00
+5 6
+5 4
+4 4
+5 8
+- 1.00
+23.00 27.00
+376.19% 376.19%
+471.43% 490.48%
+442.19% 392.19%
+392.19% 354.24%
+404.92% 667.21%
+- 100.00%
+2086.91% 2380.30%
+CS10 CS11
+91% 88%
+CS1 CS2 CS3 CS4 CS5 CS6 CS7 CS8 CS9 CS10 CS11
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Promotion IDL 2020/2021 
+% Etds réussis / CSi - Session  de Rattrapage  
