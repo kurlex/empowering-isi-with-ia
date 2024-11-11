@@ -1,4 +1,5 @@
 import { Conversation } from "@prisma/client";
+import { Prisma } from "@prisma/client";
 
 export interface IConversationRepository {
   getConversationCountForUser(userId: string): Promise<number>;
@@ -8,7 +9,8 @@ export interface IConversationRepository {
   addChatConversations(
     chatId: string,
     request: string,
-    response: string
+    response: string,
+    metaData: Prisma.JsonValue
   ): Promise<Conversation>;
 
   deleteAllChatConversations(chatId: string): Promise<void>;

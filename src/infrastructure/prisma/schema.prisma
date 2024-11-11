@@ -30,6 +30,7 @@ model Conversation {
   chat Chat @relation(fields: [chatId], references: [id])
   chatId String
   isTreated Boolean @default(false)
+  metaData   Json?
 }
 
 model Word {

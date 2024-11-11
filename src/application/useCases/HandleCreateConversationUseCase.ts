@@ -2,34 +2,31 @@ import { PromptInstructionTypeEnum } from "../../domain/enums/PromptInstructionT
 import { IConversationRepository } from "../../domain/interfaces/IConversationRepository";
 import { IGPTService } from "../../domain/interfaces/IGPTService";
 import { IPromptService } from "../../domain/interfaces/IPromptService";
+import ChatBotService from "../../infrastructure/services/ChatBotService";
+import { ChatBotServiceResponseFactoryService } from "../../infrastructure/services/chatBotServiceResponseFactoryService";
+import { Prisma } from "@prisma/client";
 
 export class HandleCreateConversationUseCase {
   constructor(
-    private gptService: IGPTService,
-    private promptService: IPromptService,
-    private conversationRepository: IConversationRepository
+    private conversationRepository: IConversationRepository,
+    private chatBotService: ChatBotService
   ) {}
 
-  async execute(
-    userId: string,
-    chatId: string,
-    request: string
-  ): Promise<string | null> {
+  async execute(userId: string, chatId: string, request: string): Promise<any> {
     const messagesCount =
       await this.conversationRepository.getConversationCountForUser(userId);
     if (messagesCount >= 50) return null;
 
-    const completePrompt = this.promptService.wrapPrompt(
-      request,
-      PromptInstructionTypeEnum.chat
+    const chatBotServiceResponse = await this.chatBotService.processPrompt(
+      request
     );
-    const gptResponse = await this.gptService.generateResponse(completePrompt);
-    if (gptResponse)
+    if (chatBotServiceResponse)
       this.conversationRepository.addChatConversations(
         chatId,
         request,
-        gptResponse
+        chatBotServiceResponse.payload,
+        { type: chatBotServiceResponse.type }
       );
-    return gptResponse;
+    return chatBotServiceResponse;
   }
 }

@@ -25,13 +25,15 @@ export class ConversationRepository implements IConversationRepository {
   addChatConversations = async (
     chatId: string,
     request: string,
-    response: string
+    response: string,
+    metaData: JSON
   ): Promise<Conversation> => {
     return await prisma.conversation.create({
       data: {
         chatId,
         request,
         response,
+        metaData
       },
     });
   };

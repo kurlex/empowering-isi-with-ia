@@ -1,5 +1,7 @@
 import { IGPTService } from "../../domain/interfaces/IGPTService";
 import { IPromptService } from "../../domain/interfaces/IPromptService";
+import { ChatBotServiceResponseFactoryService } from "./chatBotServiceResponseFactoryService";
+import { GPTService } from "./GPTService";
 import IndexingService from "./IndexingService";
 import { franc } from "franc-min";
 import TranslationService from "./TranslationService";
@@ -10,6 +12,7 @@ class ChatBotService {
     private gptService: IGPTService,
     private promptService: IPromptService,
     private translateService: TranslationService
+    private chatBotServiceResponseFactory: ChatBotServiceResponseFactoryService
   ) {}
   private ENGLISH_CODE = "en";
   private FRENCH_CODE = "fr";
@@ -28,7 +31,7 @@ class ChatBotService {
     );
     prompt = this.promptService.wrapPrompt(prompt, similarDocuments);
     const response = await this.gptService.generateResponse(prompt);
-    return ChatBotServiceResponseFactory.getResponse(response);
+    return this.chatBotServiceResponseFactory.getResponse(response);
   }
 }
 
