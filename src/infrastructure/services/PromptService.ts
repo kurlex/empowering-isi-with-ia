@@ -2,41 +2,37 @@ import fs from "fs";
 import path from "path";
 import { IPromptService } from "../../domain/interfaces/IPromptService";
 import { PromptInstructionTypeEnum } from "../../domain/enums/PromptInstructionTypeEnum";
+import { SimilarDocument } from "./IndexingService";
 
 export class PromptService implements IPromptService {
-  private promptInstructions: Record<PromptInstructionTypeEnum, string>;
+  private readonly chatPromptInstruction: string;
 
   constructor() {
-    this.promptInstructions = {
-      chat: "",
-      word: "",
-    };
-    for (const promptInstructionType of Object.keys(
-      PromptInstructionTypeEnum
-    )) {
-      const filePath = path.join(
-        process.cwd(),
-        "data",
-        `${promptInstructionType}PromptInstruction.txt`
-      );
-      this.promptInstructions[promptInstructionType] = fs.readFileSync(
-        filePath,
-        "utf8"
-      );
-    }
+    const filePath = path.join(
+      process.cwd(),
+      "data",
+      "chatPromptInstruction.txt"
+    );
+    this.chatPromptInstruction = fs.readFileSync(filePath, "utf8");
   }
 
   private replacePromptInput(template: string, prompt: string): string {
     return template.replace(/\[PROMPT_INPUT\]/g, prompt);
   }
 
-  wrapPrompt(
-    prompt: string,
-    promptInstructionTypeEnum: PromptInstructionTypeEnum
-  ): string {
-    return this.replacePromptInput(
-      this.promptInstructions[promptInstructionTypeEnum],
-      prompt
-    );
+  wrapPrompt(userPrompt: string, similarDocuments: SimilarDocument[]): string {
+    similarDocuments.forEach((document) => {
+      prompt = `
+      ${prompt}
+      # Document ${document.title}
+      ${document.content}
+      # End Document
+      `;
+    });
+    prompt = `
+    ${prompt}
+    # User flag
+    ${prompt}
+    `;
   }
 }
