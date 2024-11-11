@@ -1,0 +1,92 @@
+{
+  "None": {
+    "category": "none",
+    "content": "null"
+  },
+  "I need a venue suggestion for a team-building event for about 50 people, preferably outdoors in the San Francisco area.": {
+    "category": "venue suggestion",
+    "content": {
+      "intro": "Here are a few venue suggestions for your team-building event in San Francisco",
+      "venues": [
+        {
+          "name": "Golden Gate Park",
+          "description": "Spacious outdoor areas suitable for large groups.",
+          "capacity": "100"
+        },
+        {
+          "name": "Presidio Picnic Grounds",
+          "description": "Offers a scenic outdoor environment.",
+          "capacity": "60"
+        }
+      ]
+    }
+  },
+  "Can you recommend a venue for a corporate gala dinner for 150 people in downtown New York?": {
+    "category": "venue suggestion",
+    "content": {
+      "intro": "Here are some venue suggestions for a corporate gala dinner in downtown New York:",
+      "venues": [
+        {
+          "name": "The Lighthouse at Chelsea Piers",
+          "description": "A waterfront venue offering stunning views of the Hudson River and modern event space.",
+          "capacity": 400
+        },
+        {
+          "name": "Gotham Hall",
+          "description": "An elegant historic venue with a grand ballroom, ideal for formal corporate events.",
+          "capacity": 700
+        },
+        {
+          "name": "Tribeca 360°",
+          "description": "A stylish rooftop venue with panoramic views of Manhattan, perfect for upscale events.",
+          "capacity": 450
+        }
+      ]
+    }
+  },
+  "What are some cost-effective ways to promote an event on social media?": {
+    "category": "query handling",
+    "content": {
+      "intro": "Here are some cost-effective ways to promote an event on social media:",
+      "tips": [
+        "Create engaging content and use relevant hashtags to increase visibility.",
+        "Leverage user-generated content by encouraging attendees to share posts.",
+        "Collaborate with influencers or micro-influencers in your niche to reach a broader audience.",
+        "Use social media contests or giveaways to increase engagement and excitement.",
+        "Take advantage of social media ads with a small budget and targeted demographics."
+      ]
+    }
+  },
+  "What equipment do I need to host a virtual conference with multiple breakout rooms?": {
+    "category": "logistical query",
+    "content": {
+      "intro": "To host a virtual conference with multiple breakout rooms, you'll need the following equipment:",
+      "items": [
+        {
+          "type": "Computer/Workstation",
+          "examples": "A powerful computer or laptop for hosting and managing the event."
+        },
+        {
+          "type": "Stable Internet Connection",
+          "examples": "High-speed and reliable internet to prevent interruptions during sessions."
+        },
+        {
+          "type": "Video Conferencing Software",
+          "examples": "Platforms like Zoom, Microsoft Teams, or Hopin that support breakout rooms."
+        },
+        {
+          "type": "Microphones and Headsets",
+          "examples": "Quality microphones and headsets for clear audio communication."
+        },
+        {
+          "type": "Webcams",
+          "examples": "High-definition webcams for video presentations and participant interaction."
+        },
+        {
+          "type": "Backup Power Supply",
+          "examples": "Uninterruptible power supply (UPS) or backup batteries in case of power outages."
+        }
+      ]
+    }
+  }
+}

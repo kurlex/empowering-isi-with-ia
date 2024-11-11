@@ -1,0 +1,47 @@
+{
+  "name": "charcentric",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@amcharts/amcharts5": "^5.10.1",
+    "@amcharts/amcharts5-fonts": "^5.0.1",
+    "@amcharts/amcharts5-geodata": "^5.1.4",
+    "@langchain/openai": "^0.2.6",
+    "@prisma/client": "^5.22.0",
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/supabase-js": "^2.45.1",
+    "@tanstack/react-query": "^5.8.1",
+    "@tanstack/react-query-devtools": "^5.8.1",
+    "amcharts": "^3.14.5",
+    "axios": "^1.6.1",
+    "dayjs": "^1.11.12",
+    "f": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "next": "14.2.5",
+    "openai": "^4.14.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.12.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "daisyui": "^3.9.4",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "prisma": "^5.18.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

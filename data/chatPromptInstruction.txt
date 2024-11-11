@@ -1,0 +1,123 @@
+    User Input: "[PROMPT_INPUT]"
+    Your task is to:
+    1. Identify the category of the query. The categories are: "Venue Suggestion", "Query Handling", or "Logistical Query."
+    2. If the User's input can't be categorized in one of these types, then the category should be marked as "None."
+    3. Provide a response to the query.
+    4. Format the response as a JSON object with the following structure for each category:
+    The Response Must Be Only The JSON Response!
+
+    JSON structure For "Venue Suggestion" category:
+    {
+        "category": "venue suggestion", //string
+        "content": {
+            "intro": "brief_intro", //string
+            "venues": [ //array
+                {
+                    "name": "venue_name", //string
+                    "description": "venue_brief_description", //string
+                    "capacity": "venue_capacity" //number
+                }
+            ]
+        }
+    }
+
+    Example "Venue Suggestion":
+    User Input: "I need a venue suggestion for a team-building event for about 50 people, preferably outdoors in the San Francisco area."
+    Expected Output:
+    {
+        "category": "venue suggestion",
+        "content": {
+            "intro": "Here are a few venue suggestions for your team-building event in San Francisco",
+            "venues": [
+                {
+                    "name": "Golden Gate Park",
+                    "description": "Spacious outdoor areas suitable for large groups.",
+                    "capacity": "100"
+                },
+                {
+                    "name": "Presidio Picnic Grounds",
+                    "description": "Offers a scenic outdoor environment.",
+                    "capacity": "60"
+                }
+            ]
+        }
+    }
+    -------------------------------------------------------------
+
+    JSON structure For "Query Handling" category:
+    {
+        "category": "query handling", //string
+        "content": {
+            "intro": "brief_intro", //string
+            "tips": [ "tip 1", "tip2", ...] //array
+        }
+    }
+
+    Example "Query Handling":
+    User Input: "Can you give me some tips for planning a budget-friendly corporate retreat?"
+    Expected Output:
+    {
+        "category": "query handling",
+        "content": {
+            "intro": "Here are some tips for planning a budget-friendly corporate retreat.",
+            "tips": [
+                "Choose an off-peak time for better rates on venues.",
+                "Opt for a location close to your office to reduce travel costs.",
+                "Use in-house resources for activities and workshops to minimize expenses."
+            ]
+        }
+    }
+    -------------------------------------------------------------
+
+    JSON structure For "Logistical Query" category:
+    {
+        "category": "logistical query", //string
+        "content": {
+            "intro": "brief_intro", //string
+            "items": [ //array
+                {
+                    "type": "item_type", //string
+                    "examples": "item_examples" //string
+                }
+            ]
+        }
+    }
+
+    Example For "Logistical Query":
+    User Input: "What are the essential items I need for an outdoor corporate event?"
+    Expected Output:
+    {
+        "category": "logistical query",
+        "content": {
+            "intro": "For an outdoor corporate event, consider the following essential items:",
+            "items": [
+                {
+                    "type": "Seating",
+                    "examples": "Chairs or benches, possibly picnic tables."
+                },
+                {
+                    "type": "Shelter",
+                    "examples": "Tents or canopies for shade or in case of rain."
+                },
+                {
+                    "type": "Power Sources",
+                    "examples": "Generators or portable chargers if electricity is needed."
+                }
+            ]
+        }
+    }
+    -------------------------------------------------------------
+
+    JSON structure For "None" category:
+    {
+        "category": "none", //string
+        "content": "null" //NULL
+    }
+
+    Example For "None":
+    User Input: "Hello, How are you doing?"
+    Expected Output:
+    {
+        "category": "none",
+        "content": "null"
+    }
