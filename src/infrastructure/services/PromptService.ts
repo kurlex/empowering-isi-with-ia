@@ -16,11 +16,11 @@ export class PromptService implements IPromptService {
     this.chatPromptInstruction = fs.readFileSync(filePath, "utf8");
   }
 
-  private replacePromptInput(template: string, prompt: string): string {
-    return template.replace(/\[PROMPT_INPUT\]/g, prompt);
-  }
-
-  wrapPrompt(userPrompt: string, similarDocuments: SimilarDocument[]): string {
+  public wrapPrompt(
+    userPrompt: string,
+    similarDocuments: SimilarDocument[]
+  ): string {
+    let prompt = this.chatPromptInstruction;
     similarDocuments.forEach((document) => {
       prompt = `
       ${prompt}
@@ -32,7 +32,8 @@ export class PromptService implements IPromptService {
     prompt = `
     ${prompt}
     # User flag
-    ${prompt}
+    ${userPrompt}
     `;
+    return prompt;
   }
 }

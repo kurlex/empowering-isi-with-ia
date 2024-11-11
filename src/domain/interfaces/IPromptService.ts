@@ -1,5 +1,5 @@
-import { PromptInstructionTypeEnum } from "../enums/PromptInstructionTypeEnum";
+import { SimilarDocument } from "../../infrastructure/services/IndexingService";
 
 export interface IPromptService {
-  wrapPrompt(prompt: string, similarDocuments: string[]): string;
+  wrapPrompt(userPrompt: string, similarDocuments: SimilarDocument[]): string;
 }

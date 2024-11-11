@@ -22,15 +22,27 @@ class VectorStoreSingleton {
         const filePath = path.join(docsFolderPath, file);
 
         const content = fs.readFileSync(filePath, "utf-8");
-        try {
-          await VectorStoreSingleton._vectorStore.addDocuments([
-            new Document({
-              pageContent: content,
-              metadata: { source: file },
-            }),
-          ]);
-        } catch (error) {
-          console.log("skip:", filePath);
+        for (let split = 1; ; split++) {
+          try {
+            const partSize = Math.ceil(content.length / split);
+            const parts: string[] = [];
+
+            for (let i = 0; i < content.length; i += partSize) {
+              parts.push(content.slice(i, i + partSize));
+            }
+            parts.forEach(async (part) => {
+              await VectorStoreSingleton._vectorStore!.addDocuments([
+                new Document({
+                  pageContent: part,
+                  metadata: { source: file },
+                }),
+              ]);
+            });
+
+            break;
+          } catch (error) {
+            continue;
+          }
         }
       }
     }

@@ -1,10 +1,12 @@
 import axios from "axios";
 import { v4 as uuidv4 } from "uuid";
-export class TranslationService {
-  key =
-    "9HwAv2AHJj1y0AKGoUCfyO2lJU65V9EQeoUot4Rh0P1STIl1AhnfJQQJ99AKACrIdLPXJ3w3AAAbACOGgUTX";
-  endpoint = "https://api.cognitive.microsofttranslator.com/";
-  location = "southafricanorth";
+class TranslationService {
+  constructor(
+    private key: string,
+    private endpoint: string,
+    private location: string
+  ) {}
+
   async translateText(
     text: string,
     currentLanguage: string,
@@ -42,3 +44,5 @@ export class TranslationService {
     }
   }
 }
+
+export default TranslationService;

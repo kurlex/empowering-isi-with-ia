@@ -20,6 +20,8 @@ import { HandleCreateChatUseCase } from "../../application/useCases/HandleCreate
 import { MockGPTService } from "../services/MockGPTService";
 import IndexingService from "../services/IndexingService";
 import VectorStoreSingleton from "../services/VectorStoreSingleton";
+import ChatBotService from "../services/ChatBotService";
+import TranslationService from "../services/TranslationService";
 
 const isProd = process.env.RUNTIME_ENV === "production";
 console.log("Project Started at", isProd ? "Prod" : "Dev", "environment");
@@ -34,13 +36,24 @@ export const wordRepository = new WordRepository();
 
 // services
 const promptService: IPromptService = new PromptService();
-
+const indexingService = new IndexingService();
+const translateService = new TranslationService(
+  process.env.TRANSLATION_API_KEY!,
+  process.env.TRANSLATION_ENDPOINT!,
+  process.env.TRANSLATION_LOCATION!
+);
 // const gptService: IGPTService = isProd
 //   ? new GPTService(chatGPTModel)
 //   : new MockGPTService();
 const gptService: IGPTService = new MockGPTService();
 
-const indexingService = new IndexingService();
+const chatBotService = new ChatBotService(
+  indexingService,
+  gptService,
+  promptService,
+  translateService
+);
+
 const openAIService = new OpenAIService();
 
 const wordCloudService: IWordCloudService = new WordCloudService(
