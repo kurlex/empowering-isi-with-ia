@@ -1,0 +1,135 @@
+1
+ 
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Systems Safety
+ECUE no. 1.1: Operational safety
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Maintenance
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Define the tools and methods of Operational Safety used in
+industry for equipment availability assurance.
+ 
+OE2: Highlight the qualitative and quantitative analysis tools of failures and
+to evaluate via probability laws with different parameters linked to the SdF: reliability, MTBF,
+MTTR, availability
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OP5
+x
+x
+ 
+Description of the content of the constituent element
+ 
+I. Operational Safety: Basic Concepts
+1. Maintenance concepts
+2. The presentation of the SdF
+3. The components of the SdF
+ 
+II. Equipment availability assurance
+1. Mathematical reminders
+2. Reliability of equipment
+3. Maintainability
+4. Availability
+5. Security
+ 
+III. Failure analysis and diagnostic assistance
+1. Qualitative failure analysis
+2. Quantitative failure analysis
+3. AMDEC approach
+ 
+IV. Risk management
+2
+ 
+1. Preliminary risk analysis
+2. Risk tree
+3. Risk management
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+7h
+Chapter 2
+x
+ 
+x
+ 
+ 
+7h
+Chapter 3
+x
+ 
+x
+ 
+ 
+8h
+Chapter 4
+x
+ 
+x
+ 
+ 
+8h
+ 
+ 
+Reference books:
+ 
+ 
+1. Operational safety of industrial systems – A. VILLEMEUR - Eyrolles – 1997
+2. Risk management. Bernard BARTHÉLEMY & Philippe COURRÈGES. Organization editions
+3. Security Safety – GEIBEN & NASSET – Editions d’organization – 1998
+4. Reliability-based maintenance – G.ZWINGELSTEIN – Hermès – 1996
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

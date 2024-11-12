@@ -1,0 +1,428 @@
+ 
+Skills 
+Specific 
+Description 
+CS1 
+Master 
+some 
+tools 
+scientists of science 
+of the engineer. 
+- Master the basic sciences for the 
+Engineering training 
+- Master the scientific tools necessary to
+Model and analyze complex systems 
+CS2 
+Design, develop, 
+and master software 
+Computer 
+- Acquire theoretical and practical skills in 
+computer science. 
+-Conceive 
+and 
+develop 
+some 
+Applications 
+in different languages and under 
+different systems. 
+- Operate, manage and analyze large volumes of 
+data, structured and unstructured. 
+Model and design 
+some 
+Applications 
+in 
+embedded systems and 
+Connected objects  
+- Acquire theoretical and practical skills 
+around embedded systems applications 
+Communicating  
+- Model embedded web applications and 
+using UML 
+- Exploit, manage and analyze data using
+some 
+embedded platforms (Raspberry Pi, ESP32, 
+STM32, etc.) 
+- Manage project planning by adopting the
+cycle 
+or the Scrum method 
+Pilot 
+some 
+projects 
+for 
+Communicating systems 
+according to the evolution of the 
+Technologies 
+Emerging 
+- Acquire best practices to set up 
+project management and steering methods 
+Innovative. 
+- Adapt to what already exists on the market, by 
+offering new solutions adapted to 
+with the objective of competitiveness. 
+- Define the objectives, qualities, costs and deadlines of the
+project. 
+- Plan tasks and activities and follow up
+their 
+Advancements. 
+CS3 
+Integrate and implement 
+Work of architecture 
+Software 
+-Acquire 
+the 
+Skills 
+Specific 
+in 
+software architectures. 
+- Make architectural choices with knowledge of the 
+causes and consequences. 
+Mastering and developing 
+some 
+Applications 
+Computer 
+in 
+report 
+with 
+the 
+-Acquire 
+the 
+Skills 
+Specific 
+in 
+IT Development  
+- Be proficient in programming languages (Python, 
+Java, C++, etc.) to develop applications 
+embedded systems and 
+the 
+Systems 
+Communicating (IoT) 
+Embedded 
+- Master the hardware part by integrating 
+Embedded IT Solutions  
+Insure 
+the 
+operation 
+System technology 
+IT according to the 
+Quality standards 
+and the safety of the 
+information system. 
+- Acquire best practices in the safety of 
+information systems.  
+- Configure, troubleshoot, and maintain
+management 
+local systems and networks, and 
+Infrastructure 
+- Ensure the security of computer systems by 
+applying quality and safety standards. 
+CS4 
+Design and develop 
+some 
+Solutions 
+Computer 
+Innovative 
+- Design IT solutions from a
+specific specifications. 
+- Define and develop specifications
+Functional 
+and techniques of a solution. 
+- Carry out a scientific watch and know how to exploit it
+for 
+To propose innovative solutions. 
+- Supervise, measure performance, analyze 
+operating and usage conditions and 
+implement adjustment solutions, 
+changes in the innovative solutions proposed 
+Mastering the concepts 
+of the 
+network 
+and 
+the 
+Protocols 
+from 
+communication 
+Necessary 
+for 
+the 
+creation 
+of a 
+object 
+Connected smart 
+- Master and design networks from a
+Specific specifications  
+- Define and develop specifications
+Functional 
+and technical aspects of a network (hardware, software, 
+location)  
+- Design, configure and administer networks 
+IT in different environments 
+- Supervise, leverage data and implement
+place 
+Intelligent IoT solutions 
+Design, develop, 
+Commissioning 
+ICT solutions and 
+IF 
+- Acquire theoretical and practical skills in 
+computer science. 
+-Conceive 
+and 
+develop 
+some 
+Applications 
+computer systems using network resources, in 
+different languages and under different systems. 
+- Operate, manage and analyze large volumes of 
+data, structured and unstructured. 
+CS5 
+Plan and manage 
+IT projects 
+- Plan and manage IT projects according to 
+recognized methods. 
+- Master the management tools for monitoring
+and fruitful exchanges with 
+Employees. 
+- Know how to anticipate delays and changes in 
+schedule in order to meet deadlines and
+the 
+Customer requirements. 
+Design and implement 
+Application Work 
+automated in a 
+Production line 
+industrialist 
+- Master the engineering of automated systems  
+- Study operational and technical needs 
+an industrial production line  
+- Model and design the system to be automated by
+electronic, automatic and robotic tools 
+and architectural 
+- Automate chain control tasks 
+designed production 
+Test 
+and 
+validate 
+the 
+operation of the IS 
+in 
+Terms 
+from 
+connectivity 
+capacity 
+infrastructure and 
+security. 
+- Design information networks from a notebook
+from 
+specific loads. 
+- Define and develop specifications
+Functional 
+and technical aspects of a network (hardware, software, 
+location) 
+- Design and administer computer networks 
+and 
+from 
+telecommunications 
+in 
+different 
+Environments. 
+- Supervise, measure performance, analyze 
+operating and usage conditions and 
+implement adjustment solutions, 
+network evolutions or migrations and 
+resources 
+SC6 
+Master 
+some 
+Environments 
+from 
+Programming 
+- Operate programming environments 
+Recognized 
+and 
+from 
+adapt 
+the 
+new 
+programming environments. 
+Instrument, test and 
+Validate devices 
+Embedded 
+- Acquire the specific skills to test and
+Validate embedded devices  
+- Define validation requirements:
+Features 
+Expected Performance, and Constraints  
+- Analyze the communication between the different 
+system components and understand their 
+behaviors  
+- Master testing tools and methodologies
+some 
+Embedded systems 
+- Instrumenting embedded devices for 
+observe and measure the behavior of the system at 
+Sensors, debugging interfaces 
+Master 
+the 
+tools 
+implementation 
+- Acquire theoretical and practical skills in 
+computer science. 
+place 
+from 
+news 
+Storage Solutions 
+virtual data and 
+validate 
+the 
+Aspects 
+storage techniques. 
+-Conceive 
+and 
+develop 
+some 
+Applications 
+IT solutions using storage solutions 
+virtual data 
+- Operate, manage and analyze large volumes of 
+data, structured and unstructured. 
+CS7 
+Design and develop 
+some 
+Systems 
+Smart 
+- Design intelligent IT solutions
+based on specific specifications. 
+- Define and develop specifications
+Functional 
+and techniques of an intelligent solution. 
+- Carry out a scientific watch and know how to exploit it
+for 
+Offering smart solutions. 
+- Supervise, measure performance, analyze 
+operating and usage conditions and 
+implement adjustment solutions, 
+of the evolution of the intelligent solutions proposed. 
+Master 
+the 
+programming 
+hardware and software and 
+the 
+Co-design 
+some 
+Architectures 
+Heterogeneous 
+Embedded 
+- Design and program embedded systems 
+Heterogeneous  
+- Acquire knowledge of electronics: 
+electronic components, signals and 
+Communication Protocols  
+-Master 
+some 
+Languages 
+from 
+programming 
+embedded C and C++ to develop code 
+effective  
+-Know 
+the 
+Architectures 
+Material 
+: 
+Microcontrollers, ARM PROCESSORS, FPGA, SOC 
+- Study real-time operating systems 
+Mastering the standards and 
+best practices in 
+to audit the IS and to 
+propose 
+some 
+Improvements. 
+- Assimilate solid networking skills, 
+Security and accounting Optimize IS security
+- Analysis of information systems, procedures 
+and all existing IT resources and 
+suggest possible improvements. 
+-Perfect 
+the 
+security 
+some 
+Systems 
+information and guarantee the reliability of the data to be 
+transmit. 
+CS8 
+Testing and validating 
+IT Systems 
+-Master 
+Engineering 
+and 
+the 
+Technical 
+test automation.  
+- Write and execute test plans
+Functional. 
+- Perform tests on scripts or 
+Configurations. 
+- Automate network management tasks 
+Computer 
+Mastering and designing 
+some 
+Systems 
+Smart and innovative 
+- Master engineering and techniques
+Necessary 
+to design an innovative embedded system and 
+intelligent  
+- Master the techniques of intelligence
+artificial 
+and machine learning  
+- Develop design knowledge 
+hardware for designing circuits 
+specific and innovative electronics 
+- Master the hardware architecture adapted to AI 
+Embedded 
+ 
+CS9 
+Master 
+the 
+Skills 
+Managerial 
+and 
+from 
+Industrial culture 
+- Know how to manage a group of employees. 
+- Have an industrial culture that helps success
+in 
+socio-economic background. 
+CS10 
+Mastering the techniques 
+communication with 
+a varied audience and the 
+foreign languages. 
+- Master modern languages and
+communication to help its integration into a 
+professional environment and future collaborations. 
+CS11 
+Have 
+the 
+capacity 
+of the auto-
+development 
+staff 
+and 
+professional 
+-Have 
+some 
+Capabilities 
+Self-study 
+scientific and behavioral skills in autonomy. 
+- To keep a scientific watch to maintain and
+do 
+to develop his knowledge. 
+- Know how to develop oneself humanly to succeed 
+his integration into a professional environment and his 
+future collaborations. 
+ 
+IDL course 
+ISEOC Stream 
+IDISC sector 
+ 

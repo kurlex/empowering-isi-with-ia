@@ -1,0 +1,85 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Behavioral Skills V
+ECUE no 1.1: English
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Basic knowledge of English
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Recognize, reinforce and confirm general vocabulary.  
+OE2: Reinforce and confirm knowledge of grammar.  
+OE3: Describe the different parts of the TOEIC test.  
+OE4: Describe the different “tactics” that can improve the TOEIC score.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+CS8
+X
+ 
+X
+X
+CS9
+ 
+X
+X
+X
+CS10
+ 
+ 
+X
+ 
+ 
+Description of the content of the constituent element
+ MODULE 1: Mastery of linguistic basics Written comprehension and expression
+ MODULE 2: Mastery of linguistic basics Oral comprehension and expression
+
+MODULE 3: The specificities of professional English
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Module 1
+ 
+ 
+6
+ 
+ 
+6
+Module 2
+ 
+ 
+6
+ 
+ 
+6
+Module 3
+ 
+ 
+6
+ 
+ 
+6
+ 
+Reference books:
+1. Charles Talcott & Graham Tullis, Cambridge University Press - Student's Book with Test Pack. Preparation Series for
+the Toeïc Test: More Practice Tests (beginner)”;
+2. Longman, BU Building skills for the Toeïc test (beginner)”;  
+3. Longman, BU Official Test-Preparation Guide (beginner) » ;  
+4. Peterson's Thomson Leraning, BU Preparation series for the Toeic test: Advanced course (confirmed)”;  
+5. Longman, BU Minimum Competence in Scientific English;
+6. Sue Blattes, Véronique Jans, Jonathan Upjohn; EDP Sciences, 2004. (optional depending on specialty) Listening
+Comprehension in Scientific English;  

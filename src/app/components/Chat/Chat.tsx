@@ -2,12 +2,10 @@
 
 import { useEffect, useState } from "react";
 import React from "react";
-import ConversationFactory, { conversation } from "./ConversationFactory";
-import {
-  BaseIAResponse,
-  IAResponseFactory,
+import ConversationFactory, {
+  conversation,
   IAResponseSourceEnum,
-} from "./IAResponseFactory";
+} from "./ConversationFactory";
 import { FaPause } from "react-icons/fa";
 import Loader from "../Loader";
 import { useSharedStateContext } from "../../context/SharedStateContext";
@@ -47,19 +45,14 @@ const Chat = () => {
     setConversations((oldConversation) => [
       ...oldConversation,
       latestPromp,
-      new BaseIAResponse(),
+      {},
     ]);
     setPrompt("");
-    // const iaResponse = await handleCreateConversationAction(
-    //   userId,
-    //   currentChatId,
-    //   latestPromp
-    // );
-    const iaResponse = {
-      type: "response",
-      payload:
-        "ISI refers to the Institut Supérieur d’Informatique, which is a higher education institution specializing in computer science. It is recognized for its role in providing diploma education (Licence, Master, and engineer) in the field of computer science and its applications, performing scientific research and innovation, and providing continuous training and outreach to the professional environment. The vision of ISI is to be a recognized leader in higher education in computer science, offering excellent programs and training professionals who are at the forefront of technological advances. It aspires to be a hub for innovation, research, and knowledge transfer, contributing to societal advancement and digital transformation.",
-    };
+    const iaResponse = await handleCreateConversationAction(
+      userId,
+      currentChatId,
+      latestPromp
+    );
 
     fetchMessagesCounter();
     setConversations((oldConversation) => [

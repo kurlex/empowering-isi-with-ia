@@ -1,0 +1,153 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 3
+EU code: EU06
+ 
+ 
+University: University of Tunis el Manar  
+Establishment: Higher Institute of Computer Science  
+ 
+ 
+Field of training:
+Mention :
+Degree: Engineer
+Course: IDISC
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+1- 1- Identify the standards for writing the Report,
+2- Use a synchronous collaborative writing tool (Coggle).
+3- Understand the difference between psychological and sociological theories of
+self-development
+4- Understand the process of moral development
+5- General notions in digital management
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+The objectives of this UE are specified in the objectives of each ECUE
+3- Constituent elements of the EU (ECUE)
+ 
+Constituent elements of the EU (ECUE)
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+Internet marketing
+18
+ 
+ 
+4.5
+1
+Personal development and
+socializing
+ 
+18
+ 
+4.5
+1
+Personal and professional project  
+ 
+18
+ 
+4.5
+1
+Total
+18
+36
+ 
+13.5
+3
+ 
+EU Title: Behavioural Competencies IV
+2
+ 
+Practical activities (Projects, internships, dissertations, etc.)
+A personal mini project is provided to assess the student's skills
+4- Content (course descriptions and plans)  
+Teachings (Present a brief description of the programs of each ECUE and attach
+the detailed programme in the EU fact sheet).
+ 
+Practical EU activities (Provide a brief description of the objectives, contents and
+organizational procedures for each activity)
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+The course consists of lectures and learning sessions through exercises and assignments.
+practices to explore the different facets of the theory in more depth. A course support under
+form of a Powerpoint presentation will be accessible to students in electronic format.
+TD and TP subjects will be distributed to students in paper/digital format.
+ 
+5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet
+2- Continuous monitoring
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Internet marketing
+ 
+ 
+X
+20%
+ 
+ 
+X
+80%
+1
+3
+Personal development and
+socializing
+ 
+ 
+X
+20%
+ 
+ 
+X
+80%
+1
+Personal project and
+professional
+ 
+ 
+X
+20%
+ 
+ 
+X
+80%
+1
+  

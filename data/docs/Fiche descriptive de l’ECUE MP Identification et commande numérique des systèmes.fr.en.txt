@@ -1,0 +1,107 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Modeling, identification and control of systems
+ECUE no 1.1: MP identification and digital control of systems
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Continuous and sampled automatic  
+2- Microcontrollers
+3- Arduino cards
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Apply real-time control techniques for dynamic systems such as
+than mobile robots, thermal enclosures and DC motors
+OE2: Implement control laws on Arduino boards for control
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OP5
+x
+x
+ 
+Description of the content of the constituent element
+ 
+I. Control of a mobile robot to follow a path in advance using sensors
+infrared.
+ 
+II. Control of a mobile obstacle-avoiding robot in a hostile environment through
+sensors
+ultrasound.
+The hardware used for controlling the line-following and/or obstacle-avoiding mobile robot
+East :
+1. Two-wheeled mobile robot
+2. Infrared sensors
+3. Ultrasonic sensors
+4. Arduino board
+5. Integrated circuit (LM398) for driving the wheels of the mobile robot
+ 
+III. Acquisition of data from a temperature sensor of a thermal enclosure at
+across the
+Arduino cards and real-time display of this data whether on 7" displays
+segments or directly on PC. Possibly, it is a question of implementing a PID command
+via the Arduino board.
+The equipment used for acquiring data from the thermal enclosure is:
+1. Thermal enclosure equipped with a halogen lamp
+2. Arduino board
+3. Temperature sensor
+4. 7-segment display compatible with Arduino board
+5. PC
+ 
+IV. Design and implementation of a range of PI and PID control approaches for the
+speed control of a direct current motor (DCM) equipped with an incremental encoder, and
+this via Arduino cards.
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Part 1
+ 
+ 
+x
+ 
+ 
+5
+Part 2
+ 
+ 
+x
+ 
+ 
+5
+Part 3
+ 
+ 
+x
+ 
+ 
+6
+Part 4
+ 
+ 
+x
+ 
+ 
+6:30 a.m.
+ 
+ 
+ 
+Reference books:
+ 
+1. Erik Bartmann “The big book of Arduino” Editions Eyrolles, 2015
+2. Massimo Banzi and Michael Shiloh “Get started with Arduino” Editions Dunod, 2015
+3. Christian Tavernier “Arduino - Master its programming and its interface cards (shields)”
+Dunod Editions, 2011
+4. Yves Mergy “Arduino-uno in practice” Editions Books on Demand, 2016

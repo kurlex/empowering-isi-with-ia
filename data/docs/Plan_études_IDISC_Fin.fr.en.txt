@@ -1,0 +1,6426 @@
+Half
+1
+Mathematics 1
+Signals and Systems
+Algorithmics and implementation
+Theory of
+computer science
+Systems
+operating and implementation
+in work
+SKILLS
+ 
+behavioral I
+Degree: Engineer in Applied and Technological Sciences
+Option: Engineering and Development of Infrastructure and Communications Services (IDISC)
+Year
+Units
+semester Units
+SKILLS
+behavioral II
+2
+Mathematics 2
+Systems and
+architectures
+Telecommunications
+programming and
+ 
+compilation
+Databases and
+implementation
+1
+semester Units
+Software engineering and
+systems
+intelligent
+Foundations of
+IoT systems
+Mathematics for
+the engineer
+Total first year
+Distributed systems
+SKILLS
+behavioral III
+3
+semester Units
+Networks & Security I
+Technologies and
+protocols of
+wide area networks
+Assessment tools
+ 
+networks
+Web Services &
+development
+mobile and networks
+SKILLS
+behavioral IV
+2
+4
+Mobile networks and
+ 
+wireless
+1ECTS=30h (C+TD+TP+assimilation)
+2
+semester Units
+Data science and
+technology watch
+SKILLS
+3
+Advanced networks and
+ 
+Engineering
+Networks & Security II
+5
+Virtualization of
+systems and networks
+VoIP, telecom services
+ 
+& Multimedia
+Total second year
+2
+PFE
+3
+Legend
+Total third year
+SKILLS
+behavioral V
+Optional modules
+CS1: Model, analyze, simulate, and solve problems of telecommunications networks.
+CS2: Pilot innovative projects intended for communicating systems following the evolution of emerging technologies
+CS3: Ensure the technical operation of the IT system according to standards relating to quality and security
+CS4: Design, develop, implement ICT solutions and IS security policies.
+CS5: Test and validate the operation of the IS in terms of connectivity, infrastructure capacity and security
+CS6: Master the scientific tools for implementing new virtual data storage solutions and va
+CS7: Master the standards and best practices with a view to auditing IS and proposing improvements.
+CS8: Develop managerial and industrial culture skills.
+CS9: Being able to undertake, innovate, develop personally and relationally, and communicate with
+CS10: Integrate into professional life and get involved within the company.
+Assimilation
+Linear Algebra
+3
+40.00
+Math supplement
+3
+40.00
+Signal processing
+2
+30.00
+Engineer Electronics
+4
+60.00
+Information theory and coding
+2
+30.00
+Fundamental algorithms
+3
+30.00
+Mini algorithmic project
+1
+20.00
+Theory of languages ​​and automata
+3
+30.00
+Computer logic
+3
+30.00
+Advanced Operating Systems
+3
+30.00
+Mini project Operating systems
+1
+20.00
+Language and methodology
+1
+10.00
+Business Communication  
+1
+10.00
+Total
+30
+380.00
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Applied and Technological
+Development of Communications Infrastructure and Services (IDISC)
+Total face-to-face = 1920
+Modules/materials
+ECTS credits
+Modules/materials
+ECTS credits
+assimilation
+Applied analysis
+2
+30
+Numerical analysis
+3
+45
+Dynamical systems theory
+3
+45
+ 
+Advanced processor architecture
+2.5
+35
+Mini project on microprocessor systems
+1
+10
+Waves and applications
+2.5
+35
+Analogue and digital telecommunications
+3
+45
+Object Programming
+3
+45
+Compilation technique
+3
+45
+Databases and interfaces
+3
+45
+Mini project object programming and databases
+1
+10
+Language and Methodology
+1
+10
+Digital management and information systems
+1
+10
+Business Communication
+1
+10
+Total
+30
+420
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Modules/materials
+ECTS credits
+assimilation
+Statistical methods
+3
+45.00
+Optimization
+3
+45.00
+microcontrollers and objects
+connected
+2
+30.00
+Event systems
+discreet
+2
+30.00
+Business networks
+3
+45.00
+Mini-project
+microcontrollers and objects
+1
+10.00
+Systems Foundations
+ 
+distributed
+1
+10.00
+Client/server architecture
+and programming
+2
+30.00
+System programming
+ 
+under Unix
+1
+10.00
+Distributed Systems Project
+3
+45.00
+Oriented modeling
+objects
+3
+45.00
+Software Engineering
+3
+45.00
+AI and Expert Systems
+1
+10.00
+Personal Development
+ 
+and Socializing
+1
+10.00
+ICT law
+1
+10.00
+Introductory course
+Total
+30
+420.00
+Total credits per skill
+Modules/materials
+ECTS credits
+assimilation
+Mobile radio networks
+3
+35.00
+Wireless network technologies
+and Internet of Things
+3
+35.00
+Experimentation Project of
+IOT
+1
+10.00
+Administration and
+network supervision
+3
+35.00
+Advanced Cryptography
+2
+30.00
+Optical communications
+2
+30.00
+Wide Area Networks and Networks
+of operators
+3
+45.00
+Network simulation
+3
+45.00
+Stochastic modeling
+3
+35.00
+Development of
+web applications and services
+2
+30.00
+Development of
+ 
+mobile applications
+1
+10.00
+Mini-Development Project
+ 
+mobile and networks
+1
+10.00
+Internet Marketing
+1
+10.00
+Personal development and
+socializing
+1
+10.00
+Personal project and
+professional
+1
+10.00
+Total
+30
+380.00
+Total hourly volume per skill
+Percentage
+Total hourly volume per skill
+Percentage
+Total credits per skill
+Modules/materials
+ECTS credits
+assimilation
+Virtualization of Systems and
+Cloud computing
+2.5
+40.00
+Virtualization and
+Softwarization of networks
+2
+30.00
+Evolution and Migration to 5G
+2.5
+40.00
+Radio network engineering
+mobile
+2
+30.00
+Mini-project evaluation of
+network performance
+1
+10.00
+Infrastructure security
+2.5
+40.00
+Security Audit and Pentesting
+2.5
+40.00
+All-IP convergence and
+service platforms
+2.5
+40.00
+Coding and Securing
+multimedia data   
+2.5
+40.00
+Mini VoIP project and
+telecom services
+1
+10.00
+Big Data
+1
+10.00
+Machine Learning
+1
+10.00
+English
+1
+10.00
+Academic literacy and ICT
+1
+10.00
+Innovation and entrepreneurship
+1
+10.00
+Optional module 1 (blockchain)
+2
+30.00
+Optional Module 2 (Cyber ​​Security)
+2
+30.00
+Advanced training course
+S2 Summation
+30
+430.00
+Graduation Project
+30
+x: Beginner
+xx: Intermediate
+xxx: Advanced
+Percentage
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Total credits per skill
+Total hourly volume per skill
+solve telecommunications network problems.
+és to communicating systems following the evolution of emerging technologies.
+and of the computer system according to the standards related to the quality and security of the information system.
+ICT solutions and IS security policies service.
+IS in terms of connectivity, infrastructure capacity and security.
+implementation of new virtual data storage solutions and validation of the technical aspects of storage.
+practices for auditing information systems and proposing improvements.
+general and industrial culture.
+to develop personally and relationally, and communicate with different foreign languages.
+and get involved within the company.
+Course
+TD
+TP
+PeW
+CS1
+37.50
+30.00
+7.50
+0
+xx
+37.50
+30.00
+7.50
+0
+xx
+30.00
+22.50
+7.50
+0
+52.50
+22.50
+15.00
+9
+6.00
+x
+30.00
+22.50
+7.50
+0
+45.00
+22.50
+22.50
+0
+22.50
+0.00
+0.00
+0
+22.50
+45.00
+22.50
+22.50
+0
+x
+45.00
+22.50
+22.50
+0
+x
+45.00
+22.50
+15.00
+3
+4.50
+xxx
+15.00
+0.00
+0.00
+0
+15.00
+22.50
+0.00
+18.00
+4.50
+22.50
+0.00
+18.00
+4.50
+450.00
+217.50
+163.50
+12.00
+57.00
+262.5
+19
+262.5
+30%
+edits by skill
+and schedule by skill
+Percentage
+charge
+total
+distribution of hourly load
+Scientific tools
+and technique
+charge
+total
+Course
+TD
+TP
+PeW
+CS1
+30.00
+22.50
+7.50
+xxx
+45.00
+22.50
+15.00
+3.00
+4.50
+xxx
+45.00
+22.50
+15.00
+3.00
+4.50
+30.00
+22.50
+7.50
+xxx
+15.00
+15.00
+xxx
+30.00
+22.50
+7.50
+x
+45.00
+22.50
+7.50
+9.00
+6.00
+x
+45.00
+30.00
+15.00
+45.00
+22.50
+15.00
+3.00
+4.50
+37.50
+22.50
+9.00
+6.00
+15.00
+15.00
+22.50
+18.00
+4.50
+22.50
+18.00
+4.50
+22.50
+18.00
+4.50
+450.00
+246.00
+93.00
+42.00
+69.00
+14
+195
+22%
+900
+464
+257
+54
+126
+195
+edits by skill
+and schedule by skill
+Percentage
+100%
+52%
+29%
+6%
+14%
+457.5
+24%
+charge
+total
+Course
+TD
+TP
+PeW
+CS1
+37.50
+30.00
+7.50
+0.00
+x
+45.00
+22.50
+15.00
+7.50
+x
+30.00
+22.50
+7.50
+0.00
+x
+22.50
+15.00
+7.50
+0.00
+x
+37.50
+22.50
+0.00
+9.00
+6.00
+22.50
+0.00
+0.00
+22.50
+x
+22.50
+15.00
+7.50
+0.00
+37.50
+22.50
+0.00
+12.00
+3.00
+30.00
+22.50
+0.00
+7.50
+22.50
+0.00
+0.00
+0.00
+22.50
+45.00
+22.50
+15.00
+7.50
+xx
+15.00
+15.00
+0.00
+0.00
+37.50
+22.50
+7.50
+7.50
+xx
+22.50
+0.00
+18.00
+0.00
+4.50
+22.50
+18.00
+0.00
+0.00
+4.50
+450.00
+250.50
+85.50
+51.00
+63.00
+240
+15
+edits by skill
+240
+24%
+charge
+total
+Course
+TD
+TP
+PeW
+CS1
+37.50
+30.00
+7.50
+x
+37.50
+22.50
+7.50
+7.50
+x
+22.50
+22.50
+x
+37.50
+22.50
+15.00
+30.00
+22.50
+7.50
+30.00
+22.50
+7.50
+x
+45.00
+30.00
+15.00
+30.00
+22.50
+7.50
+37.50
+22.50
+7.50
+7.50
+xx
+30.00
+22.50
+7.50
+22.50
+15.00
+7.50
+22.50
+22.50
+22.50
+18.00
+4.50
+22.50
+18.00
+4.50
+22.50
+18.00
+4.50
+450.00
+250.50
+58.50
+67.50
+73.50
+165
+12
+165
+13%
+and schedule by skill
+Percentage
+and schedule by skill
+Percentage
+edits by skill
+100%
+56%
+13%
+15%
+16%
+405
+17%
+charge
+total
+Course
+TD
+TP
+PeW
+CS1
+30.00
+22.50
+7.50
+22.50
+11.25
+11.25
+x
+30.00
+22.50
+7.50
+xx
+22.50
+15.00
+7.50
+xx
+22.50
+22.50
+30.00
+22.50
+3.00
+4.50
+30.00
+22.50
+3.00
+4.50
+30.00
+22.50
+7.50
+x
+30.00
+22.50
+7.50
+22.50
+22.50
+x
+30.00
+15.00
+15.00
+x
+22.50
+15.00
+7.50
+x
+22.50
+18.00
+4.50
+22.50
+18.00
+4.50
+22.50
+18.00
+4.50
+30.00
+22.50
+7.50
+30.00
+22.50
+7.50
+450.00
+254.25
+88.50
+39.75
+67.50
+12
+180
+19%
+450
+450
+0
+0
+0%
+900.0
+254.3
+88.5
+39.8
+517.5
+180
+100%
+28%
+10%
+4%
+58%
+9%
+TD: Practical work
+TP: Practical work
+PeW: Personal works
+Percentage
+edits by skill
+and schedule by skill
+Percentage
+edits by skill
+and schedule by skill
+Management
+erial
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+sum
+1
+1
+x
+1
+x
+2
+x
+x
+x
+3
+xx
+xx
+2
+xx
+xx
+2
+x
+x
+3
+x
+x
+x
+4
+xxx
+2
+xxx
+1
+xx
+xx
+2
+x
+x
+x
+3
+30
+217.5
+97.5
+202.5
+45
+0
+22.5
+45
+45
+2
+14
+6
+14
+3
+0
+1
+2
+2
+63
+30
+217.5
+97.5
+202.5
+45
+0
+22.5
+45
+45
+967.5
+3%
+22%
+10%
+22%
+5%
+0%
+2%
+3%
+3%
+Scientific tools
+and technique
+Technological trades
+self-development, innovation
+and projects
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+1
+1
+x
+1
+xxx
+2
+xxx
+2
+x
+2
+x
+x
+3
+xx
+xx
+2
+x
+x
+x
+3
+x
+x
+x
+3
+x
+x
+x
+3
+xxx
+xxx
+2
+x
+x
+x
+x
+4
+xx
+xx
+xx
+3
+9.5
+13.5
+10
+10
+0
+0
+2
+3
+3
+65
+142.5
+187.5
+142.5
+142.5
+0
+0
+45
+67.5
+67.5
+990
+15%
+21%
+15%
+15%
+0%
+0%
+3%
+5%
+5%
+142.5
+187.5
+142.5
+142.5
+0
+0
+45
+67.5
+45
+172.5
+405
+240
+345
+45
+0
+67.5
+112.5
+90
+0
+9%
+21%
+12%
+18%
+2%
+0%
+3%
+6%
+5%
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+1
+1
+x
+x
+3
+x
+2
+xx
+xx
+xx
+xx
+4
+x
+x
+3
+x
+x
+x
+3
+x
+x
+2
+x
+x
+x
+3
+x
+1
+xx
+xx
+3
+xx
+1
+xx
+2
+xx
+xx
+xx
+3
+x
+x
+2
+52.5
+150
+187.5
+157.5
+37.5
+37.5
+97.5
+22.5
+45
+2
+10
+11
+11
+3
+3
+5
+1
+2
+63
+52.5
+150
+187.5
+157.5
+37.5
+37.5
+97.5
+22.5
+45
+1027.5
+3%
+16%
+17%
+17%
+5%
+5%
+8%
+2%
+3%
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+x
+x
+x
+4
+x
+x
+x
+4
+x
+x
+x
+x
+x
+6
+xxx
+xxx
+xxx
+xxx
+4
+x
+x
+2
+x
+2
+xxx
+xxx
+xxx
+3
+xxx
+xxx
+xxx
+3
+1
+xx
+xx
+2
+x
+x
+2
+xx
+x
+x
+3
+xx
+xx
+xx
+3
+xxx
+xxx
+xxx
+3
+xx
+xx
+xx
+3
+97.5
+210
+105
+247.5
+112.5
+112.5
+112.5
+90
+90
+7
+16
+6
+17
+9
+9
+5
+4
+4
+89
+97.5
+210
+105
+247.5
+112.5
+112.5
+112.5
+90
+90
+1342.5
+8%
+18%
+7%
+19%
+10%
+10%
+6%
+4%
+4%
+150
+360
+292.5
+405
+150
+150
+210
+112.5
+135
+2370
+6%
+15%
+12%
+17%
+6%
+6%
+9%
+5%
+6%
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+xx
+1
+xxx
+2
+xx
+2
+xx
+2
+xx
+xx
+x
+x
+4
+xx
+1
+xxx
+xxx
+2
+x
+2
+xxx
+1
+x
+x
+x
+x
+x
+6
+x
+x
+3
+x
+x
+3
+x
+x
+2
+xx
+x
+x
+3
+xx
+x
+xx
+3
+xxx
+xxx
+2
+xxx
+xxx
+2
+8
+1
+6
+12.5
+6.5
+2.5
+4
+5
+5
+62.5
+105
+22.5
+112.5
+172.5
+105
+30
+90
+112.5
+112.5
+1042.5
+13%
+2%
+10%
+20%
+10%
+4%
+6%
+8%
+8%
+xxx
+xxx
+0
+0
+0
+0
+0
+0
+0
+30
+30
+60
+0
+0
+0
+0
+0
+0
+0
+450
+450
+900
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+50%
+50%
+105
+22.5
+112.5
+172.5
+105
+30
+90
+562.5
+562.5
+1942.5
+5%
+1%
+6%
+9%
+5%
+2%
+5%
+29%
+29%
+1935
+S1
+S2
+S3
+S4
+S5
+S1
+S2
+S3
+S4
+S5
+CS1
+32.00%
+30.23%
+34.09%
+28.47%
+hourly volume per group of co
+Category A: Scientific and technical tools (CS1 + C
+33.33%
+36.15%
+26.98%
+Credits by competency group
+Category A: Scientific and technical tools (CS1 + C
+32.00%
+19.55%
+S1
+27.13%
+S2
+19.70%
+S3
+23.36%
+S4
+12.29%
+S5
+17.27%
+CS1
+S1
+30.16%
+S2
+21.54%
+S3
+23.81%
+S4
+13.48%
+S5
+19.20%
+PFE
+0.00%
+S1-S4
+53.58%
+22.25%
+9.58%
+14.58%
+Individual Work (IT)
+Hourly volume C/TD/TP and TI
+Course (C)
+Practical work (TD)
+Practical work (TP)
+S1
+48.33%
+36.33%
+2.67%
+12.67%
+100%
+1st Year
+Course
+51.50%
+TD
+28.50%
+TP
+6.00%
+Course (C)
+Practical work (TD)
+Practical work TP
+Individual IT Work
+Total
+Hourly volume per semester
+% Course TD TP TPE per year
+Personal Work (TPe)
+14.00%
+Course
+463.50
+TD
+256.50
+TP
+54.00
+Personal Work (TPe)
+126.00
+Face-to-face
+86.00%
+Non-Presential
+14.00%
+Hourly volume of S1+S2+S3
+Hourly volume per year
+% Face-to-Face - Non-Face per year
+CS2
+CS3
+CS4
+CS5
+CS6
+58.66%
+8.38%
+32.00%
+45.60%
+6.40%
+30.23%
+58.14%
+2.33%
+34.09%
+47.73%
+4.55%
+28.47%
+55.47%
+9.49%
+45.60%
+6.40%
+schedule by skill group
+s scientific and technical (CS1 + CS2)
+Category B: Trade technologies (CS3 + CS4 + CS5 +CS6 + CS7)
+Category C: Managerial CS8
+64.04%
+5.62%
+33.33%
+58.73%
+1.59%
+36.15%
+51.54%
+3.08%
+26.98%
+60.32%
+7.94%
+Category B: Trade technologies (CS3 + CS4 + CS5 +CS6 + CS7)
+Category C: Managerial (CS8)
+its by skill group
+s scientific and technical (CS1 + CS2)
+32.00%
+19.55%
+Hourly volume vs. Specific skills
+3.10%
+22.48%
+10.08%
+20.93%
+4.65%
+14.39%
+18.94%
+14.39%
+14.39%
+0.00%
+5.11%
+14.60%
+18.25%
+15.33%
+3.65%
+7.26%
+15.64%
+7.82%
+18.44%
+8.38%
+10.07%
+2.16%
+10.79%
+16.55%
+10.07%
+CS2
+CS3
+CS4
+CS5
+CS6
+3.17%
+22.22%
+9.52%
+22.22%
+4.76%
+14.62%
+20.77%
+15.38%
+15.38%
+0.00%
+3.17%
+15.87%
+17.46%
+17.46%
+4.76%
+7.87%
+17.98%
+6.74%
+19.10%
+10.11%
+12.80%
+1.60%
+9.60%
+20.00%
+10.40%
+0%
+0%
+0%
+0%
+0%
+S5
+Total
+S1-S4
+56.50%
+55.04%
+Course (C)
+53.58%
+19.67%
+20.96%
+Practical Work (TD)
+22.25%
+8.83%
+9.21%
+Practical work (TP)
+9.58%
+15.00%
+14.79%
+Individual work (IT)
+14.58%
+C/TD/TP and TI credits
+Credits vs Specific Skills
+S2
+S3
+S4
+S5
+54.67%
+55.67%
+55.67%
+56.50%
+20.67%
+19.00%
+13.00%
+19.67%
+9.33%
+11.33%
+15.00%
+8.83%
+15.33%
+14.00%
+16.33%
+15.00%
+100%
+100%
+100%
+100%
+2nd Year
+3rd Year
+55.67%
+28.25%
+16.00%
+9.83%
+13.17%
+4.42%
+go per semester
+TP TPE per year
+15.17%
+57.50%
+501.00
+254.25
+144.00
+88.50
+118.50
+39.75
+136.50
+517.50
+84.83%
+42.50%
+15.17%
+57.50%
+Hourly volume of S1+S2+S3
+schedule by year
+n Face-to-face per year
+Percentage of volume
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+CS1
+CS2
+CS3
+CS4
+1st year
+Category D: self-development, innovation and projects (CS9 + CS10)
+9.23%
+4.76%
+8.99%
+16.00%
+Category D: self-development, innovation and projects (CS9 + CS10)
+9.30%
+13.64%
+6.57%
+13.41%
+16.00%
+CS7
+CS8
+CS9
+CS10
+specific skills
+0.00%
+2.33%
+4.65%
+4.65%
+0.00%
+4.55%
+6.82%
+6.82%
+3.65%
+9.49%
+2.19%
+4.38%
+8.38%
+8.38%
+6.70%
+6.70%
+2.88%
+8.63%
+10.79%
+10.79%
+CS7
+CS8
+CS9
+CS10
+0.00%
+1.59%
+3.17%
+3.17%
+0.00%
+3.08%
+4.62%
+4.62%
+4.76%
+7.94%
+1.59%
+3.17%
+10.11%
+5.62%
+4.49%
+4.49%
+4.00%
+6.40%
+8.00%
+8.00%
+0%
+0%
+50%
+50%
+S5
+Total
+56.50%
+55.04%
+19.67%
+20.96%
+8.83%
+9.21%
+15.00%
+14.79%
+C/TD/TP and TI credits
+specific energies
+S1
+S2
+S3
+S4
+Course (C)
+48.33%
+54.67%
+55.67%
+55.67%
+Practical Work (TD)
+36.33%
+20.67%
+19.00%
+13.00%
+Practical work (TP)
+2.67%
+9.33%
+11.33%
+15.00%
+Personal Work (TPE)
+12.67%
+15.33%
+14.00%
+16.33%
+Course
+45.14%
+Course
+40.43%
+TD
+18.11%
+TD
+16.47%
+TP
+7.86%
+TP
+7.13%
+Personal work
+28.89%
+Personal work 36%
+Overall hourly charge with PFE
+C/TD/TP and TI credits
+Percentage of hourly volume/skill
+CS5
+CS6
+CS7
+CS8
+1st year
+2nd year
+3rd year
+86.00%
+14.00%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+1st Year
+Face-to-face
+S5
+S6
+56.50%
+19.67%
+8.83%
+15.00%
+100%
+40.43%
+16.47%
+7.13%
+36%
+Distribution of total hourly load with PFE
+Course
+TD
+TP
+Personal work
+CS9
+CS10
+84.83%
+42.50%
+15.17%
+57.50%
+2nd Year
+3rd Year
+Face-to-face - Non-face-to-face/year
+Face-to-face
+Non-Presential
+Distribution of the total hourly load without PFE
+463.50
+501.00
+256.50
+144.00
+54.00
+118.50
+126.00
+136.50
+0%
+10000%
+20000%
+30000%
+40000%
+50000%
+60000%
+70000%
+80000%
+90000%
+100000%
+1st Year
+2nd Year
+Hourly volume of C, TD, TP and TPe/year
+Total hourly charge
+18.11%
+7.86%
+28.89%
+Course
+TD
+TP
+Personal work
+60%
+0%
+10%
+20%
+30%
+40%
+50%
+CS1
+CS2
+CS3
+CS1
+CS2
+CS3
+1st year
+26%
+9%
+21%
+2nd year
+19%
+6%
+17%
+3rd year
+10%
+6%
+1%
+CS1
+CS2
+CS3
+1st year
+25.85%
+8.89%
+21.50%
+2nd year
+18.65%
+5.52%
+16.93%
+3rd year
+19.20%
+12.80%
+1.60%
+total raire without PFE
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+254.25
+88.50
+39.75
+517.50
+3rd Year
+C, TD, TP and TPe/year
+Course
+TD
+TP
+Personal Work (TPe)
+25%
+9%
+11%
+overall hourly rate by specific skill families
+45.14%
+Personal work
+55%
+Percentage of credits/skills
+CS4
+CS5
+CS6
+CS7
+CS8
+1st year
+2nd year
+3rd year
+Scientific and technical tools (CS1 + CS2)
+Trade technologies (CS3 + CS4 + CS5 + CS6 + CS
+Managerial (CS8)
+25.69%
+56.05%
+8.94%
+56.05%
+Category B: Trade technologies (CS3 + CS4 +
+25.69%
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+12%
+19%
+2%
+0%
+2%
+4%
+12%
+18%
+7%
+7%
+7%
+3%
+5%
+10%
+5%
+2%
+3%
+29%
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+12.45%
+18.80%
+2.38%
+0.00%
+2.33%
+3.89%
+12.10%
+18.28%
+7.44%
+7.44%
+6.78%
+3.04%
+9.60%
+20.00%
+10.40%
+4.00%
+6.40%
+29.00%
+Credits vs Specific Skills
+51.50%
+55.67%
+28.50%
+16.00%
+6.00%
+13.17%
+14.00%
+15.17%
+1st Year
+2nd Year
+% C, TD, TP and TPe/year
+Scientific and technical tools (CS1 + CS2)
+Trade technologies (CS3 + CS4 + CS5 +CS6 + CS7)
+Managerial (CS8)
+Managerial (CS8)
+Self-development, innovation and projects (CS9 + CS10)
+CS9
+CS10
+Category D: self-development, innovation and projects (CS9 + CS10)
+11.33%
+Self-development, innovation and projects (CS9 + CS10)
+11.33%
+56.05%
+8.94%
+career paths (CS3 + CS4 + CS5 +CS6 + CS7)
+Category C: Managerial (CS8)
+CS10
+4%
+4%
+29%
+CS10
+3.89%
+3.83%
+29.00%
+28.25%
+9.83%
+4.42%
+57.50%
+3rd Year
+Course
+TD
+TP
+Personal Work (TPe)
+on and projects (CS9 + CS10)
+% students passed >=10 SP
+Linear Algebra
+38.46
+Math supplement
+46.15
+Signal processing
+50
+Engineer Electronics
+57.69
+Information theory and coding
+80.77
+Fundamental algorithms
+0
+Mini algorithmic project
+100
+Theory of languages ​​and automata
+0
+Computer logic
+15.4
+Advanced Operating Systems
+53.8
+Mini project Operating systems
+100
+Language and methodology
+100
+Business Communication  
+61.5
+Applied analysis
+42.3
+Numerical analysis
+3.8
+Dynamical systems theory
+57.7
+ 
+Advanced processor architecture
+38.5
+Mini project on microprocessor systems
+96.2
+Waves and applications
+15.4
+Analogue and telecommunications
+digital
+7.7
+Object Programming
+0
+Compilation technique
+30.8
+Databases and interfaces
+88.46
+Mini project object programming and bases
+of data
+96.15
+Language and Methodology
+80.77
+Digital and system management
+of information
+65.38
+Business Communication
+61.54
+S1
+S2
+Statistical methods
+30.43
+Optimization
+91.3
+microcontrollers and objects
+connected
+47.83
+Event systems
+discreet
+4.35
+Business networks
+100
+Mini-project
+microcontrollers and objects
+connected
+100
+Systems Foundations
+ 
+distributed
+52.17
+Client/server architecture
+and programming
+middleware
+100
+System programming
+ 
+under Unix
+69.57
+Distributed Systems Project
+100
+Oriented modeling
+objects
+86.96
+Software Engineering
+65.22
+AI and Expert Systems
+100
+Personal Development
+ 
+and Socializing
+73.91
+ICT law
+43.48
+Mobile radio networks
+100
+Wireless network technologies
+and Internet of Things
+100
+Experimentation Project of
+IOT
+100
+Administration and
+network supervision
+100
+Advanced Cryptography
+100
+Optical communications
+52.17
+Wide Area Networks and Networks
+of operators
+100
+Network simulation
+78.26
+Stochastic modeling
+30.43
+Development of
+web applications and services
+100
+S3
+S4
+Development of
+ 
+mobile applications
+100
+Mini-Development Project
+ 
+mobile and networks
+100
+Internet Marketing
+100
+Personal development and
+socializing
+91.3
+Personal and professional project
+100
+Virtualization of Systems and
+Cloud computing
+100
+Virtualization and
+Softwarization of networks
+100
+Evolution and Migration to 5G
+100
+Radio network engineering
+mobile
+100
+Mini-project evaluation of
+network performance
+100
+Infrastructure security
+100
+Security Audit and Pentesting
+100
+All-IP convergence and
+service platforms
+telecoms
+100
+Coding and Securing
+multimedia data   
+82.61
+Mini VoIP project and
+telecom services
+100
+Big Data
+100
+Machine Learning
+82.61
+English
+60.87
+Academic literacy and ICT
+26.09
+Innovation and entrepreneurship
+95.65
+Optional module 1 (blockchain)
+100
+Optional Module 2 (Cyber ​​Security)
+95.65
+s6
+PFE
+S5
+% students passed >=10 SR
+CS1
+CS2
+CS3
+CS4
+42.31 2.00
+46.15 2.00
+50
+57.69 1.00
+88.46
+1.00
+1.00
+0
+2.00
+2.00
+100
+2.00
+2.00
+0 1.00
+1.00
+23.1 1.00
+1.00
+57.7 3.00
+3.00
+100
+3.00
+100
+61.5
+10.00
+1.00
+12.00
+5.00
+403.71
+80.77
+676.80
+280.77
+40.37
+80.77
+56.40
+56.15
+430.81
+88.46
+696.2
+288.46
+43,081
+88.46
+58.01666667
+57,692
+42.3 3.00
+3.8 3.00
+73.1
+1.00
+42.3 3.00
+3.00
+96.2 3.00
+3.00
+15.4 1.00
+1.00
+7.7 1.00
+1.00
+0
+2.00
+2.00
+30.8
+1.00
+1.00
+88.46
+1.00
+1.00
+96.15
+1.00
+1.00
+84.62
+73.08
+1.00
+61.54
+14.00
+4.00
+11.00
+5.00
+Main
+565.50
+146.18
+619.51
+215.41
+40.39
+36.55
+56.32
+43.08
+Catch up
+576.90
+169.28
+630.91
+215.41
+41.21
+42.32
+57.36
+43.08
+1.00
+1.00
+1.00
+1.00
+2.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+2.00
+2.00
+2.00
+2.00
+2.00
+9.00
+2.00
+6.00
+9.00
+647.83
+121.74
+521.74
+726.10
+71.98
+60.87
+86.96
+80.68
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+3.00
+1.00
+1.00
+3.00
+3.00
+2.00
+2.00
+1.00
+2.00
+6.00
+3.00
+12.00
+6.00
+413.03
+300.00
+1,134.78
+600.00
+68.84
+100.00
+94.57
+100.00
+1.00
+2.00
+2.00
+2.00
+2.00
+2.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+3.00
+3.00
+9.00
+6.00
+2.00
+8.00
+882.61
+600.00
+200.00
+769.56
+98.07
+100.00
+100.00
+96.20
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+2.00
+2.00
+1.00
+1.00
+1.00
+5.00
+1.00
+0.00
+1.00
+3.00
+3.00
+203.86
+15.40
+0.00
+61.50
+261.50
+261.50
+40.77
+15.40
+0.00
+61.50
+87.17
+87.17
+219.25
+23.1
+0
+61.5
+261.5
+261.5
+43.85
+23.1
+#DIV/0!
+61.5
+87.16666667
+87.16666667
+1.00
+1.00
+1.00
+1.00
+3.00
+3.00
+1.00
+1.00
+1.00
+2.00
+2.00
+2.00
+4.00
+0.00
+0.00
+3.00
+6.00
+6.00
+223.11
+0.00
+0.00
+188.46
+430.77
+430.77
+55.78
+#DIV/0!
+#DIV/0!
+62.82
+71.80
+71.80
+223.11
+0.00
+0.00
+196.16
+450.02
+450.02
+55.78
+#DIV/0!
+#DIV/0!
+65.39
+75.00
+75.00
+1.00
+1.00
+1.00
+2.00
+2.00
+2.00
+1.00
+1.00
+2.00
+2.00
+2.00
+2.00
+1.00
+1.00
+7.00
+2.00
+2.00
+5.00
+2.00
+3.00
+526.10
+200.00
+200.00
+339.13
+147.82
+191.30
+75.16
+100.00
+100.00
+67.83
+73.91
+63.77
+1.00
+1.00
+1.00
+1.00
+1.00
+3.00
+3.00
+3.00
+1.00
+1.00
+3.00
+3.00
+3.00
+3.00
+2.00
+1.00
+1.00
+1.00
+3.00
+2.00
+2.00
+3.00
+3.00
+3.00
+2.00
+2.00
+2.00
+11.00
+9.00
+9.00
+10.00
+8.00
+8.00
+1,052.17
+834.78
+834.78
+973.90
+773.90
+773.90
+95.65
+92.75
+92.75
+97.39
+96.74
+96.74
+2.00
+3.00
+2.00
+1.00
+1.00
+2.00
+3.00
+3.00
+3.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+2.00
+1.00
+1.00
+2.00
+1.00
+2.00
+3.00
+3.00
+15.00
+7.00
+3.00
+7.00
+5.00
+6.00
+1,434.78
+682.61
+300.00
+543.48
+382.61
+478.26
+95.65
+97.52
+100.00
+77.64
+76.52
+79.71
+CS1
+CS2
+CS3
+S1
+10.00
+1.00
+12.00
+S1
+403.71
+80.77
+676.80
+S1
+40.37
+80.77
+56.40
+S2
+14.00
+4.00
+11.00
+S2
+565.50
+146.18
+619.51
+S2
+40.39
+36.55
+56.32
+S3
+9.00
+2.00
+6.00
+S3
+647.83
+121.74
+521.74
+S3
+71.98
+60.87
+86.96
+S4
+6.00
+3.00
+12.00
+S4
+413.03
+300.00
+1,134.78
+S4
+68.84
+100.00
+94.57
+S5
+9.00
+6.00
+2.00
+S5
+882.61
+600.00
+200.00
+S5
+98.07
+100.00
+100.00
+S6
+S6
+S6
+TOTALS
+S1
+10.00
+1.00
+12.00
+S2
+14.00
+4.00
+11.00
+S3
+9.00
+2.00
+6.00
+S4
+6.00
+3.00
+12.00
+S5
+9.00
+6.00
+2.00
+S6
+0
+0
+0
+TOTAL1
+48.00
+16.00
+43.00
+S1
+403.71
+80.77
+676.80
+S2
+565.50
+146.18
+619.51
+S3
+647.83
+121.74
+521.74
+S4
+413.03
+300.00
+1,134.78
+S5
+98.07
+100.00
+100.00
+S6
+0
+0
+0
+TOTAL2
+2,128.14
+748.69
+3,052.83
+CS1
+CS2
+CS3
+44.3362037
+46.793125
+70.99604651
+50
+50
+50
+CS1
+CS2
+CS3
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+CS1
+CS2
+S1
+10.00
+1.00
+12.00
+S1
+430.81
+88.46
+696.2
+S1
+43,081
+88.46
+58.01666667
+S2
+14.00
+4.00
+11.00
+S2
+576.90
+169.28
+630.91
+S2
+41.21
+42.32
+57.36
+S3
+9.00
+2.00
+6.00
+S3
+647.83
+121.74
+521.74
+S3
+71.98
+60.87
+86.96
+S4
+6.00
+3.00
+12.00
+S4
+413.03
+300.00
+1,134.78
+S4
+68.84
+100.00
+94.57
+S5
+9.00
+6.00
+2.00
+S5
+882.61
+600.00
+200.00
+S5
+98.07
+100.00
+100.00
+S6
+S6
+S6
+TOTALS
+S1
+10.00
+1.00
+12.00
+S2
+14.00
+4.00
+11.00
+S3
+9.00
+2.00
+6.00
+S4
+6.00
+3.00
+12.00
+S5
+9.00
+6.00
+2.00
+S6
+0
+0
+0
+TOTAL1
+48.00
+16.00
+43.00
+S1
+430.81
+88.46
+696.2
+S2
+576.90
+169.28
+630.91
+S3
+647.83
+121.74
+521.74
+S4
+413.03
+300.00
+1,134.78
+S5
+98.07
+100.00
+100.00
+S6
+0
+0
+0
+TOTAL2
+2166.637778
+779.48
+3083.63
+CS1
+CS2
+CS3
+45.13828704
+48.7175
+71.71232558
+50
+50
+50
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+Promotion 20
+Catch-up Session
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+5.00
+5.00
+1.00
+0.00
+1.00
+3.00
+280.77
+203.86
+15.40
+0.00
+61.50
+261.50
+56.15
+40.77
+15.40
+0.00
+61.50
+87.17
+5.00
+4.00
+0.00
+0.00
+3.00
+6.00
+215.41
+223.11
+0.00
+0.00
+188.46
+430.77
+43.08
+55.78
+#DIV/0!
+#DIV/0!
+62.82
+71.80
+9.00
+7.00
+2.00
+2.00
+5.00
+2.00
+726.10
+526.10
+200.00
+200.00
+339.13
+147.82
+80.68
+75.16
+100.00
+100.00
+67.83
+73.91
+6.00
+11.00
+9.00
+9.00
+10.00
+8.00
+600.00
+1,052.17
+834.78
+834.78
+973.90
+773.90
+100.00
+95.65
+92.75
+92.75
+97.39
+96.74
+8.00
+15.00
+7.00
+3.00
+7.00
+5.00
+769.56
+1,434.78
+682.61
+300.00
+543.48
+382.61
+96.20
+95.65
+97.52
+100.00
+77.64
+76.52
+5.00
+5.00
+1.00
+0.00
+1.00
+3.00
+5.00
+4.00
+0.00
+0.00
+3.00
+6.00
+9.00
+7.00
+2.00
+2.00
+5.00
+2.00
+6.00
+11.00
+9.00
+9.00
+10.00
+8.00
+8.00
+15.00
+7.00
+3.00
+7.00
+5.00
+0
+0
+0
+0
+0
+0
+33.00
+42.00
+19.00
+14.00
+26.00
+24.00
+280.77
+203.86
+15.40
+0.00
+61.50
+261.50
+215.41
+223.11
+0.00
+0.00
+188.46
+430.77
+726.10
+526.10
+200.00
+200.00
+339.13
+147.82
+Promotion 20/21 SP
+600.00
+1,052.17
+834.78
+834.78
+973.90
+773.90
+96.20
+95.65
+97.52
+100.00
+77.64
+76.52
+0
+0
+0
+0
+0
+0
+1,918.48
+2,100.89
+1,147.70
+1,134.78
+1,640.63
+1,690.51
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+58.13560606
+50.0212381
+60.40503759
+81.05571429
+63.10115385
+70,438
+50
+50
+50
+50
+50
+50
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+Promotion 20/21 SR
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+Promotion 20/21 -IDISC
+Main session
+%Etds successful
+Threshold
+5.00
+5.00
+1.00
+0.00
+1.00
+3.00
+288.46
+219.25
+23.1
+0
+61.5
+261.5
+57,692
+43.85
+23.1
+#DIV/0!
+61.5
+87.16666667
+5.00
+4.00
+0.00
+0.00
+3.00
+6.00
+215.41
+223.11
+0.00
+0.00
+196.16
+450.02
+43.08
+55.78
+#DIV/0!
+#DIV/0!
+65.39
+75.00
+9.00
+7.00
+2.00
+2.00
+5.00
+2.00
+726.10
+526.10
+200.00
+200.00
+339.13
+147.82
+80.68
+75.16
+100.00
+100.00
+67.83
+73.91
+6.00
+11.00
+9.00
+9.00
+10.00
+8.00
+600.00
+1,052.17
+834.78
+834.78
+973.90
+773.90
+100.00
+95.65
+92.75
+92.75
+97.39
+96.74
+8.00
+15.00
+7.00
+3.00
+7.00
+5.00
+769.56
+1,434.78
+682.61
+300.00
+543.48
+382.61
+96.20
+95.65
+97.52
+100.00
+77.64
+76.52
+5.00
+5.00
+1.00
+0.00
+1.00
+3.00
+5.00
+4.00
+0.00
+0.00
+3.00
+6.00
+9.00
+7.00
+2.00
+2.00
+5.00
+2.00
+6.00
+11.00
+9.00
+9.00
+10.00
+8.00
+8.00
+15.00
+7.00
+3.00
+7.00
+5.00
+0
+0
+0
+0
+0
+0
+33.00
+42.00
+19.00
+14.00
+26.00
+24.00
+288.46
+219.25
+23.1
+0
+61.5
+261.5
+215.41
+223.11
+0.00
+0.00
+196.16
+450.02
+726.10
+526.10
+200.00
+200.00
+339.13
+147.82
+600.00
+1,052.17
+834.78
+834.78
+973.90
+773.90
+96.20
+95.65
+97.52
+100.00
+77.64
+76.52
+0
+0
+0
+0
+0
+0
+1926.165
+2116.282
+1155.395714
+1134.78
+1648.33
+1709.762
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+58.36863636
+50.38766667
+60.81030075
+81.05571429
+63.39730769
+71.24008333
+50
+50
+50
+50
+50
+50
+CS7
+CS8
+CS9
+CS10
+option 20-21 - IDISC
+on Catch-up
+%Etds successful
+Threshold
+CS10
+3.00
+261.50
+87.17
+6.00
+430.77
+71.80
+3.00
+191.30
+63.77
+8.00
+773.90
+96.74
+6.00
+478.26
+79.71
+1
+100
+1
+3.00
+6.00
+3.00
+8.00
+6.00
+1
+27.00
+261.50
+430.77
+191.30
+773.90
+79.71
+100.00
+1,837.18
+CS10
+68.0437037
+50
+CS10
+%Etds successful
+3.00
+261.5
+87.16666667
+6.00
+450.02
+75.00
+3.00
+191.30
+63.77
+8.00
+773.90
+96.74
+6.00
+478.26
+79.71
+1
+100
+1
+3.00
+6.00
+3.00
+8.00
+6.00
+1
+27.00
+261.5
+450.02
+191.30
+773.90
+79.71
+100.00
+1856.43
+CS10
+68.75666667
+50
+% students passed >=10 SP
+Linear Algebra
+59.26
+Math supplement
+59.26
+Signal processing
+33.33
+Engineer Electronics
+74.07
+Information theory and coding
+70.37
+Fundamental algorithms
+0
+Mini algorithmic project
+100
+Theory of languages ​​and automata
+40.74
+Computer logic
+18.52
+Advanced Operating Systems
+44.44
+Mini project Operating systems
+100
+Language and methodology
+92.59
+Business Communication
+74.07
+Applied analysis
+48.15
+Numerical analysis
+77.78
+Dynamical systems theory
+62.96
+ 
+Advanced processor architecture
+44.44
+Mini project on microprocessor systems
+100
+Waves and applications
+40.74
+Analogue and telecommunications
+digital
+88.89
+Object Programming
+33.33
+Compilation technique
+100
+Databases and interfaces
+70.37
+Mini project object programming and
+databases
+100
+Language and Methodology
+88.89
+Digital and system management
+of information
+96.3
+Business Communication
+100
+S1
+S2
+Statistical methods
+42.31
+Optimization
+50.00
+microcontrollers and objects
+connected
+76.92
+Event systems
+discreet
+84.62
+Business networks
+96.15
+Mini-project
+microcontrollers and objects
+connected
+96.15
+Systems Foundations
+ 
+distributed
+61.54
+Client/server architecture
+and programming
+middleware
+84.62
+System programming
+ 
+under Unix
+80.77
+Distributed Systems Project
+96.15
+Oriented modeling
+objects
+73.08
+Software Engineering
+7.69
+AI and Expert Systems
+100.00
+Personal Development
+ 
+and Socializing
+76.92
+ICT law
+42.31
+Mobile radio networks
+88.46
+Wireless network technologies
+and Internet of Things
+100.00
+Experimentation Project of
+IOT
+100.00
+Administration and
+network supervision
+100.00
+Advanced Cryptography
+96.15
+Optical communications
+30.77
+S3
+Wide Area Networks and Networks
+of operators
+100.00
+Network simulation
+73.08
+Stochastic modeling
+3.85
+Development of
+web applications and services
+100.00
+Development of
+ 
+mobile applications
+100.00
+Mini-Development Project
+ 
+mobile and networks
+100.00
+Internet Marketing
+46.15
+Personal development and
+socializing
+76.92
+Personal and professional project
+34.62
+Virtualization of Systems and
+Cloud computing
+92.31
+Virtualization and
+Softwarization of networks
+96.15
+Evolution and Migration to 5G
+88.46
+Radio network engineering
+mobile
+96.15
+Mini-project evaluation of
+network performance
+96.15
+Infrastructure security
+96.15
+Security Audit and Pentesting
+80.77
+All-IP convergence and
+service platforms
+telecoms
+73.08
+Coding and Securing
+multimedia data   
+23.08
+Mini VoIP project and
+telecom services
+96.15
+Big Data
+96.15
+Machine Learning
+76.92
+English
+92.31
+Academic literacy and ICT
+92.31
+Innovation and entrepreneurship
+69.23
+Optional module 1 (blockchain)
+92.31
+Optional Module 2 (Cyber ​​Security)
+96.15
+S5
+S4
+% students passed >=10 SR
+CS1
+CS2
+CS3
+CS4
+62.96 2.00
+59.26 2.00
+33.33
+81.48 1.00
+77.78
+1.00
+1.00
+0
+2.00
+2.00
+100
+2.00
+2.00
+48.15 1.00
+1.00
+18.52 1.00
+1.00
+51.85 3.00
+3.00
+100
+3.00
+92.59
+74.07
+SP
+10.00
+1.00
+12.00
+5.00
+503.69
+70.37
+692.58
+270.37
+50,369
+70.37
+57,715
+54,074
+SR
+548.14
+77.78
+722.22
+277.78
+54,814
+77.78
+60.185
+55,556
+55.56 3.00
+88.89 3.00
+74.07
+1.00
+55.56 3.00
+3.00
+100 3.00
+3.00
+40.74 1.00
+1.00
+96.3 1.00
+1.00
+33.33
+2.00
+2.00
+100
+1.00
+1.00
+74.07
+1.00
+1.00
+100
+1.00
+1.00
+88.89
+96.3
+1.00
+100
+SP
+14.00
+4.00
+11.00
+5.00
+940.74
+288.89
+770.35
+337.03
+67.20
+72.22
+70.03
+67.41
+SR
+1,037.07
+307.41
+807.41
+340.73
+74.07642857
+76.8525
+73.40090909
+68.146
+42.31 1.00
+57.69 1.00
+76.92 1.00
+84.62 1.00
+96.15
+2.00
+96.15
+1.00
+61.54
+1.00
+1.00
+1.00
+84.62
+1.00
+1.00
+80.77
+1.00
+1.00
+1.00
+96.15
+1.00
+73.08 2.00
+2.00
+7.69
+2.00
+100 2.00
+2.00
+76.92
+46.15
+SP
+9.00
+2.00
+6.00
+9.00
+696.15
+142.31
+515.38
+588.46
+77.35
+71.15
+85.90
+65.38
+SR
+703.85
+142.31
+515.38
+588.47
+78.21
+71.16
+85.90
+65.39
+88.46 1.00
+1.00
+1.00
+100 1.00
+1.00
+1.00
+100 1.00
+1.00
+1.00
+100
+3.00
+96.15
+1.00
+30.77 1.00
+100
+3.00
+84.62
+3.00
+7.69 2.00
+100
+2.00
+100
+1.00
+100
+2.00
+46.15
+76.92
+34.62
+SP
+6.00
+3.00
+12.00
+6.00
+326.92
+288.46
+1,107.69
+596.15
+54.49
+96.15
+92.31
+99.36
+SR
+334.61
+288.46
+1,142.32
+596.15
+55.77
+96.15
+95.19
+99.36
+92.31
+96.15 1.00
+88.46 2.00
+2.00
+96.15 2.00
+2.00
+96.15
+2.00
+96.15
+80.77
+73.08
+1.00
+1.00
+23.08
+96.15 1.00
+1.00
+96.15 1.00
+1.00
+76.92 1.00
+1.00
+92.31
+92.31
+69.23
+92.31
+3.00
+96.15
+3.00
+SP
+9.00
+6.00
+2.00
+8.00
+807.69
+538.46
+192.31
+738.46
+89.74
+89.74
+96.15
+92.31
+SR
+807.69
+538.46
+192.31
+738.46
+89.74
+89.74
+96.15
+92.31
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+2.00
+2.00
+1.00
+1.00
+1.00
+5.00
+1.00
+0.00
+1.00
+3.00
+3.00
+237.03
+18.52
+0.00
+74.07
+259.25
+259.25
+47,406
+18.52
+0
+74.07
+86.41666667
+86.41666667
+259.26
+18.52
+0.00
+74.07
+259.25
+259.25
+51,852
+18.52
+#DIV/0!
+74.07
+86.41666667
+86.41666667
+1.00
+1.00
+1.00
+1.00
+3.00
+3.00
+1.00
+1.00
+1.00
+2.00
+2.00
+2.00
+4.00
+0.00
+0.00
+3.00
+6.00
+6.00
+359.26
+0.00
+0.00
+296.30
+562.97
+562.97
+89.82
+0.00
+0.00
+98.77
+93.83
+93.83
+370.37
+0.00
+0.00
+296.30
+562.97
+562.97
+92.5925
+#DIV/0!
+#DIV/0!
+98.76666667
+93.82833333
+93.82833333
+1.00
+1.00
+1.00
+2.00
+2.00
+2.00
+1.00
+1.00
+2.00
+2.00
+2.00
+2.00
+1.00
+1.00
+7.00
+2.00
+2.00
+5.00
+2.00
+3.00
+596.15
+192.31
+192.31
+369.23
+153.85
+196.15
+85.16
+96.15
+96.15
+73.85
+76.92
+65.38
+596.15
+192.30
+192.30
+373.06
+153.84
+199.99
+85.16
+96.15
+96.15
+74.61
+76.92
+66.66
+1.00
+1.00
+1.00
+1.00
+1.00
+3.00
+3.00
+3.00
+1.00
+1.00
+3.00
+3.00
+3.00
+3.00
+2.00
+1.00
+1.00
+1.00
+3.00
+2.00
+2.00
+3.00
+3.00
+3.00
+2.00
+2.00
+2.00
+11.00
+9.00
+9.00
+10.00
+8.00
+8.00
+1,015.38
+819.23
+819.23
+638.46
+492.31
+492.31
+92.31
+91.03
+91.03
+63.85
+61.54
+61.54
+1,015.38
+853.86
+853.86
+638.45
+492.30
+492.30
+92.31
+94.87
+94.87
+63.85
+61.54
+61.54
+2.00
+3.00
+2.00
+1.00
+1.00
+2.00
+3.00
+3.00
+3.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+2.00
+1.00
+1.00
+2.00
+1.00
+2.00
+3.00
+3.00
+15.00
+7.00
+3.00
+7.00
+5.00
+6.00
+1,165.38
+646.15
+242.31
+611.54
+446.15
+515.38
+77.69
+92.31
+80.77
+87.36
+89.23
+85.90
+1,165.38
+646.15
+242.31
+611.54
+446.15
+515.38
+77.69
+92.31
+80.77
+87.36
+89.23
+85.90
+CS1
+CS2
+CS3
+CS4
+S1
+10.00
+1.00
+12.00
+5.00
+S1
+503.69
+70.37
+692.58
+270.37
+S1
+50,369
+70.37
+57,715
+54,074
+S2
+14.00
+4.00
+11.00
+5.00
+S2
+940.74
+288.89
+770.35
+337.03
+S2
+67.20
+72.22
+70.03
+67.41
+S3
+9.00
+2.00
+6.00
+9.00
+S3
+696.15
+142.31
+515.38
+588.46
+S3
+77.35
+71.15
+85.90
+65.38
+S4
+6.00
+3.00
+12.00
+6.00
+S4
+326.92
+288.46
+1,107.69
+596.15
+S4
+54.49
+96.15
+92.31
+99.36
+S5
+9.00
+6.00
+2.00
+8.00
+S5
+807.69
+538.46
+192.31
+738.46
+S5
+89.74
+89.74
+96.15
+92.31
+S6
+S6
+S6
+TOTALS
+S1
+10.00
+1.00
+12.00
+5.00
+S2
+14.00
+4.00
+11.00
+5.00
+S3
+9.00
+2.00
+6.00
+9.00
+S4
+6.00
+3.00
+12.00
+6.00
+S5
+9.00
+6.00
+2.00
+8.00
+S6
+0
+0
+0
+0
+TOTAL1
+48.00
+16.00
+43.00
+33.00
+S1
+503.69
+70.37
+692.58
+270.37
+S2
+940.74
+288.89
+770.35
+337.03
+S3
+696.15
+142.31
+515.38
+588.46
+S4
+326.92
+288.46
+1,107.69
+596.15
+S5
+89.74
+89.74
+96.15
+92.31
+S6
+0
+0
+0
+0
+TOTAL2
+2,557.25
+879.77
+3,182.16
+1,884.32
+CS1
+CS2
+CS3
+CS4
+53.27605235
+54.98580128
+74.00373882
+57.1006993
+50
+50
+50
+50
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+Promotion 21/22
+Main Session
+CS1
+CS2
+CS3
+CS4
+CS5
+10.00
+1.00
+12.00
+5.00
+5.00
+548.14
+77.78
+722.22
+277.78
+259.26
+54,814
+77.78
+60.185
+55,556
+51,852
+14.00
+4.00
+11.00
+5.00
+4.00
+1,037.07
+307.41
+807.41
+340.73
+370.37
+74.07642857
+76.8525
+73.40090909
+68.146
+92.5925
+9.00
+2.00
+6.00
+9.00
+7.00
+703.85
+142.31
+515.38
+588.47
+596.15
+78.21
+71.16
+85.90
+65.39
+85.16
+6.00
+3.00
+12.00
+6.00
+11.00
+334.61
+288.46
+1,142.32
+596.15
+1,015.38
+55.77
+96.15
+95.19
+99.36
+92.31
+9.00
+6.00
+2.00
+8.00
+15.00
+807.69
+538.46
+192.31
+738.46
+1,165.38
+89.74
+89.74
+96.15
+92.31
+77.69
+10.00
+1.00
+12.00
+5.00
+5.00
+14.00
+4.00
+11.00
+5.00
+4.00
+9.00
+2.00
+6.00
+9.00
+7.00
+Promotion SR 21/22
+6.00
+3.00
+12.00
+6.00
+11.00
+9.00
+6.00
+2.00
+8.00
+15.00
+0
+0
+0
+0
+0
+48.00
+16.00
+43.00
+33.00
+42.00
+548.14
+77.78
+722.22
+277.78
+259.26
+1,037.07
+307.41
+807.41
+340.73
+370.37
+703.85
+142.31
+515.38
+588.47
+596.15
+334.61
+288.46
+1,142.32
+596.15
+1,015.38
+89.74
+89.74
+96.15
+92.31
+77.69
+0
+0
+0
+0
+0
+2,713.41
+905.70
+3,283.48
+1,895.44
+2,318.85
+CS1
+CS2
+CS3
+CS4
+CS5
+56.52944979
+56.60647436
+76.36008945
+57.43750583
+55.21076923
+50
+50
+50
+50
+50
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+Promotion 21/22
+Catch-up session
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+5.00
+1.00
+0.00
+1.00
+3.00
+3.00
+237.03
+18.52
+0.00
+74.07
+259.25
+259.25
+47,406
+18.52
+0
+74.07
+86.41666667
+86.41666667
+4.00
+0.00
+0.00
+3.00
+6.00
+6.00
+359.26
+0.00
+0.00
+296.30
+562.97
+562.97
+89.82
+0.00
+0.00
+98.77
+93.83
+93.83
+7.00
+2.00
+2.00
+5.00
+2.00
+3.00
+596.15
+192.31
+192.31
+369.23
+153.85
+196.15
+85.16
+96.15
+96.15
+73.85
+76.92
+65.38
+11.00
+9.00
+9.00
+10.00
+8.00
+8.00
+1,015.38
+819.23
+819.23
+638.46
+492.31
+492.31
+92.31
+91.03
+91.03
+63.85
+61.54
+61.54
+15.00
+7.00
+3.00
+7.00
+5.00
+6.00
+1,165.38
+646.15
+242.31
+611.54
+446.15
+515.38
+77.69
+92.31
+80.77
+87.36
+89.23
+85.90
+1
+100
+1
+5.00
+1.00
+0.00
+1.00
+3.00
+3.00
+4.00
+0.00
+0.00
+3.00
+6.00
+6.00
+7.00
+2.00
+2.00
+5.00
+2.00
+3.00
+11.00
+9.00
+9.00
+10.00
+8.00
+8.00
+15.00
+7.00
+3.00
+7.00
+5.00
+6.00
+0
+0
+0
+0
+0
+1
+42.00
+19.00
+14.00
+26.00
+24.00
+27.00
+Promotion 21/22 SP
+237.03
+18.52
+0.00
+74.07
+259.25
+259.25
+359.26
+0.00
+0.00
+296.30
+562.97
+562.97
+596.15
+192.31
+192.31
+369.23
+153.85
+196.15
+1,015.38
+819.23
+819.23
+638.46
+492.31
+492.31
+77.69
+92.31
+80.77
+87.36
+89.23
+85.90
+0
+0
+0
+0
+0
+100.00
+2,285.52
+1,122.37
+1,092.31
+1,465.42
+1,557.60
+1,696.58
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+54.41716117
+59.07190283
+78.02197802
+56.36249789
+64.90019231
+62.83625831
+50
+50
+50
+50
+50
+50
+CS8
+CS9
+CS10
+motion 21/22- IDISC
+Main ession
+%Etds successful
+Threshold
+CS6
+CS7
+CS8
+CS9
+CS10
+1.00
+0.00
+1.00
+3.00
+3.00
+18.52
+0.00
+74.07
+259.25
+259.25
+18.52
+#DIV/0!
+74.07
+86.41666667
+86.41666667
+0.00
+0.00
+3.00
+6.00
+6.00
+0.00
+0.00
+296.30
+562.97
+562.97
+#DIV/0!
+#DIV/0!
+98.76666667
+93.82833333
+93.82833333
+2.00
+2.00
+5.00
+2.00
+3.00
+192.30
+192.30
+373.06
+153.84
+199.99
+96.15
+96.15
+74.61
+76.92
+66.66
+9.00
+9.00
+10.00
+8.00
+8.00
+853.86
+853.86
+638.45
+492.30
+492.30
+94.87
+94.87
+63.85
+61.54
+61.54
+7.00
+3.00
+7.00
+5.00
+6.00
+646.15
+242.31
+611.54
+446.15
+515.38
+92.31
+80.77
+87.36
+89.23
+85.90
+1
+100
+1
+1.00
+0.00
+1.00
+3.00
+3.00
+0.00
+0.00
+3.00
+6.00
+6.00
+2.00
+2.00
+5.00
+2.00
+3.00
+Promotion SR 21/22
+9.00
+9.00
+10.00
+8.00
+8.00
+7.00
+3.00
+7.00
+5.00
+6.00
+0
+0
+0
+0
+1
+19.00
+14.00
+26.00
+24.00
+27.00
+18.52
+0.00
+74.07
+259.25
+259.25
+0.00
+0.00
+296.30
+562.97
+562.97
+192.30
+192.30
+373.06
+153.84
+199.99
+853.86
+853.86
+638.45
+492.30
+492.30
+92.31
+80.77
+87.36
+89.23
+85.90
+0
+0
+0
+0
+100.00
+1,156.99
+1,126.93
+1,469.24
+1,557.59
+1,700.41
+CS6
+CS7
+CS8
+CS9
+CS10
+60.89408907
+80.49494505
+56.50933221
+64.89961538
+62.97805318
+50
+50
+50
+50
+50
+CS7
+CS8
+CS9
+CS10
+22- IDISC
+n of Catch-up
+%Etds successful
+Threshold
+% students passed >=10 SP
+Linear Algebra
+50
+Math supplement
+75
+Signal processing
+54.17
+Engineer Electronics
+70.83
+Information theory and coding
+95.83
+Fundamental algorithms
+20.83
+Mini algorithmic project
+100
+Theory of languages ​​and automata
+91.67
+Computer logic
+41.67
+Advanced Operating Systems
+62.5
+Mini project Operating systems
+100
+Language and methodology
+91.67
+Business Communication
+66.67
+Applied analysis
+66.67
+Numerical analysis
+58.33
+Dynamical systems theory
+100
+ 
+Advanced processor architecture
+79.16
+Mini project on microprocessor systems
+100
+Waves and applications
+16.66
+Analogue and telecommunications
+digital
+29.16
+Object Programming
+54.16
+Compilation technique
+25
+Databases and interfaces
+91.66
+Mini project object programming and bases of
+data
+100
+Language and Methodology
+100
+Digital management and information systems
+100
+Business Communication
+66.67
+S1
+S2
+Statistical methods
+25
+Optimization
+54.2
+microcontrollers and objects
+connected
+58.3
+Event systems
+discreet
+100
+Business networks
+100
+Mini-project
+microcontrollers and objects
+connected
+91.7
+Systems Foundations
+ 
+distributed
+87.5
+Client/server architecture
+and programming
+middleware
+91.7
+System programming
+ 
+under Unix
+100
+Distributed Systems Project
+100
+Oriented modeling
+objects
+54.2
+Software Engineering
+100
+AI and Expert Systems
+66.7
+Personal Development
+ 
+and Socializing
+91.7
+ICT law
+66.7
+Mobile radio networks
+87.5
+Wireless network technologies
+and Internet of Things
+87.5
+Experimentation Project of
+IOT
+100
+Administration and
+network supervision
+100
+Advanced Cryptography
+100
+Optical communications
+25
+Wide Area Networks and Networks
+of operators
+100
+Network simulation
+100
+Stochastic modeling
+75
+S3
+S4
+Development of
+web applications and services
+100
+Development of
+ 
+mobile applications
+100
+Mini-Development Project
+ 
+mobile and networks
+100
+Internet Marketing
+79.2
+Personal development and
+socializing
+70.8
+ 
+Personal and professional project
+100
+Virtualization of Systems and
+Cloud computing
+92
+Virtualization and
+Softwarization of networks
+100
+Evolution and Migration to 5G
+92
+Radio network engineering
+mobile
+96
+Mini-project evaluation of
+network performance
+100
+Infrastructure security
+100
+Security Audit and Pentesting
+88
+All-IP convergence and
+service platforms
+telecoms
+100
+Coding and Securing
+multimedia data
+28
+Mini VoIP project and
+telecom services
+100
+Big Data
+64
+Machine Learning
+84
+English
+76
+Academic literacy and ICT
+96
+Innovation and entrepreneurship
+100
+Optional module 1 (blockchain)
+100
+Optional Module 2 (Cyber ​​Security)
+100
+S5
+% students passed >=10 SR
+CS1
+CS2
+CS3
+CS4
+75 2.00
+91.66 2.00
+58.33
+100 1.00
+100
+1.00
+1.00
+25
+2.00
+2.00
+100
+2.00
+2.00
+100 1.00
+1.00
+66.66 1.00
+1.00
+70.83 3.00
+3.00
+100
+3.00
+95.83
+70.83
+10.00
+1.00
+12.00
+5.00
+SP
+641.67
+95.83
+862.50
+337.49
+64.167
+95.83
+71,875
+67,498
+SR
+812.47
+100
+929.15
+350
+81,247
+100
+77.42916667
+70
+70.83 3.00
+75 3.00
+100
+1.00
+83.33 3.00
+3.00
+100 3.00
+3.00
+20.83 1.00
+1.00
+41.66 1.00
+1.00
+58.33
+2.00
+2.00
+41.66
+1.00
+1.00
+95.83
+1.00
+1.00
+100
+1.00
+1.00
+100
+100
+1.00
+70.83
+14.00
+4.00
+11.00
+5.00
+SP
+958.30
+245.82
+862.46
+324.98
+68.45
+61.46
+78.41
+65.00
+SR
+1,049.97
+262.49
+904.14
+354.15
+75.00
+65.62
+82.19
+70.83
+41.7 1.00
+54.2 1.00
+58.3 1.00
+100 1.00
+100
+2.00
+91.7
+1.00
+87.5
+1.00
+1.00
+1.00
+91.7
+1.00
+1.00
+100
+1.00
+1.00
+1.00
+100
+1.00
+54.2 2.00
+2.00
+100
+2.00
+66.7 2.00
+2.00
+91.7
+66.7
+9.00
+2.00
+6.00
+9.00
+SP
+571.00
+187.50
+579.20
+721.00
+63.44
+93.75
+96.53
+80.11
+SR
+587.70
+187.50
+579.20
+721.00
+65.30
+93.75
+96.53
+80.11
+87.5 1.00
+1.00
+1.00
+87.5 1.00
+1.00
+1.00
+100 1.00
+1.00
+1.00
+100
+3.00
+100
+1.00
+25 1.00
+100
+3.00
+100
+3.00
+75 2.00
+100
+2.00
+100
+1.00
+100
+2.00
+79.2
+70.8
+100
+6.00
+3.00
+12.00
+6.00
+SP
+450.00
+275.00
+1,175.00
+600.00
+75.00
+91.67
+97.92
+100.00
+SR
+450.00
+275.00
+1,175.00
+600.00
+75.00
+91.67
+97.92
+100.00
+92
+100 1.00
+92 2.00
+2.00
+96 2.00
+2.00
+100
+2.00
+100
+88
+100
+1.00
+1.00
+28
+100 1.00
+1.00
+64 1.00
+1.00
+84 1.00
+1.00
+76
+96
+100
+100
+3.00
+100
+3.00
+9.00
+6.00
+2.00
+8.00
+SR
+824.00
+576.00
+200.00
+748.00
+91.56
+96.00
+100.00
+93.50
+SP
+724.00
+576.00
+200.00
+748.00
+80.44
+96.00
+100.00
+93.50
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+2.00
+2.00
+1.00
+1.00
+1.00
+5.00
+1.00
+0.00
+1.00
+3.00
+3.00
+354.17
+41.67
+0.00
+66.67
+250.01
+250.01
+70,834
+41.67
+0
+66.67
+83.33666667
+83.33666667
+424.99
+66.66
+0
+70.83
+262.49
+262.49
+84,998
+66.66
+#DIV/0!
+70.83
+87.49666667
+87.49666667
+1.00
+1.00
+1.00
+1.00
+3.00
+3.00
+1.00
+1.00
+1.00
+2.00
+2.00
+2.00
+4.00
+0.00
+0.00
+3.00
+6.00
+6.00
+245.82
+0.00
+0.00
+233.34
+533.34
+533.34
+61.46
+0.00
+0.00
+77.78
+88.89
+88.89
+279.15
+0.00
+0.00
+241.66
+541.66
+541.66
+69.79
+#DIV/0!
+#DIV/0!
+80.55
+90.28
+90.28
+1.00
+1.00
+1.00
+2.00
+2.00
+2.00
+1.00
+1.00
+2.00
+2.00
+2.00
+2.00
+1.00
+1.00
+7.00
+2.00
+2.00
+5.00
+2.00
+3.00
+558.40
+200.00
+200.00
+400.10
+183.40
+250.10
+79.77
+100.00
+100.00
+80.02
+91.70
+83.37
+558.40
+200.00
+200.00
+400.10
+183.40
+250.10
+79.77
+100.00
+100.00
+80.02
+91.70
+83.37
+1.00
+1.00
+1.00
+1.00
+1.00
+3.00
+3.00
+3.00
+1.00
+1.00
+3.00
+3.00
+3.00
+3.00
+2.00
+1.00
+1.00
+1.00
+3.00
+2.00
+2.00
+3.00
+3.00
+3.00
+2.00
+2.00
+2.00
+11.00
+9.00
+9.00
+10.00
+8.00
+8.00
+1,000.00
+900.00
+900.00
+850.00
+670.80
+670.80
+90.91
+100.00
+100.00
+85.00
+83.85
+83.85
+1,000.00
+900.00
+900.00
+850.00
+670.80
+670.80
+90.91
+100.00
+100.00
+85.00
+83.85
+83.85
+2.00
+3.00
+2.00
+1.00
+1.00
+2.00
+3.00
+3.00
+3.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+2.00
+1.00
+1.00
+2.00
+1.00
+2.00
+3.00
+3.00
+15.00
+7.00
+3.00
+7.00
+5.00
+6.00
+1,248.00
+632.00
+264.00
+692.00
+472.00
+572.00
+83.20
+90.29
+88.00
+98.86
+94.40
+95.33
+1,248.00
+148.00
+264.00
+692.00
+472.00
+572.00
+83.20
+21.14
+88.00
+98.86
+94.40
+95.33
+CS1
+CS2
+CS3
+CS4
+CS5
+10.00
+1.00
+12.00
+5.00
+5.00
+641.67
+95.83
+862.50
+337.49
+354.17
+64.167
+95.83
+71,875
+67,498
+70,834
+14.00
+4.00
+11.00
+5.00
+4.00
+958.30
+245.82
+862.46
+324.98
+245.82
+68.45
+61.46
+78.41
+65.00
+61.46
+9.00
+2.00
+6.00
+9.00
+7.00
+571.00
+187.50
+579.20
+721.00
+558.40
+63.44
+93.75
+96.53
+80.11
+79.77
+6.00
+3.00
+12.00
+6.00
+11.00
+450.00
+275.00
+1,175.00
+600.00
+1,000.00
+75.00
+91.67
+97.92
+100.00
+90.91
+9.00
+6.00
+2.00
+8.00
+15.00
+824.00
+576.00
+200.00
+748.00
+1,248.00
+91.56
+96.00
+100.00
+93.50
+83.20
+10.00
+1.00
+12.00
+5.00
+5.00
+14.00
+4.00
+11.00
+5.00
+4.00
+9.00
+2.00
+6.00
+9.00
+7.00
+6.00
+3.00
+12.00
+6.00
+11.00
+9.00
+6.00
+2.00
+8.00
+15.00
+0
+0
+0
+0
+0
+48.00
+16.00
+43.00
+33.00
+42.00
+641.67
+95.83
+862.50
+337.49
+354.17
+958.30
+245.82
+862.46
+324.98
+245.82
+571.00
+187.50
+579.20
+721.00
+558.40
+450.00
+275.00
+1,175.00
+600.00
+1,000.00
+91.56
+96.00
+100.00
+93.50
+83.20
+0
+0
+0
+0
+0
+SP 22/23 Promotion
+2,712.53
+900.15
+3,579.16
+2,076.97
+2,241.59
+CS1
+CS2
+CS3
+CS4
+CS5
+56.51094907
+56.259375
+83.23627907
+62.93848485
+53.37119048
+50
+50
+50
+50
+50
+CS1
+CS2
+CS3
+CS4
+CS5
+10.00
+1.00
+12.00
+5.00
+5.00
+Promotion SR 22/23
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
++'promotion 2223'!+'+'promotion
+2223'!$P$48:$Y$48
+Promotion 22/23 - IDISC
+Main Session  
+812.47
+100
+929.15
+350
+424.99
+81,247
+100
+77.42916667
+70
+84,998
+14.00
+4.00
+11.00
+5.00
+4.00
+1,049.97
+262.49
+904.14
+354.15
+279.15
+75.00
+65.62
+82.19
+70.83
+69.79
+9.00
+2.00
+6.00
+9.00
+7.00
+587.70
+187.50
+579.20
+721.00
+558.40
+65.30
+93.75
+96.53
+80.11
+79.77
+6.00
+3.00
+12.00
+6.00
+11.00
+450.00
+275.00
+1,175.00
+600.00
+1,000.00
+75.00
+91.67
+97.92
+100.00
+90.91
+9.00
+6.00
+2.00
+8.00
+15.00
+724.00
+576.00
+200.00
+748.00
+1,248.00
+80.44
+96.00
+100.00
+93.50
+83.20
+10.00
+1.00
+12.00
+5.00
+5.00
+14.00
+4.00
+11.00
+5.00
+4.00
+9.00
+2.00
+6.00
+9.00
+7.00
+6.00
+3.00
+12.00
+6.00
+11.00
+9.00
+6.00
+2.00
+8.00
+15.00
+0
+0
+0
+0
+0
+48.00
+16.00
+43.00
+33.00
+42.00
+812.47
+100
+929.15
+350
+424.99
+1,049.97
+262.49
+904.14
+354.15
+279.15
+587.70
+187.50
+579.20
+721.00
+558.40
+450.00
+275.00
+1,175.00
+600.00
+1,000.00
+80.44
+96.00
+100.00
+93.50
+83.20
+0
+0
+0
+0
+0
+2980.584444
+920.99
+3687.49
+2118.65
+2345.74
+CS1
+CS2
+CS3
+CS4
+CS5
+62.09550926
+57.561875
+85.7555814
+64.20151515
+55.85095238
+50
+50
+50
+50
+50
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+Promotion 22/23-
+Catch-up Session
+CS6
+CS7
+CS8
+CS9
+CS10
+1.00
+0.00
+1.00
+3.00
+3.00
+41.67
+0.00
+66.67
+250.01
+250.01
+41.67
+0
+66.67
+83.33666667
+83.33666667
+0.00
+0.00
+3.00
+6.00
+6.00
+0.00
+0.00
+233.34
+533.34
+533.34
+0.00
+0.00
+77.78
+88.89
+88.89
+2.00
+2.00
+5.00
+2.00
+3.00
+200.00
+200.00
+400.10
+183.40
+250.10
+100.00
+100.00
+80.02
+91.70
+83.37
+9.00
+9.00
+10.00
+8.00
+8.00
+900.00
+900.00
+850.00
+670.80
+670.80
+100.00
+100.00
+85.00
+83.85
+83.85
+7.00
+3.00
+7.00
+5.00
+6.00
+632.00
+264.00
+692.00
+472.00
+572.00
+90.29
+88.00
+98.86
+94.40
+95.33
+1
+100
+1
+1.00
+0.00
+1.00
+3.00
+3.00
+0.00
+0.00
+3.00
+6.00
+6.00
+2.00
+2.00
+5.00
+2.00
+3.00
+9.00
+9.00
+10.00
+8.00
+8.00
+7.00
+3.00
+7.00
+5.00
+6.00
+0
+0
+0
+0
+1
+19.00
+14.00
+26.00
+24.00
+27.00
+41.67
+0.00
+66.67
+250.01
+250.01
+0.00
+0.00
+233.34
+533.34
+533.34
+200.00
+200.00
+400.10
+183.40
+250.10
+900.00
+900.00
+850.00
+670.80
+670.80
+90.29
+88.00
+98.86
+94.40
+95.33
+0
+0
+0
+0
+100.00
+SP 22/23 Promotion
+1,231.96
+1,188.00
+1,648.97
+1,731.95
+1,899.58
+CS6
+CS7
+CS8
+CS9
+CS10
+64.83977444
+84.85714286
+63.42181319
+72.16458333
+70.35493827
+50
+50
+50
+50
+50
+CS6
+CS7
+CS8
+CS9
+CS10
+1.00
+0.00
+1.00
+3.00
+3.00
+Promotion SR 22/23
+%Etds successful
+Threshold
+66.66
+0
+70.83
+262.49
+262.49
+66.66
+#DIV/0!
+70.83
+87.49666667
+87.49666667
+0.00
+0.00
+3.00
+6.00
+6.00
+0.00
+0.00
+241.66
+541.66
+541.66
+#DIV/0!
+#DIV/0!
+80.55
+90.28
+90.28
+2.00
+2.00
+5.00
+2.00
+3.00
+200.00
+200.00
+400.10
+183.40
+250.10
+100.00
+100.00
+80.02
+91.70
+83.37
+9.00
+9.00
+10.00
+8.00
+8.00
+900.00
+900.00
+850.00
+670.80
+670.80
+100.00
+100.00
+85.00
+83.85
+83.85
+7.00
+3.00
+7.00
+5.00
+6.00
+148.00
+264.00
+692.00
+472.00
+572.00
+21.14
+88.00
+98.86
+94.40
+95.33
+1
+100
+1
+1.00
+0.00
+1.00
+3.00
+3.00
+0.00
+0.00
+3.00
+6.00
+6.00
+2.00
+2.00
+5.00
+2.00
+3.00
+9.00
+9.00
+10.00
+8.00
+8.00
+7.00
+3.00
+7.00
+5.00
+6.00
+0
+0
+0
+0
+1
+19.00
+14.00
+26.00
+24.00
+27.00
+66.66
+0
+70.83
+262.49
+262.49
+0.00
+0.00
+241.66
+541.66
+541.66
+200.00
+200.00
+400.10
+183.40
+250.10
+900.00
+900.00
+850.00
+670.80
+670.80
+21.14
+88.00
+98.86
+94.40
+95.33
+0
+0
+0
+0
+100.00
+1187.802857
+1188
+1661.447143
+1752.75
+1920.383333
+CS6
+CS7
+CS8
+CS9
+CS10
+62.51593985
+84.85714286
+63.90181319
+73.03125
+71.12530864
+50
+50
+50
+50
+50
+CS8
+CS9
+CS10
+IDISC
+e Catch-up
+%Etds successful
+Threshold
+V
+CS1
+CS2
+CS3
+x
+x
+x
+x
+x
+x
+x
+x
+x
+ICT Services Developer
+Jobs\Skills Matrix
+Network Architect
+Computer Security Expert
+Virtualization and Cloud Engineer
+System Administration Engineer
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Jobs\Specific skills
+        
+CG1
+CG2
+CG3
+CG4
+CG5
+CG6
+CS1
+x
+x
+x
+x
+x
+CS2
+x
+x
+x
+x
+x
+x
+CS3
+x
+x
+x
+x
+CS4
+x
+x
+x
+x
+x
+CS5
+x
+x
+x
+CS6
+x
+x
+x
+CS7
+x
+x
+x
+CS8
+CS9
+CS10
+Specific skills matrix\comp
+CG7
+CG8
+CG9
+CG10
+CG11
+CG12
+CG13
+CG14
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+specific\generic skills (14 CG_CTI)

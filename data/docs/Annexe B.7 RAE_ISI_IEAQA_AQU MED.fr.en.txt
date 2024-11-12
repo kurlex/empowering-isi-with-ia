@@ -1,0 +1,1636 @@
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ISI SELF-ASSESSMENT REPORT  
+ACCORDING TO IEAQA AND AQU-MED REFERENCES  
+ 
+ 
+June 2019
+
+ 
+ 
+ 
+Table of Contents
+1 PRESENTATION OF THE ISI ............................................. .................................................. ............................. 3
+2 TRAINING ................................................ .................................................. ............................................. 3
+2.1 THE OFFER OF KNOWLEDGE AND TRAINING ................................................................................................ 3
+2.2 SUPPORTING THE STUDENT IN THEIR TRAINING ................................................................ 12
+2.3 COURSE EVALUATION ............................................ .................................................. ................. 14
+2.4 KNOWLEDGE CONTROL ................................................................................................................ 15
+2.5 PROFESSIONAL GUIDANCE AND INTEGRATION ................................................................................ 16
+2.6 DOCTORAL TRAINING ................................................................................................................. 18
+3 RESEARCH ................................................................................................................................................ 18
+3.1 THE PLACE OF RESEARCH ................................................................................................................ 18
+3.2 SCIENTIFIC RELATIONS AND PARTNERS ................................................................................ 20
+4 GOVERNANCE .................................................................................................................................... 21
+4.1 INFORMATION SYSTEM ............................................. .................................................. ................. 21
+4.2 CONDITIONS FOR DEVELOPING POLICIES ................................................................................ 21
+4.3 ORGANIZATION AND MANAGEMENT OF COMPONENTS AND SERVICES ................................................ 23
+4.4 MANAGEMENT OF SUPPORT FUNCTIONS IN THE SERVICE OF MISSIONS ............................................ 25
+4.5 QUALITY MANAGEMENT ................................................................................................................ 25
+4.6 SWOT ANALYSIS AND GOVERNANCE ASSESSMENT ..................................................................... 28
+5 LIFE WITHIN THE INSTITUTION AND SOCIETY ..................................................................................... 29
+5.1 RECEPTION AND CARE OF STUDENTS AND STAFF ................................................ 29
+5.2 CULTURAL AND SPORTING ACTIVITIES ................................................................................................ 30
+5.3 LIVING, WORKING AND STUDY CONDITIONS OF UNIVERSITY STAFF (HEALTH, HYGIENE,
+SECURITY, …) .................................................................................................................................................... 30
+5.4 SOCIAL RESPONSIBILITY (ETHICS, CITIZENSHIP, EQUAL OPPORTUNITIES, DEVELOPMENT
+SUSTAINABLE, …) .............................................. .................................................. .................................................. ... 31
+5.5 SWOT ANALYSIS AND EVALUATION OF LIFE WITHIN THE INSTITUTION ................................................ 33
+5.6 SWOT ANALYSIS AND EVALUATION OF LIFE WITHIN THE INSTITUTION ................................................ 36
+6 RELATIONSHIP BETWEEN ISI AND UTM ................................................................................................................ 37
+6.1 RELATIONSHIP OF 'ISI WITH THE UTM ................................................................................................................ 37
+6.2 RELATIONSHIP OF UTM WITH ISI ................................................................................................................ 38
+6.3 SWOT ANALYSIS AND EVALUATION ............................................. .................................................. ......... 39
+7 OVERALL EVALUATION .............................................. .................................................. ......................... 41
+ 
+ 
+ 
+ 
+ 
+  
+1 PRESENTATION OF ISI
+The Higher Institute of Computer Science under the University of Tunis El Manar was created by
+Decree No. 1912 of August 14, 2001. It has the status of a Public Establishment of a
+Administrative (EPA) with the mission of higher education and scientific research
+in the field of science and technology.
+Since its creation, the number of students has increased from 170 students in 2001
+around 2500 students in 2013 and has stabilized around 1100 students in recent years
+(see Figure 1)
+ 
+ 
+Figure 1: Evolution of the number of students at ISI
+ 
+Following a great opening on the socio-economic environment, ISI graduates have
+showed strong integration potential and remarkable competence which contributed to the
+influence of the establishment which has since become one of the most renowned establishments
+in the field of IT and its applications: Information systems,
+development, IOT, networks and telecoms, embedded systems and industrial computing.
+2 TRAINING
+2.1 THE OFFER OF KNOWLEDGE AND TRAINING  
+2.1.1 The institution must offer clearly defined training courses that are in line with its
+missions, as well as with the national and international context.
+ISI offers the following training courses:
+L1+L2+L3 M1+M2 ING1+I2+3
+ 
+  
+✔ Three-year Bachelor's degree training cycle in Computer Science (04)
+specialties:
+o SIL: Computer Systems and Software
+o SI: Computer Science
+o ARS: Administration of Networks and Services
+o SE: Embedded Systems
+The evolution of the number of undergraduate students since 2007 is shown in the following figure:
+ 
+Figure 2: Evolution of the number of undergraduate students by level at the ISI
+The decrease in this number by each level is a consequence of the decrease in the number of
+graduates in recent years
+ 
+✔ Three-year training cycle for Computer Engineers (03)
+specialties:
+o GLSI: Software Engineering and Information Systems
+o GTR: Telecommunications and Networks Engineering
+o GISI: Industrial Systems Computer Engineering
+The evolution of the number of engineering students since 2007 by level is presented
+in Figure 3.  
+L1 L2 L3
+ 
+  
+ 
+Figure 3: Evolution of the number of students in engineering training by level at the ISI
+The number of first-year engineering students who enter following a specific competition is
+120 to 125 students per year.
+✔ Training cycle in Professional Masters in Computer Science "Systems Security
+Communicating and Embedded Computing (SSICE);
+✔ Training cycle in Professional Masters in Computer Science "Free Software"
+(MP2L) in collaboration with the Virtual University of Tunis;
+✔ Training cycle in Research Masters in Computer Science with two courses:
+SIIVA and GL
+The evolution of the number of Master's students by level is presented in Figure 4.  
+1-ING 2-ING 3-ING
+ 
+  
+ 
+ 
+Figure 4: Evolution of the number of students in all masters by level at the ISI
+ 
+Bridges between the different training courses are presented in the organization chart of
+route below:
+M1 M2
+ 
+  
+ 
+Figure 5: Different ISI gateways
+Admission to the Bachelor's degree cycle is done through the bachelor's orientation process. That of the cycle
+Engineer is carried out at a Bac + 3 level in Computer Science (or equivalent) and via the competitive examination
+national specific. Holders of a Bachelor's degree in Computer Science or
+equivalent.
+Engineering training is provided by four departments: Software and Systems Engineering
+Information (GLSI), Architectures, Systems and Networks (ASR), Electrical Engineering and
+Industrial Computing (GEII), Applied Mathematics (MA). The teaching staff is
+made up of 119 permanent university teachers, temporary staff and experts. The staff
+administrative, technical and worker is made up of 361 employees.
+2.1.2 When developing the training offer, the institution should take into account the
+following items without limitation:
+฀ the establishment project and/or the strategic plan of the institution,
+฀ national and international policies and guidelines,
+฀ the private sector,
+฀ the structures of the institution,
+฀ the results of internal and external evaluations
+ 
+
+ 
+  
+To date, the ISI has never established its own establishment project or plan.
+clearly formulated strategic, but acts in accordance with those of the ME S and the UTM.
+Today, as part of the university reform towards unified licenses and
+the accreditation or rehabilitation of engineering training, the ISI has revised its models of
+training taking into account the MES strategic plan and economic guidelines
+national and international. With this in mind, the ISI relied on the Professional References
+and Skills to redefine its training offers according to the requirements of all parties
+stakeholders.  
+✔ As part of the LMD training; following the unification of licenses; three licenses
+different ones proposed by the national sectoral commission in IT will be
+adopted by the GLSI and GTR departments, namely:
+o L 1.2: Computer science course  
+▪ Mention: Software Engineering and Information Systems (GLSI)
+▪ Mention: Computer Science and Multimedia (IM)
+o L3: Computer engineering course
+▪ Mention: Network and Systems Engineering (IRS)
+A degree in embedded systems was offered by the GEII department to a
+Ad-Hoc commission (IT & science and technology) for validation.
+The 2 applied and research masters have just been rehabilitated in accordance with the
+new requirements and needs of stakeholders.
+✔ As part of the training of engineers, a national orientation towards the implementation
+The place of the integrated preparatory class will be adopted according to certain national standards and
+international, ISI is among the establishments concerned by this training
+engineers (bac +5).
+This document is considered to be an internal assessment of the establishment
+proposed by the ISI quality committee.
+2.1.3 The institution must clearly formalize all information relating to the programs of
+training (titles, targeted objectives, opportunities, access conditions, training content)
+proposed…) on media available to interested parties (catalogues, leaflets, websites,
+bulletin boards…).
+ISI provides two types of training:
+ 
+ 
+  
+a) Engineering training which includes five (5) semesters of teaching and one semester
+final year project lasting 4 to 6 months. a summer internship lasting 1 to 2
+month is mandatory at the end of the second year. A semester of study at the ISI corresponds
+approximately 450 hours divided between courses, tutorials and practical work or face-to-face mini-projects. The plan
+of studies1 of this training is available on the ISI website. It consists of a plan of
+each semester indicating the modules which will be provided per period, the volumes
+timetables, the course/tutorial/practical breakdown and the assessment method (Continuous Assessment,
+Exam). The modules of each semester are grouped into teaching units in
+ensuring consistency in terms of the skills targeted.
+b) As part of the LMD training, the license program is available on the website of the
+MES (Selima) and that of the masters is communicated to students and teachers at the beginning
+of the year.
+Schedules are posted on the boards and updated in a way
+weekly on the ISI website.
+2.1.4 The training offer must be organized in a way that is compatible with:
+฀ teachers’ responsibilities (teaching, research, tutoring, administration, etc.),
+฀ the qualifications of teacher-researchers,
+฀ regular and timely payment of temporary workers,
+฀ regulatory requirements,
+ 
+For the 2018-2019 academic year, the ISI has 116 permanent teacher-researchers in
+activity distributed according to grades as follows: 09 Higher education professors (PR),
+05 Lecturers (MC), 71 Assistant Professors (MA), 14 Assistants (A) and 17
+secondary school teachers.  
+The number of students registered in 2018-2019 was 1130: 299 engineering students, 642 in
+Bachelor's degree and 189 in Master's degree. The supervision rate at ISI is approximately 2.3 students per teacher
+researcher. Some teaching is provided by experts from the socio-professional world.
+In the event of a shortage of permanent teachers, contract and temporary staff are
+requested This year, the ISI requested 26 temporary workers and 6 contract assistants.
+Language lessons (French and English) as well as introductory workshops
+Computer science is mainly provided by secondary school teachers
+assigned to the school (PES or common body). A total of 11 secondary school teachers and 2
+technologists are assigned to the School, representing 6% of the total number of permanent teachers.
+ 
+1 http://www.isi.rnu.tn/upload/1557387515.pdf
+ 
+  
+The charges are managed by the departments relying on the educational units in
+depending on the skills of teachers following Decree No. 2000-240 of January 31, 2000.
+The teaching costs of languages ​​and cross-curricular subjects are managed by the
+MA department.
+Payment of contract workers is made by the UTM. Casual workers as well as hours
+additional fees are paid by the ISI at the end of the academic year.
+The evolution of the number of teachers is shown in Figure 6.
+ 
+Figure 6: Evolution of the number of teachers
+2.1.5 The institution must have adequate tools to:
+฀ relevant knowledge of job offers,
+฀ the search for internships for students,
+ 
+Every year, ISI organizes an ISI-Entreprise day during which it invites its
+economic partners to present their organizations and their internship and project offers
+end of studies. This gives companies the opportunity to discuss directly with students
+(private discussion and interview spaces) and allows them to recruit interns and
+select candidates for final-year projects. Proposals for P FE and offers
+job offers can also be sent directly by the partners to the internship director and
+are then communicated to the students following posting on the board and on the FB page.
+The majority of internships and PFE projects are collected mainly by students.  
+Admission tests (PFE or hiring) may be organized on the premises of
+the ISI.
+Recently, within the framework of the activities of the 4C center, several partnerships have been developed
+particularly the one with Tunis Business School “TBS”.
+Temporary workers
+Contractual workers
+Permanent
+ 
+  
+2.1.6 The institution must have adequate resources to provide training modules
+initial and, possibly, continuous. To this end, it must be able to state the existence of the elements
+following:
+฀ qualified human resources;
+฀ suitable material resources;
+฀ adequate infrastructure;
+฀ sufficient financial resources.
+ 
+Apart from the teaching staff mentioned above and the invitation of foreign professors
+qualified in new technologies, the ISI has 164 administrative staff,
+technicians and permanent workers in activity. Technicians ensure the maintenance of the park
+IT in the practical work rooms, which is obsolete compared to technological needs
+today, and to ensure the smooth running of laboratories that require upgrading
+material.  
+Material resources allocated to teachers and administrators (PC, scanner,
+printers,.) are very limited and some purchases are dependent on a pooled market
+university level.
+The building, rented since 2001, comprises three blocks of four floors joined together (accessibility
+limited and without emergency exits) is distributed as follows:
+✔ Block A which contains at the same time:
+o Library, 4C center, club premises (ground floor)  
+o School service, technical service and drawing service (1st floor)
+o Central administration, registry office and meeting room (3rd floor)
+o Classrooms, practical work rooms, offices for teachers and toilet blocks
+scattered over the 4 floors
+✔ Block B which contains offices, classrooms and practical work rooms and two toilet blocks
+✔ Block C which contains only two classrooms per floor
+The layout of the building was not initially designed for educational purposes.
+superior. Moreover, access to blocks 'B' and 'C' is only from block 'A'.
+The ISI does not contain any lecture theatre or large room for organizing training or
+lectures.
+The annual ISI “Title I” budget is paid at the beginning of each year and will be deployed according to
+its programs and activities. The salaries of teaching, administrative and manual staff
+and contract workers are managed at the university level. The ISI manages the salaries of
+temporary workers as well as overtime for all staff. “Title I”
+The ISI budget is set each year in consultation between the ISI financial services and
+those of the UTM. The ISI then freely manages its budget, in accordance with its status
+of a Public Administrative Establishment. In 2019 this budget amounted to 1,113,018
+ 
+  
+Dinars of which 290,340 Dinars are intended for the rent of the building and the amount of “title II” is
+raised to 95,424 Dinars.
+2.1.7 The institution develops structures for steering and implementing training
+To ensure all of its missions, the ISI has structures managed by teachers
+researchers: one general management, two (02) study and internship management, four (4)
+departments, a Research Laboratory. It also has three (03) structures
+administrative departments headed by administrative executives: the secretary general, the secretary
+principal and secretary of the establishment. The heads of all these structures are the
+only people at the ISI holding functional positions and benefiting from a bonus of
+function. The financial department, the examination department and the library are managed by
+administrators without liability bonus.
+The very recent ISI Quality Committee has an official existence according to Decree No. 2008-
+2716 of August 4, 2008, which defines the committees for quality in establishments
+higher education, but does not assign any functional positions to these committees.  
+ 
+ 
+2.1.8 The institution offers various training methods (distance learning, work-study, etc.).
+The ISI offers classic training methods: TD courses, practical work and mini-projects. Some
+Guest professors provide training and lectures on new technologies
+which generally fall within the framework of modules called: technological monitoring dedicated to
+engineering students.
+Some courses (C2I) are done remotely for undergraduate students and with the UVT, the ISI has put
+set up a remote professional master's degree in computer systems security.
+2.2 SUPPORTING THE STUDENT IN THEIR TRAINING
+2.2.1 The institution has a policy of welcoming, monitoring and helping its students succeed.
+On the first day of the academic year, the ISI organizes meetings between the director, the
+director of studies and department directors and students to help especially the
+new students to a good integration and explain to them the internal regulations of the ISI. This
+The regulations are fully detailed in a charter duly signed by the students during
+registration.
+A signage display is planned to guide students in their movement in the
+building.
+An information day organized at the beginning of the year by club managers for the
+presentation of their activities, the former team and the student integration procedures.
+The monitoring of the smooth running of training is ensured by the department directors who
+respond to student complaints.
+ 
+  
+The recently created 4C center helps to strengthen the efforts made by the internship director
+For :
+✔ Find internships
+✔ Integrate companies during end-of-study projects and end-of-study internships
+✔ Offer certified training courses
+✔ Encourage self-entrepreneurship
+The Secretary General and the Head of Education Services ensure that problems are resolved.
+student administration
+There is no support structure or personalized monitoring at the ISI
+2.2.2 The institution offers the possibility of internal (bridges) and external (national,
+international).
+Some national mobility is possible:
+✔ Internal mobility is carried out according to the gateways indicated in figure 2.
+✔ Mobility between institutions of the same training for social reasons for
+undergraduate students
+✔ Mobility through specific competition (60% of external engineering students)
+International mobility which generally falls within the framework of a convention
+Joint graduation. An agreement has started with ENSEEIHT in Toulouse for elites in
+engineering training since 2014, benefiting around ten students to date.
+Second-year engineering students must repeat the second year in France since the
+study regime does not allow to have the result per semester. Profiting from the same
+convention these mobilities are extended to summer internships and end-of-study projects which is the
+cases with several foreign socio-economic organizations.
+ 
+2.2.3 The institution has a policy of access to documentation and all educational materials.
+The ISI contains a library which has:
+✔ A documentary fund consisting of 7469 titles of different types
+✔ A copy of each Masters, PFE and SFE report is deposited in the library
+every year  
+✔ Access to the BIRUNI software which allows document searches by index: author,
+title, subject, publisher, code, periodical title.
+Access to electronic subscriptions through the National University Center of
+Scientific and Technical Documentation (CNUDST). With regard to all institutions of
+higher education, the ISI has a Coordinator in Science and Technology and
+Research linking teacher-researchers and the CNUSDT.  
+ 
+  
+No culture of depositing courses in the library has been established at ISI, apart from
+personal initiatives on the part of teachers for sharing documents.  
+2.3 COURSE EVALUATION  
+2.3.1 The institution should have procedures for implementing coordination
+pedagogical required to ensure consistency and improvement of training content.
+ 
+Educational coordination at the ISI is carried out between a manager and the other stakeholders in
+the same subject (course, tutorials and practical work) but no document is returned to the director of
+department.
+LMD training:
+✔ The content of the bachelor's degree programs is mainly (75%) offered by the
+national sectoral commission and according to the importance and technological developments,
+Following a request to the ministry, 25% of the materials can be changed following a
+departmental proposal validated by the director of studies and the scientific council.
+✔ The reform of the courses follows a national strategy with regard to the license
+unified.
+✔ The proposal and reform of master's courses are made according to the wishes of the
+teachers involved in order to follow technological developments.
+Engineering Training:
+✔ A proposal for an integrated preparatory course has been presented to the Management for two years
+General of Technological Studies (DGET). This training has been put on hold
+up to the definition of a mapping of engineering training on a scale
+national.
+✔ A change in the current engineering training program is implemented
+In place since the start of the 2018-2019 school year, this proposal was developed by a commission
+internal involving only teachers from all departments.  
+✔ Additional modules are offered in each specialty in the final year
+on technological monitoring. The speakers in these modules (Tunisians or foreigners)
+provide courses on new technologies or certified training.
+2.3.2 The institution must have appropriate teaching resources and ensure support for
+educational experimentation.
+The teaching resources available at ISI are:
+✔ 07 computer labs
+✔ 03 laboratories: digital and analog electronics and automation
+✔ 02 laboratories: telecommunication systems
+ 
+  
+2.3.3 Training programmes and teaching must be subject to evaluations
+regular, in which students should be involved.
+No evaluation of the training by the students was made apart from a few
+petitions in case of non-satisfaction
+2.4 KNOWLEDGE CONTROL
+2.4.1 The institution must define relevant policies and provisions to control the
+knowledge and validate learning throughout the training courses. The tests
+assessment should be consistent with training and learning objectives.
+The assessment methods defined in the study plans are continuous assessments, examinations
+and projects. These modes are also announced in the course syllabuses. For the assessment
+internships (carried out by French teachers), PFE of engineering students (the supervisor, a
+rapporteur and a jury president) and SFE for future graduates, defenses are
+scheduled according to the ISI annual calendar. The academic year is made up of two
+semesters which are also divided into two periods of 7 weeks of courses. At the end of each
+period, exams and supervised assignments are planned to assess the courses that have been
+scheduled.  
+2.4.2 The methods of knowledge control must be objective, fair, reliable,
+published and communicated.
+The knowledge modalities are objective according to the laws in force. My dates are fixed
+at the beginning of each year and validated by the scientific council. The weekly is published on the
+ISI website and displayed to students.  
+The terms and conditions and regulations are detailed in the engineers' guide presented on the website
+ISI and for LMD students, all regulations are published on the ministry's website.
+2.4.3 Deliberations must be carried out in accordance with regulatory provisions.
+Each year, during a scientific council, a list of jury presidents is designated for
+each training and each level.
+The director and the director of studies meet with the jury presidents to give them
+documents containing all necessary regulations and setting the redemption conditions for
+that the deliberations are fair.  
+2-4-4 The institution must ensure that the proclamation of examination results complies
+the established terms and timetables.
+The period for the proclamation of results has been set since the beginning of the year. Each president
+The jury is supposed to monitor the status of the submission of grades and ask latecomers to respect them.
+deadlines. The date and time of the deliberation are set by the president and an invitation by
+email is sent to the teachers concerned by the level in question.  
+ 
+  
+2.4.4 The institution must disseminate the examination results as soon as they are validated.
+The grades for continuous assessments and first semester exams are published on the website
+the ISI as soon as they are seized with the examination service. The results of the deliberations of the whole year
+is validated by the director and immediately displayed on the boards and published on the website.
+ISI. Transcripts are available a day or two after the deliberations.
+2.5 ORIENTATION AND PROFESSIONAL INTEGRATION
+2.5.1 The institution develops an orientation system.
+ISI's 4C Career Center offers the opportunity to advise and guide students
+engineers in their choices of their professional careers
+2.5.2 The institution develops a system to support professional integration.
+The ISI 4C Career Center also offers the following services:
+Support for the placement of students in companies.
+Support for students in entrepreneurship and business creation.
+The ISI encourages the creation of clubs in its training areas and in the fields
+linked to entrepreneurial cultures. There are 11 of these clubs (Enactus_ISI, BeB_ISI,  
+CreativeLab_ISI, Freewayes_ISI, SecuriNets_ISI, Club IEEE_I SI, ArtBox_ISI, ISI-geeks,
+CODEX, Makres change, : Atast_ISI) help in their activities and participation with
+excellence in national competitions to a visibility of the ISI and the capacity of these
+students
+ 
+2.5.3 The institution develops partnerships with the socio-professional environment.
+For about four years, a culture of agreements with companies has begun to emerge.
+to be established at the ISI. These conventions have been reinforced in a remarkable manner since the
+creation of the 4C center.  
+2.5.4 The institution develops a system for monitoring the employability of graduates
+No system is in place to monitor its graduates. Feedback from
+Some companies with which the ISI has been collaborating for years are relevant indicators on
+the quality of training of ISI graduates who are largely hired
+immediately after the PFE.
+ 
+Strengths Weaknesses
+Excellent supervision rate  
+Communication of study plans to
+students (engineering courses only).
+Multi-skilled teaching team
+ 
+Local not dedicated to teaching during the
+construction
+Budget (300 MD) for rental
+Pedagogy still too traditional  
+Lack of multidisciplinary projects  
+ 
+  
+High percentage of teachers belonging
+to research structures belonging
+at UTM
+Taking into account the evolution of the market
+employment for changes of plans
+of studies  
+Periodic knowledge check.
+Planning 4 sessions for homework
+supervised and exams.
+Uniqueness of exams for core courses
+common to all sectors.
+Diversity of training offer in content and
+in learners
+Entrepreneurship training through the
+4C career center
+Online Professional Masters (UVT)
+High participation rate of
+professionals (experts) in training
+Lack of tools for knowledge of
+job offers
+Lack of systematic analysis tools and
+periodic monitoring surveys
+graduates
+Massive departure of teachers in
+technical cooperation
+Insufficient human resources in
+management and services level
+administrative
+No training assessment by  
+students  
+Lack of tools for data analysis
+investigations
+Absence of collections of old exams
+with their corrections.
+Failure to comply with the delivery dates
+notes  
+There is no more continuing education
+ 
+  
+ 
+  
+Opportunities Risks
+Opening of training to students
+international (african)   
+Implementation of an admission system on
+specific competition for the elites of
+graduates from other institutions
+Opening of contract positions by
+UTM
+UVT involvement in training at
+distance
+Attracting the best students (score of more
+higher)
+Existence of double degrees from institutions
+foreign
+UTM Financing for Purchase
+of works  
+MESRS subscription with CNUDST
+BIRUNI Base
+International recognition of
+proposed programs
+Proposal of certified training by the
+socio-economic environment
+Number of active clubs participating and performing well
+to national competitions
+Number of students down due to
+demographic hollow wave
+Difficulty in recruiting staff and
+teachers
+Lack of contract and temporary workers
+Computer network instability
+Employer dissatisfaction with
+their expectations
+Decrease in the number of scholarships and
+funding allowing students to
+participate in international mobility and
+to obtain a double degree
+Geopolitical issues (ISI is located in
+a popular area near the market
+Change of legal texts for
+the development or implementation of new
+modules or the control system
+Economic recession in the country and decline in
+job offers
+Lack of motivation among teachers for
+free spots (quality, 4C, presidents of
+jury)
+ 
+2.6 DOCTORAL TRAINING
+No doctoral school exists at the ISI, however there is only one LIMTIC laboratory having
+the following data.
+3 SEARCH
+3.1 THE PLACE OF RESEARCH
+Part completed later by the lab manager (all registrations are made at
+the FST)
+1 The institution must have research structures and should have a research entity
+valuation.
+Only one laboratory was created at the ISI in computer science and applied mathematics.
+LIMTIC LABORATORY
+ 
+Number of doctoral students: 31
+ 
+  
+Number of publications2,103
+Number of patents (intellectual properties) 1
+Number of conventions (national and international) 4
+Number of theses defended 12
+ 
+ 
+3-1-2 All teacher-researchers and researchers of the institution should belong to
+multidisciplinary research teams.
+The research structures of ENIT, FST and those of ENSI have made it possible to accommodate the
+majority of permanent teacher-researchers, which allowed them to carry out an activity of
+research and research supervision and to prepare for university accreditation.  
+3-1-3 The institution must define its research priorities, which should be located in the
+regional, national and international context.
+The research structures of ENIT and FST cover all specialties of
+engineering sciences and techniques and develop national research programs
+in partnership with Tunisian companies and international programs in partnership
+with foreign research teams.   
+3-1-4 Scientific documentation must be accessible to teachers, researchers and
+researchers of the institution.
+Access to electronic subscriptions through the national university center of
+Scientific and Technical Documentation (CNUDST).  
+3-1-5 The institution must facilitate and encourage the participation of teacher-researchers and
+researchers at national and international conferences.
+A section in the budgets of research structures is dedicated to support
+participation of researchers in scientific events. The ISI also supports
+participation of researchers in scientific events from its budget.
+3-1-6 The institution must encourage and facilitate the organization of seminars and meetings
+national and international scientists.
+There have been no seminars for six years
+3-1-7 The institution should define a policy and provisions for the reception of
+teachers-researchers and foreign researchers.
+ 
+2 Impacted publications & articles (indexed or national)
+ 
+  
+For the modules related to technological monitoring, several guest professors taught
+modules or gave lectures for final year classes or those of the master's degree
+research.
+3-1-8
+The institution defines its research priorities and implements appropriate means.
+Research structures define their research axes according to their
+skills. The financial resources for research come from the ministry, from cooperation
+international, H2020 projects, PAQ collaborate, PEER, PRF….
+3-1-9
+The institution has structures for steering and monitoring research.
+NO
+3-1-10 The institution organizes strategic reflection and an internal evaluation in
+research material.
+NO
+3-1-11
+The institution structures research according to its scientific priorities.
+NO
+3-1-12 The institution encourages the dynamism of research and motivates its teachers
+researchers.
+The ISI encourages the dynamism of research through its support for research structures
+by providing them with the necessary infrastructure for their development. It motivates the
+teacher-researchers by opening positions for grade advancements and encouraging
+transfers to the ISI of teachers in new specialties.
+3-1-13
+The institution is developing a research training policy and through
+research.
+- an opening to the outside national and international world as well as the possibility of access
+to financial support for the completion and promotion of their research work.
+3.2 SCIENTIFIC RELATIONS AND PARTNERS
+3-2-1 The institution must endeavour to initiate and/or participate in scientific partnerships
+regional, national and international formalized within the framework of conventions
+P
+3-2-2 The institution should establish and implement a policy and arrangements for
+communicate and disseminate its scientific production.
+ENIT, through its research structures, regularly organizes seminars,
+conferences and workshops to communicate and disseminate its scientific production.
+Copies of masters, theses and Habilitation reports are deposited in the library and
+ 
+  
+made available to researchers. The research structures, through the website, provide
+references to their researchers' publications  
+4 GOVERNANCE
+4.1 INFORMATION SYSTEM
+4.1.1 4-1-1 The institution has a policy for collection, security, processing and analysis
+and exploitation of information.
+The order office ensures the collection and dispatching of data/mails.
+information is not centralized in a specific location. No information system
+reliable
+4.1.2 The institution ensures the archiving and dissemination of administrative, educational and
+scientist.
+An archiving service exists at the ISI and allows the archiving of administrative documents and
+educational. The dissemination of information is done by posting, by email or on the website of
+ISI. Computer data is archived at users' premises. PFE reports,
+Masters, theses and qualifications must be submitted to the library in order to have the
+diploma. They are archived and made available to students.  
+4.1.3 The institution has digital services available to its students and staff.
+The ISI does not have a digital service. Sometimes we opt for scanning timetables,
+exam invitations and even student grades to put them on the site. All
+administrative documents are in paper format.
+4.2 CONDITIONS FOR DEVELOPING POLICIES
+4.2.1 The establishment's councils must meet regularly and reach decisions
+decision, based on an agenda identified and previously distributed to members.
+The institution must involve socio-economic operators in the various councils.
+A scientific council of the ISI is constituted for a period of three years and meets in
+average once a month. It is composed of: Director of the school, director of studies,
+director of internships and environmental outreach (designated but generally absent),
+the 4 department directors, the general secretary, 8 representatives of the teacher-researchers
+elected, 3 students elected each year and 2 representatives of economic, social and
+cultural.
+4.2.2 4-2-2 The institution should know its margin of autonomy and take full advantage of it.
+Orientation law n° 19-2008 of 25/2/2008
+3 on higher education plans to organize
+higher education and scientific research establishments either in the form of EPA
+either in the form of a Public Scientific and Technological Establishment (EPST);
+ 
+3 http://www.ilo.org/dyn/natlex/docs/SERIAL/78210/83454/F927320668/TUN-78210.pdf
+ 
+  
+status created by Decree No. 2008-3581 of November 21, 2008 4 but never implemented.
+In 2016, circular no. 15/16 of the Minister of Higher Education and Research
+Scientist of 22/2/2016 invited institutions that meet the transformation criteria
+of status and who wish to transform themselves, to do so and the ISI is not yet in a position to address
+these procedures.
+4.2.3 The institution should promote the participation of its students in institutional management
+(student representatives in decision-making bodies, student delegates by
+training, participation in assessments, etc.).
+Three elected students are part of the ISI scientific council (1 delegate for students in
+master's degree, 1 delegate for engineering students and another representative of undergraduate students).
+A representative from each class is elected each year to act as an interface between
+each class and the administration. Students who belong to clubs participate in the
+preparation and organization of the company day.
+No training evaluation took place
+4.2.4 The institution has structures responsible for developing concerted training policies,
+research and governance.
+The departmental councils provide educational monitoring functions with the aim of
+regularly update training courses. The aim is to ensure their
+adequacy with scientific and technological developments and the requirements of
+the economic environment. Governance policies have changed almost little since
+years because they are linked to the regulations defined by the ministry.
+4.2.5 The institution organizes its internal consultation for the development of its various policies:
+training, research, administrative management and governance.
+Not applicable
+ 
+4.2.6 The institution's policy is in line with national strategic guidelines for
+higher education and research.
+The ISI's strategic orientation policy is consistent with the UTM strategy which
+has been strongly committed in recent years to the continuous improvement of its performance
+and those of its establishments, by starting the design and development of a System
+Quality Management in accordance with the requirements of recognized standards.  
+4.2.7 The institution's policy and strategy, particularly in the field of research,
+training, international relations and services provided to society take into account
+its local, national and international environments.
+In the absence of a position dedicated to international relations and quality which deals with developing
+the institute's strategies, these two functions are carried out by the same person and the director
+ 
+4 http://www.utm.rnu.tn/utm/documents/reglement/organization/32.pdf
+ 
+  
+who manages day-to-day affairs (lack of a strategy for research and a strategy for
+international relations).
+4.2.8 The institution has a shared development project.
+ISI has not developed a shared development project
+4.3 ORGANIZATION AND MANAGEMENT OF COMPONENTS AND SERVICES
+4.3.1 4-3-1 The institution must have internal regulations adapted to the implementation of projects
+and policies of the institution.
+ 
+The ISI has defined a guide for its internal regulations concerning engineering students and does not
+charter containing the internal regulations is updated almost every year and signed by all
+students.
+4.3.2 The institution must have a clear, relevant and communicated organizational chart within
+the institution. The institution should define replacement arrangements for the
+key positions.
+The official ISI organization chart contains only four members (the Director, the Director of
+studies/deputy director, the internship director, the general secretary and secretary
+However, a new unofficial organizational chart that reflects the organization
+current school layout has been established (Figure 7)
+ 
+Figure 7: Current ISI organization chart
+Noticed :
+The blank boxes are unpaid functional positions and structures.
+ 
+ 
+ 
+ 
+Direction
+ 
+Internship Management
+  
+Secretary General
+ 
+Principal Secretary
+  
+Financial service
+  
+School service
+  
+Examination service  
+  
+HR department
+  
+Library
+ 
+The 4
+departments
+  
+Center 4C
+ 
+Scientific Council
+ 
+Vice Director
+Management of
+Studies
+ 
+County Quality
+ 
+  
+4.3.3 The institution must establish and implement effective internal communication tools.
+A distribution of tasks in the different departments is put in place and by habit or
+word of mouth each person goes to the right person to solve a problem
+or communicate with a person. It is true that there is no communication problem
+between the different stakeholders but there are no job descriptions or written documents
+on who does what.
+4.3.4 4-3-4 The structure of the institution is adapted to the achievement of its missions and objectives
+; it allows efficient piloting.
+The ISI has a functional unit to carry out each of its missions. In this sense,
+It has:
+● Structures managed by teacher-researchers: a general management, management
+studies, internship management and openness to the environment and doctoral school.  
+● Five (5) departments,  
+● Twelve (12) research laboratories and four (4) research units.  
+● Three (3) administrative structures headed by administrative executives: the secretariat
+general, the financial department and the library.
+● A quality committee
+4.3.5 4-3-5 The head of the institution manages and allocates resources in accordance with the
+objectives of the institution; it organizes the evaluation of the effectiveness of their implementation.
+The director exercises the following powers:
+● Supervision of the proper scientific and educational functioning of the establishment,
+coordination of the activity of teaching and scientific research bodies and
+ensures the organization of examinations and the appointment of jury presidents,
+● Ensures that order and discipline are maintained within the establishment,  
+● Ensures the proper functioning of administrative and financial services and the exercise
+functions of the establishment's budget authorising officer,  
+● Represents the establishment with respect to third parties, with respect to justice and concludes
+agreements and contracts after agreement of the president of the university
+4.3.6 4-3-6 The institution guarantees the material means necessary and appropriate for the smooth running of
+his activities.
+The renewal of teaching materials is done through competitive financing
+opened by the Ministry of Higher Education and Scientific Research
+(Quality Support Programs), either through international cooperation funds or
+through the university's "Title II". The school itself carries out the maintenance of some
+equipment and the replacement of certain parts in order to ensure continuity of work
+practices. From time to time, it renews certain manipulations or
+some practical work stands on the funds she obtains through her activity
+openness to the environment. The school has twelve (12) computer rooms intended
+to the teaching of practical computer work but also to the teachings
+specialized requiring specific software. The acquisition of computer hardware is
+provided in a grouped manner by the university. The acquisition of teaching software is
+provided by the School according to the requests of teachers and needs. The software used for
+ 
+  
+administrative and financial management are offered for all administrations
+public.
+4.4 MANAGEMENT OF SUPPORT FUNCTIONS IN THE SERVICE OF MISSIONS
+4.4.1 4-4-1 The institution manages its human resources in accordance with its missions and values.
+The teaching staff is made up of 191 permanent university teachers and a
+hundred temporary workers who are often practicing engineers. The administrative staff,
+technical and worker is made up of 164 people. These human resources, in decline
+continues, leading to a disparity in the teaching load on the one hand, and a lack
+internally of certain functions which were available at the school (laboratory technicians,
+electricians, gardeners, etc.)
+4.4.2 4-4-2 Common services contribute to the implementation of the institution's project.
+The ISI has 12 computer rooms and 4 teaching blocks spread over 14
+hectares. It has the management, 5 departments, a library, a center of
+calculation, research structures, doctoral school….
+4.4.3 4-4-3 The institution must have a transparent system for the internal distribution of resources
+financial.
+“Title I” of the school budget is set each year in consultation between the departments
+financial institutions of the School and those of the Ministry. The School then freely manages its budget,
+in accordance with its status as a Public Administrative Establishment. In 2018 this budget
+amounted to 1,780,000,000 Dinars. The remainder of Title I amounted at the end of 2018 to
+549,572,049 Dinars. “Title II” comes essentially from the opening activity on
+the environment, research and engineering program contracts and projects
+competitive research projects both nationally and internationally. In 2018 this budget rose to
+to 1,158,905,000 Dinars. The financial report is presented each year to the scientific council of
+ISI. The distribution of financial resources by heading is carried out by looking at expenditure
+relative to the previous year and depending on the evolution of the number of students.
+4.4.4 4-4-4 The institution must have suitable logistical resources to effectively manage its
+movable heritage (e.g. rolling stock) and real estate (e.g. green spaces).
+ISI has 164 administrative staff, technicians and workers. The number of technicians and workers in
+Class 1 is in continuous decline which leads to the use of subcontracting for the management of the
+movable and immovable assets (longer delays, quality of service provided, etc.).
+It has several software programs for store management and archive management.
+The lack of communication between the software used leads to traceability problems.
+4.5 QUALITY MANAGEMENT
+4.5.1 4-5-1 The institution has a quality unit  
+The ISI Quality Committee was formalized by ISI management in December 2016.
+This committee includes 15 members: 9 teacher-researchers belonging to the 5 departments
+of the ISI. It also includes 2 members belonging to the administrative staff, 1 technician, 2
+engineering students and 1 representative of the Association of ISI Graduates (ADISI).  
+ 
+  
+4.5.1.1 4-5-2- a The institution should determine relevant external and internal issues by
+in relation to its purpose and strategic orientation, and influencing its ability to
+achieve the expected results. It should also monitor and regularly review
+information relating to these external and internal issues.
+A diagnosis of the ISI was made according to the ISO 9001-2015 standard, which made it possible to establish
+the action plan and to carry out a SWOT analysis which allowed the identification of risks and
+opportunities. Then the internal and external issues were determined. These issues were
+recorded in the Quality Manual.
+4.5.1.2 4-5-2- b The institution should take these issues into account when determining the risks and
+the opportunities that need to be taken into account.
+The analysis of risks and opportunities has not yet been done.  
+4.5.1.3 4-5-2- c The institution should plan the actions to be implemented in the face of risks and
+opportunities. The actions implemented should be proportional to
+the potential impact on the compliance of the services provided
+The action plan will be established following the analysis of risks and opportunities.
+4.5.2 4-5-3 Management shall establish relevant policy and objectives which integrate, without being inconsistent with,
+limit the following points:
+฀ positioning in the regional, national and international strategic dimension
+฀ the challenges and support for the training provided
+฀ the overall scientific and professional objectives of the training provided
+A brainstorming session was organized with the participation of representatives of the stakeholders.
+internal and external to highlight key words to define the policy, mission and
+ISI objectives. The “Management Quality Commitment”, presented to the scientific council of
+ISI in December 2016, describes the School's quality policy. This policy places students
+at the center of interest of the School and is organized around the following objectives:  
+● Develop accredited training courses that meet scientific and technological challenges
+economics of tomorrow.  
+● Develop applied research with high added value.  
+● Recruit the best students.  
+● Attract the best teacher-researchers.  
+● Promote staff training and development
+● Guarantee equal opportunities
+● Offer everyone a listening ear and an attractive and collaborative working environment
+4.5.3 4-5-4 Management shall ensure that responsibilities and authorities for relevant roles
+at the establishment level are allocated, communicated and understood within
+the establishment. Management should assign the necessary responsibilities and skills to
+its staff to ensure that the services provided are carried out in accordance with the
+regulatory requirements, stakeholders and internal requirements.
+Administrative staff job descriptions are being developed to determine
+the required skills. The ISI provides training to its administrative staff to
+improve your skills.
+ 
+  
+4.5.4 4-5-5 The institution must develop and implement appropriate documentation for the
+quality management at different levels (institution, programs, research, etc.).
+documented information (paper and/or electronic) required by this standard
+must be:
+฀ Available and suitable for use;
+฀ Adequately protected and safeguarded (e.g. against loss of confidentiality, use
+inappropriate or loss of integrity);
+฀ Updates.
+A global mapping of the quality approach made it possible to highlight the sub-
+processes related to the four main processes:
+● Process Management: Listening and measuring customer satisfaction, correction, audit,
+analysis and continuous improvement, strategy and management.
+● Implementation process: Initial training of engineers, doctoral training,  
+research and service.
+● Support process: Openness to the environment, education, Management of  
+teachers, educational logistics, Library and Doctoral School.
+● Support Process: Infrastructure, human resources, budget and finance, and
+documentation.
+To date, the human resources, budget and finance, doctoral school processes,
+initial training have been written with the procedures that are part of it ie. The other processes and
+their procedures are being developed in consultation with the pilots of these procedures.
+The next phase in the implementation of the quality approach within the ISI is validation
+processes and procedures developed with a view to disseminating and applying them. A procedure
+document control has been developed to ensure the availability, archiving and
+of updating the documents produced.
+4.5.5 4-5-6 The institution must ensure that non-conformities are identified and controlled. According to the
+nature of the non-conformity and its impact on the conformity of the services provided, the institution
+must take appropriate action (correction and/or corrective and/or preventive action) and must
+decide on their effectiveness.
+Since the implementation of the QMS has not been completed, there is no analysis to determine whether the
+processes to achieve the school's overall goals has not yet been made. None
+study of non-conformities has not yet been carried out. Satisfaction questionnaires, needs
+and expectations of internal and external stakeholders are being developed.
+  
+ 
+  
+4.6 SWOT ANALYSIS AND GOVERNANCE ASSESSMENT
+Strengths Weaknesses
+Distribution at the beginning of each year of a
+student guide containing the regulations
+ISI interior updated.
+Signing of the guide at the beginning of each year,
+at the time of registration as a
+commitment from students and the
+direction of studies.
+Availability of timetables, updated
+weekly, on the ISI website.
+Instant distribution of notes as soon as they are entered
+on the ISI website accompanied by a
+announcement on the institute's FB page.
+Weekly schedule release
+updated to teachers via a mailing list.
+ 
+Archiving of PFEs, SFEs and reports
+masters in the library.
+Official appointment of a committee for the
+quality for the implementation of a QMS
+Periodic elections for a three-year term
+years based on programs.
+Collegial decision-making whether at the level
+departments or at council level
+scientist.
+Official appointment of a 4C center including
+The aim is to promote the rise in
+competence of students but also of
+administrative and educational staff.
+Non-officialization of the organization chart
+functional.
+Lack of job descriptions for the
+administrative.
+Non-standardized communication of
+events scheduled by the clubs.
+Lack of a system for evaluating
+teachings and satisfaction, either from the
+part of the students, either on the part of the
+teachers.
+Non-existence of an annual calendar of
+periodic meetings.
+Lack of logistical resources.
+Lack of communication between the
+services.
+Lack of complaints procedure/
+treatment of breakdowns, malfunctions
+at the level of teaching rooms and
+practical work.
+Delay in receiving mail.
+Lack of an information system.
+Lack of internal communication.
+Lack of study of needs and expectations
+internal and external stakeholders.
+Lack of long-term strategic vision
+and poor communication of the orientations of
+the ISI.
+Low involvement of teachers in the
+promotion of activities.
+Low interaction with students, except in
+cases of complaints.
+Imbalance between available resources
+with the objectives and the missions targeted.
+Short term of management mandate.
+Lack of material resources.
+Disparity in teaching load between
+the different departments.
+Identification and analysis of risks and
+opportunities are not made upstream.
+ 
+Lack of dissemination of the commitment of the
+direction (Poster, Website, Training,
+etc.).
+ 
+  
+Heavy day-to-day management.
+Opportunity Risk
+Possibility of transition to EPST status.
+Possibility of submitting multiple projects
+PAQ.
+Possibility to improve the school budget by
+own resources.
+Moving to a management by objective system.
+Reduction in the budget allocated by the ministry (to
+through the University)
+The lack of sufficient involvement of
+teachers in the various committees at
+due to lack of incentives, including the
+implementation of a QMS.
+5 LIFE WITHIN THE INSTITUTION AND SOCIETY
+5.1 RECEPTION AND CARE OF STUDENTS AND STAFF
+5-1-1 The institution must set up a relevant system for welcoming and guiding
+students.
+During the integration week, which generally coincides with the first week of
+course, meetings are organized by the director of ISI, the director of studies and the
+department directors with new ISI students to present the
+ISI training courses and the main points of the establishment's internal regulations.  
+5-1-2 The institution must set up student information systems and have
+physical and/or virtual spaces dedicated to information intended for students.
+The ISI has physical information devices through its notice boards, and
+virtual through publication on its website and its official Facebook page intended for
+all his students.  
+5-1-3 The institution must promote easy and relevant access to the IT tool
+The ISI has several Wi-Fi access points, distributed throughout the premises of the establishment,
+The internet is accessible to all students.
+5-1-4 The institution should define a strategy for managing the skills of its employees.
+It must, on a regular basis, develop a training plan for administrative staff and
+technical.
+Employees should exercise the prerogatives officially attached to the positions they hold.
+occupy. UTM occasionally offers training to its staff. On the other hand,
+More specific training should be scheduled based on identified needs.
+5-1-5
+The institution sets up information systems for students and staff
+A physical and virtual information device is made available to students and the
+ISI staff, through the notice board, the institution's website and its page
+official facebook. These supports allow to inform students and staff of the
+events organized at the ISI and any notices published by the ISI management. Students
+are still informed of their schedule and grades via the website
+the establishment. On the other hand, teachers often have access to the various information
+concerning through a mailing list bringing together all ISI teachers.  
+ 
+  
+5.2 CULTURAL AND SPORTING ACTIVITIES
+5.2.1 The institution must support and assist the creation and operation of structures and
+cultural, artistic and sports associations. It must also support the organization
+cultural, artistic and sporting activities.
+The ISI has:
+✔ 10 clubs namely: Securninets, ARTBOX, ISI Junior Entreprise, Freewayes, IEEE ISI,
+Enactus-ISI, Change Makers, Beb-ISI, ISI_GEEKS, Creative Lab.  
+✔ 1 association: Association of scientific and cultural clubs of the ISI.
+Sports and cultural activities are offered such as table tennis, football, gambling
+of failure…For club activities, the school provides students with a space
+dedicated. The Association of Scientific and Cultural Clubs of ISI supports students in
+the organization of events and the various structures of the establishment support the
+students in identifying different sources of funding for the organization of
+scientific and cultural events.
+5.2.2 The institution promotes the development of cultural and sporting structures and associations.
+Every year new clubs are created.  
+5.3 LIVING, WORKING AND STUDY CONDITIONS OF THE ACTORS OF
+THE UNIVERSITY (HEALTH, HYGIENE, SAFETY, ...)
+5.3.1 The institution should provide an appropriate living environment for all its human resources. It
+should have built and furnished spaces intended for the institution's human resources.
+The ISI has built spaces intended for classrooms, practical work, offices
+teachers, administrative and technical staff offices, rooms intended for
+workers, a club space is reserved for students for their meetings and activities, as well
+than a large space dedicated to the library. However, these premises are not sufficient and
+efficiently arranged to meet the educational needs of the establishment. The number
+office space for teachers is much lower than the number of permanent teachers
+of the establishment. To fill this deficit, almost all offices have been allocated
+groups of teachers, sometimes 4 teachers for a space of approximately 6 m2.
+5.3.2 The institution must have arrangements and means to manage health and safety at
+work of its human resources
+At the ISI a number of provisions exist to preserve hygiene, health and
+safety at work for students and civil servants. A medical room is available, a
+A nurse and a psychologist intervene regularly and as needed and provide
+student monitoring. In addition, additional training for students and
+officials in the management of health and safety at work would allow for better management of
+emergency case.
+ 
+  
+5.3.3 The institution must define policies and measures designed to facilitate the lives of people with
+specific needs (students, administrative staff, teachers, visitors).
+Unfortunately, the institution has not implemented a policy to make life easier for
+people with special needs. The ISI infrastructure and premises have not been
+designed to meet these needs.
+5.3.4 The institution's teacher-researchers and researchers must have access to
+individual spaces suitable for design, reflection and communication with students.
+The ISI has only one research laboratory. The teachers and doctoral students assigned to this
+laboratory has a dedicated space for research and supervision.
+5.3.5 The institution develops partnerships with communities, city and regional organizations
+the region in favor of its students and staff.
+The ISI has established several agreements with public and private companies (FIS, HLI, AMC
+Ernst & Young, Intercom Technologies, Linedata, Think.it, Wevioo, ADACTIM, Axefinanace,
+Telnet, Breakpoint Technology, TBS). These conventions cover the areas of
+teaching, internships, PFE, student life. The ISI Staff Association has again
+signed agreements with companies for subsidies for meal vouchers
+and for social assistance for its members.
+5.3.6 The institution contributes, with the relevant services, to the care of students and
+personal (catering, accommodation, transport, etc.)
+The ISI does not have any assets, in order to guarantee accommodation for its students.
+national provisions in force do not guarantee accommodation in university halls of residence
+all students, a large number of students accommodate themselves in premises
+private. For the establishment's staff, catering tickets are given to
+members of the ISI staff association.  
+5.4 SOCIAL RESPONSIBILITY (ETHICS, CITIZENSHIP, EQUAL OPPORTUNITIES,
+SUSTAINABLE DEVELOPMENT, …)
+5.4.1 The institution should demonstrate involvement in civic activities, particularly in
+terms of sustainable development.
+The ISI does not have a policy or means to demonstrate involvement in
+civic and sustainable development activities.
+5.4.2 The institution must define and implement provisions to ensure equality for students
+opportunities, fair treatment, impartiality and transparency.
+The ISI has implemented provisions to ensure equal opportunities and transparency of
+its treatments. Via the regular display of score formulas in the context of competitions
+organized by the ISI, the prior posting of the rules which will be adopted for the elimination of
+students whose number of absences has exceeded the recommended quota, the half-yearly display of
+DS and exam notes, prior display of the criteria necessary to benefit from the
+process of checking marks and double corrections. Coding of exam papers
+ 
+  
+in order to guarantee the anonymity of the copies. Again, student representatives participate and
+are informed at all times of decisions taken against students. At the beginning of each
+year, a representative from each class is elected to act as a representative of the students with regard to
+the management.
+5.4.3 The institution is involved in and encourages civic activities, exchanges and debates
+societal.
+The Clubs often organize debates with civil society in the presence of representatives of
+associations, government and independent bodies on issues of
+governance, the ethical responsibility of engineers, corruption… The club IN NEWS
+regularly organizes social actions to help deprived regions.
+5.4.4 The institution ensures compliance with the principles and rules of ethics and professional conduct
+Awareness of the principles of ethical and professional conduct rules is addressed in
+some cross-cutting modules. But this remains insufficient for effective awareness-raising
+students.  
+ 
+  
+5.5 SWOT ANALYSIS AND EVALUATION OF LIFE WITHIN THE INSTITUTION
+Strengths Weaknesses
+- Equal opportunities, fairness, impartiality and
+transparency for students, pillars of the
+ISI policy.
+- ISI website
+- Free Wi-Fi access
+- Library quite rich in
+scientific documentations.
+- Wide range of club activities with
+strong student motivation
+- Availability of an infirmary room  
+- Monitoring of students by a psychologist  
+- Regular organization of actions to come
+in aid of deprived regions by some
+ISI clubs.
+- Support for staff catering
+by the ISI Association
+- Involvement of the Association of Clubs of
+the ISI to subsidize their activities.  
+- Presence of surveillance cameras in
+all the corridors of the building and on the
+different access points.
+ 
+- Premises not suitable for activities
+educational.
+- Cramped offices and workspaces
+work.
+- Lack of offices for new employees
+teachers.
+- No space available for
+student supervision.
+- Failure to adapt the infrastructure of
+buildings with specific needs
+- Non-compliance of certain blocks with the
+security requirements and lack of
+adequate training of students and
+officials to the gestures of the first
+help
+- Low financial means for
+the development of certain premises including the
+4C –ISI center.
+- Lack of toilets and hygiene
+bathroom
+-
+Lack of reading and leisure space  
+for students
+- Low involvement of ISI in activities
+citizens, exchanges and debates
+societal.
+- Lack of training for
+responsible for services along their
+careers to be able to access
+grade promotions
+- No refreshment bars, restaurants or gardens.
+- Undeveloped parking.
+ 
+Opportunities Risks
+- Possibility of joint graduation for
+ISI laureates.
+- Proposal of engineering internships at
+the stranger.
+- Business agreement with the ISI
+for the financing of the activities of
+clubs.
+- Risk of non-renewal of the contract
+rental of the ISI premises.
+- No emergency exit in some blocks
+of the building.
+- Presence of certain dead zones not
+covered by surveillance cameras
+especially in the ISI parking lot.
+ 
+  
+- Involvement of certain companies
+to subsidize the activities of
+the ISI Staff Association.
+- Presence of a 4C-ISI center and a
+incubator.
+- Presence of a certification center at
+the ISI.
+ 
+- Difficulty in replacing workers and
+staff leaving due to situation
+economic in the country
+- Exodus of teachers and students
+abroad due to conditions
+unfavorable economic conditions.
+ 
+  
+ 
+  
+  
+ 
+  
+5.6 SWOT ANALYSIS AND EVALUATION OF LIFE WITHIN THE INSTITUTION
+Strengths Weaknesses
+- Equal opportunities, fairness, impartiality and
+transparency for students, pillars of the
+ISI policy.
+- ISI website
+- Library quite rich in
+scientific documentations.
+- Wide range of club activities with
+strong student motivation
+- Monitoring of students by a psychologist  
+- Regular organization of actions to come
+in aid of deprived regions by some
+ISI clubs.
+- Involvement of the Association of Clubs of
+the ISI to subsidize their activities.  
+- Presence of surveillance cameras in
+all the corridors of the building and on the
+different access points.
+ 
+- Premises not suitable for activities
+educational.
+- Cramped offices and workspaces
+work.
+- Lack of offices for new employees
+teachers.
+- No space available for
+student supervision.
+- Failure to adapt the infrastructure of
+buildings with specific needs
+- Non-compliance of certain blocks with the
+security requirements and lack of
+adequate training of students and
+officials to the gestures of the first
+help
+- Low financial means for
+the development of certain premises including the
+4C –ISI center.
+- Lack of toilets and hygiene
+bathroom
+-
+Lack of reading and leisure space  
+for students
+- Low involvement of ISI in activities
+citizens, exchanges and debates
+societal.
+- Lack of training for
+responsible for services along their
+careers to be able to access
+grade promotions
+- No refreshment bars, restaurants or gardens.
+- Undeveloped parking.
+ 
+Opportunities Risks
+- Possibility of joint graduation for
+ISI laureates.
+- Proposal of engineering internships at
+the stranger.
+- Business agreement with the ISI
+for the financing of the activities of
+clubs.
+-
+   Regular organization of open days.
+- Risk of non-renewal of the contract
+rental of the ISI premises.
+- No emergency exit in some blocks
+of the building.
+- Presence of certain dead zones not
+covered by surveillance cameras
+especially in the ISI parking lot.
+ 
+  
+- Involvement of certain companies for
+subsidize the activities of the Association
+ISI staff.
+- Presence of a 4C-ISI center and a
+incubator.
+- Presence of a certification center
+certiport to the ISI.
+ 
+- Difficulty in replacing workers and
+staff leaving due to situation
+economic in the country
+- Exodus of teachers and students
+abroad due to conditions
+unfavorable economic conditions.
+ 
+The analysis of the training compliance rate by heading, expressed as a percentage, is
+shown in Figure 9 according to the grid developed by the UTM quality relay committee
+(appendix).
+ 
+ 
+Figure 9: Compliance rate of life within the Institution
+6 RELATIONSHIP BETWEEN ISI AND UTM
+6.1 RELATIONSHIP OF 'ISI WITH THE UTM
+6-1-1 Assessment of the current level of autonomy of action between
+the establishment and the UTM  
+A close dependence on administrative formalities. EPST status no
+still granted
+6-1-2 Level of involvement of the establishment with the UTM  
+The director and a teacher from the ISI are members of the scientific council of the UTM. A
+ISI teacher is on the UTM quality relay committee. An ISI teacher is a member
+of the information system committee.
+ 
+
+ 
+  
+ 
+ 
+6.2 RELATIONSHIP OF UTM WITH ISI
+6-2-1 Level of involvement of the UTM in the activities of the establishment  
+The UTM president is present at almost all ISI events. UTM
+encourages the activities of the ISI by financial means. The UT M organizes training courses
+for its administrative staff and those of other institutions. They are planned
+annually.
+6-2-2 Added value provided by the UTM, appreciation and competitiveness  
+UTM was ranked 1st Tunisian university, 9th in Africa and among the top 800 (rank
+703) of universities worldwide for the year 2017-2018, according to the organization
+international university ranking: University Ranking by Academic Performance
+(URAP).
+6-2-3 Visibility of UTM's strategic axes for the establishment and their
+consistency with his own
+The ISI's strategic orientation policy is consistent with the UTM strategy
+which has been strongly committed in recent years to the continuous improvement of its
+performances and those of its establishments, by starting the design and development
+of Quality Management Systems in accordance with the requirements of the standards
+recognized.
+6-2-4 Proposals promoting the development of a shared strategy and
+of a synergy  
+Following the MESRS proposal of the PAQ-DGSU project for the Development of
+Strategic Management, UTM presented a concept note for a GAGE ​​project which encompasses
+all institutions. The ISI is strongly committed to preparing the final project.
+  
+ 
+  
+6.3 SWOT ANALYSIS AND EVALUATION
+Strengths Weaknesses
+- Strong involvement of the ISI
+- Strong involvement of the president
+- Ranking performance
+- Creation of the quality committee
+- Nationally renowned establishment and
+international
+- Research structures able to
+respond to national priority areas and
+international: Co-supervised theses
+- Cooperative research projects
+international
+- Integration of procedures and criteria of
+University rankings
+- Start of integration of the approach
+Quality Management within
+UTM and its 15 institutions:
+PAQ PHARE program
+- ISI accreditation.
+- Restructuring process in EPST
+started for UTM, ISI, FMT and
+from IBLV
+- Radiation, Maghreb Mediterranean and
+international through conventions and
+twinning
+- Multidisciplinary academic teams and
+Administrative and Management Capacity
+of projects in certain establishments
+-
+Partnership with IEAQA
+- Non-operability of the UTM observatory
+- Administrative management procedures and
+heavy and unsuitable financial
+- Complexity of the purchasing process
+not allowing the seizure of opportunities
+- Non-established facilities and infrastructure
+adapted for certain institutions, including
+included for UTM
+- Insufficient deployment of new
+Information technology for a
+modernization of administrative activity
+and an integration of new modes
+of teachings (MOOC, ICTs.)
+- Educational and research laboratories
+not in compliance with regulatory requirements
+- Restrictive regulatory texts do not
+not allowing to move towards attractiveness
+for external trainers/experts
+market players
+- Lack of support structures for
+UTM relationship manager function-
+Companies and set up the system
+communication aimed at informing the
+professional environment of the proposed courses
+by UTM institutions
+- Lack of communication and marketing
+enhancing the image of UTM
+  
+ 
+  
+Opportunities Risks
+- Openness and collaboration with stakeholders
+of the market through the programs
+PAQ of the Supervisory Ministry (Collabora…)
+- Collaborative projects with technology parks
+for the valuation and exploitation of results
+innovative projects carried out and validated by
+research structures (realization of
+industrial prototypes, development/
+improvement of production system,
+process, device or product)
+- -Social network of former graduates of
+UTM institutions
+- -IEAQA authorization for
+accreditation and recognition
+international diplomas issued by
+UTM for expanded employability of
+graduates
+- Reduction in the number of students
+- International Ranking Criteria
+controllable
+- European and international interest in the
+mobility and research: Erasmus+,
+H2020…
+- Needs of African countries:
+Recognition of skills of
+UTM and its institutions
+- Financing line capacities for the
+upgrade through programs
+PAQ of the Supervisory Ministry (Promess,…)
+- Teaching premises, equipment
+scientists, courses…
+- Gradual reduction of the management budget
+and the budget allocated to research
+not allowing the restructuring of
+premises, educational resources and
+research
+- Slowing down the update process
+provision of the necessary skills:
+teachers, administrators and workers.
+- Absence of policy from the Ministry of
+guardianship to regulate the immigration of
+skills in the face of mass departures
+retirement
+- Slowing down of the autonomy process
+universities and restructuring in
+EPST
+ 
+The analysis of the training compliance rate by heading, expressed as a percentage, is
+shown in Figure 10 according to the grid developed by the UTM quality relations committee
+(appendix).
+ 
+  
+ 
+Figure 10: UTM relationship assessment compliance rate
+7 OVERALL EVALUATION
+The synthesis of all the sections: Training, Research, Governance, Life within
+of the institution and Relationship with the UTM, according to the grid developed by the quality relay committee
+The UTM survey showed that the ISI is well governed, at a rate of 84.5%,
+training and life within the institution are relatively correct with a respective rate
+of 64% and 66.8, however a significant effort remains to be made at the research level only 37%
+compliance rate (Figure 11).
+ 
+ 
+Figure 11: Overall assessment compliance rate in %
+
+ 
+  
+ISI Self-Assessment Report
+ 
+Strengths Weaknesses
+Training
+- Excellent supervision rate  
+- Quality of teachers  
+- Anchoring research in training  
+- High number of foreign visiting teachers per year
+- Well-conducted skills-based approach
+- Diversity of training offer in content and learners
+- Entrepreneurship training
+- Existence of the 4C career center
+- Partitioning of departments and specialties of the school  
+- Volume of SST (health, safety at work) too low in relation to
+prepared professions
+- Low participation rate of professionals in training
+- Sustainability of 4C career centers
+ 
+Research
+- One of the oldest doctoral schools in Tunisia.
+- Large number of laboratories.
+- Multidisciplinary research
+- Significant participation of research structures in the projects
+international
+- Lack of a research strategy
+- Lack of visibility of search results
+- Lack of a research promotion unit
+Governance
+ 
+- Start of the implementation of the following quality management system
+ISO 21001-2018 quality committee  
+- Strong involvement of students in the life of the ISI
+- Targeted organization of communication with internal stakeholders
+and external  
+- Signing of the commitment and its dissemination during a day of
+awareness raising for the implementation of a QMS
+- Failure to complete stakeholder satisfaction questionnaires
+ 
+- Delay in final approval of the EPST transfer request.
+- Lack of an information system
+- Insufficient internal and external communication
+- Lack of study of the needs and expectations of stakeholders
+internal and external
+- Lack of communication of the ISI's strategic orientations
+- Continued decline in admiring and educational staff
+-
+Failure to carry out risk and opportunity analysis
+ 
+  
+ISI Self-Assessment Report
+ 
+Life within the institution
+- Wide range of club activities
+- Equal opportunities, fairness, impartiality and transparency for the s
+Students, pillars of ISI policy
+- Integration week for welcoming students
+- Involvement of ADISI in ISI activities
+- Cramped club spaces.  
+- Cramped work spaces.  
+ 
+  
+ 
+  
+ISI Self-Assessment Report
+Opportunities Risks
+Training
+- Interdisciplinary and inter-specialty projects
+- Great networking  
+- Call for international projects for the improvement of training and
+professional integration
+- International recognition of the programs offered  
+- Number of students down due to the low wave
+demographic
+- Difficulty in recruiting teaching staff
+- Increased competition with other establishments of the same training
+- Reduction in the number of scholarships and funding allowing
+students to participate in international mobility and obtain a
+double degree
+Research
+- Possibility of synergy between research structures  
+- International call for tenders for research projects
+- Decrease in funding
+- Poor referencing of publications
+- Decrease in the recruitment of doctoral students due to low salaries and
+the growing attractiveness of foreign laboratories
+Governance
+- Possibility of submitting a PAQ project for financing of the
+implementation of an information system
+- Establishment of a quality unit in coordination with the quality unit
+from the University
+- Reduction in the budget allocated by the ministry (through the University)
+- Decrease in own resources and industrial contracts (recession)
+economic)
+- EPST passage delayed for administrative or political reasons.
+Life within the institution
+- Proposal of engineering internships abroad by IAESTE
+- Business convention with the friendly ISI staff
+- Difficulty in replacing staff due to the economic situation
+in the country
+- Exodus of the best students abroad due to conditions
+difficult economic times
+ 

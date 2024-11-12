@@ -49,10 +49,10 @@ export default function Home() {
         <div className="max-w-5xl">
           <WordCloud />
           <p className="py-6 text-lg leading-loose">
-            Welcome to your event planning assistant! Get real-time support for
-            all your event needs. From finding venues to handling logistics, our
-            AI is here to help, with live chat and saved conversations for your
-            convenience.
+            Welcome to your ISI information assistant! Get instant answers to
+            all your questions about the Institut Supérieur d'Informatique. From
+            courses and schedules to regulations and services, our AI is here to
+            assist you with quick responses and saved chats for easy reference.
           </p>
           {homeActionStatus === HomeActionStatusEnum.userNotReady && (
             <button

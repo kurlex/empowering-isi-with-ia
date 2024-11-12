@@ -1,0 +1,86 @@
+ECUE fact sheet  
+ 
+              Teaching Unit: Mobile and Wireless Networks
+ECUE no 1.2: IOT Experimentation Project
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Mobile networks
+2- IoT Concepts
+3- Virtualization
+4- Cloud, Fog/EdgeComuting
+5- Data centers
+6- Smart networks
+7- Open source networks
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+OE1- Establish a market study prior to the design of an IoT solution (end to end)
+end), considering the technological, economic and strategic dimensions.
+OE2- Design the integration of an IoT solution into a service platform in
+ensuring the operability of objects and networks.
+OE3- Structuring the uses of an IoT solution and their integration into an ecosystem
+complete.
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+CS2
+X
+ 
+X
+CS4
+ 
+X
+ 
+CS5
+X
+X
+X
+CS6
+ 
+X
+X
+ 
+Description of the content of the constituent element
+This PROJECT will take place in the form of a workshop to synthesize the different concepts related to IoT
+(IoT networks, Cloud, Big Data, embedded objects, machine learning).  
+The student will implement a complete IoT architecture: sensors-gateway-server-applications.
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Workshop
+ 
+ 
+ 
+ 
+22.5
+22.5
+ 
+Reference books:
+[1] Andrew Whitmore & Anurag Agarwal & Li Da Xu, I The Internet of Things—A survey of topics and trends, InfSyst
+Front (2015) 17:261–274. DOI 10.1007/s10796-014-9489-2
+[2] Shanzhi Chen, Hui Xu, Dake Liu, Bo Hu, and Hucheng Wang, “A Vision of IoT: Applications, Challenges, and
+Opportunities With China Perspective”, IEEE INTERNET OF THINGS JOURNAL, VOL. 1, NO. 4, AUGUST 2014.
+[3] Ovidiu Vermesan, Peter Fries, “Building The Hyperconnected Society, IOT Research and Innovation Value
+Chains, Ecosystems and Markets”, River publisher series in communications, Volume 43, ISBN 978-87-93237-5,
+2015.
+[4] Ovidiu Vermesan, Peter Fries, “Internet of Things - Converging Technologies for Smart Environments and
+Intergrated Echosystems”, River publisherseries in communications, Volume 43, ISBN 978-87-92982-73-5, 2013.
+[5] Patrick R. Schaumont, “A Practical Introduction to Hardware/Software codedesign”, Springer, ISBN 978-1-4419-
+5999-7, 2010.
+[6] Wu He, Shancang Li, “Internet of Things in Industries”, IEEE Transactions On Industrial Informatics, vol. 10, no.
+November 4, 2014
+ 
+ 

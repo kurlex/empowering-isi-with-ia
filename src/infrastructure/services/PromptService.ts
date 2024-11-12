@@ -18,9 +18,16 @@ export class PromptService implements IPromptService {
 
   public wrapPrompt(
     userPrompt: string,
-    similarDocuments: SimilarDocument[]
+    similarDocuments: SimilarDocument[],
+    language: string
   ): string {
-    let prompt = this.chatPromptInstruction;
+    let prompt = `
+    ${this.chatPromptInstruction}
+    IMPORTANT: The response language should be in ${
+      language == "fr" ? "FRENCH" : "ENGLISH"
+    }.
+    
+    # Actual_Input`;
     similarDocuments.forEach((document) => {
       prompt = `
       ${prompt}

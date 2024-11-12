@@ -1,0 +1,775 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 6
+EU code: UEF410
+ 
+ 
+University: Tunis El Manar
+Establishment: Higher Institute of Computer Science
+ 
+ 
+Field of training: Computer science
+Mention :
+Degree: engineer
+Course: Embedded Systems and Connected Objects Engineering  
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+ 
+1- Operating system 1 and 2
+2- Algorithms and data structures and complexity  
+3- Advanced processor architecture
+4- Logical systems
+ 
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+1. Model, from a specification, a complex digital circuit and
+synthesizable with a hardware description language (VHDL) and to validate it
+functionally. Evaluate the performance of these circuits and understand the steps
+necessary for its implementation on a programmable FPGA circuit. Explore the
+development environments (FPGA)
+ 
+2. Apply the different concepts relating to the hardware description language
+for the design of a digital circuit, synthesize it and realize the different
+implementation steps on FPGA.
+ 
+3. Define the multiprocessor/multi-core architectures found on
+systems on chip. Manipulate the programming tools associated with these
+architectures.
+ 
+ 
+ 
+EU title: Design and implementation of digital circuits on FPGA
+2
+ 
+3- Constituent elements of the EU (ECUE)
+ 
+ 
+Constituent elements of the EU (ECUE)
+ 
+ 
+Practical activities (Projects, internships, dissertations, etc.)
+MP on Xilinx FPGA or Altera FPGA
+ 
+4- Content (course descriptions and plans)  
+Teachings (Present a brief description of the programs of each ECUE and attach
+the detailed programme in the EU fact sheet).
+ 
+Digital Circuit Design
+ 
+Chapter 1: Introduction to Digital Circuits
+1. Evolution of CMOS technology: MOORE's law  
+2. CMOS transistor: operating principle and type (PMOS, NMOS)
+3. Levels and types of modeling of a digital circuit
+4. Hardware description languages: interest  
+Chapter 2: VHDL Modeling
+1. Structure of a VHDL program: entity, architecture, configuration, package
+2. The different types of modeling: behavioral, data flow, structural
+3. Signals, types, operators, variables
+4. Concurrent instructions: process,  
+5. Sequential instructions: if thenelse; ...
+6. Construction of a Testbench and functional validation: code coverage, assertion, ...
+Chapter 3: Finite State Machines (FSM)
+1. Moore machine and Mealy machine
+2. State diagram
+3. VHDL modeling of a FSM
+Chapter 4: VHDL Synthesis
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+ 
+Digital Circuit Design 22.5
+7.5
+ 
+ 
+2.5
+MP Circuit Design
+digital and implementation on
+FPGA
+ 
+22.5
+ 
+ 
+1
+Multiprocessor architectures
+22.5
+7.5
+ 
+ 
+2.5
+Total
+45
+37.5
+ 
+ 
+6
+3
+ 
+4. Synthesizers: role and standard of synthesis
+5. The synthesizable RTL level
+6. The rules of synthesis
+7. The synthesis of combinatorial logic
+8. The synthesis of sequential logic
+Chapter 5: Performance study
+1. Propagation delays of combinational and sequential circuits
+2. Deadlines for preparing and maintaining D scales.
+3. Critical path and maximum frequency of a complex digital circuit
+4. Taking into account the clock propagation delay: clockskew
+Chapter 6: The different implementation solutions
+1. ASICs: semi custom ASIC, custom ASIC, gate array ASIC,...
+2. PLDs (ProgrammableLogicDevice): PLA, SPLD, CPLD, FPGA
+3. The different stages of implementation
+ 
+ 
+MP Design of digital circuits and implementation on FPGA
+ 
+-
+Become familiar with the different VHDL instructions (concurrent instructions and
+sequential instructions).
+-
+Become familiar with the different types of VHDL description (data flow,
+behavioral and structural).
+-
+Become familiar with embedded platforms with logic circuits
+programmable in general and study the architecture of a FGPA in particular as well as
+the various peripherals present on the target SoC.   
+-
+Become familiar with the design flow on its platforms (writing code in
+a hardware description language, synthesis, placement and routing, generation of the
+binary file etc)
+ 
+ 
+ 
+Multiprocessor architecture
+ 
+Introduction
+Recall the internal parallelism of the processor: pipeline, superscalar processor, VLIW processor.
+Define the needs and motivations for the study and programming of parallel architectures.  
+Chapter 1: Parallel On-Chip Architectures
+Present the different multiprocessor and multi-core architectures found on
+systems on chip (MPSoC, ManyCores architectures). Classify parallel architectures
+(Flynn taxonomy, SIMD architecture, MIMD ..). Define the differences between architecture at
+shared memory and distributed memory architecture. Present examples of architectures
+parallels in embedded and on-chip systems. Define evaluation metrics for
+performance.
+4
+ 
+Chapter 2: Parallel and Concurrent Programming: Multi-Threaded Programming
+Introduce multi-tasking programming (thread management and synchronization mechanisms and
+mutual exclusion).  
+Chapter 3: Programming Parallel Shared Memory Architectures  
+Detail the programming of architectures with shared memory (example tool: openMP).
+Introduce the different directives, clauses and functions. Introduce the mechanisms of
+synchronization and mutual exclusion. Give recommendations for optimization of the
+parallel program.
+Chapter 4: Programming Heterogeneous Parallel Systems
+Introduce graphics processing unit (GPU) architecture. Introduce parallel systems.
+heterogeneous including both a multi-core processor and a GPU and introduce the tools
+necessary for programming this type of architecture (CUDA and/or openCL).
+ 
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+ 
+ 
+Digital Circuit Design  
+-course support/TD (paper and digital)
+ 
+MP Design of digital circuits and implementation on FPGA
+-paper and digital support
+ 
+Multiprocessor architectures
+- digital course support
+-a TD support (digital and paper)
+- educational video capsules
+ 
+ 
+ 
+5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet
+2- CC regime
+3- Mixed diet
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ 
+ 
+ 
+ 
+ 
+5
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Circuit design
+digital
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+2
+5
+MP Circuit Design
+digital and
+implementation on FPGA
+ 
+ 
+ 
+ 
+ 
+ 
+x
+100% 1
+Architectures
+multiprocessors
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+1
+ 
+Validation of internships and projects
+The mini-project is validated following an oral examination and the submission of a written report.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+ 
+ 
+ 
+ 
+ECUE fact sheet
+ 
+Teaching Unit: Design and implementation of digital circuits on
+FPGA
+ECUE no 1.1: Design of digital circuits  
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Advanced processor architecture
+2- Logical system
+ 
+Learning objectives of the constituent element (ECUE):
+ 
+OE1- Model, from a specification, a complex digital circuit and
+synthesizable with a hardware description language and to validate it functionally.
+OE2- Evaluate the performance of these circuits and understand the steps required for its
+implementation on a programmable FPGA circuit.
+OE3- Understanding analog and digital electronic systems and components
+ 
+Association matrix between the objectives of the constituent element and those of the
+training program (OP)
+ 
+ 
+ 
+OE1
+OE2
+OE3
+CS1
+ 
+ 
+X
+CS2
+ 
+X
+X
+CS5
+X
+X
+ 
+CS6
+ 
+X
+X
+CS7
+X
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+Chapter 1: Introduction to Digital Circuits
+5. Evolution of CMOS technology: MOORE's law  
+6. CMOS transistor: operating principle and type (PMOS, NMOS)
+7. Levels and types of modeling of a digital circuit
+8. Hardware description languages: interest  
+Chapter 2: VHDL Modeling
+7. Structure of a VHDL program: entity, architecture, configuration, package
+8. The different types of modeling: behavioral, data flow, structural
+9. Signals, types, operators, variables
+7
+ 
+10. Concurrent instructions: process,  
+11. Sequential instructions: if thenelse; ...
+12. Construction of a Testbench and functional validation: code coverage, assertion, ...
+Chapter 3: Finite State Machines (FSM)
+9. Moore machine and Mealy machine
+10. State diagram
+11. VHDL modeling of a FSM
+Chapter 4: VHDL Synthesis
+12. Synthesizers: role and standard of synthesis
+13. The synthesizable RTL level
+14. The rules of synthesis
+15. The synthesis of combinatorial logic
+16. The synthesis of sequential logic
+Chapter 5: Performance study
+5. Propagation delays of combinational and sequential circuits
+6. Deadlines for preparing and maintaining D scales.
+7. Critical path and maximum frequency of a complex digital circuit
+8. Taking into account the clock propagation delay: clockskew
+Chapter 6: The different implementation solutions
+4. ASICs: semi custom ASIC, custom ASIC, gate array ASIC,...
+5. PLDs (ProgrammableLogicDevice): PLA, SPLD, CPLD, FPGA
+6. The different stages of implementation
+ 
+ 
+Chapter and sections
+Course(h)
+CI (h)
+TD(h)
+TP (h)
+Project(h)
+Total(h)
+Chapter 1
+3
+ 
+1
+ 
+ 
+4
+Chapter 2
+3
+ 
+1
+ 
+ 
+4
+Chapter 3
+3
+ 
+1.5
+ 
+ 
+4.5
+Chapter 4
+4.5
+ 
+1.5
+ 
+ 
+6
+Chapter 5
+4.5
+ 
+1.5
+ 
+ 
+6
+Chapter 6
+4.5
+ 
+1
+ 
+ 
+5.5
+ 
+Reference books:
+ 
+1- S. Lee "Advanced Digital Logic Design with VHDL". Thomson Prentice Hall Publishing. 2006
+2- P. Chu “RTL Hardware Design Using VHDL”. Wiley Editions. 2006
+3- P. Chu "FPGA prototyping by VHDL examples. Xilinx Spartan-3 version". Wiley Editions. 2008
+4- P. Simpson "System design with FPGA". Dunod Editions. 2014
+ 
+ 
+ 
+8
+ 
+ 
+ 
+ 
+ECUE fact sheet
+ 
+Teaching Unit: Design and implementation of digital circuits on
+FPGA
+ECUE no 1.1: Mini-project Design of Digital Circuits and implementation on
+FPGA
+ 
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+3- Algorithms and data structures and complexity (S1 and S2)
+4- Advanced processor architecture
+5- Logical systems
+ 
+Learning objectives of the constituent element (ECUE):
+ 
+OE1- Apply a hardware description language (VHDL)  
+OE2- Explore development environments (FPGA)
+OE3- Apply the synthesis as well as the different implementation steps on FPGA
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+ 
+OE1
+OE2
+OE3
+CS1
+ 
+ 
+ 
+CS2
+X
+x
+X
+CS6
+X
+X
+X
+CS7
+X
+X
+x
+ 
+Description of the content of the constituent element
+-
+Become familiar with the different VHDL instructions (concurrent instructions and
+sequential).
+-
+Become familiar with the different types of VHDL description (data flow, behavioral and
+structural).
+-
+Become familiar with embedded platforms with programmable logic circuits in
+general and study the architecture of a particular FGPA as well as the different peripherals
+present on the target SoC.   
+-
+Become familiar with the design flow on its platforms (writing code in a language
+hardware description, synthesis, placement and routing, generation of the binary file etc.)
+9
+ 
+ 
+ 
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Part 1
+ 
+ 
+x
+ 
+ 
+5
+Part 2
+ 
+ 
+x
+ 
+ 
+5
+Part 3
+ 
+ 
+x
+ 
+ 
+6
+Part 4
+ 
+ 
+x
+ 
+ 
+6:30 a.m.
+ 
+ 
+Reference books:
+ 
+5- S. Lee “Advanced Digital Logic Design with VHDL”. Thomson Prentice Hall Publishing. 2006
+6- P. Chu “RTL Hardware Design Using VHDL”. Wiley Editions. 2006
+7- P. Chu "FPGA prototyping by VHDL examples. Xilinx Spartan-3 version". Wiley Editions. 2008
+8- P. Simpson "System design with FPGA". Dunod Editions. 2014
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+ 
+ 
+ 
+ 
+ 
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Design and implementation of digital circuits on
+FPGA
+ECUE no 1.1: Multiprocessor architectures  
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+5- Algorithms and data structures and complexity  
+6- Operating system 1 and 2  
+7- Advanced processor architecture  
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+(Specify the objectives of the constituent element (OE) using verbs according to the taxonomy
+Bloom's or other reference taxonomy, maximum 8)
+OE1: Define the multiprocessor/multi-core architectures found on
+systems on chip
+OE2: Manipulate programming tools for MIMD architectures with memory
+shared  
+OE3: Examine heterogeneous architectures and in particular the architecture of a
+graphics processor
+OE4: Apply programming tools adapted to embedded platforms
+heterogeneous
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OP2
+x
+ 
+x
+ 
+OP3
+ 
+x
+ 
+x
+OP7
+ 
+x
+ 
+x
+OP8
+x
+x
+x
+x
+ 
+Description of the content of the constituent element
+ 
+Introduction
+Recall the internal parallelism of the processor: pipeline, superscalar processor, VLIW processor.
+Define the needs and motivations for the study and programming of parallel architectures.  
+ 
+11
+ 
+Chapter 1: Parallel On-Chip Architectures
+Present the different multiprocessor and multi-core architectures found on
+systems on chip (MPSoC, ManyCores architectures). Classify parallel architectures
+(Flynn taxonomy, SIMD architecture, MIMD ..). Define the differences between architecture at
+shared memory and distributed memory architecture. Present examples of architectures
+parallels in embedded and on-chip systems. Define evaluation metrics for
+performance.
+Chapter 2: Parallel and Concurrent Programming: Multi-Threaded Programming
+Introduce multi-tasking programming (thread management and synchronization mechanisms and
+mutual exclusion).  
+Chapter 3: Programming Parallel Shared Memory Architectures  
+Detail the programming of architectures with shared memory (example tool: openMP).
+Introduce the different directives, clauses and functions. Introduce the mechanisms of
+synchronization and mutual exclusion. Give recommendations for optimization of the
+parallel program.
+Chapter 4: Programming Heterogeneous Parallel Systems
+Introduce graphics processing unit (GPU) architecture. Introduce parallel systems.
+heterogeneous including both a multi-core processor and a GPU and introduce the tools
+necessary for programming this type of architecture (CUDA and/or openCL).
+ 
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+7
+Chapter 2
+x
+ 
+x
+ 
+ 
+7
+Chapter 3
+x
+ 
+x
+ 
+ 
+8
+Chapter 4
+x
+ 
+x
+ 
+ 
+8
+ 
+ 
+ 
+Reference books:
+ 
+1.
+Frédéric Magoulès and François-Xavier Roux “Parallel Scientific Computing” Dunos, 2013
+2.
+Jason Sanders and Edward Kandrot “CUDA by example: An Introduction to General-
+Purpose GPU Programming » Pearson, 2011.
+3.
+Aaftab Munshi “OpenCL Programming Guide” Pearson, 2012.  
+4.
+Michael J. Quinn “Parallel programming in C with MPI and OpenMP” McGraw-Hill
+Higher Education, 2004
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

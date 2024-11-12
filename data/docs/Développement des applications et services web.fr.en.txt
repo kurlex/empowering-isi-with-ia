@@ -1,0 +1,166 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Web services and mobile and network development
+ECUE no 5.1: Development of web applications and services
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Knowledge of Java EE and have practical experience in Java EE development.
+2- Knowledge of HTML and have practical experience in web development.  
+3- Knowledge of JavaScript or TypeScript.
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Developing high-performance Angular 2 web applications with JavaScript and TypeScript
+OE2: to develop secure, extensible and highly transactional applications
+efficient with Java EE (JSF2, JPA, EJB3, and AJAX) and Spring frameworks (Boot, Data,
+MVC, Security)
+OE3: Developing high-performance web applications with ReactJS
+OE4: Master the advanced concepts of Node.js, both from an advanced object point of view
+JavaScript, functional programming, asynchronous paradigm, ES6, what about performance
+and quality of Node.js applications.  
+OE5: Mastering advanced concepts of web Services: Rest & Soap  
+OE6: Master the advanced concepts of Ant, Maven & Gradle build tools  
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OE5
+OE6
+SC1
+X
+ 
+X
+ 
+ 
+X
+SC2
+X
+X
+X
+X
+X
+X
+SC3
+X
+X
+ 
+X
+ 
+ 
+SC4
+ 
+ 
+ 
+X
+X
+X
+SC5
+X
+X
+X
+ 
+X
+X
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+               
+                     Chapter 1  
+                     – Web Components Reminder  
+                     ⁻ Servlets and JSP   
+                     - Deepening  
+                     ⁻ EJB 3 - In-depth  
+                     ⁻ Architecture of a web application  
+                      Chapter 2  
+                      - Spring Frameworks  
+                      ⁻ Spring Deepening  
+                      - Spring Boot  
+                      - Spring Data  
+                      - Spring Batch  
+                      - Spring Security  
+                      - Spring MVC: In-depth  
+                      - Spring MVC + Hibernate  
+                      - Spring MVC + EJB 3  
+                      Chapter 3 - MVC Web Frameworks  
+                      Chapter 4  
+                      – Node JS 144  
+                      ⁻ Node JS  
+                      Chapter 5  
+                     – Angular  
+                     ⁻ Angular JS  
+                     ⁻ Angular 2  
+                     ⁻ Angular 4  
+                      Chapter 6
+                    - React JS  
+                    ⁻ React Native JS  
+                      Chapter 7
+                    - Web services  
+                    ⁻ Web Services Soap  
+                    ⁻ Restful Web Services  
+                  Practical work  
+                          TP1- Environment & Web Development  
+                                ⁻ Eclipse + Java SE 8 (Advanced Use)  
+                                ⁻ Multi-threading and memory management in Java  
+                                ⁻ Java SE/Java EE Security  
+                          TP2- Build tools  
+                                ⁻ Maven  
+                                ⁻ Ant  
+                                ⁻ Gradle  
+                         TP3- Spring ⁻ Boot ⁻ MVC ⁻ Data  
+                         TP4- JSF2 ⁻ JSF2 ⁻ JPA/Hibernate ⁻ Ajax  
+                         TP5- Node.js ⁻ Node JS  
+                         TP6- Angular ⁻ Angular 5  
+                         TP7- React ⁻ React Nativ
+ 
+Chapter and sections
+Course (h)
+TP (h)
+Total (h)
+Chapter 1
+3
+1
+4
+Chapter 2
+3
+1
+4
+Chapter 3
+3
+1
+4
+Chapter 4
+4.5
+1
+5.5
+Chapter 5
+3
+1.5
+4.5
+Chapter 6
+3
+1
+4
+Chapter 7
+3
+1
+4
+ 
+Reference books:
+                  1. Agile Java Development with Spring, Hibernate and Eclipse, Anil Hemrajani, Developer's Library, 2016, ISBN   
+9780672328961 145  
+                  2. JSF 2 with Eclipse: Developing web applications with Java Server Faces IT Expert, FrançoisXavier
+Sennesal, Edition 2, Editions ENI, 2014, ISSN 1958-9913,  
+                 3. Web Development with J2EE ´ , O' Reilly, Eric Carrion, Paris, 2015, ISBN 2-35402-140-2  
+                 4. AngularJS: Develop tomorrow's web applications today, IT Expert, ISSN 1958-9913, Sébastien
+Ollivier, Pierre-Alexandre Gury, Editions ENI, 2015, ISBN 2746093340  
+                 5. Node.js: Harness the power of server-side JavaScript, IT Expert, ISSN 1958-9913, Julien Fontanet, Olivier
+Lambert, Editions ENI, 2015, ISBN 2746089785,

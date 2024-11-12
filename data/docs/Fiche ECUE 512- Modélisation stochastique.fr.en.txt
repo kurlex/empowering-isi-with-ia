@@ -1,0 +1,89 @@
+1
+ 
+ECUE fact sheet
+ 
+ 
+Teaching Unit: Systems Safety  
+ECUE no 1.1: Stochastic modeling
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+Probabilities
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE 1: analyze random phenomena using stochastic models.
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+SE and Connected Objects training
+ 
+ 
+OE1
+SC1
+x
+SC2
+ 
+SC3
+ 
+SC4
+ 
+SC5
+ 
+SC6
+ 
+SC 7
+ 
+SC 8
+ 
+ 
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of course hours (C), CI,
+TD, TP, project or other necessary for each chapter or part.
+ 
+Chapters and sections
+Course (h)
+TD (h)
+TP (h)
+Total (h)
+Chapter
+1:
+Resolution
+of
+system
+of linear equations
+7.5
+2.5
+ 
+10
+Chapter 2: Interpolation and Approximation
+7.5
+2.5
+ 
+10
+Chapter
+3:
+Root
+of equations
+No
+linear
+7.5
+2.5
+ 
+10
+ 
+ 
+2
+ 
+Reference books:
+ Sheldon M. Ross “Introduction to probability models”, Academic Press, 2003.
+ Jean-Christophe Breton. Stochastic calculus. Lecture notes, M2 Mathematics, University of
+Rennes 1, 2020.
+
+Youri Davydov. DEA course “Stochastic processes”. University of Lille 1, 1999–2000.
+
+Nicole El Karoui, Emmanuel Gobet, Etienne Pardoux. Introduction to stochastic calculus. School
+Polytechnic, 2001.

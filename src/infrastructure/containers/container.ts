@@ -1,9 +1,6 @@
-import { AzureChatOpenAI, ChatOpenAI } from "@langchain/openai";
+import { AzureChatOpenAI } from "@langchain/openai";
 import { IGPTService } from "../../domain/interfaces/IGPTService";
 import { GPTService } from "../services/GPTService";
-import OpenAIService from "../services/OpenAIService";
-import { IWordCloudService } from "../../domain/interfaces/IWordCloudService";
-import { WordCloudService } from "../services/WordCloudService";
 import { ConversationRepository } from "../repositories/ConversationRepository";
 import { ChatRepository } from "../repositories/ChatRepository";
 import { WordRepository } from "../repositories/WordRepository";
@@ -17,9 +14,7 @@ import { HandleUpdateChatUseCase } from "../../application/useCases/HandleUpdate
 import { HandleGetConversationCountUseCase } from "../../application/useCases/HandleGetConversationCountUseCase";
 import { HandleGetChatUserCase } from "../../application/useCases/HandleGetChatUserCase";
 import { HandleCreateChatUseCase } from "../../application/useCases/HandleCreateChatUseCase";
-import { MockGPTService } from "../services/MockGPTService";
 import IndexingService from "../services/IndexingService";
-import VectorStoreSingleton from "../services/VectorStoreSingleton";
 import ChatBotService from "../services/ChatBotService";
 import TranslationService from "../services/TranslationService";
 
@@ -50,22 +45,12 @@ const translateService = new TranslationService(
   process.env.TRANSLATION_LOCATION!
 );
 const gptService: IGPTService = new GPTService(chatGPTModel);
-// const gptService: IGPTService = new MockGPTService();
 
 const chatBotService = new ChatBotService(
   indexingService,
   gptService,
   promptService,
   translateService
-);
-
-const openAIService = new OpenAIService();
-
-const wordCloudService: IWordCloudService = new WordCloudService(
-  wordRepository,
-  conversationRepository,
-  gptService,
-  promptService
 );
 
 // handlers
@@ -75,7 +60,6 @@ export const handleDeleteChatUseCase = new HandleDeleteChatUseCase(
 );
 
 export const handleGetCloudWordUseCase = new HandleGetCloudWordUseCase(
-  wordCloudService,
   wordRepository
 );
 
@@ -98,6 +82,5 @@ export const handleGetConversationCountUseCase =
 export const handleGetChatUserCase = new HandleGetChatUserCase(chatRepository);
 
 export const handleCreateChatUseCase = new HandleCreateChatUseCase(
-  chatRepository,
-  chatBotService
+  chatRepository
 );

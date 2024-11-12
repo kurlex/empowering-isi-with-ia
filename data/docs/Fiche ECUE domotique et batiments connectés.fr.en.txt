@@ -1,0 +1,155 @@
+1
+ 
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Connected Objects
+ECUE no 1.1: Home automation and connected buildings
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Automation
+2- Power electronics
+3- Local networks  
+4- Communication bus
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Define the concept of intelligent, connected, autonomous and ecological building
+OE2: Present the different technologies of home automation and technical management of
+wired, wireless, proprietary and standard buildings.
+OE3: design a building command and control network.
+OE4: choose the equipment needed to successfully complete the creation of such a network
+OE5: Compare existing technologies, their advantages and weaknesses.
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OE5
+OP2
+x
+x
+x
+x
+x
+OP4
+x
+x
+x
+x
+x
+OP8
+x
+ 
+x
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+Chapter 1: Building networks
+Chapter 2: Wired protocols for home automation (KNX, LON, MODBUS, DALI)
+Chapter 3: Wireless protocols for home automation
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+x
+ 
+10am
+Chapter 2
+x
+ 
+x
+x
+ 
+10am
+Chapter 3
+x
+ 
+x
+x
+ 
+10am
+ 
+ 
+ 
+2
+ 
+Reference books:
+ 
+                 www.knx.com
+LONWORKS technology, EBV Elektronik GmbH & Co KG Im Technologiepark Version 5.11 /
+July 2004 Updated by Philippe Bénédet Based on an original idea by Franz Wiedemann
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

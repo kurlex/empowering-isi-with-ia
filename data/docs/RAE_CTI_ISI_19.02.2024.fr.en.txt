@@ -1,0 +1,3083 @@
+  
+ 
+ 
+ 
+                                                                                        
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Accreditation File – ENGINEER                                                    
+from the Higher Institute of Computer Science
+Self-assessment report
+February 2024
+ 
+ 
+i
+ 
+ 
+WORD FROM THE DIRECTOR
+ 
+Dear readers,
+Since its founding in 2001, ISI has constantly adapted to the changing needs of
+engineering training, particularly in the field of IT and its applications.
+Over the past decade, we have seen a significant increase in requests
+admissions from students interested in joining our programs. This positive trend
+testifies to the growing interest of young talents in our courses.
+Keen to innovate and respond to a diversity of training needs, the ISI grants a
+particular attention to the employability of its graduates and to equal opportunities in access to its
+training. In this perspective, we plan to intensify our efforts to attract
+quality candidates and select the best profiles.  
+In a policy of influence, we are committed to strengthening our partnerships with
+national and international actors, whether from academia or industry. We encourage
+also our scientific council to establish close collaborations with our socio-economic partners.
+economic.
+Aware of the importance of the educational development of our teaching staff, we ensure
+to provide them with the necessary resources, whether material, digital or financial. By
+Elsewhere, we strive to assess and improve the level of satisfaction of students,
+teachers and staff in all our educational, cultural and
+organizational. With this in mind, we have launched an awareness campaign to
+promote our quality approach and comply with international standards, particularly in
+implementing a management system for educational organizations according to the ISO standard
+21001.
+Despite our size, with nearly 1,600 students, we fully assume our  
+responsibility to all our students and stakeholders by:
+- Offering training adapted to the requirements of the job market and specific needs.
+- Respecting intellectual property rights and privacy, while integrating our
+social and environmental responsibilities as well as specific needs in terms of
+training.
+- Offering a framework conducive to a fulfilling student life in cultural, sporting and
+associative.  
+ 
+ 
+ii
+ 
+On behalf of all my colleagues and the administration, I would like to express my deep gratitude
+to all those who have contributed, through their time and ideas, to enhancing the prestige
+of the ISI through various projects, whether in terms of organization, through the establishment of a
+SMOE ISO 21001 system, accreditation according to the CTI-EUR-ACE label or even by our
+participation in national and international projects.
+We firmly believe that our institution will progress further by promoting a
+transparent and inclusive governance, which strengthens cooperation, coordination and
+communication.
+ 
+ 
+Your colleague,  
+Salah SALHI  
+Director of ISI
+ 
+ 
+ 
+  
+ 
+ 
+iii
+ 
+PREAMBLE
+ 
+This file is the result of collaborative work under the responsibility of the director of the ISI, for a
+Self-assessment for the award of the European EUR-ACE label for engineering diplomas
+issued by our institution by the Commission des Titres d’Ingénieur (CTI).
+ 
+The three diplomas concerned are as follows:  
+- Software Development Engineering (IDL);
+- Engineering of Embedded Systems and Connected Objects (ISEOC);
+- Engineering and Development of Infrastructures and Communications Services (IDISC).
+ 
+These are diplomas from three-year training courses, intended for recruited engineering students
+mainly through specific national competitions for entry to training cycles
+of engineers.
+ 
+This evaluation request is carried out as part of the evaluation of ISI courses and supported
+through a management approach to its SMOE system, compliant with the international ISO standard
+21001.
+ 
+The self-assessment report contained in this file complies with the self-assessment guide of the
+CTI until the start of the 2023-2024 school year.
+  
+ 
+ 
+iv
+ 
+ 
+SUMMARY
+ 
+DIRECTOR’S WORD ................................................................................................................................ i
+PREAMBLE ................................................. .................................................. ....................................... iii
+SHEET SPECIFYING THE SCOPE OF THE AUD………………………….………………………………………………………..1
+GENERAL PRESENTATION OF THE INSTITUTE ........................................ .................................................. 3
+TO THE INSTITUTE AND ITS GOVERNANCE ................................................................................................ 5
+A.1 Identity and autonomy ................................................................................................................. 5
+A.2 Strategy ................................................................................................................................. 6
+A.2.1 Social and environmental responsibility .................................................................. 6
+A.2.2 Site Policy ................................................................................................................. 7
+A.2.3 Communication .............................................. .................................................. ................ 7
+A.3 Governance ................................................................................................................................ 8
+A.3.1 Administrative authorities ......................................... .................................................. 8
+A.3.2 Organization of the institute ................................................................................................. 9
+A.4 Missions of the ISI ............................................................................................................................ 9
+A.4.1 ISI training offer ................................................................................................................ 9
+A.4.2 Research policy .................................................................................................... 10
+A.5 Means and their use ................................................................................................. 11
+A.5.1 Human resources .................................................................................................... 11
+A.5.2 Premises and material resources ................................................................................... 12
+A.5.3 Information systems and digital resources ................................................................. 12
+A.5.4 Financial means ................................................................................................................ 13
+B MANAGEMENT OF THE INSTITUTE: ITS STEERING, ITS OPERATION AND ITS SYSTEM
+QUALITY ............................................................................................................................................ 15
+B.1 Principles of piloting, management .................................................................................................... 15
+B.1 Quality approach ................................................................................................................. 15
+B.1.1 Quality policy ................................................................................................................ 15
+B.1.2 Continuous improvement ................................................................................................... 17
+B.1.3 External quality approach outside CTI .................................................................................... 17
+B.1.4 Internal quality approach ................................................................................................. 18
+ANCHORING AND PARTNERSHIPS ................................................................................................. 21
+C.1 Territorial anchoring ............................................. .................................................. .................. 21
+C.2 Partnerships with the company ................................................................................................. 22
+ 
+ 
+v
+ 
+C.3 Innovation and entrepreneurship policy ................................................................................. 24
+C.4 National partnerships and networks ................................................................................................ 25
+C.5 International partnerships .................................................................................................. 26
+D ENGINEER TRAINING................................................................................................................ 28
+D.1 Development of the training project ...................................................................................... 28
+D.2 Targeted skills ................................................................................................................. 29
+D.2.1 Training objectives and targeted skills ............................................................................ 29
+D.2.2 Consistency of the training curriculum and specific skills ................................. 31
+D.3 Initial training engineering diploma ................................................................................. 32
+D.3.1 Architecture and training program ................................................................................. 32
+D.3.2 Consistency between targeted skills and training program ................................ 39
+D.3.3 Teaching methods ................................................................................................. 40
+D.3.4 Teaching Teams .................................................................................................... 42
+E STUDENT RECRUITMENT ................................................................................................................... 45
+E.1 Objectives and admission pathways ................................................................................................ 45
+E.1.1 Recruitment strategies ................................................................................................. 45
+E.1.2 Admission channels and reception capacity .................................................................. 46
+E.1.3 Score Calculation ............................................. .................................................. ................. 47
+E.2 Monitoring recruitment results ................................................................................................ 48
+F student life and the associative life of engineering students...................................................... 50
+F.1 Welcoming and integrating new students ................................................................................. 50
+F.2 Student life ......................................................................................................................... 51
+G PROFESSIONAL INTEGRATION OF GRADUATES ................................................................................ 54
+G.1 Preparation for use ................................................................................................................ 54
+G.2 Insertion results ................................................................................................................. 56
+G.3 Professional life of graduates ................................................................................................. 58
+SWOT ANALYSIS OF SELF-ASSESSMENT ......................................... .................................................. 59
+GENERAL CONCLUSION ................................................ .................................................. .................... 60
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+1
+ 
+Sheet specifying the scope of the audit (to be signed and attached to the school's self-assessment report)
+ 
+SCHOOL CONCERNED
+Full official name of the school Higher Institute of Computer Science
+Acronym DGESIP/CTI ISI
+Brand name (if applicable) ISI
+Establishment (if applicable) Higher Institute of Computer Science
+Tunis El Manar University Academy
+Name of Director Salah SALHI
+Email direction@isi.utm.tn / salah.salhi@isi.utm.tn  
+Phone 00216 71 706 317 / 00216 21 864 623
+Name of the contact person for the
+audit file monitoring if different
+Wafa KAROUI
+Email direction.etudes@isi.utm.tn / wafa.karoui@isi.utm.tn  
+Phone 00 216 71 706 317 / 00216 22 867 598
+  
+
+ 
+ 
+2
+ 
+SCOPE OF THE ACCREDITATION REQUEST
+Subject Diploma EUR- Path
+ACE© Site(s) CFA Convention Partnership
+Renewal
+Or
+1st request
+Precise title of the
+engineering degree
+concerned, in
+specifying the case
+if applicable the name of the
+speciality
+FISE (student status)  
+FISA (apprenticeship)
+FISEA (student status)
+in the 1st year of the cycle
+engineer and status
+apprentice in 2nd and 3rd year
+years of the cycle
+engineer)
+FC (continuing education)
+For FISE:
+If applicable,
+specify if contract
+alternating in
+last year:
+pro contract or
+learning
+Request
+of label
+EUR-
+ACE©:
+Yes
+No
+Site(s) where the
+training is
+organized
+For a diploma
+in partnership
+with an actor
+socio-
+economic, quote
+the partner(s)
+If applicable,
+External CFA
+and/or internal
+concerned by the
+diploma
+For a degree in
+agreement with a
+other establishment
+teaching
+superior, quote
+the establishment
+1st Request
+ 
+ 
+ 
+1st Request
+ 
+ 
+ 
+ 
+1st Request
+- Engineering of
+Development of
+Software (IDL)
+ 
+- Engineering of
+Embedded Systems
+and Connected Objects
+(ISEOC)
+ 
+- Engineering and
+Development of
+Infrastructure and
+Services of
+Communications
+(IDISC)
+FISE
+ 
+ 
+ 
+FISE
+ 
+ 
+ 
+ 
+FISE
+ 
+Yes
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+Ariana,
+Tunisia
+ 
+ 
+ 
+Ariana,
+Tunisia
+ 
+ 
+ 
+ 
+Ariana,
+Tunisia
+   
+Multiply the lines as many times as necessary: ​​one line for each diploma and for each pathway and where applicable for each site (if there are differences in partnership and/or
+CFA and/or convention).
+I, the undersigned, confirm the scope of the audit as indicated in the table above and undertake to provide all the elements of the file as specified in the CTI reference document.
+Name and precise function of the signatory: Salah SALHI  
+Date and Place: 02/14/2024
+Signature of the person in charge of the establishment issuing the diploma(s): Salah SALHI
+                                                                                                       The director of the Higher Institute of Computer Science
+ 
+
+ 
+ 
+3
+ 
+GENERAL PRESENTATION OF THE INSTITUTE
+ 
+The Higher Institute of Computer Science (ISI) was created in 2001, under the supervision of the Ministry of
+Higher Education and Scientific Research and attached to the University of Tunis El Manar
+(UTM). It has the status of a public administrative establishment (EPA) whose mission is
+higher education and scientific research. Strategically located in the center of Ariana,
+near major industrial sites in the Greater Tunis region housing several key partners of
+the establishment.  
+ISI has several national and international academic and industrial collaborations,
+including with double degree programs, companies and academies (IBM,
+CISCO, Huawei, Microsoft, etc.). These constitute a major asset for the employability of
+our graduates offering them the opportunity to obtain certifications in the most advanced IT technologies
+recognized worldwide.
+ 
+ 
+Training
+The institute has a global strategy for offering training; it is clear, diversified and adapted to
+needs of business and society.
+ 
+The institute develops a clear, diversified training strategy adapted to the needs of
+businesses and society. This includes a coherent offer of diploma courses in engineering
+and complementary to all courses including qualifying continuing education
+and certifying, including two on an international scale meeting the needs of updating and
+development of the skills of engineers and managers in their roles.  
+ 
+The institute thus offers a range of training courses which are part of its current strategy:
+- Three engineering courses: Software Development Engineering (IDL), Software Engineering
+Embedded Systems and Connected Objects (ISEOC) and Engineering and Development of
+Infrastructure and Communications Services (IDISC);
+- Three degrees (computer science, computer systems engineering and systems
+on board);
+- A research master's degree in Computer Science comprising two options: Software and Systems Engineering
+Intelligent in Imaging and Artificial Vision;
+- Four professional masters in distance learning, including two international masters in
+partnership with the AUF.
+As for the student body for the academic year 2023-2024, ISI has nearly
+1600 students (320 in engineering training) spread across all training courses.
+ 
+Means implemented
+The ISI teaching staff has 163 members, 26 of whom are currently seconded to the ATCT.
+These teachers are distributed among the four departments of the institute, comprising 106
+teacher-researchers, 23 core professors, 9 experts from the socio-economic world,
+7 contract assistants and 18 temporary researchers. Thus, the supervision rate is around a
+teacher for 12 students.
+ 
+ 
+4
+ 
+The ISI also has around forty administrative, technical and worker staff.
+permanent staff in activity to ensure the proper functioning of the various administrative services
+detailed in the ISI organization chart.  
+In 2023, the ISI “Title 1” budget amounted to 946,096 D, of which almost 15% are resources
+own. These resources made it possible to cover almost 33% of operating expenses. The cost
+The annual average per student of the training is of the order of 3979 D. The institute includes a
+research laboratory which receives its funding from the Ministry of Higher Education and
+scientific research.  
+Title II of the institute was strengthened by funding from national competitive projects and
+international (PAQ-DGSE quality support project and Tunisian-Korean research project). The total
+of these funds amounts to 1090 thousand dinars. For the year 2023, the total expenditure of title 2 was
+raised to 238134 D. These funds allowed additional investments to be made for
+improving teaching conditions and university life.
+ 
+Evolution of the ISI
+The ISI, as a public administrative establishment (EPA), aspires to become a
+Public Establishment of a Scientific and Technological Nature (EPST) giving it a better
+financial autonomy. Its strategic objectives include the implementation of a quality approach
+according to the ISO 21001 standard, improving training to increase the employability of its
+graduates, promoting innovation and entrepreneurship, and improving life
+student. In addition, ISI recently acquired land at Technoparc El Ghazala, and studies in
+construction plans have already been initiated.
+ 
+ISI is embarking on several initiatives to modernize its organizational structures and
+educational, in order to become more attractive to young Tunisians. This dynamic of evolution
+aims to provide improvement solutions to encourage young Tunisians to pursue
+higher education, in response to the country's current social challenges.
+ 
+  
+ 
+ 
+5
+ 
+TO THE INSTITUTE AND ITS GOVERNANCE   
+A.1 Identity and autonomy  
+The Higher Institute of Computer Science (ISI), under the supervision of the Ministry of Higher Education and
+of scientific research, attached to the University of Tunis El Manar (UTM), was created under the
+Decree No. 1912 dated August 14, 2001 (Annex A.1) in response to the UTM initiative aimed at
+establish a digital hub within the university. Orientation law n° 19 -2008 on
+higher education (Annex A.2) gives the ISI the status of a Public Establishment of a
+Administrative (EPA) which enjoys legal personality. The institute is thus governed by the code of the
+public accounting and by the regulation of public markets according to decree No. 2014-1039 of
+March 13, 2014 (Appendix A.3). The ISI benefits from a strategic location in the center of Ariana,
+proximity to three major industrial sites in the Greater Tunis region, home to several of our
+key partners.
+The training courses offered by ISI are specifically focused on the field of IT and its
+various applications. As the only and youngest specialized IT institution in the world,
+Within the university, the ISI has established itself as one of the most sought-after institutions for its
+post-baccalaureate training and access to its engineering training. As a result, it arouses the interest of
+best students.
+The ISI is subject to prior control by the public expenditure controller and benefits from a
+partial financial autonomy. The ISI budget is attached by order to the State budget
+including the operating budget, known as Title I, and the budget for carrying out projects and
+the acquisition of scientific equipment, known as Title II. In addition to these funds allocated by the Ministry, the ISI has  
+always worked to diversify its resources in order to strengthen its financial autonomy thanks to
+multiple national and international projects and funds linked to continuing education and
+recruitment of foreign students.
+Permanent teaching and administrative staff whose salaries are financed from the state budget
+is recruited by national juries according to the positions and specialties required by the ISI after validation
+of the scientific council and approval of the University.  
+Part-time teachers, visiting professors or experts from the socio-economic sector are
+financially managed by the ISI and chosen by the director of the department in consultation with the
+colleagues in the relevant specialty. The establishment also benefits from total autonomy in
+level of management of its buildings, heritage and vehicle fleet. The ISI adapts its premises
+in accordance with its vision and objectives, modifying their configuration with a view to
+optimization.
+The ISI has committed to a quality assurance process. In this context, the establishment is
+to be certified soon according to the ISO 21001 standard. This approach contributes to the improvement of its
+management capacities with a view to transforming its status as a public establishment with a
+administrative (EPA) with the status of a Public Scientific and Technological Establishment
+(EPST). This status allows the ISI total financial autonomy and the improvement of its operating method
+governance. A file to this effect is currently being prepared.
+The ISI has a deliberative scientific council, which constitutes the principal strategic body of
+the establishment. It submits to the hierarchy proposals relating to the creation, suppression or
+change of training. The scientific council retains its decision-making rights for
+accreditation of diplomas.
+ 
+ 
+6
+ 
+A.2 Strategy   
+The ISI is committed to a quality approach (Appendix A.4) guided by three main missions: (i)
+offer quality qualifying training (bachelor's, master's and engineering) in the field of
+information technology and its applications, (ii) promote scientific research and innovation, (iii)
+provide continuing education for greater openness to the professional environment. The vision
+ISI's mission is to be a recognized leader in higher education in computer science, offering
+programs of excellence and training professionals who are at the forefront of advances
+technological. ISI aspires to be a hub of innovation, research and knowledge sharing,
+thus contributing to the advancement of society and digital transformation. Thus, it adheres to
+values ​​such as excellence, ethics, diversity and inclusion, belonging, and creativity.  
+As part of its policy focused on strategic and participatory governance, the ISI has established
+a Strategic Orientation Commission (COS) to contribute to the definition of its Plan
+Strategic Orientation Plan (POS) (Annex A.5) for the period 2024-2027 which was approved by the
+scientific council in December 2023. This POS is structured around three strategic axes aimed at
+consolidate the institution's position in higher education. In an approach
+academic excellence, the ISI has set itself three major strategic axes: (i) academic excellence,
+educational innovation and employability, (ii) development of scientific research, and (iii)
+governance, work environment and digitalization. These axes which are in perfect harmony
+with the missions, vision and values ​​of the ISI aim to position it as a
+dynamic, innovative and forward-looking institution, thus responding to current challenges
+higher education, scientific research and the job market.
+In this context, the establishment undertakes to continually update its programs to
+integrate the latest advances and follow the technological trajectory. Close partnerships with
+industry are strengthened, promoting collaborative projects and research opportunities,
+thus ensuring innovative training in line with market needs. The dimension
+international also occupies a central place with the development of programs
+exchange programs, co-degree projects and the organization of international events. The institute
+aims to promote student mobility by implementing initiatives that encourage the
+cultural and academic diversity. In addition, a significant digital transformation of services
+academics is underway, with the establishment of a digital platform and a unit of
+digitalization which ensures awareness and training of administrative staff in the use of tools
+digital.
+A.2.1 Social and environmental responsibility  
+Being aware of the importance of the voluntary integration of social concerns and
+environmental aspects of its activities, ISI positions itself as a key player committed to the
+sustainable development, social equity, and positive contribution to society as a whole.
+This is reflected at two levels of responsibility: societal and environmental (Appendix A.6).
+For the societal aspect, the ISI's main mission is to train not only engineers with
+solid theoretical knowledge, but also socially responsible graduates with a
+base of technical and managerial skills facilitating their integration into the world
+professional. The institution ensures that academic programs meet the needs
+ 
+ 
+7
+ 
+of society and provide values ​​such as sustainability, ethics and social responsibility.
+In addition, the ISI is a breeding ground for clubs and associations. Cultural, scientific and
+sports events are continually organized to promote integration and celebrate diversity
+cultural and social within the educational community. This involves taking into account the
+different origins, traditions, languages ​​and experiences of the individuals who make up this
+community. The ISI also offers open days for high school students and
+middle school students, while also organizing thematic days in collaboration with
+industrial. These events aim to present the latest technological advances and to promote
+collaborations with socially engaged partners. ISI also supports the
+staff development by providing opportunities for professional improvement,
+in particular by ensuring continuing training and the acquisition of skills. Certification
+ISI's SMOE ISO 21001 certification, scheduled for 2024, will strengthen this commitment. In addition, the institution creates
+a work environment that is conducive to employee engagement, participation and well-being.
+Preserving the physical and mental health of staff and students remains a priority
+major, materializing by the provision of an infirmary and a psychology service.
+In addition, for the last two years, a breast cancer screening day has been organized in
+support for the Pink October initiative.
+On the environmental side, the ISI encourages ecological initiatives focused on the economy
+energy by putting up posters in the hallways to raise awareness among students to adopt
+eco-responsible behaviors. Efforts are also being made to add greenery to
+common areas. In addition, the digitalization process implemented at ISI aims to simplify
+not only remote teaching and working, but also to reduce the use of paper and
+printers.
+A.2.2 Site Policy  
+The ISI occupies a strategic position in the centre of the city of Ariana, north of the capital. It is
+easily accessible thanks to excellent public transport links such as buses and
+metro, as well as the road network. This strategic location of the ISI attracts the attention of
+potential students and stakeholders. In addition, located close to Technpôle El Ghazala, Le
+North Urban Center and Charguia Industrial Zone, three sites characterized by high activity
+industrial and innovation and research ecosystems, this central location of the ISI can
+also facilitate partnerships with other academic institutions or local businesses,
+thereby strengthening the institute's network and providing more opportunities for collaborations
+fruitful (Annex A.7).
+A.2.3 Communication  
+ISI adopts a communication policy aimed at making its offer more visible and more attractive
+training, its research activities and its student ecosystem. In this context, various
+Internal and external voluntary initiatives have been adopted, such as events
+scientific, cultural and sporting activities, a welcome booklet for new students, forums,
+open days, etc.  
+The main goal of communication is to enable smooth exchange and coordination
+effective between stakeholders. With this in mind, the new web portal, currently being implemented
+place, includes an intranet space allowing access to the various administrative structures,
+available and attentive to the needs of the various stakeholders. Communication with the
+students is also ensured by meetings and assemblies, mailing lists by
+ 
+ 
+8
+ 
+institutional e-mail, displays, on the official website and the official page
+ISI on Facebook. Delegates, elected annually by students, also play a role
+as an intermediary between the administration and their comrades. In addition, an integration day is
+organized at the start of each university year, including stands presenting activities
+associative clubs and guided tours of the premises, offering new students more details
+on their academic journey.
+The ISI has implemented an external communication strategy aimed at increasing its visibility both
+at both national and international level. Particular attention has been paid to the modernization of the
+website of the institute, currently being redesigned. News is regularly broadcast through
+social media, including the official Facebook page. At industry events
+IT, ISI is committed to participating in order to align itself with the prospects offered by the new professions.
+For example, its participation in the first edition of the IT Career fair which was organized by the
+Ministry of Vocational Training and Employment, in collaboration with the Ministry of
+communication technologies. Various communication media (brochures, flyers, roll-ups,
+etc.) are displayed and distributed during these events. Student clubs contribute to the
+ISI's influence by organizing events and competitions throughout the year.
+They also get involved in national and international events to promote
+the image of the ISI and Tunisia.
+A.3 Governance
+The governance of the ISI is clearly defined within the framework of the regulations in force and in
+in particular Decree No. 2008-2716 of August 4, 2008 (Annex A.8) of universities and establishments
+higher education and research and the rules of their operation (Official Journal of
+the Tunisian Republic No. 64, August 8, 2008, pp. 2450-2459).
+A.3.1 Administrative instances  
+The structures that are part of the ISI organization chart and that are involved in management
+administrative and educational include the ISI Management, the Scientific Council, the Management of
+Studies, the Internship Directorate, the departments, the Research Laboratory, the 4C Center, the Committee
+for Quality and the General Secretariat.
+The director, in accordance with the regulations in force and the directives of the supervisory authority,
+assumes responsibility for the proper functioning of the higher education institution and
+research. To this end, he exercises the following responsibilities:  
+- Preparation of the establishment project including the methods of application of the
+contractualization in accordance with the provisions of Article 22 of this current decree, after
+submission to the opinion of the scientific council of the establishment;
+- Supervision of the proper scientific and educational functioning of the establishment;
+- Coordination of the activities of educational and scientific research bodies, and
+ensures the organization of examinations and the appointment of jury presidents;
+- Ensuring that order and discipline are maintained within the establishment;
+- Ensuring the proper functioning of administrative and financial services, as well as the exercise
+functions of the establishment's budget authorizing officer;
+- The presidency of the scientific council of the establishment, the establishment of the agenda of the said
+council, the invitation to its meetings and the transmission of a copy of the minutes to the president
+of the university and the minister responsible for higher education;
+ 
+ 
+9
+ 
+- Preparation of the establishment's draft budget, its submission to the council for its opinion
+scientific and its transmission to the president of the university;
+- The director also submits, in mid-July of each year, a report on the
+operation of the establishment, a report on the internal evaluation, a report on the
+results of examinations, as well as any other report requested by the supervisory authority.
+Although the ISI director has decision-making power, he has always favoured an approach
+participatory. In fact, all major decisions of the establishment are validated after
+consultation with the relevant administrative bodies and stakeholders.
+A.3.2 Organization of the institute
+The ISI organizational chart, as illustrated in Appendix A.9, includes all the structures
+administrative services mentioned above as well as the various administrative services falling under the
+management contribute to ensuring the proper functioning of the ISI.   
+A.4 Missions of the ISI
+A.4.1 ISI training offer
+The development of training programs is carried out collaboratively between the ISI, represented
+through its departments, the Ministry of Higher Education and Scientific Research, as well
+than the professional sector. This collaboration results from a comparative study (benchmarking)
+at the national and international level. The ministry is involved in the validation process of
+path, thus ensuring coherence between the proposed national strategic visions and the
+implementation of training.  
+In response to the needs of the professional world and society, the ISI has developed a global strategy
+for a diversified offer of qualifying training courses, aligned in a coherent manner and
+complementary to all of the establishment's courses. These courses include
+qualifying and certifying training courses, two of which are international, thus meeting the requirements
+updating and developing the skills of engineers and managers in their roles.
+Thus, the ISI offers a range of training courses that are part of its current strategy. This offer
+includes three engineering degrees, a professional master's degree, a research master's degree and four
+professional masters in distance learning including two international masters in partnership
+with the University Agency of the Francophonie (AUF).
+For high school graduates, the ISI offers three courses covering three areas: software engineering, networking
+and cybersecurity as well as embedded systems and the Internet of Things.
+Regarding the engineering course, the ISI offers three specializations lasting three years. Admission
+These courses are accessed through a specific national competition, 40% of which are graduates of
+the institute. After a common core of three semesters, three specialties are available covering the
+same areas mentioned above.
+To welcome master's students, the ISI has opted for complementary training with the
+degree courses thus promoting the capitalization of resources and the diversity of audiences in
+a goal of sharing and consolidating partnerships in the field. Thus, the masters
+professionals target the upskilling of professionals, while masters in
+research aims to broaden the horizons of students wishing to pursue a career in
+scientific research in computer science. Two masters are thus available: the first, in
+collaboration with the Chamber of Commerce, is a professional master's degree in Computer Science in
+Information Systems and Infrastructure Security (SSII). The second is a master's degree in
+ 
+ 
+10
+ 
+research in computer science with two distinct paths: Intelligent Systems in Imaging and Vision
+Artificial Intelligence (SIIVA) and Software Engineering (GL). At the same time, the training offer includes four
+masters courses, in distance learning (FAD), co-managed in collaboration with the Center
+National Continuing Education and Professional Promotion (CNFCPP) and the Virtual University
+of Tunis (UVT). These masters are part of the continuing education policy intended for
+professionals in the sector, in order to enable them to consolidate their skills and progress in
+their careers. Indeed, the ISI offers in particular a professional master's degree in Computer Science in
+Free Software (MP2L), in partnership with UVT. For two years, three Professional Masters in
+collaboration with the CNFCPP, focused on cutting-edge, complementary and highly relevant themes
+requested, are also available: Security of Information Systems and Infrastructures
+(SSII), Software Engineering (MDL), and Intelligent Systems and IoT (SIIOT). These training courses are very
+appreciated within the professional community of the field and were designed in response to the
+needs expressed by the CNFCPP. Since January 2024, the MDL and SSII masters have carried the mention
+"international master", thus promoting the expansion of the ISI network and its opening to a new
+international audience targeting foreign students across the world.
+The management of the various ISI training courses is ensured by a four-part structure
+departments and masters committees according to their respective specialties. In order to ensure monitoring
+effective teaching and continuous improvement of training, teaching teams are
+established within all departments (Appendix A.10). Table A-1 summarizes the staff numbers
+students by training.
+Table A-1: ​​Number of students by course  
+Training Bachelors Engineers Masters
+Staff 2023/2024 703,320,546
+A.4.2 Research policy
+ISI is committed to ensuring an effective connection between engineering training and research,
+thus promoting the transfer of scientific knowledge through applied research as well
+as well as active participation in research governance, both at national and international levels.
+Thanks to its diverse community, the ISI benefits from committed and active skills in a wide
+range of disciplines focused on innovation and emerging technologies. Teachers-
+researchers (ECs) of the ISI, belonging to the various research structures and exploring different
+current research areas, actively contribute to the development of research at ISI.
+In fact, 92% of teachers, all grades combined, join research structures in Tunisia,
+45% of which are under the supervision of the UTM. Their average scientific production amounts to more than ten-
+eight (18) publications and fifty (50) communications per year (Annex A.11). As an illustration, in
+2023, ten (10) assistant professors have successfully completed their university accreditation. In order to promote
+further increase national and international influence, as well as strengthen the sharing of
+knowledge and skills, 30% of ISI ECs are involved in the organization of
+scientific events such as national conferences, seminars, workshops and
+international conferences. Among them, thirteen (13) ECs hold responsibilities within
+research laboratories (one director of the LIMTIC laboratory of the ISI), and five (05) as heads
+team in laboratories at ENIT, FST, ENSI, EPT and ISG.  
+The ISI houses the Computer Science, Modeling and Information Processing Research Laboratory and
+of Knowledge (LIMTIC), established in 2016. Its membership extends to fundamental research
+and applied playing an essential role in improving training in a field in
+ 
+ 
+11
+ 
+perpetual evolution. Currently, LIMTIC has approximately eighty (80) researchers, including  
+twenty (20) permanent teacher-researchers and sixty (60) student-researchers. This
+research structure plays an essential role in consolidating the scientific activities of
+ISI teachers, thus strengthening the existing research master's training in Computer Science
+with the two previously mentioned courses GL and SIIVA. LIMTIC members are already strongly
+involved in teaching this master's degree and in supervising students during the
+preparation of their engineering dissertations, master's degrees and theses. In short, this structure of
+research has consolidated the scientific activities of ISI teachers, thus creating a pole
+of excellence in scientific research within the establishment.
+The ISI thus mobilizes support systems, intended for the development of projects, for the pursuit
+doctoral studies and certain teaching discharges to enable ECs to
+to get involved effectively in these projects. Part of the budget rented to the institute is also
+dedicated to financing the participation of ECs in scientific events within the
+country and abroad.  
+Convinced of the importance of research to improve the effectiveness of teaching practices
+and ensure the employability of graduate engineers, the ISI promotes transdisciplinary research.
+In fact, the establishment has launched strategic initiatives to weave a network of collaboration between
+companies and universities in innovation, as well as the application of R&D. The involvement of
+students and ECs is encouraged through regular events (ISI Research Day, ISI
+Companies, days of scientific meetings focused on their areas of expertise).  
+Furthermore, the ISI library is a pillar in strengthening scientific research.
+Thus, the ISI management regularly consults its teachers to identify their needs.
+specific, thus ensuring targeted acquisition of works. In addition, electronic resources
+provided by the CNUDST are made available to teachers, allowing access to databases
+of internationally renowned bibliographic data.  
+A.5 Means and their use  
+A.5.1 Human resources  
+Faced with the rapid evolution of new technologies, the ISI remains committed to supporting the
+professional development of its teaching staff, thus ensuring the continued relevance of its
+study programs. The ISI teaching team is made up of 1,63 teachers, including 26
+currently on secondment to the ATCT. These teachers are spread across the four
+departments of the institute, including 10 6 teacher-researchers, 2 3 core professors
+common, 9 experts from the socio-economic world, 7 contract assistants as well as 18
+temporary researchers. Language teaching (French and English) is provided by
+secondary school teachers assigned to the ISI. The management of teaching loads is
+carried out by the departments, relying on the teaching units according to the
+teacher skills, in accordance with Decree No. 2000-240 of January 31, 2000. The ISI has
+also nearly forty administrative staff, technicians and permanent workers in
+activity to ensure the proper functioning of the various administrative services detailed in
+the ISI organization chart. Technicians also ensure the maintenance of the IT equipment
+practical work rooms and ensuring the proper functioning of the laboratories (Appendix A.12).
+ 
+ 
+12
+ 
+A.5.2 Premises and material resources
+The ISI has an infrastructure comprising mainly teaching rooms, a
+amphitheater, practical work laboratories, a meeting room, a 4C center, a room
+reading, a research laboratory, a sociocultural room, a thesis room, a health unit,
+a shop, a refreshment bar, offices for teachers, and administrative offices (Annex
+A.13).  
+For all practical work rooms, the ISI is equipped with functional materials meeting the
+needs, specific laboratories dedicated to teaching electronics, networks and
+telecommunications, thus providing students with additional practical training
+theoretical teaching. The renewal of teaching materials is carried out through
+multiple channels:
+- Competitive funding awarded by the Ministry of Higher Education and
+Scientific Research (Quality Support Programs);
+- European projects (Erasmus, Tempus, etc.);
+- International Cooperation Fund;
+- “Title II” budget of the ministry.
+In addition, with the financial support of the PAQ and 4C projects, the ISI is preparing the establishment of a space
+FABLAB and the development of some premises for clubs.   
+The ISI coordinates the purchase of IT equipment through contracts grouped by the university, a
+approach which restricts the flexibility of the establishment in the choice of computer equipment
+tailored to their specific needs. In addition, the acquisition of educational software is based on the needs
+expressed by the various departments. A constant effort is made to ensure a
+optimal Internet connection and extend the Wi-Fi network to the entire establishment. The ISI is
+connected to the external network by a fiber optic WAN link and benefits from a flow rate of 80
+Mbps. The facility's network, including cabling and routers, has recently been upgraded.
+Network administration is entrusted to a technician responsible for managing the various
+ISI LAN components, LAN and connection troubleshooting
+Internet and the proposal of new solutions aimed at improving the quality of the network in
+the establishment.
+A.5.3 Information systems and digital resources
+The ISI is committed to a process of modernizing its training offering by implementing
+IT resources, in particular through an IT portal to centralize everything
+of its services. To strengthen the regulation of the use of IT resources and
+digital, the ISI, represented by the CS, recently adopted a Responsible Digital charter  
+(Annex A.14).
+Connected to the National University Network, the ISI can thus interact with other establishments
+academics and access the Internet. Through the Google for Education service (Google Workspace),
+subscribed by UTM, ISI offers institutional e-mail addresses to students
+( prenom.nom@etudiant-isi.utm.tn ) as well as to members of the academic and administrative staff
+( firstname.lastname@isi.utm.tn ). Email remains the preferred means of communication until the implementation
+operation of the future ISI portal and its extranet spaces. The ISI also has free access
+to online digital libraries such as "IEEE Xplore, Scopus, Scien ce Direct" thanks to a
+connection via the local network to CNUDST services.  
+ISI was among the first institutions in Tunisia to adopt the training approach
+distance learning (FAD 90% online) to support face-to-face training from 2009. This has come to fruition
+ 
+ 
+13
+ 
+by launching, in partnership with the UVT, the MP2L master via the EAD Moodle platform. The
+catalog of training courses has expanded. In addition to MP2L training, ISI offers other
+online professional masters courses (mentioned above in collaboration with the CNFCPP,
+using the platform www.ipst.edunet.tn.). Thus, thanks to this experience, the ISI distinguished itself during
+from the COVID period by managing to quickly migrate to a fully integrated training model.
+online for the majority of its teachings
+ISI uses the anti-plagiarism solution "PlagPrevent" to preserve the scientific integrity of works
+academic work of students. This solution detects unauthorized similarities between work,
+thus ensuring a fair assessment. Its use aims to reduce legal risks and to
+demonstrate its commitment to ethical academic practices. Since its inception,
+the use of this solution is systematically required when submitting internship reports.
+PFE/SFE.
+For several years, the ISI has implemented a strategy promoting the adoption of digital technology in
+all of its administrative services in order to facilitate exchanges between its various stakeholders. This
+strategy has been implemented through several pilot projects, including:
+- The adoption of the Moodle platform as a distance learning platform (EAD);
+- Automatic scheduling of sessions on Google Meet with invitation of speakers,
+thus supporting the EAD platform;
+- Partial digitalization of the student registration process;
+- The implementation of monitoring dashboards at the examination service level (feedback from
+notes, complaints management);
+- Internship management;
+- The use of Google Drive bringing together all the official documents of the establishment such as
+than timetables, catch-up requests, wish lists, etc.  
+Based on feedback from the various pilot projects, the ISI has begun implementing
+of a new web portal with an extranet space. This solution aims to strengthen applications
+(timetable management, grade entry, etc.). The new portal thus makes it possible to
+break down the barriers between the different services to enable better interaction. The main
+The objectives of the new portal are to increase the visibility of the institute and its research structures and
+to offer an extranet space dedicated to students, teachers and administrative staff.
+A.5.4 Financial means  
+The institution has a transparent system for the internal distribution of financial resources
+(Appendix A.15). “Title I” of the ISI budget is set each year in consultation between the departments
+financial statements of the ISI and those of the Ministry. The ISI then manages its budget, in accordance with its status
+EPA. "Title II" comes primarily from environmental outreach activity,
+research and engineering program contracts and competitive research projects as well
+national and international. The financial report is presented each year to the scientific council of
+ISI. The distribution of financial resources by heading is carried out by looking at expenditure
+relative to the previous year and depending on the evolution of the number of students. The average cost
+annual per student of the training is of the order of 3979 D. As an EPA, the ISI is subject to a
+control of expenditure a priori ensured by public expenditure controllers. Referring to
+Article No. 3 of Decree No. 2012-2878 of 19/11/2012 relating to the control of public spending, the
+control consists of examining the regularity of the following elements (the object, the imputation and the accuracy
+assessment of expenditure, availability of credits, conformity of expenditure with works
+budget preparation, compliance of expenditure with laws and regulations in force, the
+ 
+ 
+14
+ 
+compliance of expenditure with the appropriations use program and with annual programming
+provided for in Article 11 of this decree). Another regularity check is carried out by the accounting officer
+under the Ministry of Finance before proceeding with the payment of any order. The verification
+relates to the quality of the authorising officer and the allocation of expenditure, the existence of the prior visa
+the commitment and accuracy of the imputation and the justification of the service provided. Given that the ISI
+is a public administrative establishment, accounting and budgetary management is ensured
+by the AD AB application which is an information system shared by all stakeholders in the
+expenditure (High Budget Committee, Authorizing Officers, Expenditure Controllers and Public Accountants).  
+The ADAB application ensures the management of the complete chain of public expenditure, the maintenance of
+real-time budget accounting, as well as the development of situations and reports
+accountants and a variety of dashboards.
+The ISI comprises a single research laboratory which receives its funding from the Ministry of
+higher education and scientific research. Title II of the ISI has been strengthened by
+funding from national and international competitive projects such as the support project for
+quality (PAQ-DGSE), the Tunisian-Korean research project, etc.  
+ 
+SWOT Analysis
+Strengths Weaknesses
+- Solid reputation.
+- Qualified teaching staff and
+experienced.
+- Active student life.  
+- Excellent supervision rate.
+- Input from quality students.  
+- Numerous partnerships with the
+industrialists.
+- Microsoft, IBM, CISCO certifications
+free for teachers and students.
+- Premises for rent and infrastructure
+perfectible.
+- Weak international partnerships.  
+- Low body motivation
+administrative.  
+- Limited financial autonomy.
+ 
+Opportunities Threats
+- Growing demand for professionals
+qualified in the digital sector.
+- Emergence of new technologies in
+integrate into programs.
+- Possibility of establishing cooperations
+strategic with universities
+foreign.
+- Internationalization of training.
+- El Ghazala land.
+- 4C Center and Quality Project (PAQ -DGSE-
+RISE).
+- Increased competition from others
+institutions.
+- Rapid evolution of technologies.
+- Financial pressures.
+- Difficult political situation.
+- Expatriation of teachers.
+ 
+ 
+ 
+ 
+ 
+15
+ 
+B THE MANAGEMENT OF THE INSTITUTE: ITS PILOTAGE, ITS
+OPERATION AND ITS QUALITY SYSTEM
+B.1 Principles of steering and management  
+Since 2014, in response to training and awareness initiatives carried out by UTM in the
+within the framework of the Quality Support Project PAQ-CG 01/2014 Loan 7392-TN, several teachers as well as
+administrative and technical staff participated in training dedicated to the design and
+development of Quality Management Systems (QMS) (Appendix B.1). After these training courses, a
+The first Quality Committee (QC) was appointed. In 2016, the quality initiative was launched during
+the first edition of the quality day (Annex B.2), during which experts presented
+the four strategic areas, namely Governance, Training, University Life and
+Research. To crown this event, ISI was awarded the World Quality Award
+Commitment “WQC” GOLD category in 2017 (Appendix B.3).
+And since then, management has been committed to establishing a quality culture within
+the establishment trying to work in accordance with the quality assurance guidelines
+in European (ESG) and African (ASG) higher education.
+Thanks to the funds allocated for the Quality Support Projects (QSP) of higher education,
+in particular the PAQ Development of Strategic Management of Universities (PAQ-DGSU) and especially
+that of the ISI focused on the Development of Strategic Management of Establishments (PAQ-DGSE),
+named PAQ RISE-ISI (Accountability, Innovation, Synergy and Guarantee of Excellence of the ISI), the ISI has put
+put in place an action plan for the certification of the establishment according to the ISO 21001 standard  
+2018 version and the accreditation of its engineering courses as previously mentioned in the
+chapter A.  
+B.1 Quality approach  
+B.1.1 Quality policy  
+The quality policy within ISI is closely linked to the implementation of the ISO 21001 standard
+:2018. Based on the continuous improvement approach, the ISI regularly reassesses and communicates
+its educational objectives. Submitted and approved by the scientific council, the quality policy of
+ISI supports management's commitment to a quality approach with the following objectives:
+- Strengthen the effectiveness of governance;
+- Provide training focused on increased employability;
+- Revitalize and modernize student life.
+ 
+In this process and ensuring the support of learners, teachers and staff,
+ISI works to:
+1. Ensure adequate resources to improve educational services offered to the parties
+stakeholders;
+2. Encourage research excellence and promote its recognition in the face of challenges
+current scientists;
+3. Strengthen the visibility of the institute and consolidate its links with its socio-environment
+economic.
+ 
+The ISI leadership, guided by its vision, is committed to:
+ 
+ 
+16
+ 
+1. Provide quality training in the field of computer science and ICT,
+and maintain a strategic vision focused on educational and scientific innovation;
+2. Improve the satisfaction of internal and external stakeholders by implementing a
+listening and evaluation process in accordance with the institute's strategy;
+3. Asserting its social responsibility by guaranteeing the protection of intellectual property
+and personal of learners and other stakeholders;
+4. Ensure accessibility and equity of learning while respecting ethical principles
+by combating fraudulent practices.
+ 
+The adoption of this quality approach resulted in the definition of eleven (11) processes describing the good
+operation and implementation of the quality management system at ISI as indicated in
+global mapping (see Figure B-1).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure B-1: ISI Process Mapping
+To develop the various processes and their procedures, a participatory approach was established
+within the ISI. In the following, we present the objectives and indicators of two processes
+operational, namely the pedagogical process and the process of the learners' schooling. All
+The processes have been developed 70% and implemented (Annex B.4).   
+Educational Process: EXD - 06
+This process, implemented according to the ISO 21001 standard, has the following objectives:
+- Objective 1: Ensure the planning and completion of examinations on time while respecting
+circulars;
+- Objective 2: Guarantee the execution of examinations under controlled conditions (confidentiality,
+logistics) ;
+- Objective 3: Minimize incidents during the conduct of examinations;
+- Objective 4: Ensure deliberations are held on time.
+
+ 
+ 
+17
+ 
+Monitoring of this process and its improvement is done via consistent indicators such as:
+- Rate of compliance with planned examination activities within the deadlines;
+- Satisfaction rate of learners and teachers regarding the execution of exams;
+- Rate of submission of exam subjects on time;
+- Rate of processing of complaints relating to the performance of examinations;
+- Attendance rate of supervisors.
+The details of the process flow, procedures and supporting documents are described in
+(Annex B.5).
+ 
+Learner Education Process: GSA - 07
+This process, implemented according to the ISO 21001 standard, has the following objectives:
+- Objective 1: Satisfy the needs (in documents) of learners related to their education;
+- Objective 2: Guarantee the registration of all learners on time;
+- Objective 3: Satisfaction of claims and complaints processed within the time limits
+learners;
+- Objective 4: Satisfaction of learners with specific needs.
+Monitoring and improving this process is done using consistent indicators such as:
+- Rate of satisfaction of document requests within the deadlines;
+- Rate of students registered within the time limits prescribed in the press release;
+- Rate of efficiency of processing claims and complaints processed within the time limits;
+- Efficiency rate of processing complaints from learners with specific needs in
+the deadlines.
+The detailed plan of this process describes more elements (Appendix B.6).
+B.1.2 Continuous improvement  
+In 2019, as part of the UTM PAQ DGSU project, the ISI CpQ produced a report
+self-assessment in accordance with the IEAQA (National Authority for the Evaluation,
+Quality Assurance and Accreditation,) and AQI-UMED (Annex B.7). This self-assessment process
+made it possible to define the specific objectives of the ISI, then integrated into the objectives of the PAQ project
+DGSE (PAQ RISE- ISI) (Appendix B.8). As part of this project, seven (07) members of the CpQ obtained
+“Lead Auditor” certification while one member (01) was certified “Lead Implementer” in ISO
+21001.  
+In addition, in order to strengthen the skills of CpQ members as well as process pilots
+of the UTM and its establishments, various training courses were provided, covering the standards
+ISO 9001-2015, ISO 21001-2018, ISO 31001 and social responsibility. Ten members, including
+members of the CpQ and CPs participated in training on quality assessment
+programs in higher education, covering the following aspects: self-assessment
+internal, external evaluation, drafting of the evaluation report, as well as the development and
+monitoring the implementation of the action plan. Therefore, the ISI was selected as
+pilot establishment to conduct the course evaluation surveys, thus inaugurating the
+process through training provided within the ISI (Annex B.9).
+B.1.3 External quality approach outside CTI  
+To set up the SMOE, a team of experts was mobilized to support the team
+quality within the framework of the PAQ DGSE RISE -ISI project (Annex B.10). This deployment began with the
+carrying out an initial diagnostic audit (Appendix B.11). Following this audit, a preliminary version
+mapping has been developed, process drivers have been designated, and a series of
+ 
+ 
+18
+ 
+training was provided in accordance with the requirements of ISO 21001:2018 regarding
+processes, mapping, dashboard and risk management. The file for the
+certification has been submitted and the corresponding call for tender has already been published (Annex B.12).
+B.1.4 Internal quality approach
+The quality approach implemented at the ISI is based on a self-assessment which draws on
+satisfaction surveys. These surveys target different stakeholders, including learners, the
+administrative staff (Appendix B.13), teachers (Appendix B.14) and former graduates as well
+than industrialists [Details in Chapter G].  
+The main objective of this self-assessment is to enable the establishment to identify its points
+strengths and weaknesses, and to work towards improving its performance in the short and medium term
+term.
+In the following, we will present the results of the student satisfaction survey (Appendix
+B.15), as well as the areas subject to self-assessment and the conclusions drawn from the analysis
+of these results.  
+  
+a. Self-assessment domain
+The main areas of self-assessment that the CpQ has focused on include:  
+- Choice of training and visibility of the institute;
+- Educational resources;
+- Quality of training;
+- Student life;
+- General assessment of the training.
+b. Self-assessment results
+The most recent satisfaction survey was launched at the end of the first half of the year.
+university in progress, involving the participation of 169 registered students. It is possible that the
+participation rate increases in the next surveys. The partial results of the survey of
+learner satisfaction are presented below, while the full results are
+available in annexes.
+ 
+- Choice and visibility of training  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure B-2: Choice of training
+
+ 
+ 
+19
+ 
+Most of the students opted for ISI because of its reputation among institutions
+offering similar training courses, which is a significant advantage for
+the establishment (see Figure B-3).
+ 
+- Educational resources
+ 
+ 
+Figure B-4: Student satisfaction levels with logistics resources
+Continuous efforts are being made to improve logistical and personnel resources. For example,
+On the one hand, to compensate for the lack of personnel, the ISI called on a private company to
+maintain the cleanliness of the premises and meet the required safety standards. On the other hand,
+Regular updating of equipment in practical work laboratories is necessary for
+meet changing needs. Thus, the various ISI projects can contribute to the financing
+of these renewals (see Figure B-5).
+ 
+- Quality of training
+ 
+Students express satisfaction levels of up to 80% across all aspects
+educational, with a few exceptions. However, this satisfaction decreases when it comes to
+tutorials, mainly due to the lack of training in active pedagogy or other
+alternative teaching methods. This observation has been identified as one of the areas for improvement
+suggested by teachers in their satisfaction survey (see Figure B-6).
+ 
+- Student life
+ 
+Following the allocation of funds from the PAQ, renovations to the ISI club premises have
+significantly improved these spaces. However, due to the current condition of the building and
+the increase in the number of students, some cannot fully benefit from these
+improvements. ISI strongly encourages students to participate in cultural activities and
+social, thus promoting meaningful skills development and preparing them to excel
+during national and international competitions (see Figure B-5).
+ 
+
+ 
+ 
+20
+ 
+ 
+ 
+Figure B-7: Student satisfaction levels with their learning experience
+ 
+Figure B-8: Student satisfaction levels with club activities
+ 
+SWOT Analysis
+Strengths Weaknesses
+- Management commitment to the implementation
+place of SMOE.
+- High overall student satisfaction rate.
+- Commitment of a certified quality team.
+- Absence of institutionalization of
+the quality team.
+- Very cumbersome administrative processes.
+- Low satisfaction rate among locals.  
+
+ 
+ 
+21
+ 
+Opportunities Threats
+- Implementation of ISO 21001.  
+- Sustainability of the ISO:21001 quality policy.
+- Lack of commitment from the parties
+interested.
+- Competing schools.  
+ 
+C ANCHORING AND PARTNERSHIPS
+As part of its strategic approach, the ISI is committed to building strong links at different levels,
+whether at local, national, European or international level. This is achieved through
+partnerships established with similar institutions as well as with various actors from the socio-economic world -
+economic.  
+This multidimensional approach is based on several initiatives, such as the organization
+media events, field visits, involvement of experts in the process of
+training, as well as the promotion of collaborations between teaching staff and businesses.
+Among the agreements and exchange procedures undertaken by the ISI, we can cite the creation of co-curriculums -
+diploma (Annex C.1), the invitation of professors from European universities and the reception of
+foreign students. The ISI also adopts a strategy of innovation, entrepreneurship and
+valorization of research results as well as their socio-economic impacts. At the same time,
+The institute regularly ensures that it promotes its communications policy and its visibility on a global scale.
+national and international. These initiatives are subject to regular evaluation with a view to
+continuous improvement.
+C.1 Territorial anchoring
+Location of ISI  
+Located near three sites renowned for their strong industrial activity and their ecosystems
+innovation and research (Technpôle El Ghazala, the Northern Urban Center and the Industrial Zone
+Charguia), the ISI takes advantage of its privileged geographical location to:
+- Facilitate the sharing of PFE internship opportunities, job offers and the integration of
+engineers in the industrial ecosystem.
+- Promote the transfer of knowledge and understanding between the student, the teacher and
+the company. For example, the El Ghazala technology hub offers a space for
+conference which hosted several events organized by the ISI and its structures allowing
+to promote synergy and dynamics bringing together academic stakeholders in the fabric
+local industrialist.
+- Exploit the proximity of El Ghazala Innovation Center at the technological hub level as
+as an incubator that encourages and guides student entrepreneurs. In this context, we can
+cite the startup “Unfrauded” founded by ISI students in 2019 which offers
+smart solutions for fraud detection.
+ISI's openness to its environment  
+The ISI establishes relationships with high schools, colleges in the region as well as high school graduates in order to
+promote its engineering training and engineering professions and encourage social diversity
+within its sectors. With this in mind, visit and training initiatives are carried out at
+primary school level (see Figure C-1) and secondary school level by our student members of the life
+ISI association [Details in Chapter F] and regular participation in orientation days
+bachelors organized by the university (Appendix C.2).
+ 
+ 
+22
+ 
+  
+ 
+Figure C-2: Visit to an elementary school – December 20222
+C.2 Partnerships with the company
+The ISI, through its internship management, ensures the management and adequate supervision of summer internships.
+and PFE internships as well as the development of partnerships with the socio-economic world.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In recent years, the ISI has signed around thirty
+of partnership agreements with the fabric
+industrial (CAPGEMINI, TELNET, SAGEMCOM, EY,
+LINEDATA, etc.) (Appendix C.3). These actions,
+promoting exchange with the company and
+in particular the enrichment of its catalog of
+internships, are carried out mainly by the
+Internship Management (see Figure C-3).
+ 
+ 
+Figure C-4: ISI-TELNET partnership signature
+Developing opportunities for exchange and involvement
+Every year, the ISI organizes an ISI Forum in collaboration with the Codex Junior Entreprise club.
+Businesses. This is an annual open day event that brings together, according to the
+most recent data, 500 participants and around twenty partner companies who
+allow the promotion of our training courses through:
+ 
+ 
+The organization of JOB Fair:  
+Partner companies are present for
+meet the future engineers who benefit
+to learn about the real needs of the world
+industrial and their related career opportunities
+to their activities, their internship offers and
+jobs (see Figure F-3). ISI alumni are
+often present among the representatives of the
+exhibitors testifying to their meaning
+of belonging and the success of their
+professional integration.
+ 
+Figure C-5: Job Fair 2022
+ 
+ 
+
+ 
+ 
+23
+ 
+ 
+ 
+The organization of Round Tables: During the
+ISI days, discussion panels are
+organized to promote exchange and
+transfer of values ​​and knowledge between
+different stakeholders (Students,
+Alumni, Teachers, Companies) in
+current topics such as professions
+from tomorrow to the digital era, the cross-vision
+between university and business, innovation
+and entrepreneurship as well as the needs of the
+market, feedback, etc. (see Figure
+C-4).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure C-6: Round table on innovation and entrepreneurship with the participation of ISI Alumni – 2021
+The culmination of the collaboration with the company also translates into several visits to
+site (Appendix C.4) for the benefit of ISI students accompanied by their teachers. These visits
+thus facilitate the updating of academic training according to the needs of the job market.  
+ISI alumni are often among the employees of the company visited, thus reinforcing
+the ISI-Business partnership and providing students with feedback on the quality of the
+training provided at the ISI and potential opportunities in terms of positions in the industrial world.
+Table C-1 illustrates some visits made by ISI engineering students to the premises of the
+partner companies.
+Table C-1: Some visits by ISI students to the premises of partner companies
+ 
+Participation of industrial experts in training  
+The ISI also works to involve experts working in the industrial sector, in particular
+ISI alumni, throughout the training course by encouraging their interventions at the level
+teachings and workshops. These collaborations contribute to improving learning and
+programs (Details in Chapter D), strengthen exchanges, facilitate integration on the
+job market and promote the development of skills. In this context, we can cite:  
+- Support for additional modules in technological monitoring: the company's subsidiary
+French FAVEOD in Tunisia, a partner of ISI, led a course and practical workshops on the
+FAVEOD Design technology for the benefit of our IDL students.
+Dates of visits to companies and sectors
+June 14, 2022 LINEDATA 2ing-IDL/3ing-IDL
+March 2, 2023 BFI Group 2Lic-CS, 2ing-IDISC
+October 27, 2023 CAPGEMINI 3ing-ISEOC
+November 24, 2023 NEXT STEP Master SSII/3ing-IDISC
+January 31, 2024 ADACTIM Master SSII/ 3ing-IDISC/3ing-
+IDL/2ing-IDISC
+
+ 
+ 
+24
+ 
+- Animation of Workshops on “soft/Essential skills” (Profiling) and “technical skills”
+(Devops, STM32, ERP, Generative AI, SOC Cybersec, LEO Satellites, etc.) by those responsible for
+human resources and senior experts from partner companies.
+- During their interventions within the ISI, experts from the industrial world identify students
+engineers who arouse their interest because of their profiles and skills, and offer them
+to integrate into society through an internship or final-year projects.
+ 
+Table C-2 presents the involvement of ISI experts/Alumni in the different courses
+awarded to engineering students.
+Table C-2: Involvement of ISI experts/Alumni in teaching
+C.3 Innovation and entrepreneurship policy
+The ISI deploys a well-defined strategy and approach aimed at highlighting and promoting
+innovation, entrepreneurship and the valorization of research results and their socio-economic impacts -
+economic. In this context, some of the actions undertaken include:
+ 
+The ISI ACT Entrepreneurial Program
+As part of the PAQ-RISE project, the ISI ACT entrepreneurial program was launched in February 2022.
+Incubator and accelerator partners such as Redstart, 1KUB, TELNET, participated
+actively for the success of this program. The first edition of this program was closed
+by the final organized on January 18, 2023. Among the three winning teams, one team set up its
+own startup Kicksoft (see Table C-3). For the second edition, 7 projects are participating. The
+different teams benefited from a boot camp during the month of June 2023 and training on
+the business plan in January 2024. The winners will have the opportunity to qualify for the playoffs
+national, then for the final in England.  
+Table C-3: Some Startups created by ISI students
+Year of creation Startup Students co-
+founders
+Type of activities
+2019 Unfrauded Taha Cabani AI Solution for Fraud Detection
+frauds
+2018 study.tn Nidhal Abidi Online course platform
+2022 Innorov Mohamed Aziz Boufaid Underwater monitoring system -
+navy
+Date of
+the intervention
+Experts Companies Date of
+the intervention
+Intervention/Workshop Courses
+December 3
+2018
+Mehdi Mnif / Ayadi
+Ismail
+ODDOO-
+BHF/Association
+ISACA
+December 3
+2018
+COBIT Security Audit Master Security
+December 12
+2021
+Adel Rebhi
+(ISI Alumni)
+AXIANS December 12
+2021
+Methodology of analysis of
+EBIOS risk
+3ing IDISC Security Audit
+October 18
+2023
+Ben Hammouda /
+Ghozi
+TunTrust October 18
+2023
+Digital Signature ICT Rights 2ingISEOC-
+IDISC-IDL December 8
+2023
+With Habib Gahbiche
+/ Ons Mdhafer
+(ISI Alumni)
+ITC December 8
+2023
+Presentation of the
+CISA auditor certification
+Audit and pentest 3ing IDISC-
+Master M2SSII
+September 4-9
+2023
+Akim Demaille/Chef
+of Faveod project
+FAVEOD September 4-9
+2023
+FAVEOD Training
+Design
+Module
+complementary
+3ing IDL
+ 
+ 
+25
+ 
+2022 Kicksoft Zied Ben Slimen NextGen AI Gaming Solution
+(Startup Label in
+course)
+AIO Solutions Iyed Ben Messaoud and
+Oussama Rifi
+Online ticketing platform
+ 
+UTM-INNOV  
+As part of the UTM PAQ-GAGE project, a competition aimed at rewarding initiatives
+innovative and entrepreneurial was launched in 2021. The success of the EPACT project, focused on
+Social entrepreneurship in the production of 100% Tunisian concentrated feed for animals
+breeding, was announced in October of the same year. Thanks to this project, Enactus ISI has succeeded in  
+highlighting ISI, Tunisia, Arab countries and the African region by winning several
+distinctions: the title of champion at the national Enactus Tunisia competition in June 2022, followed by the
+Vice-champion title at the international Enactus World Cup competition in Puerto Rico in October
+2022.
+ 
+Student-Entrepreneur Center  
+At the ISI, three teachers act as referents representing a point of liaison between the
+students and the UTM student entrepreneur center (P2EUTM). Their role consists of coaching
+students who apply for student entrepreneur status. This center is supported and accompanied
+by the North Africa management of the AUF. It aims to promote the entrepreneurial spirit of
+students, encourage their innovative initiatives in synergy and complementarity with the actions
+and existing structures. It also works to federate good practices
+entrepreneurial activities, thus creating the necessary conditions to establish an environment conducive to
+the creation and development of start-ups by UTM students.
+ 
+Course on innovation and entrepreneurship  
+ISI offers courses at different levels and specialties providing students with knowledge and
+skills required to find an original and innovative project idea, establish and validate
+a personal assessment, carry out the various feasibility studies of a creation project
+business, create a Business Model Canvas (BMC), design a draft of their product
+(prototype, web application, model, mockup, etc.)  
+ 
+Project 4C- Incubation  
+In accordance with the 1999 Framework Convention between the Minister of Higher Education and the
+Minister of Industry, the 4C center signed an agreement with the Industry Promotion Agency
+and Innovation to promote the development of startups and innovative projects by offering
+young entrepreneurs and ISI students an environment conducive to creation and sharing
+ideas and access to the resources needed to make their projects a reality.  
+C.4 National partnerships and networks
+Over the years, the ISI has forged cooperations that give it special recognition.
+present, our institute is committed to actively contributing to national networks and encouraging
+partnerships.
+ 
+ 
+ 
+ 
+ 
+26
+ 
+Academic Partnerships - Worker Training
+As part of these actions, the ISI establishes academic cooperation, in particular with
+higher education institutions such as UVT since 2009, the Open School of
+workers (IPST) since 2023 and recently the AUF. The objective of these collaborations is to provide
+continuing education for workers through distance learning platforms
+made available by partners (Annex C.5).
+ 
+Communication/Dissemination Policy
+Through the different media channels
+(Written press, radio broadcasts, TV broadcasts),
+ISI communicates on its activities and the
+main events that it organizes. This
+approach strengthens dialogue and dissemination
+information to the general public (see
+Figure C-7).
+The ISI is particularly committed to sharing its
+news and its actions through networks
+social networks, especially on its official page
+Facebook which has more than 11,000 subscribers
+and its website.
+ 
+Figure C-8: Announcement of the ISI Enterprise Forum 2022 - Express FM radio
+Participation in national events
+Following the same strategic approach, the ISI is keen to be active in events on a global scale
+national. For example, in March 2023, the Institute participated in the “CarrièreIT” fair through a
+exhibition stand and a radio appearance organized by the renowned national media channel, EXPRESS
+FM. This event had more than 3000 participants (schoolchildren, students, professionals,
+job seekers, teachers, etc.). In addition, ISI also participated as a partner
+scientist of the event "Cybersecurity MEA conference" organized by the Tunisian branch of the
+German company SAMA Partners and AICTO (Arab Information Technology Organization)
+and communication) on September 19, 2023 (Annex C.6).
+ 
+C.5 International partnerships
+The ISI to further consolidate the policy of exchange with the international already in force through
+including internships abroad, joint degrees, invitations to visiting teachers and
+welcoming foreign students.
+- Over the past three years, engineering students have completed internships abroad in
+around thirty organizations, including companies and research laboratories (Appendix
+C.7).
+- Partnerships have been established with various higher education institutions abroad
+promoting exchanges of students and teachers within the framework of agreements (Université Paris
+13, INP-ENSEEIHT - Toulouse, ESTIA - Bidart).
+- On the other hand, each year, work-study scholarships are awarded by the Tunisian State for the benefit of
+engineering students candidates who are doing their PFE abroad. According to an order of merit, they
+benefit from plane tickets and/or a monthly scholarship of 1000 euros.
+
+ 
+ 
+27
+ 
+In this context, the ISI's international exchange policy has also been implemented through
+the invitation of teacher-researchers from European universities (France, Portugal, Bologna, etc.)
+in recent years to lead conferences and training sessions in their
+areas of expertise (see Table C-4).
+ 
+Table C-4: International Partnerships and Exchanges
+Number of Organizations Years Countries
+Internships at
+the stranger
+34 EDF (France), iBS (Greece), NOVOBIT
+(Germany), EKIUM (France), SOSYS
+(France, etc.
+2021-2023 France, Germany, Portugal,
+Greece, India, Malyasia, Canada,
+etc.
+Framework agreements  
+Joint degree
+3 Paris13, INP-ENSEEIHT, ESTIA 2010-2023 France
+Teachers
+guests
+3 LIP6 Paris, University of Aveiro, Portugal,
+University of Bologna
+2022-2023 France, Portugal, Bologna
+Students
+foreigners
+19 2022/2023
+2023/2024
+Mauritania, Benin, Yemen, Iraq,
+etc.
+Scholarships
+of alternations
+7 Unix Every Val'Essonne, Sorbonne Paris,
+University of Malta, Braunschweig, etc.
+2021/2022
+20022/2023
+France, Malta, Germany
+ 
+Furthermore, the ISI has been able to shine nationally and internationally, particularly through its performances
+exceptional achievements of its students who have won prizes in world competitions, namely:
+first place in the national TCPC (Tunisian collegiate programming contest) competition,
+then the qualification for ACPC 2022 (Africa and Arab Collegiate Programming Championship) of
+the “Ebsilong” team, and the third place in the world occupied by the ISI in May 2023 among more than 900
+universities from several countries around the world at the pentest platform level
+international “Hack the Box”. In addition, awards were given to the best projects of
+graduation by the German partner company SAMA partners ACADEMIC AWARDS
+CYBERSECURITY CONFERENCE MEA 2023” (Appendix C.8).
+SWOT Analysis
+Strengths Weaknesses
+- National reputation and influence and
+international.
+- Strong sense of belonging on the part
+students and alumni.
+- Effective strategy for innovation,
+entrepreneurship and the establishment of a
+partnership network.
+- Lack of R&D.
+- Low number of cooperation
+international (academic and
+industrial).
+Opportunities Threats
+- Strategic location to promote
+partnerships.
+- Strong demand from the IT market.
+ 
+- Expatriation of students.
+ 
+ 
+ 
+28
+ 
+D ENGINEER TRAINING
+D.1 Development of the training project
+The field of information and communication technologies (ICT) in Tunisia plays a role
+essential in the country's economic growth thanks to the rapid evolution of the professions
+digital. National and international surveys have been conducted to assess the world
+information technology (IT) professional. These studies carried out by organizations such as
+the International Finance Corporation (IFC) in partnership with the National ICT Federation (UTICA)
+and the Cooptalis firm show a continuous evolution of employment opportunities in the sector
+IT in Tunisian and French companies. Another study, carried out by France Stratégie
+and Dares, predicted a 26% increase in the developing engineering sector
+IT and new technologies by 2030, which corresponds to 115,000 new positions
+compared to 2019. Aware of technological developments and the needs of the sector
+digital, the ISI has been engaged for several years in an essential and delicate process,
+requiring a thorough understanding of national and international market requirements as well
+than the aspirations of students. On the other hand, the policy implemented by the State aims to
+promote the growth rate of the ICT sector and attract more potential investors. This
+policy translates into actions such as easy data outsourcing, tax exemption
+imported computer equipment, encouraging the creation of skilled jobs and
+creation of IT companies. This demonstrates the importance of this sector and represents one
+major assets of the ISI training project. Furthermore, Tunisia is increasingly attracting
+of European and foreign companies operating mainly in the field of IT
+and IT (Annex D.1). Regionally, the majority of these companies are located in the
+Greater Tunis (67%), which is also a major asset for ISI students.
+In this perspective, the ISI has engaged in a continuous process of development and design
+programs aimed at offering its future engineers agile training, capable of adapting
+quickly to technological developments while being aware of the inherent challenges and risks
+to technological progress. Referring to the studies mentioned above which have allowed
+to establish a ranking of the 20 most sought-after IT professions, the ISI offers training
+engineers focused on top-ranked professions such as DevOps Expert, Data Scientist,
+IoT engineer, as well as professions associated with the cloud and IT security of systems.
+In addition to their scientific skills acquired through current training, engineers
+ISI graduates have the capacity for innovation, ingenuity, critical thinking, and an aptitude
+to self-training to meet scientific, technological and socio-economic challenges. They are
+also equipped with a social conscience and a broad vision of their field of expertise.
+In order to ensure the smooth running of the training course as well as the monitoring and continuous evaluation
+engineers, ensuring that it meets market demands while providing education
+At a high level, it is essential to involve stakeholders, including teachers,
+students, industry and experts. This is reflected in the establishment of educational committees
+(equivalent to the improvement council or CP) within each department with the aim of
+promote dialogue between teachers of the same discipline, students and representatives
+from the professional world.  
+The educational committee (PC) is made up of:  
+- Director of the department concerned, who chairs it,
+- Teachers responsible for modules under the department’s responsibility,
+- Teachers working in the same discipline and participants in said modules,
+ 
+ 
+29
+ 
+- One to two engineering students representing the current course, invited according to
+the need for the agenda,
+- Two to three representatives from the professional community (experts and temporary workers).  
+The CP has been validated by the scientific and operational council since the 2022-2023 academic year
+(Appendix D.2). It meets at least once every six months. Its mission is to issue shares
+corrective measures to improve the quality of training taking into account feedback from surveys
+industrialists in order to update the training content as well as the learning methods
+adopted.  
+The CP also takes into consideration feedback from the Student Representative Council.
+(CRE). The latter brings together representatives of each group of students with management and allows
+to effectively report their complaints and suggestions. The representatives are elected by the
+students from their respective groups at the beginning of each academic year. This council is
+completed by official student delegates elected to represent them on the Scientific Council.
+D.2 Targeted skills
+ISI offers engineering training supported by a wide variety of scientific disciplines
+and technological developments arising from the needs of the national and international labor market and which represent
+IT training. ISI training is available in three engineering degrees:
+distinct specialties in digital professions, namely.
+- Software Development Engineering (IDL)  
+- Embedded Systems and Connected Objects Engineering (ISEOC)  
+- Engineering and Development of Infrastructures and Communications Services (IDISC).
+D.2.1 Training objectives and skills targeted
+To prepare engineering students for careers, the objectives of engineering training in  
+digital services offered in our establishment are:
+- Objective 1. Acquire an in-depth and advanced mastery of theoretical concepts and tools
+scientific and technical related to engineering sciences,  
+- Objective 2. Acquire advanced skills in solving and implementing
+complex problems related to each of the specialties of the targeted professions,
+- Objective 3. Acquire knowledge of ethical and social issues and self-development
+personnel and communication,
+- Objective 4. Have the managerial capacity to manage and undertake projects as well as the
+culture and industrial openness (Softskills).
+To achieve these objectives, ISI training is carried out using the professional skills approach.
+identified by several skills reference systems: the Jobs/Skills reference system developed by
+UTICA and the World Bank in 2017 and updated in 2020 and the IFC, REM/REC, OPEIIC benchmarks
+and RTMC, developed by the National Agency for Employment and Independent Work (ANETI). These
+skills selected include the generic skills recommended by the reference framework
+accreditation for all engineering training and a set of specific skills that
+list the skills expected of the engineer.
+In its study plan, the ISI targets skills that meet the expectations of engineering professions.
+In order to guarantee the maximum match between the profiles of graduate engineers and the requirements
+of the job market, the ISI identifies failures, gaps and weak points in order to define the
+updates and corrective actions. This improvement approach based on market need
+ 
+ 
+30
+ 
+mobilized local experts, industrial sector players, laboratory researchers
+scientists, to encourage the ISI's responsiveness to technological developments in the market
+employment. This process is to be repeated periodically each year for self-employment.
+evaluation of the ISI study plan [Details in Chapter G].  
+- The professions targeted by the three sectors  
+The professions targeted by the IDL course are professions for which demand is very high.
+increase according to a ranking established from an online survey Katalyse/erdyn. The professions
+related to new technologies such as DevOps Expert, Data Scientist have marked the last
+decade. The current professions targeted by the ISEOC course are the Engineer and Architect professions
+in embedded and IoT. According to the Forrester Institute predicts that IoT is moving from experimental scale to
+commercial scale and that specialized IoT platforms will develop to facilitate access
+to connected solutions. Indeed, the number of connected object projects has increased by 500% in
+three years in the world, and French companies have invested more than 30 billion euros in
+2017. The professions targeted by the IDISC course are professions in constant evolution according to the firm
+Robert Half. Companies' strategic priorities are focused on cloud-related projects,
+computer security of systems. Indeed, between 2016 and 2019, the global cloud market
+public reached 233 billion dollars in turnover (International Data Corporation). With
+17% growth, the cloud continues its expansion but to use this real material
+digital first, we need candidates who are increasingly expert in these technologies. According to the same
+According to a study by Robert Half, cybersecurity expert is considered the position of the future in
+in full swing, a percentage of 5% thus benefits from the post-Covid context and is confirmed as
+the profile whose demand will increase until at least 2025.  
+Indeed, the three disciplines of engineering aim to develop skills
+professions from several professional sectors meeting an identified and significant need relating to the
+design of software systems, embedded systems, telecommunications networks,
+new technologies, intelligent and communicating systems, etc. These sectors of the future,
+carriers of technological innovations, offer our graduates excellent integration opportunities
+professional and rich and varied career prospects meeting the CTI criteria in
+mobilizing a skills-based approach.
+A summary of the professions targeted by the three training courses offered is illustrated in Table D-1.
+ 
+Table D-1: Professions targeted by the training
+Sector Targeted professions according to the profession/skills standards
+Development Engineering of the
+Software, IDL
+Designer, Developer, DEVOPS Expert, UI/UX Designer,
+Data Scientist, AI Engineer
+Embedded Systems Engineering and
+Connected Objects, ISEOC
+ 
+Embedded Systems Engineer, Architect, Engineer
+IoT, Industrial Programmer, Analyst-programmer in
+Industrial computing
+Engineering and Development of
+Infrastructure and Services
+Communications, IDISC
+ICT Services Manager, IT Security Expert,
+System Administrator, Virtualization Expert, Expert
+Networks
+ 
+ 
+ 
+31
+ 
+D.2.2 Consistency of the training curriculum and specific skills
+For each course offered at the ISI, the specific skills are defined based on the
+professional skills defined in the reference documents reflecting the professions practiced on the market
+national and international employment (REM/REC for the three sectors; OPEIIC for the ISEOC sector). The
+Table D-2 illustrates the specific skills of the three sectors (Appendix D.3).  
+ 
+Table D-2: Specific skills of the three sectors.
+Specific Skills
+CS1 Mastering scientific tools of engineering sciences.
+CS2
+Design, develop and implement computer software
+Model and design applications in embedded systems and connected objects  
+Pilot innovative projects intended for communicating systems following the evolution of
+emerging technologies
+CS3
+Integrate and implement software architectures
+Master and develop computer applications related to embedded systems and
+communicating systems (IoT)
+Ensure the technical operation of the IT system according to quality standards and
+to the security of the information system.
+CS4
+Design and develop innovative IT solutions
+Master the network concepts and communication protocols necessary for the creation
+of a smart connected object
+Design, develop, implement ICT solutions and IS security policies
+CS5
+Plan and manage IT projects
+Design and implement automated applications in a production line
+industrial
+Test and validate the operation of the IS in terms of connectivity, infrastructure capacity and
+of security.
+CS6
+Mastering Programming Environments
+Instrument, test and validate embedded devices
+Mastering the scientific tools for implementing new virtual storage solutions
+data and validate the technical aspects of storage.
+CS7
+Design and develop intelligent systems
+Mastering hardware and software programming and co-design of heterogeneous architectures
+on board
+Master the standards and best practices with a view to auditing IS and proposing improvements.
+CS8
+Testing and validating IT systems
+Mastering and designing intelligent and innovative systems
+ 
+ 
+32
+ 
+CS9 Mastering managerial and industrial culture skills (Softskills)
+CS10 Master communication techniques with a varied audience and foreign languages.
+CS11 Have the capacity for personal and professional self-development  
+ 
+IDL sector
+ISEOC sector
+IDISC sector
+Specific skills common to the three sectors
+D.3 Engineering diploma in initial training
+Since the creation of the engineering cycle at ISI, the strategic orientation, as mentioned
+previously in chapter A, is to offer high-level engineering training in
+the various activities related to the field of digital professions. Thus, the duration of training
+engineering program is spread over three academic years divided into six semesters in total. The first five
+semesters of study mainly concern the academic part of teaching. Internships
+(Semesters S2 and S4) as well as the final study project (Semester S6) take place in the environment
+industrial constitute the professional part of the apprenticeship.  
+The lessons are organized into teaching units (UE) grouping together elements
+constitutive (ECUE) which are provided in the form of courses (C), tutorials (TD) and assignments
+practical (TP) and personal work (TPE). These modules are delivered over a period of 1h30. The
+form of ECUE teachings, their hourly volumes, their coefficients, the credits of the
+The tests relating thereto, as well as the methods of assessment, are defined in the study plan of
+each sector which are communicated to interested parties on the ISI website.
+- The ECUEs respond to the generic and specific skills targeted by the training, the
+time volumes in person and independently (personal work) and the different
+teaching methods (C, TD, TP and TPE) are illustrated in the study plans (Appendix D.3).
+- The common core is spread over three common semesters (S1 -S3) guaranteeing acquired knowledge
+skills common to all engineering students in the sector, allowing them to integrate
+all engineering professions such as new technologies, multimedia, networks
+and security as well as the management of services and projects. The other three semesters (S4 -S6)
+provide training in one of the following specialties: IDL, ISEOC or IDISC.
+- The number of engineering students per class does not exceed 35 students for courses and 17
+students for practical work carried out in teaching laboratories.  
+- The teaching semesters have an effective duration of 15 weeks, including one week
+assessment (Annex D.4).
+D.3.1 Architecture and training program
+The details of the training program variations in relation to the targeted skills are:
+described in the ECUE/Skills matrices, where each ECUE responds to a set of
+skills. Description of specific skills relating to the three sectors (Annex D.5)
+as well as the distribution of subjects in Common Core (TC) and in specialty (including Works
+Staff and Assimilation Time) complete the description of the training program.
+ 
+ 
+ 
+ 
+ 
+33
+ 
+ 
+Distribution of time/skill volume and credits/skill for the three sectors  
+  
+   Figure D-1: % hourly volume/skill -IDL- Figure D-2: % credits/skill -IDL-
+Figure D-1 illustrates that the three skills
+most significant specifics of the IDL course
+are CS2, CS6 and CS7.
+Figure D-2 shows the percentage of credits by
+specific skills and clearly shows that
+The credits allocated to CS2, CS6 and CS7 are the most
+preponderant.
+ 
+  
+Figure D-3: % hourly volume/skill -ISEOC- Figure D-4: % credits/skill -ISEOC-
+Figure D-3 illustrates the three specific skills
+The most significant of the ISEOC course are CS2, CS3 and
+CS7 which justify the tint of this illustrated formation
+by embedded and/or communicating systems.
+Figure D-4 illustrates the contribution rate of
+credits by specific skills. It turns out
+that the corresponding credit rates
+respectively to CS1, CS2, CS3 and CS7 are the
+more preponderant.
+
+ 
+ 
+34
+ 
+  
+Figure D-5: % hourly volume/skill -IDISC- Figure D-6: % credits/skill -IDISC
+Figure D-5 represents the three skills
+CS3, CS4 and CS5 specific are the three
+skills that justify the tint of this
+training.
+Figure D-6 shows the percentage of credits by
+specific skills, clearly shows that the
+credits allocated to CS3, CS4 and CS5 are the most
+preponderant.
+- Distribution of the total load without and with PFE
+ 
+  
+Figure D-7: Load distribution with PFE -IDL- Figure D-8: Load distribution without PFE -IDL-     
+ 
+ 
+Figure D-7 shows the load distribution
+total with PFE in terms of C, TD, TP and T PE for
+the IDL sector.
+Figure D-8 shows the load distribution
+total without PFE in terms of C, TD, TP and TPE for the
+IDL sector.
+
+ 
+ 
+35
+ 
+  
+Figure D-9: Load distribution with PFE -ISEOC- Figure D-10: Load distribution without PFE -ISEOC-
+Figure D-9 shows the load distribution
+total with PFE in terms of C, TD, TP and TPE for the
+ISEOC sector.
+Figure D-10 shows the load distribution
+total without PFE in terms of C, TD, TP and TPE for the
+ISEOC sector.
+  
+Figure D-11: Load distribution with PFE -IDISC- Figure D-12: Load distribution without PFE -IDISC-
+Figure D-11 summarizes the load distribution
+total with PFE in terms of C, TD, TP and TPE for the
+IDISC sector.
+Figure D-12 shows the load distribution
+total without PFE in terms of C, TD, TP and TPE for the
+IDISC sector.
+These illustrations highlight the importance of the PFE which particularly promotes the rate of
+personal works thus emphasizing the importance of innovation, self-development and
+entrepreneurship in engineering training.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+36
+ 
+Distribution of hourly workload according to CS families
+ 
+ 
+Figure D-13: Distribution of the overall load by CS families for the three sectors
+In Figure D-13, which illustrates the distribution of hourly volume by skill family for the
+three sectors, it is clear that the first family of skills "scientific and technical tools"
+allows the engineering student to master the scientific tools necessary to be able to solve and
+deal with the problems encountered.  
+We can observe that the second family of skills “technological skills and monitoring
+"scientific" specific to each sector, plays a predominant role in the three sectors. This involves
+to acquire advanced skills in solving and implementing complex problems
+linked to each of the specialties of the targeted professions. The third family of skills
+"communication, management, personal development and innovation" allows future
+engineers to master managerial skills, business culture and languages
+foreign. The engineering student, beyond these scientific skills, will have the power
+to undertake, innovate and self-develop on a personal and relational level, through
+personal work, mini-projects, introductory and advanced training courses and PFE.
+These skills cover teamwork and communication in a professional setting.
+and public.  
+Assessment of acquired skills
+In order to ensure the skills acquired by our engineering students at ISI at the end of their studies
+training courses, the assessment of the latter is carried out according to the averages obtained in each
+ECUE feeding the relevant skill according to the following methodology/formula:  
+ 
+ηj = ∑i(ci*xi,CSJ)  
+∑here
+With, Xi, CSJ: the % percentage having more than the average 10/20
+in ECUE i of competence j;
+Ci: level of learning outcomes of ECUE i (Ci ranging from 1 to 3)
+Figure D-14: Skills Assessment
+ 
+
+ 
+ 
+37
+ 
+For the year 2022-2023, the assessment of acquired professional skills in the IDL sector is illustrated
+in Figure D-14. We note more than 50% of skills acquired from the main session. This rate
+has been improved taking into account the catch-up session. The results of the observations of the
+specific skills for the three sectors during the last three promotions for both
+main and catch-up sessions are provided in (Appendix D.6).  
+Following the observation of the low rates of acquisition of CS1 skills during the year
+2019/2020 university, the input selection criteria have been revised to improve the
+prerequisites (change of selection formulas [Details in Chapter E] and student engineers
+have since been made aware of the importance of CS1 and the basic scientific modules associated with these
+skills. And for several years, the increase in the rate of acquisition of the CS1 skill is
+justified by the fact that ISI inputs are among the best graduate students with bachelor's degrees who
+come from the best scores among high school graduates nationwide.
+D.3.1.1 Major criteria for in-company training
+Engineering students are encouraged to put into practice their theoretical training and
+techniques by carrying out three types of compulsory internships under student status, during their course
+training at the ISI (Appendix D.7). Thus, all engineering students are required to complete three internships
+mandatory and as follows:
+- An introductory course, "worker quality", lasting between 4 and 8 weeks, at the end of the
+first year in which the engineering student becomes familiar with the environment, the operation
+and the organizational methods of the company. This aims to integrate the student engineer
+in the socio-economic environment and the industrial environment.  
+- A refresher course, “technician quality”, carried out in a public company or
+private, national or international, or in a research structure, for a duration of between
+4 and 8 weeks, at the end of the second year during which the student is required to use
+specific skills relating to the performance of certain tasks according to specifications
+required by the supervisor of the industrial environment in which the internship is carried out.
+ 
+These two internships must be concluded with an internship report and the preparation of a journal.
+internship including daily tasks performed. At the end of each internship, the engineering student must
+complete an internship certificate issued by the host organization.  
+ 
+- A Final Year Project (PFE) is carried out either in a public or private company, or in a
+research structure belonging to the ISI or in other research structures in Tunisia or in
+abroad lasting between 16 and 24 weeks, where the future engineer can put his acquired skills to good use
+of skills to solve or improve a solution to an industrial problem in the field
+of the digital profession. This PFE is jointly supervised by a teacher
+permanent staff of the Institute and an industrial supervisor in the host organization. It is validated by a
+defense before a jury appointed by the director of the Institute after advice from the director of the
+department. Validation of the PFE is a necessary condition for obtaining the diploma
+candidate's national engineer certificate (Annex D.8).
+ 
+Table D-3 shows the distribution of the number of PFEs over the last three years.
+university courses for each sector. It appears that the majority of PFEs are carried out in the fabric
+Tunisian industrialist.
+ 
+ 
+ 
+38
+ 
+ 
+Table D-3: Distribution of the number of PFEs over the last three years for each sector
+Year
+university
+Sector Number of
+PFE
+In Tunisia Abroad
+Company Laboratory of
+research
+Laboratory Company
+of research
+2020-2021 IDL 62 62 0 0 0
+ISEOC 27 27 0 0 0
+IDISC 23 22 0 0 1
+2021-2022 IDL 51 47 1 2 1
+ISEOC 13 11 0 2 0
+IDISC 24 21 0 1 2
+2022-2023 IDL 55 41 1 10 3
+ISEOC 17 17 0 0 0
+IDISC 26 19 0 6 1
+ 
+D.3.1.2 Major criteria for training through research
+In accordance with the strategic orientations defined in Chapter A, the ISI adopts an approach of
+research-based training aimed at stimulating the spirit of analysis and creativity in its students
+engineers. The ISI teacher-researchers, as committed academics, combine their
+research, teaching, technology transfer and project creation activities and
+teams to enrich their expertise and skills in their respective fields.
+The introduction of new modules based on project-based teaching methods and in
+teams comes to strengthen the training of engineers at ISI. In addition, since 2021, ISI has offered its
+third-year engineering students wishing to deepen their innovation capabilities and
+analysis the possibility of integrating the research master in the second year. This initiative
+demonstrates ISI's commitment to training engineers who are aware of the importance of research
+scientific. Furthermore, the research structures of the ISI, or those in other establishments
+national or international universities, welcome engineering students to carry out their PFEs
+as part of their research activities. This contributes significantly to the granting of our students
+engineers with additional specific skills in research and technological innovation
+and this, by working alongside doctoral students and experienced researchers. Feedback on the results
+PFEs contribute significantly to improving the learning outcomes of our engineering students.
+These activities also influence through the research results carried out by the body
+teacher on the quality of teaching by integrating them into the training curriculum provided
+at the Institute for our engineering students.
+D.3.1.3 Major criteria for training in social and environmental responsibility
+In accordance with the strategic vision set out in Chapter A, the design of the programs of
+Training at ISI promotes innovation by taking into account the needs of society in terms of
+values ​​such as sustainability, ethics and social responsibility. ISI is committed to training
+engineers with professional conscience, with regular discussions on ethics
+professional and the social implications of their decisions. In addition, the training of engineers in
+ISI includes a Personal and Professional Project (PPP) which can provide a framework for designing
+initiatives addressing social or environmental issues while integrating
+sustainable practices. In addition, the training of engineers is enriched by activities within
+ 
+ 
+39
+ 
+clubs, some of which initiatives, such as Enactus ISI [Details in Chapters C and F], act
+specifically on social responsibility and sustainable development at the regional level.
+ 
+D.3.1.4 Major criteria for training in innovation and entrepreneurship
+ISI adopts a clear policy towards innovation and entrepreneurial approach through
+the training and personal self-development of its engineering students. Thus, the ISI:
+- Develops a culture and spirit of openness to innovation and entrepreneurship through
+of courses, workshops and specific mini-projects. Business creation training
+includes awareness, innovation and knowledge transfer modules. These
+modules allow ISI engineering students to acquire skills for the
+launching, defining, and realizing a project idea.
+- Promotes the creation of innovative businesses via the new “Student Status” label -
+Entrepreneur” created by UTM.
+- Organizes, in collaboration with its partners, actions, awareness days and
+programs to encourage its future engineers to create businesses. These
+programs are a means of meeting with entrepreneurs, “Success Stories”
+and ISI alumni to share their experiences [Details in Chapter C].
+- Provides its engineering students with long-term support systems
+project leaders, in particular material, financial and personal resources via its Center for
+Career and Skills Certification (4C) and the PAQ-DGSE-RISE project. This allows
+consolidate their learning in entrepreneurship and innovation.
+D.3.1.5 Major criteria for training in the international and multicultural context
+As part of preparation for the international and multicultural context, the teaching of
+languages ​​and soft skills is mandatory for engineering students. In addition to the aspects
+communication and linguistic, these lessons aim to prepare the student for a
+other cultural environment and international mobility opportunities realized the most
+frequently on internship. Soft skills are also the subject of socio-cultural activities encouraged
+by the establishment, whether in clubs, certification centers, national competitions and
+international. As part of cultural openness, the ISI welcomes some foreign students
+[Details in Chapter F].
+D.3.2 Consistency between targeted skills and training program
+The skills benchmarks, differentiated for the three sectors, come from a reflection
+involving all the teachers from the four departments of the ISI. This reflection is the result
+from an analysis of the evolution of training based on a skills-based approach which links
+the market study for the professions targeted by our training, the professions targeted by the skills
+specific skills derived from the generic CTI skills of the Engineer, the specific skills
+to the modules taught and justifying their credits, their time charges in person (face to face)
+and independently (personal work), etc. The link between the targeted learning outcomes and the
+skills are explained in the syllabuses. The annexes summarize the respective distributions
+learning outcomes across the different teaching units (Appendix D.9).
+The drafting of the reference documents also made it possible to better explain the specific features of the training.
+with the various stakeholders (students, teachers, alumni, businesses, etc.) to make
+evolve learning and better guide learners to adequately prepare them for the market
+employment. The skills-based approach also leads to the adoption of new methods
+ 
+ 
+40
+ 
+educational such as self-assessment of skills acquired by each learner
+(evaluations of internships, projects, modules, etc.).  
+Departments regularly launch partial curriculum reform projects
+with the aim of improving the rate of integration of graduates and improving the general visibility of the
+training to have a better quality of students admitted to this training. These experiences of
+reformulations are based on the coherence between the learning objectives (Learning Outcomes)
+and the training outcomes, which reflects the ISI's responsiveness to technological developments and
+to the requirements of the socio-economic world through surveys of industrialists.
+training aligns with the principle of active pedagogy and is inspired by the real and meaningful context for
+the student. It is based on activities of application, analysis, evaluation, synthesis and
+self-assessment and alternates between theoretical presentations, presented by the teacher and activities
+practices, designed with a perspective promoting autonomy which empowers the student and makes
+of him a full actor in the learning process. Practical activities can be
+carried out by the student in the form of individual and group work with an experiential perspective
+(problem-based learning, project-based learning, etc.) in order to develop one's capacity
+to innovate, collaborate and promote solid and lasting learning. Learning from
+The student is not limited to the academic framework, he also extends into the field, benefiting from a
+continuous coaching and feedback throughout the process to inform him of his progress
+while promoting self-assessment. The Moodle platform was chosen as a working tool
+collaborative to provide support for teaching and learning.
+D.3.2.1 Caesura
+The gap in studies is not officially permitted by national legislation. In the same
+meaning and for cases specified by national texts, the student engineer can however benefit
+of a withdrawal of registration (Appendix D.10). The same texts stipulate that an engineering student has the right to
+only one repeat  
+D.3.3 Teaching methods
+To meet the needs of the job market, teaching at ISI uses new
+innovative educational approaches. Indeed, educational activities alternate between
+theoretical teachings (Courses), supervised teachings (TD) where students benefit from a
+face-to-face supervision to practice, practical lessons where students handle
+tools to deepen their learning (TP), personal work which promotes
+self-learning and federated and final-year projects carried out individually or in teams
+and benefiting from personalized supervision. Students benefit from company visits in a
+to involve industrialists. All these educational activities allow the ISI student engineer
+to acquire fundamental knowledge and practical know-how, and to develop the spirit of
+creativity and autonomy. In addition to these lessons imposed by the study plans, students
+and ISI teachers benefit from the preparation for international certifications offered by
+ISI certification centers and projects (Centers: 4C, CISCO, IBM, Huawei, RISE Project, etc.)
+(Appendix D.11) [Details in Chapter C].
+To vary learning methods and enrich teaching methods, some
+lessons can be given remotely, up to 20% of the hourly load
+authorized according to the texts, thus adopting a hybrid or mixed pedagogy, face-to-face and distance,
+called Blended. This pedagogy uses a virtual classroom taking advantage of the Moodle platform to
+better scripting.
+ 
+ 
+ 
+41
+ 
+Always to encourage creativity, innovation and autonomy, the ISI provides
+engineering students the schedule of rooms and open access spaces available, to facilitate the
+completion of their projects and personal work. The timetables have been arranged in such a way
+to free up Wednesday afternoons for club activities.  
+The study plan for each training course summarizes the balance between the different methods
+pedagogical. All teaching methods are indicated in the syllabus of each
+training. The study plan as well as the syllabus of all modules are available on the
+ISI platform and displayed to students.  
+D.3.3.1 Summative evaluation of UE and UCUE
+Courses are assessed by written exams, lasting 1.5 hours, continuous assessment and homework.
+supervised (DS) lasting 1h30. The DS covers the first part of the program
+learning (between 6 and 7 weeks) and the exam covers the entire program organized in
+a main session whose date and duration of the tests are set by management at the start of
+the academic year after validation by the scientific council.  
+- A schedule of examinations is established one week before the start of the
+tests. A catch-up session is planned for at least one (1) week and four weeks
+(4) at the latest after the proclamation of the main session.  
+Any absence from one of the examination tests will result in a mark of zero (0).
+continuous includes, depending on the form of teaching, supervised personal work, tests
+written and/or oral and, where appropriate, practical tests.
+The practical work is assessed each session according to an evaluation grid. This grid includes the grade of
+each practical work session (30% of the overall mark) according to specific criteria, the mark of the report
+(20% of the overall grade) and that of the practical work exam (50% of the overall grade).  
+Internships and PFEs are assessed following a defense at the end of the semester in front of a
+jury composed of academic staff and the industrial tutor.  
+For each module, an average is calculated resulting from the marks obtained in the different
+knowledge assessment tests. The weighting coefficients assigned to these tests
+are set according to the form of teaching specific to each module as follows:  
+- Modules organized in the form of courses and tutorials:  
+o 1/3 continuous monitoring  
+o 2/3 final exam  
+- Modules organized in the form of courses, tutorials and practical work:  
+o 2/3 theoretical grade (1/3 continuous assessment and 2/3 final exam)
+o 1/3 mark for practical work  
+- Modules organized exclusively in the form of practical work or tutorials:  
+o 100% continuous monitoring.  
+- Modules organized exclusively in the form of practical work or tutorials
+may be subject to credit or catch-up.  
+These weightings relating to the calculation of averages are validated by the scientific council and
+communicated at the beginning of each year to learners and interested parties on the website
+the Institute.
+D.3.3.2 Progression and graduation
+The engineering student is declared admitted to the main session by the examination deliberation council
+when the engineering student has satisfied the following conditions:  
+ 
+ 
+42
+ 
+1. Obtaining a general average equal to or greater than 10/20, after the tests
+main or catch-up. The general average is obtained from the averages of the
+teaching units assigned their respective coefficients
+2. Obtaining an average equal to or greater than 08/20 in each of the units
+of teachings, after the main or catch-up exams. Calculation of the average
+of each teaching unit takes into account the weighting coefficients set by the
+study plan.
+To access the final internship of the end-of-studies project (S6), you must have validated semester S5.  
+D.3.3.3 Catch-up
+The engineering student who has not obtained the general annual average benefits from a session of
+catch-up for the teaching units where he did not obtain the average. This catch-up cannot
+only concern modules where the engineering student did not get the average.  
+The resit grade is only considered if it improves the exam grade, and in this case, it
+replaces the final exam grade in calculating the average for the module concerned.  
+D.3.3.4 Credits
+The engineering student who, after the catch-up session, obtained a general average equal to or
+greater than 10/20 and an average greater than 08/20 in at least three quarters of the units
+of teaching, can be admitted to the next year with credit. From the academic year
+2023-2024, the new class of engineering students, in their first year this year, will not
+benefit more from admission with credits.  
+In these teaching units, credit is awarded for the module(s) whose average is
+less than 08/20 and this within the limit of four (4) modules with taking into account modules
+previous not validated.  
+A credit object module is validated when the new average of the teaching unit to which
+it belongs is equal to or greater than 08/20.  
+The credit modules are determined, for each credited engineering student, by the director of the Institute
+on the proposal of the deliberation jury.
+D.3.4 Teaching Teams
+In order to ensure high-quality, nationally recognized engineering training and
+international, the ISI mobilizes varied human and educational resources of essential quality
+to develop the skills of the framework. This implies a commitment from teachers  
+permanent as well as interventions by expert professionals as part-time teachers,
+thus ensuring a fit with the needs of the professional world.
+The supervision rate at the ISI is 1/12, which is considered satisfactory, knowing that the supervision rate
+national is estimated at around 1/15.
+D.3.4.1 Distribution by teacher grade
+The majority of training is provided by the body of assistant professors (45%). The number of
+teachers who provide training represent a percentage of 8% taking into account the
+doctoral training within the Telecommunications department.
+The intervention of experts in training, particularly in the 5th semester, is 17%,
+which is a significant rate for such an engineering training. The percentage of permanent staff is
+83% (average over the 5 semesters) of all stakeholders (see Figure D-145).
+ 
+ 
+43
+ 
+ 
+Figure D-155: Distribution of teachers by grade
+D.3.4.2 Evolution of the hourly volume for the years 2018-2023  
+ 
+Distribution of annual hourly load
+Regarding the distribution of the annual hourly load, the TPs and the TPEs cover a part
+significant hourly volume over the five semesters and represent a volume of around 100%
+training in the last semester S6. Given the importance of practical work, we aim to
+reduce the time load of face-to-face training courses to make room for work
+practices and specific work in self-learning.  
+Indeed, it is clearly demonstrated that the rate of courses, TD and TP is clearly reduced during
+the third year of this course leaving room for personal work which has increased by a
+significantly during the third year. Which explains the importance of such work with regard to
+improving the skills of the engineering student from the points of view of innovation, autonomy,
+entrepreneurship and self-development. Figures that illustrate the distribution of courses, tutorials, practical work and
+TPE during the three years of engineering training for the three IDL, ISEOC and IDISC streams are
+provided in Appendix D.12.
+ 
+Hourly volume in person vs. non-person  
+The total load is on average 1919H face to face. The hourly volume of training
+face-to-face training is on average 21.3 hours per week. During academic training and during
+each semester, the component (C+TD) is the most dominant in the training, followed by practical work and
+then the TPEs. Thus the practical hourly volume in non-face-to-face (TPE) is on average 4.6 hours
+
+ 
+ 
+44
+ 
+per week. The percentage of TPE in the first year is low and increases in the years
+following.  
+Figures which illustrate in percentage the distribution of the hourly load for each year of
+face-to-face and non-face-to-face teaching respectively are provided in Appendix D.13.
+ 
+ 
+D.3.4.3 Evolution of the number of engineering students for the academic years 2018-2023
+ 
+ 
+Figure D-166: Evolution of the number of students over the last three years
+Figure D-16 shows the evolution of the number of engineering students from 2019 to 2024, we note a
+fluctuation in numbers over the years with groups between 24 and 31 for the first years
+and groups of between 21 and 32 for the third years depending on the training.   
+ 
+ 
+ 
+SWOT Analysis
+Strengths Weaknesses
+- Study plan based on an approach by
+SKILLS.
+- Updated study plan meeting the
+technological developments and the needs of
+walk.
+- Preparation for certifications in the
+teaching programs.
+- Qualified and certified teachers in relation with
+the different IT professions (experts,
+etc.).
+- Diversified teaching methods.
+- Support for students throughout
+their journey to integration into the environment
+professional (supervision, monitoring and
+defenses).
+- Lack of funds necessary for
+improve the infrastructure (room, equipment
+computer science, etc.).  
+- Administrative slowness for management and
+financial autonomy.
+- Low involvement of teachers in
+extra-pedagogical activities (assembly of
+project, SMOE management, etc.).
+- Lack of teaching staff and
+administrative.
+- Lack of dynamic adaptation to
+rapidly expanding technologies.
+
+ 
+ 
+45
+ 
+Opportunities Threats
+− High-level students applying
+admission to the ISI.
+− Target market is growing
+(technologies in full expansion and very
+dynamic).
+− Competition with private schools.
+− Expatriation of ISI skills
+abroad (Emigration of teachers).
+ 
+E STUDENT RECRUITMENT
+E.1 Objectives and admission pathways
+In line with the strategic direction of the ISI, a student recruitment strategy is
+developed to effectively accomplish its training mission. This approach takes into account
+taking into consideration the reception capacities of the institute and aims to guarantee the quality of the training of its
+graduates. The recruitment criteria, specific to each admissions stream, are adjusted according to
+depending on the objectives of training and professional integration, with emphasis on
+required skills.
+E.1.1 Recruitment strategies
+The procedures for national entrance exams for engineering training courses as well as the
+specific competitions are governed in accordance with decree 94-62 of January 10, 1994 (Annex E.1). They
+are organized by the Ministry of Higher Education and Scientific Research (MESRS)
+in a rigorous and transparent manner according to the laws, decrees and orders which are published in
+the Official Journal of the Tunisian Republic (JORT), on the website of the ministry and on the website
+www.cningenieur.rnu.tn.
+National competitions are managed by the General Directorate of Technological Studies (DGET)
+under the MESRS. A steering committee ensures the running of the three phases of the competitions
+namely: registration, recruitment and proclamation of results. The DGET sets through
+orders (Annex E.2):
+-Schools concerned by the specific national competition.
+-The places available for each training course and sector of each school.
+-Deadlines for submitting application files for students.
+-The terms of the organization.
+Revisions of Decree 94-62 of January 10, 1994 according to decrees, circulars and orders which
+are published, have enabled the accreditation of higher institutes of applied sciences and technology,
+including the ISI, to award the engineering diploma. The recruitment of engineers at the ISI is done
+exclusively through a specific national competition (CS) within the limits of the reception capacity
+of the institute. The admission requirements, dates, procedures and number of places are set
+by the Ministry (Appendix E.3). This competition is based on files and is intended for deserving students who
+have brilliantly completed the first cycle (Bachelor's degree) for admission to the first year of engineering,
+and those who have completed the first year of the M1 master's degree for admission to the second year
+engineer.
+ 
+ 
+ 
+ 
+ 
+46
+ 
+ 
+- Conditions and terms of admission  
+Students who are eligible for admission to ISI must meet the following conditions:
+Admission to the 1st year: Meritorious students who have obtained a national bachelor's degree from
+LMD system in science and technology specializations and not having repeated their studies
+academics and which are presented by their home institution.  
+Two categories of students are to be considered: Candidates who have obtained their diplomas from
+ISI licenses and students who have obtained their licenses from other institutes in the
+mentions of science and technology.
+Admission to 2nd year: Deserving students who have successfully completed their first year
+of the LMD system master in science and technology specializations and not having repeated a year
+in their university studies.
+A press release is published by the ministry each year to set the conditions, deadlines,
+terms and conditions and the number of places for each category. Candidates must submit their
+application file through the website www.cningenieurs.rnu.tn respecting the deadlines set
+by the ministry.  
+E.1.2 Admission channels and reception capacity
+The ISI's reception capacity is set by the scientific council and published in a press release
+Ministry. The ISI reserves, annually, one hundred and twenty-five (125) places for non-university students
+repeaters in the first year and five (5) students in the second year. However, it is the MERS,
+as the competent authority, which sets the number of places available for students admitted to
+ISI, as well as in all other engineering schools.
+First year students are divided into two IDL groups of sixty (60) students, one
+IDISC group of thirty (30) students and an ISEOC group of thirty (30) students. The ISI reserves 40%
+of its capacity in the different sectors to its students who have obtained one of its three licenses:
+CS, SE and IRS. The remaining places (60% of capacity) are intended mainly for students who
+have obtained degrees in exact sciences and technology in the following courses (or equivalent)
+: Computer Science, Computer Systems Engineering and Embedded Systems (including
+including ISI students).  
+For the second years, the five places are reserved for students who have successfully completed the
+first year master. They are distributed as follows: two (02) places in the second year IDL, one
+(1) place in the second year ISEOC and one (01) place in the second year IDISC.  
+The ISI, during the four academic years (2020, 2021, 2022 and 2023), integrated an average of one hundred
+nine (109) engineering students distributed as illustrated in Table E-1. It also demonstrates that
+the gap between forecasts (announced places offered) and the number of integrations is limited.
+The number of files submitted to the ISI is significant (estimated at more than 1200 files), however the
+commission processes only 40% (having the highest scores). Table E-1 illustrates
+also the percentage of files admitted which represents on average 18% of the files processed
+and on average 9% of the files submitted. The number of engineering students is constantly
+increase and the gap between reserved places and accepted applications decreases every year
+to become zero this year.
+ 
+ 
+ 
+ 
+ 
+ 
+47
+ 
+ 
+Table E-1: evolution of the number and percentage of students admitted to the ISI.
+Total 2020 2021 2022 2023
+Number of files processed 503,593,582,697
+Number of students admitted to ISI 96 106 112 121
+Percentage of accepted files 19% 18% 19% 17%
+Difference from planned places -24 places -14 places -8 places 0 places
+ 
+ISI stands out from other engineering schools with its three training courses: ISEOC, IDISC and
+IDL. The latter represents the most attractive specialty of the institute according to the number of students
+integrated per year and according to the percentages of applications for admission to the IDL specialty. Table E-
+2 indicates the percentages of those admitted to the IDL specialty compared to the total number of
+admitted exceeds 55% each year.
+ 
+Table E-2: Evolution of the percentage of students requesting the IDL specialty.
+Total 2020 2021 2022 2023
+Percentages of applications for admission to the
+IDL specialty
+60% 50% 53% 58%
+Percentages of admissions in the IDL specialty by
+report to the total number of admissions
+56% 59.5% 50% 55%
+E.1.3 Score Calculation
+A steering committee within the DGET studies the candidates' files in order to verify the
+admission requirements and to calculate scores. Admitted candidates are those who are the best
+classified in the two categories (1-A and 1-B) according to an overall score calculated on the basis of 100 points.
+It corresponds to the linear combination of two scores: score A and score E (Appendix E.4).
+The A score takes into account the criteria common to all engineering training establishments
+concerned by the specific competitions and it is calculated in the manner described in this press release
+published on the ministry's website. Candidates are admitted according to this score A calculated in a way
+common for all establishments concerned by the competition.
+The DGET then communicates to the ISI the files of the candidates pre-selected by the ministry according to
+the first scale. A second scale is established for each branch of the institute which allows
+classify candidates and retain them according to their order of merit, up to the number of places available, in
+first year of engineering for graduate candidates and second year for M1s.
+The E score is calculated according to a specific formula for each training establishment
+engineers. It will be published on the site csingenieur.inscription.tn before the deadline for submitting applications.
+application files.  
+The ISI offers score calculation formulas for each of its three streams that are adapted to
+different courses accepted. These scores are proposed by the department heads and validated by the
+scientific council. The proposed formulas are adapted to the admissions streams and take into account
+ 
+ 
+48
+ 
+takes into account basic science subjects such as mathematics and subjects
+fundamentals of the specialty in question. The formulas can be adapted from one year to another
+other to ensure the levels of recruits. The institute checks the level of previous training
+candidates, particularly in the basic sciences that concern the diploma. It ensures that the
+previous training and the abilities of the recruited students are sufficient to achieve the objectives
+of training and to enable the award of the diploma in order to guarantee the success of all
+students. (Form 2020 Appendix E.5 and Formula 2023 Appendix E.6).
+A commission is appointed by the director of the ISI. This commission is composed of a president,
+who is the director of the ISI himself, and four members, including at least one teacher from
+each department (Appendix E.7). Its main mission is to verify the conditions of admission
+(accepted courses, non-repeating candidate, etc.) and to calculate the E score for each candidate.
+A list ranked according to an overall score is then sent to the DGET which sets according to capacity
+of the institute and the candidates' choices the final results. These results will be communicated to the
+candidates, through the ministry's website, after validation by the national commission bringing together
+the various deans of the establishments concerned by the specific competitions.  
+Students who participated in the national preparatory school competition but refused the
+specialties that have been assigned to them have the possibility of applying for admission to the ISI, provided that
+that they complete a year to obtain a degree in one of the three specialties mentioned.
+However, it should be noted that the admission rate of these students is generally low, because
+When calculating the scores, they do not have grades in the core subjects of the
+specialty in question.  
+Access to engineering training is not limited to Tunisian students, foreign students
+having Tunisian diplomas, also have the possibility of participating in these national competitions, which
+will be subject to the same conditions and selection criteria as Tunisian students.
+The ISI is also open to international students who have not graduated from Tunisia under the framework of a
+international cooperation between the ministries of higher education and research
+scientist from both countries.
+E.2 Monitoring recruitment results
+The ISI tracks recruitments from past years and analyses their results using information from
+Candidates provide by completing an online form when registering and through
+surveys carried out by the institute. As a result, the management defines an action plan allowing for a
+on the one hand, to strengthen the diversity and social openness of its recruitment and on the other hand, to ensure that
+its recruitment strategy is consistent with its training and employment strategy. A summary
+statistics presents all the numerical data (Appendix E.8).
+Study of sociological data:  
+E.2.1.1 Diversity and social openness  
+The institute ensures diversity of gender, geographical and social origins of its students
+recruited.  
+E.2.1.2 Percentage of women and men registered
+New ISI registrants constitute a balanced group in percentage terms between the two genders.  
+In fact, on average over four years, the percentage of male admissions is equal to 41% and
+the percentage of female admissions is 59%.  
+ 
+ 
+ 
+ 
+49
+ 
+E.2.1.3 Geographic origin of students
+The geographical origin of the students corresponds to the governorate of residence of the family home
+declared by the students. The ISI also tries to guarantee a diversity of geographical origins
+of his students through the media efforts that present his different training courses.
+ISI engineers come from all over Tunisia. However, greater Tunis
+(comprising the governorates of Tunis, Ariana, Manouba and Ben Arous) is the region that provides the
+largest contingent of students with a percentage of 56.4%. Then, the governorate of Nabeul
+with 15.9% and the governorate of Bizerte with 7.6% hold the second and third places. These
+values ​​are explained by the influence of the factor of geographical proximity and competition
+private engineering schools in cities like Sousse or Sfax.
+E.2.1.4 Social level of students
+The ISI is accessible to students from all social backgrounds (Appendix E.8). The institute integrates
+students from different social and economic classes, which is also supported by the rate
+average of students who obtained a scholarship which amounts to 32%. This university scholarship
+is granted by the ministry to students from modest backgrounds in order to benefit from a
+free excellence training.  
+Registration fees are set by the Ministry of Higher Education and Research
+scientific. For the 2022-2023 academic year, they amount to 60 DT (i.e. 13% of the amount of the minimum wage
+monthly).
+Educational data and development of the quality of recruits
+The continuous effort made by the ISI to achieve its objectives has allowed an improvement in the ranking
+new engineering students recruited and this is reflected in the evolution of the ranking of the
+application for admission to the ISI in the establishments concerned by the competition to reach the
+first place in 2022 and 2023 with applications (1st place) that reached more than 500
+files.  
+Figure E.1 certifies that ISI is the most requested institution by students in a way
+general and by students with an A score above 80.  
+ 
+ 
+Figure E-1: The ISI ranking in 2023 - Admission request based on the A and G scores of recruits
+ 
+The improvement in the ranking of those admitted to the specific competition has led to an improvement in
+the quality of students according to the grade obtained in the baccalaureate. During the last three years
+(2020, 2021 and 2022), for the IDL, IDISC and ISE OC specialties we note an increase in
+percentages of Good and Very Good mentions of 10% in 2022. The statistics of
+
+ 
+ 
+50
+ 
+admitted to the IDL specialty confirm that on average over three years, 50% of those admitted have had their
+baccalaureate with honors (Good and Very Good). We also note an increase in the percentage
+students from bachelor's degrees specializing in mathematics, which exceeds 50%. In addition,
+more than 40% of selected students (2020, 2021 and 2022) were among the top 5 in their
+promotions in license carried out in their institutions of origin.
+SWOT Analysis
+Strengths Weaknesses
+- Very high scientific level of those registered
+- Excellent national reputation and
+international ISI.
+- Strong demand for integration into the ISI.
+- Poor mastery of science and subjects
+fundamental (mathematics of
+engineers, etc.).
+Opportunities Threats
+- Opening for student integration
+foreigners.
+- High scientific level of graduates
+the ISI which feeds the engineering courses.
+- Integrated prep file in progress.
+- Competition from private institutes and
+public.
+- Low percentage of high school graduates in
+mathematics.
+ 
+F STUDENT LIFE AND ASSOCIATIVE LIFE OF ENGINEERING STUDENTS
+F.1 Welcoming and integrating new students
+At the beginning of each academic year, ISI welcomes new students, with special attention
+particular focus on the quality of their integration. The institute organizes integration days
+annual meetings to familiarize first-year students with their new environment. Thus,
+These days offer the opportunity to interact with former advanced level students, as well
+as well as with the various administrative structures, clubs and socio-economic partners. The ISI
+undertakes to provide detailed information on the general discipline, university courses and
+professional perspectives of engineers through meetings and presentations
+organized during these days.
+The ISI also provides students with a guide (Appendix F.1) containing the information
+useful for the smooth running of their studies in a structured and simplified manner throughout
+of their course. Information about ISI is also available on the ISI website
+with useful links to calls for applications for masters, internship offers, the list of
+administrative managers as well as the list of contact points for any educational problems,
+psychological, medical or general.  
+Students with special needs benefit from adapted and inclusive treatment at
+within the ISI. Individualized accommodations are put in place for assessments, including
+for example the possibility of obtaining photocopies in large font, the addition of a third party
+ 
+ 
+51
+ 
+time to the duration of each exam and other adjustments necessary to ensure fairness
+in the assessment conditions [Details in Chapter B]. The contact points dedicated to different
+specific situations strengthen support for students (psychological assistance, health, etc.).
+This proactive approach is a testament to ISI's commitment to creating an inclusive environment where
+every student feels supported and understood.
+As for international students, ISI welcomes them and offers them a service
+academic in the same way as Tunisian students and this according to the legal texts (Annex F.2),
+thus promoting a welcoming environment conducive to the development and integration of
+international students within the establishment
+F.2 Student life
+The ISI's societal commitment considers that student life, particularly in its dimensions
+associative, civic, sporting and cultural activities are a fundamental element for the achievement of
+its training objectives. Its geographical position in the center of Ariana represents an asset
+strategic given the amenities and facilities available such as: public transport, hospital
+Ariana, the El-Menzah sports complex and the availability of fast food nearby.
+The ISI provides students with several facilities ranging from dedicated and equipped spaces to
+funding as part of improving student life. These initiatives find a
+balance between associative commitment and their classic academic courses. The ISI ensures that all of its
+students an environment conducive to learning, providing them with spaces for
+revision where they can devote themselves to their studies in favorable conditions and at their disposal
+infrastructure for organizing training and workshops.
+Regarding student health, ISI provides a comprehensive health service including:
+a nurse and a psychologist, in order to provide psychological support. The institute is committed
+actively creating an environment where the needs of each student, whether they are
+academic, physical or emotional, are taken into account to promote their overall success.
+The ISI infrastructure is composed of three distinct blocks (A, B and C), thus establishing a framework
+conducive and friendly for students in their academic activities such as
+- Student living spaces used for the organization of sports activities (Annex F.3);
+- Recently fitted out club premises (Annex F.4);
+- Refreshment bar in the institute responding to student demand (following a survey) (Appendix
+F.5);
+- 100-seat Mini-Amphitheater (recently created as part of the PAQ-DGSE-RISE project)
+and a library available to students and teachers (Annex F.6);
+- Infirmary equipped with: electric blood pressure cuff, wheelchairs, blood pressure files
+files, 3-step stepladder, portable pulse oximeter, medicine cabinet,
+ 
+ 
+52
+ 
+infrared thermometer, examination couches and stainless steel side table, etc. on the first floor block
+B available to students (Annex F.7);
+- Office for the psychologist (available Mondays and Fridays);
+- Mediation cell;
+- Quality premises equipped by the UTM allowing student meetings within the framework
+activities of their clubs, for the assembly and monitoring of projects, events and
+training courses. These training courses are more oriented towards training student trainers
+help improve the quality of activities for the benefit of students (Annex F.8);
+- 4C Center: career certification center, it is a monitoring and development structure
+strengthening the skills of young graduates by facilitating their integration
+professional. It is an authorized and accredited training and certification center,
+Resources are also allocated to facilitate the dissemination of information and the presentation
+club activities to other students, especially newcomers. The aim is to
+promote effective communication within the student community. In this regard, during the
+integration day organized at the start of the academic year, an afternoon is reserved
+specifically to the presentation of clubs to new students. This initiative aims to inform them
+on the various associative opportunities available, thus encouraging their participation and their
+engagement in ISI student life (Appendix F.9).  
+Students work closely with the Institute's management and its partners to
+the organization of theme days, forums, as well as to participate in national competitions,
+international events and hackathons. These activities can take place both indoors and outdoors.
+outside the ISI (Annex F.10).
+Activities: ISI offers its students sports and cultural activities such as table tennis,
+Badminton, boys' football (Ariana field), chess, etc. The institute organizes
+also every year days (such as “ISI Entertainment Day”, “ISI Got Talent”, “ISI
+TRADITION", etc.) dedicated to sporting and cultural activities which are the objective of several
+competitions (Annexes F.11 F.12 and F.13).
+ 
+An event organizing committee “ISI EVENTS” was created to promote collaboration and
+coordination between the different student entities, thus allowing planning and
+efficient execution of events and initiatives thus creating good synergy.
+ 
+The ISI strongly encourages the creation of student clubs, governed by internal regulations adopted and
+respected by all members. The institute also includes several associations and subsidiaries
+of national and international associations.
+Clubs: ISI has several clubs namely, Securinets, ARTBOX, Freeways, IEEE_ISI, Codex_JE,  
+ISI_GEEKS, CreativeLab, GDSC, Elite Council, ISI Entourage, etc. (Appendix F.14) The executive board of
+Each club is elected by a ballot of its members and their election is renewed
+at the end of the academic year to ensure continuity of their activities. (Annex F.15)
+ 
+ 
+53
+ 
+Alongside the ISI student clubs, several social activity associations and
+entrepreneurial initiatives that bring together ISI students and graduates such as:
+Association of Scientific and Cultural Clubs of the ISI: association created to support the
+students during the organization of scientific, sporting and cultural activities.
+National and international associations: Enactus-ISI, JCI-ISI and Freeways
+ISI has twelve (12) active clubs covering various disciplines. Among ISI students, 62%
+are affiliated with these clubs. Table F-1 describes the clubs, their activities and the number of their members.
+Table F-1: List of ISI clubs
+ 
+ 
+ 
+SWOT Analysis
+ 
+Club Name Type of Activity Number
+of members
+SECURINETS Computer security 150
+ARTBOX Art and culture 50
+FREEWAYS Free Software and New Technology 120
+IEEE_ISI Development of personal skills and
+professional
+150
+Codex_JE Professional life 50
+ISI_GEEKS Video Games 30
+CreativeLab New Technologies 100
+Enactus-ISI Social Entrepreneurship 80
+JCI-ISI Academic training (Softskills/hardskills) 26
+Elite Council ISI Strengthening the professional profile 35
+Hultprize Entrepreneurship 20
+ISI chess club Chess games 30
+Strengths Weaknesses
+- Presence of a cultural and scientific association
+clubs.
+- A significant number of clubs.
+- Strong involvement of the ISI in the activities of its
+clubs.
+- Significant number of trophies and prizes in
+national and international competitions.
+- Diverse and regular cultural activities,
+sports and scientific clubs.
+- Several agreements in the cultural and sporting fields
+with the Ministries of Culture and Sport.
+- Non-existence of an association of
+former graduates (ALUMNI).
+- Financial procedure
+(current regulations)
+binding for the organization
+events.
+- Limitations in terms
+of equipment for some
+activities.
+- Unavailability of slots
+from Wednesday afternoon in
+some cases.
+ 
+ 
+54
+ 
+ 
+G PROFESSIONAL INTEGRATION OF GRADUATES
+The ISI places great importance on the sustainable professional integration of its graduates. The institute
+actively engaged in providing information regarding careers, career guidance
+and job preparation. It also strives to communicate about the jobs of the future and
+technological developments, as well as the promotion of business creation and activity
+entrepreneurial.
+G.1 Preparation for use
+ISI pays particular attention to preparing its students for the job market.
+This is reflected in several initiatives, such as
+- monitoring the evolution of the job market: Thanks to the internship management, the quality unit and the
+center 4C (see Figure G-1), the ISI remains informed of the main data linked to the evolution of the market
+of the employment of engineers in Tunisia. This approach involves monitoring statistics and
+official reports, in particular those of the National Observatory of Employment and Qualifications
+(ONEQ) available at the following address: http://www.emploi.gov.tn/fr/160/presentation-oneq, from
+the National Agency for Employment and Independent Work (ANETI) can be consulted on  
+https://www.emploi.nat.tn/https://www.emploi.nat.tn/, as well as the National Institute of
+Statistics (INS) available at https://www.ins.tn/statistiques/93.
+ 
+In parallel with these periodic analysis efforts, the ISI also conducts a prospective analysis at
+short term employment market trend through employability surveys
+of its graduates (Appendix G.1).
+- the integration of teaching modules focused on job preparation, management,
+innovation and entrepreneurship (Details in Chapter D).
+Opportunities Threats
+- Availability of resources on campus.
+- A very dynamic associative mapping in
+the capital.
+- Presence of the 4C Center.
+- Reduction of numbers
+of students.
+- Lack of sponsorship.
+- Similar clubs in schools and
+private institutes.
+ 
+Figure G-2: 4C-ISI training by the
+STM32 Cube Manager at ST. 2023
+Figure G-1 Facebook page of the 4C center (+2k subscribers)
+ 
+ 
+55
+ 
+- professional integration through different types of internships within the company at each
+level of studies: a worker internship during the summer of the 1st year, a technician internship during the summer
+of the 2nd year and a PFE internship during Semester 6. In fact, these internships constitute the
+first contacts of future engineers with the job market. Since the academic year
+2020/2021, more than 450 summer internships (Worker/technician) were completed by engineering students
+and a total of nearly 320 PFE (see Table G-1) (Appendix G.2).
+ 
+Table G-1: Number of PFE per academic year
+2020/2021 2021/2022 2022/2023
+Number of PFE 119 95 105
+ 
+Table G-2: 4C Center Training/Certification Statistics
+Category Certifications Training Conferences
+Number 34 14 4
+ 
+Category Beneficiaries Teachers Administrative Students Men Women
+Workforce / % 1136 95 18 1023 43% 57%
+ 
+Table G-3: Student Certifications by IBM, Huawei and Cisco Academies
+Dates of
+Certification
+Certification Name Instructor Name Target Courses Number
+of students
+certified
+06/17/2022
+01/18/2022
+IBM Blockchain
+practitioner
+Salwa Mbarek Master MP2L
+3ING-IDL
+35
+01/19/2023 IBM Datascience
+Practice
+Foued Oueslati 3ING-IDL 8
+3/10/2023 IBM Cybersecurity
+Practice
+Sourour Mhenni Master SSII 10
+2/01/2023 IBM Blockchain
+Practice
+Sonia Ben Rejeb 3ING-IDISC 18
+06/02/2023 IBM Blockchain
+Practice
+Sourour Mhenni 3ING-IDL 14
+2023 CISCO DevOps (Devnet) Meha Hachani 3ing- IDISC 25
+2023 CISCO Introduction to
+networks
+Bechir Gouissem 2Ing- IDISC 38
+2023 Switching, Routing and
+wireless essentials
+Bechir Gouissem 2Ing- IDISC 18
+2023 Enterprise Networking
+Security and
+Automation
+Bechir Gouissem 3ing- IDISC 18
+2024 IBM Cybersecurity
+Practice
+Nihel Ben Youssef 3ING-IDISC
+Master SSII
+(In progress)
+2024 Huawei IOT Hanen Ben Fradj Master SSIOT (In progress)
+- the skills development of its trainers and students is promoted by the activities
+of the 4C center (see Table G-2 and Figure G-2) (Appendix G.3) as well as the creation of academies
+from partnerships with international publishers of new technologies (IBM, Huawei,
+Cisco, etc.) (Appendix G.4).
+ 
+ 
+56
+ 
+In this context, the ISI is the first Tunisian establishment to join the new
+IBM Global University global program launched in 2020. More than 200 students, mainly
+engineering students, obtained their certifications in 2022/2023 via the academies (Cisco,
+Huawei, IBM), following training provided by teachers certified as instructors by
+these same academies (see Table G-3).
+- ongoing dialogue with the industrial fabric is maintained in order to identify new
+professional opportunities through various initiatives throughout the training cycle
+such as partnership, sharing of internship and job offers, forums, workshops,
+training provided by experts, round tables always involving students,
+teachers, and businesses.
+ 
+G.2 Insertion results
+The integration of young ISI graduates is regularly monitored through surveys carried out
+by the internship management. The results of these surveys highlight several
+performance indicators namely a very low unemployment rate, high salaries per
+compared to the national average, the adequacy of the positions occupied by alumni to the programs of
+training courses offered to inspire future reforms. The institute communicates to its students and
+its graduates the results of these surveys. As an example, the data from this present survey
+(Appendix G.5) were collected between April 19, 2022 and December 4, 2023, targeting graduates of
+ISI for the last 5 years. A total of 173 graduates participated in the survey.
+ 
+Characteristics of the graduates surveyed
+ 
+In line with the recent UNESCO report which confirms that Tunisia occupies second place
+world leader in terms of high number of women engineers per capita
+(https://lapresse.tn/101258/femmes-ingenieurs-la-tunisie-classee-deuxieme-dans-le-
+world/#:~:text=Tunisia is the second, the opportunity of a), the
+The rate of female engineering students at the ISI is slightly higher (52%) than that of
+male students;
+  
+Professional situation of graduates
+According to the results of the same survey, it seems indisputable that the disciplines provided by
+ISI are in high demand on the job market. Indeed, the average rate of integration
+professional for the IDL, IDISC and ISEOC engineering courses is 90% (see Figure G-3).
+       
+ 
+Figure G-3 Professional integration
+from the IDL sector
+ 
+Figure G-4: Participation of
+ISI graduates as supervisors
+professional
+ 
+ 
+57
+ 
+Access to employment
+ISI engineers easily access the job market after obtaining their
+degrees. In fact, on average 70% of students in each course obtain their first
+employment within the first six months after graduation. About 50% are even
+hired in less than two months. In addition, nearly 20% of students received a promise
+hiring before the end of their PFE.  
+Nature of the first employment contract  
+According to the survey results, the average percentage of graduates working under a permanent contract
+The indefinite contract (CDI) is 58%, while that under a fixed-term contract (CDD) is 7%.
+Sector of activity  
+According to the results of the same survey, we find that the ICT and
+Telecommunications are predominant for graduates from the three sectors.  
+Profile of first position held
+On average 70%, which represents the majority of the sample, occupy a position in line with
+their training. This includes positions such as development engineer, BI consultant and AI engineer
+for graduates from IDL training, network/telecom engineers, IT audit and consultant in
+IT security for IDISC graduates and engineers
+from ISEOC training, the first positions are often obtained in embedded systems and
+development.
+Career monitoring/Professional training after hiring
+The ISI remains attentive to the professional development of its graduates and their skills development.
+According to the survey results, 70% of the graduates surveyed did not receive any training
+additional training following their hiring. This demonstrates the quality of the training provided
+by the ISI and the adequacy of the skills instilled with the requirements of the job market (see
+Figure G-5).
+Geographic distribution of first job
+A relatively high average rate of 15.8% of graduates are in employment
+professionals abroad.  
+  
+Net Annual Salaries, Without Bonus  
+According to the survey results, the majority of ISI engineers receive a first annual salary
+between 12000 and 24000 DT (see Figure G-6).  
+Gross Annual Salaries, Without Bonus
+ISI graduates employed abroad reported receiving gross annual salaries exceeding
+20,000 euros. On average, more than 50% of the survey participants have a salary of more than 40,000
+euros annually without including bonuses.  
+ 
+Figure G-5: ING-IDL trained by the company
+after hiring
+ 
+Figure G-6: First Monthly Salaries
+ING-IDL
+ 
+ 
+58
+ 
+Business creation  
+According to the survey results, 7.5% of diplomas in all specialties combined have
+claimed to have founded a startup after graduation.
+G.3 Professional life of graduates
+Engineers graduating from ISI are now fully integrated into the socio-economic fabric.
+Recognizing their inestimable value to their institution, ISI has recently initiated an active dialogue
+with his former students asking them to share their experiences and recommendations
+via survey forms. The main objective is to collect feedback on their journey
+academics at ISI and their expectations for quality training. Through this survey, ISI
+aims to obtain information on employability rates and other performance indicators
+relevant.
+The institute encourages interactions between current students and alumni through various
+initiatives, including inviting ISI graduates to participate in round tables and various
+events organized by the ISI (See chapter C). Engineering students thus benefit from feedback
+experience and success stories of Alumni, the solicitation of ISI graduates as
+as an expert teacher. A percentage of 5.8% of the sample targeted by the survey have already participated
+as a trainer at ISI after graduation, the participation of ISI graduates
+to the monitoring of PFE of engineering students. Indeed, a total of 31% of the sample declared having
+participated as professional supervisors in the supervision of PFE (see Figure G-4). This
+involvement demonstrates that the training and profiles of ISI engineers arouse the interest of
+companies thanks to the performance of ISI graduates already hired as employees.
+This undoubtedly demonstrates the strong sense of belonging of engineering students towards the ISI.
+ISI actively supports the existence of an alumni association. Approximately 70% of graduates have
+expressed their willingness to participate in the ISI Young Graduates Association, thereby strengthening the
+sense of belonging of the students. With this in mind, in 2021, the institute launched a group
+ISI Alumni Facebook with over 400 members, fostering connection between former graduates,
+current students and teachers. Group members have taken various initiatives, such as
+inviting ISI graduate clubs to events focused on their areas of expertise,
+as well as the dissemination of internship and job offers, thus highlighting the importance of this space
+communication.
+SWOT Analysis
+Strengths Weaknesses
+- Very high graduate integration rate.
+- Involvement of Alumni (Training, supervision
+PFE, etc.).
+- Suitability of training to the targeted professions.
+- Certifications and integration of professionals
+in training for job preparation.
+- Monitoring of internships (surveys of the parties
+stakeholders).
+- Insufficient monitoring of certain
+companies.
+Opportunities Threats
+- Increased collaborations and
+partnerships.
+- Expatriation of students.
+ 
+ 
+59
+ 
+SWOT ANALYSIS OF SELF-ASSESSMENT  
+ 
+Strengths Weaknesses
+- Solid reputation and influence.
+- Qualified and experienced teaching staff.
+- High-level engineering students.
+- Updated, competency-based curriculum
+to keep up with technological developments.
+- Active student life with a strong
+involvement in cultural, sports and
+scientists.
+- Excellent student supervision rate.
+- Commitment to innovation,
+entrepreneurship and development of
+partnerships.
+- Preparation for certifications integrated into the
+teaching programs.
+- Full support for students
+until their professional integration.
+- Active involvement of Alumni in training
+and project management.
+- High professional integration rate.
+- Success in national competitions and
+international.
+ 
+- Infrastructure and premises to be improved.
+- Limited international partnerships.
+- Limited financial autonomy.
+- Lack of dedicated quality team.
+- Complex administrative processes.
+- Lack of funds for improvement of
+infrastructure.
+- Long administrative delays for management
+financial.
+- Understaffing of administrative staff.
+- Lack of institutionalization of the team
+quality.
+ 
+ 
+Opportunities Threats
+ 
+- Growing demand for qualified professionals
+in digital.
+- Integration of new technologies in the
+programs.
+- Strategic cooperations with universities
+foreign.
+- Internationalization of training.
+- Acquisition of new land at Technoparc
+El Ghazala.
+- Quality initiatives (ISO 21001, Quality project).
+- Strong sense of belonging among students and
+former students.
+- Effective strategy for innovation,
+entrepreneurship and partnerships.
+- Strategic location to promote
+partnerships.
+ 
+- Increased competition with private schools.
+- Rapid evolution of technologies.
+- Financial pressures and bureaucracy.
+- Difficult political situation.
+- Leak of ISI skills abroad.
+- Decrease in the number of students (departure at
+abroad).
+- Lack of sponsorship and funding.
+ 
+ 
+ 
+ 
+60
+ 
+GENERAL CONCLUSION
+ 
+Since its creation, the ISI has acquired a solid national reputation and considerable influence,
+thus affirming its major role as a public establishment dedicated to higher education and
+to scientific research. It deploys a training strategy adapted to the needs of the sector
+IT and society in general.
+ISI draws its strength from a highly qualified and experienced teaching staff, as well as its students -
+talented and high-level engineers. Its skills-based study plans, its
+dynamic student environment and its excellent supervision rate contribute greatly
+to its success. In addition, its commitment to innovation, entrepreneurship and partnerships, as well as
+that its high professional integration rate and its successes in national competitions and
+international, consolidate its position on the market.
+ 
+The ISI positions itself at the heart of the challenges and opportunities of the contemporary digital ecosystem. Faced
+to a growing demand for qualified professionals, it actively integrates the latest advances
+technological in its programs, while consolidating strategic partnerships with
+foreign universities to promote the internationalization of its training. The acquisition of a
+new land at Technoparc El Ghazala demonstrates its commitment to expansion and
+innovation. At the same time, ISI strives to maintain high quality standards with
+initiatives such as ISO 21001 and the Quality Project. Despite these promising initiatives, the institute
+faces major challenges, including increasing competition from private schools,
+financial pressures and burdensome bureaucracy. In addition, the brain drain towards
+the foreigner adds to the complexity of its environment. However, its strategic location
+promotes partnerships and strengthens its institutional identity, supported by a strong feeling
+of student and alumni belonging. In short, the ISI navigates with agility in a
+constantly evolving landscape, capitalizing on its strengths while resolutely addressing challenges
+challenges inherent in its future development.
+ 
+The Higher Institute of Computer Science is seeking accreditation for its engineering courses, presenting
+ambitious and promising projects for its diplomas. This approach comes in a crucial context
+where the IT industry demands more than ever the training of managers with creativity,
+of innovation, and of flawless adaptation to technological and scientific progress
+contemporaries, as well as the accelerated changes in our world.
+ 
+ 
+ 

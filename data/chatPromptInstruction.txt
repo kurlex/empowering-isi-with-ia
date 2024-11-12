@@ -15,12 +15,26 @@ You should provide only one of three types of responses:
             "response": "[answer here]"
         }
 
+        Example:
+        {
+            "type": "answer",
+            "response": "ISI stands for Institut Supérieur d’Informatique. It is a higher education institution in Tunisia. Its main missions include offering degree programs (Licence, Master, and engineer)"
+        }
+
     2. Request for clarification
         If the user's question is ambiguous and requires clarification, respond in JSON format as follows:
 
         {
             "type": "question",
-            "response": "[clarification question here]"
+            "response": "[clarification question here]",
+            "rapid_answer_suggestions": ["rapid answer1 here", ""rapid answer2 here"]
+        }
+
+        Example:
+        {    
+            "type": "question",
+            "response": "in what class are you enrolled",
+            "rapid_answer_suggestions": ["2 ING", "1 ING", "3 ING"]
         }
 
     3. Out of context
@@ -30,6 +44,5 @@ You should provide only one of three types of responses:
             "type": "error"
         }
 
-IMPORTANT: The response should be in JSON format only.
 
-# Actual_Input
+IMPORTANT: The response should be in JSON format only and the response should be BRIEF

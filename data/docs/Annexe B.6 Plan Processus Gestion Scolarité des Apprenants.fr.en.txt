@@ -1,0 +1,588 @@
+ 
+ 
+GSA-PP-07-00 PROCESS PLAN
+MANAGEMENT OF SCHOOLING
+LEARNERS
+Date: 07/22/2022
+Page 1 / 6
+ 
+Purpose Scope of application
+The purpose of this process is to:
+ Welcome, inform and guide students
+ Register students administratively
+ Provide the necessary documented information relating to the
+schooling of learners
+ Ensure that complaints and requests are taken into account and processed
+complaints as well as the specific needs of learners
+ Monitor and inform students about everything concerning their
+university course related to education services
+- Safeguard and protect personal data of
+students.
+This process applies to all students of
+ISI El Manar establishment
+ 
+ 
+Process Pilot
+Driver: Lamia KRICHEN  
+Co-pilot: Houria MTIRA   
+Co-pilot: Najiba MRABET BELLAAJ CpQ
+ 
+Suppliers Customers
+ Ministry of Higher Education  
+ University of Manar
+ Scientific Council
+ Master's Commission
+ Learners
+ Teachers (attendance sheet)
+ Process Management and Continuous Improvement PAC 01
+ General Services Management Process GSG 09
+ Ministry of Higher Education
+ University of Manar
+ Learners
+ Teachers
+ Process Management of examinations and deliberation EXD 06
+ Pedagogy Process PED 04
+ 
+ 
+Input elements Output elements
+- Curriculum and program of courses
+- Authorization file and product characteristics and
+educational services
+- Code of conduct and a code of ethics.
+- Additional requirements for special education
+- Listening and satisfaction of learners and other beneficiaries
+- Result of processing non-conformities and products
+non-compliant educational
+-  
+- Administrative support plan for learning.
+- Decisions and actions relating to the facilitation of
+learning;
+- Minutes of educational meetings
+- Course jobs (teachers, learners, rooms
+of courses, laboratories, etc.)
+- Satisfaction of additional requirements relating to
+special education
+-  
+ 
+  
+Input data Output data
+ Legal and regulatory requirements
+ Minutes of the Masters Committee
+ Database documents (Salima and Ines)
+ Documents from Manar University
+ Student information sheets
+ Learner needs and expectations (Satisfaction surveys)
+ Decisions of the management and the scientific council
+ Personal data of learners
+ Specific needs of learners
+ Claims processing needs
+ SMOE requirements
+ Satisfaction of legal and regulatory requirements
+ Learner attendance tracking list
+ Registration planning statement
+ Certificate of registration
+ Certificate of attendance
+ Certificate of achievement, etc.
+ Transcript of grades
+ Diploma supplement (to be discussed with management)
+ Diplomas: Bachelor's degree; Master's degree and engineer's degree
+ Student card
+ Certificate of deferral of registration
+ Departure certificate
+ 
+ 
+GSA-PP-07-00 PROCESS PLAN
+MANAGEMENT OF SCHOOLING
+LEARNERS
+Date: 07/22/2022
+Page 2 / 6
+ Data entered on MES platforms
+(statistics, Salima, etc.)
+ Specific needs processing sheet
+ Complaints processing
+ Processing of non-conformities and actions
+corrective
+ Performance indicator monitoring table
+ 
+Objectives of the process
+ Objective 1: Satisfy learners’ needs for documents related to their education
+ Objective 2: Guarantee enrollment for all learners  
+ Objective 3: Satisfaction of claims and complaints processed within the time limits of learners and PI
+ Objective 4: Satisfaction of learners with specific needs
+ 
+ 
+ 
+ 
+How to monitor process efficiency and improve it
+ Periodic meetings  
+ Internal quality audits
+ Performance indicators
+ The management review
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Performance indicators
+Objective Indicator Formula Periodicity Source
+information
+Objective 1
+ 
+Satisfaction rate of
+requests for documents in
+the deadlines
+ 
+Number of requests satisfied
+on time / total number of
+requests
+ 
+Half-yearly
+Register of
+requests for
+documents/
+portal data
+ISI
+ 
+Objective 2
+ 
+Rate of enrolled students
+within the time limits prescribed in
+press release level
+ 
+Number of students enrolled
+on time / Total number
+registered students
+ 
+Annelle Files of
+students
+ 
+Objective 3
+ 
+Effectiveness rate of
+complaints processing
+and complaints handled in
+the deadlines
+ 
+Amount of claims processed
+efficiently on time
+/Total claims
+recorded
+ 
+Annual
+Tracking log
+complaints
+learners and PI
+ 
+Objective 4
+Effectiveness rate of
+learner complaints
+related to specific need treated
+on time
+ 
+Amount of claims processed
+on time /Total
+complaints recorded
+it is
+Annual
+Tracking log
+complaints
+learners
+related to need
+specific
+ 
+ 
+ 
+GSA-PP-07-00 PROCESS PLAN
+MANAGEMENT OF SCHOOLING
+LEARNERS
+Date: 07/22/2022
+Page 3 / 6
+ 
+Reference documents
+Documents external to the Process
+ISO 21001:2018 Reference standard   
+MESRST Documents Decree of ..N°,,,
+Decree of ..N°,,,
+Decree of ..N°,,,
+Decree of ..N°,,,
+  
+List of new recruits
+and reoriented Provided by the MESRS and the UTM   
+GED-PV-01 Minutes of the deliberations of year N-1   
+GED-PV-02 Minutes of the masters committees   
+SCL-FR-01    
+PIL-DOC-01    
+PAC-FR-**    
+GED-PV-01 Minutes of the deliberations of the year N-
+1   
+GED-PV-02 Minutes of the masters committees   
+Process documents
+GSA-FR-01
+List of transfers, new recruits and reorientations
+from UTM
+ 
+GSA-IN-
+01
+ᗷ             
+2023/2024
+ 
+ 
+ 
+The sultan
+GSA-IN-
+02 The Great War
+GSA-FR-01
+ 
+شهادة تبرير غياب
+GSA-DO-
+01
+ Certificate of registration
+ Certificate of attendance
+ Certificate of achievement
+ Transcript of grades
+ Diploma supplement
+ Diplomas: Bachelor's degree; Master's degree and engineer's degree
+ Student card
+ Certificate of deferral of registration
+ Departure certificate
+ 
+GSA-FR-02 شهادة تأجيل الترسيم   
+GSA-FR-03 شهادة الطبي    
+GSA-FR-04   
+نظير من وثيقة ادارية
+  
+GSA-FR-05 اصﻼح وثيقة ادارية
+ 
+  
+GVE-FR-06 شهادة افادة   
+GSA-FR-07 شهادة سيرة الجامعية   
+GSA-RP-01 اعادة ادماج   
+GSA-PV-01 مطلب مناقلة بين اﻷفواج   
+GSA-PV-02
+  
+الدراسية لطلبة السنوات النهائية شهادة في الوضعية
+)اجازة/ تكوين المهندسين(  
+ 
+ 
+GSA-PV-03
+  
+شهادة تفيد أن جميع الدروس بالمعهد تدرس باللغة
+الفرنسية
+ 
+ 
+GSA-IN-01  Enrollment Planning Announcement
+ 
+  
+ Catch-up notice   
+ 
+ 
+GSA-PP-07-00 PROCESS PLAN
+MANAGEMENT OF SCHOOLING
+LEARNERS
+Date: 07/22/2022
+Page 4 / 6
+ Data entered on MES platforms
+(statistics, salima, etc.)
+ Specific needs processing sheet
+ Complaint processing
+ Actions in the face of risks and opportunities
+ Data analysis
+ Processing of non-conformities and actions
+corrective
+Performance indicator monitoring table
+GSA-FR-01
+List of transfers, new recruits and reorientations
+from UTM
+ 
+ 
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+XXX-FR-04-00    
+ 
+ 
+ 
+ANALYSIS OF
+RISKS
+ 
+Internal risks
+ 
+Control methods
+  
+  
+    
+  
+  
+  
+ 
+ 
+ 
+Change History Recipients
+Revision Date Reason for change All process drivers
+00 Creation   
+     
+     
+ 
+Established by Verification Approval
+Name and Surname Lamia KRICHEN Najiba MRABET BELLAAJ Salah SALHI
+Function Head of department SMOE manager Director of ISI
+Date 07/22/2022 07/06/2023  
+Signature     
+ 
+ 
+Process flow
+ 
+ 
+ 
+GSA-PP-07-00 PROCESS PLAN
+MANAGEMENT OF SCHOOLING
+LEARNERS
+Date: 07/22/2022
+Page 5 / 6
+Who? (Responsible) What? (Steps/Actions) How? Recordings
+MY
+UTM
+Director of Studies
+GED Driver
+GSA Pilot
+Masters Commissions
+ 
+ 
+The opening of the year
+university is done for the
+new learners, the
+repeaters, reoriented ones,
+mutated and learners having
+successfully completed the level passage, and this,
+based on:
+For new students:
+ List of new graduates and
+university re-directors
+Manar for licenses  
+ Students transferred via UTM
+following a commission
+internal to UTM
+ List of new students
+engineers from DGET
+ List of masters students
+research and professional
+for new learners
+of master
+For former students:  
+ Students admitted during
+year N-1
+Repeaters:  
+The list of repeaters (report of
+deliberations of year N-1)
+ 
+ 
+GSA-FR-01
+List of mutated,
+new recruits
+and reoriented from
+UTM
+ 
+GED-PV-01
+PV of the
+deliberations of
+year N-1  
+(List of admitted,
+repeaters and
+excluded)
+ 
+ 
+GED-PV-02
+PV of the
+commissions of
+master's degree
+(Lists of
+new
+learners of
+masters)
+GED-PV-01
+PV of the
+deliberations of
+year N-1  
+(List of admitted,
+repeaters and
+excluded)
+ 
+ 
+ Director of ISSAT
+ Secretary General  
+ Direction of studies
+ Department Directors
+ HR department manager
+ 
+Planning of activities related to the
+operational implementation of activities
+related to resource management
+human and validated by the secretary
+general
+GRH-FR-02
+Register of
+planning of
+activities
+operational  
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+The activities of the HRM process are
+presented by three procedures. Internal application
+INSAF system
+dashboard  
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+ Director of departments  
+It is about identifying skills
+requested (required) for each
+function to ensure its control and
+existing (acquired) skills
+through the skills matrix of
+the university. This identification allows
+to identify the need for training or
+recruitment or transfer.
+Management procedure
+recruitment and
+SKILLS
+GRH-PR-01-00  
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+ 
+ HR ensures that the
+list of human resources and
+their situations (detachment/detachment
+availability/leave/transfer..) on
+the dedicated application (system/folders
+administrative) by monitoring their attendance
+Management procedure
+administrative of
+resources
+human  
+GRH-PR-02-00
+Planning activities
+operational
+Mastery of operational activities
+HR management
+Recruitment and Management
+staff skills  
+Administrative management of
+human resources  
+Management of wellness activities at
+work  
+❶
+❷
+ 
+Closing of year N-1/Opening
+of year N (admitted/repeaters/
+new / reoriented / transferred)
+ 
+ 
+GSA-PP-07-00 PROCESS PLAN
+MANAGEMENT OF SCHOOLING
+LEARNERS
+Date: 07/22/2022
+Page 6 / 6
+(pointing) and performs updates
+necessary on the organization chart as well
+than on the function sheets
+ Respond to needs and requests
+resources through services offered
+ 
+Procedure of
+wellness management
+at work
+GRH-PR-03-00
+ 
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+ 
+The activity manager ensures the
+monitoring of operational activities at
+using an operational tracking register Register of
+activities
+operational
+GRH-TAB-01
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+All staff complaints
+administrative and educational which
+concerns HR activities will be
+recorded and tracked  
+Tracking log
+complaints and
+suggestions
+GRH-FR-12
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+A party satisfaction survey
+interested parties will be prepared Survey of
+satisfaction of the
+staff
+   
+ 
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+Ensure monitoring of the objectives of the
+process by measuring the
+indicators. Dashboard:
+GRH-TAB-01
+ Director of ISSAT
+ Secretary General  
+ HR department manager
+ 
+Continuous improvement aims to improve
+this process by focusing on the
+strengthening of activities that generate
+the most value for our customers.
+Tracking log
+actions
+improvement
+ 
+ 
+Entries
+Plan
+Do
+Facing Risks
+Check
+Act  
+ 
+ 
+ 
+ 
+Monitoring and preservation of activities
+operational
+Continuous improvement of activities
+processes
+ 
+Measuring satisfaction of the
+staff/teacher
+Monitoring and Measuring the Objectives of the
+process
+Management of complaints and
+Staff suggestions
+Actions in the face of risks and opportunities
+❹
+❺
+❶
+❻
+❼

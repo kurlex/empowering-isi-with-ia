@@ -9,9 +9,11 @@ export const middleware = async (req: NextRequest) => {
     data: { session },
   } = await supabase.auth.getSession();
 
+  console.log("the session", req.nextUrl.pathname, session);
   if (!session) return NextResponse.rewrite(new URL("/", req.url));
+  console.log("has session", req.nextUrl.pathname);
   if (req.nextUrl.pathname === "/")
-    return NextResponse.redirect(new URL("/dashboard", req.url));
+    return NextResponse.rewrite(new URL("/dashboard", req.url));
   return res;
 };
 

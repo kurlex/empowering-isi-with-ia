@@ -1,0 +1,87 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Web services and mobile and network development
+ECUE no 5.3: Mini Project Mobile Development and Networks
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Algorithmic, object-oriented programming,  
+2- tcp/udp protocols
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Learn about the development tool widely used in applications today
+networks; the Python scripting language.  
+OE2: Master the main network libraries.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+SC1
+X
+ 
+SC2
+X
+X
+SC3
+X
+X
+SC4
+ 
+ 
+SC5
+X
+X
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+               
+1. Introduction:  Basic foundations of the python scripting language  
+2. Sockets:  Building a server  Building a client  Thread management  Client
+managing simultaneous transmission and reception  Server managing connections from multiple clients in
+parallel  
+3. Mini-Project 1: Development of a Client/Server application  
+4. Mini-Project2: Development of an IOT application in python and bluemi
+ 
+Chapter and sections
+Course (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+   
+ 
+ 
+2
+2
+Chapter 2
+    
+ 
+ 
+2
+2
+Chapter 3
+     
+ 
+ 
+9
+9
+Chapter 4
+     
+ 
+ 
+9.5
+9.5
+ 
+Reference books:
+ 
+1. Swinnen, G. (2005). Learning to program with Python. O'Reilly. Brucher, M. (2008).  
+2. Python: the fundamentals of the language, programming for scientists. Presses Sorbonne Nouvelle.
+ 

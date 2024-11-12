@@ -1,0 +1,410 @@
+ 
+SKILLS
+Specific
+Description
+CS1
+Master
+of the
+tools
+science scientists
+of the engineer.
+- Master the fundamental sciences for the
+engineering training
+- Master the scientific tools necessary for
+model and analyze complex systems
+CS2
+Design, develop,
+and master software
+computers
+- Acquire theoretical and practical skills in
+computer science.
+- Design
+And
+develop
+of the
+applications
+computers, in different languages ​​and under
+different systems.
+- Operate, manage and analyze large volumes of
+data, structured and unstructured.
+Model and design
+of the
+applications
+in
+embedded systems and
+connected objects  
+- Acquire theoretical and practical skills
+around applications in embedded systems
+communicators  
+- Model embedded web applications and
+mobile using UML
+- Exploit, manage and analyze data using
+embedded platforms (Raspberry Pi, ESP32,
+STM32, etc.)
+- Manage project planning by adopting the cycle
+in V or the Scrum method
+Pilot
+of the
+projects
+innovative for
+communicating systems
+following the evolution of
+technologies
+emerging
+- Acquire good practices to implement
+of project management and steering methods
+innovative.
+- Adapt to what already exists on the market, in
+offering new solutions adapted to
+needs, pursuing a competitiveness objective.
+- Define the objectives, qualities, costs and deadlines of the
+project.
+- Plan tasks and activities and track their progress
+advancements.
+CS3
+Integrate and implement
+work of architectures
+software
+- Acquire
+THE
+SKILLS
+specific
+in
+software architectures.
+- Make architectural choices with knowledge of the
+causes and consequences.
+Master and develop
+of the
+applications
+computers
+in
+report
+with
+THE
+- Acquire
+THE
+SKILLS
+specific
+in
+computer development  
+- Master programming languages ​​(Python,
+Java, C++, etc.) to develop applications
+embedded systems and
+THE
+systems
+communicators (IoT)
+on board
+- Master the hardware part by integrating
+embedded computing solutions  
+Ensure
+THE
+functioning
+system technique
+computer science according to the
+quality related standards
+and the safety of the
+information system.
+- Acquire good practices in security
+information systems.  
+- Provide configuration, troubleshooting and management
+of local systems and networks and
+infrastructure
+- Ensure the security of computer systems in
+applying quality and safety standards.
+CS4
+Design and develop
+of the
+solutions
+computers
+innovative
+- Design IT solutions from a
+specific specifications.
+- Define and develop functional specifications
+and techniques of a solution.
+- Carry out scientific monitoring and know how to use it to
+propose innovative solutions.
+- Supervise, measure performance, analyze
+operating and use conditions and
+implement adjustment solutions,
+of developments of the innovative solutions proposed
+Mastering the concepts
+of
+network
+And
+THE
+protocols
+of
+communication
+necessary
+For
+there
+creation
+of a
+object
+smart connected
+- Master and design networks from a
+specific specifications  
+- Define and develop functional specifications
+and techniques of a network (hardware, software,
+implantation)  
+- Design, configure and administer networks
+computing in different environments
+- Supervise, exploit data and implement
+smart IoT solutions
+Design, develop,
+put into service
+ICT solutions and
+security policies of the
+IF
+- Acquire theoretical and practical skills in
+computer science.
+- Design
+And
+develop
+of the
+applications
+computers using network resources, in
+different languages ​​and under different systems.
+- Operate, manage and analyze large volumes of
+data, structured and unstructured.
+CS5
+Plan and manage
+IT projects
+- Plan and manage IT projects according to
+recognized methods.
+- Master the management tools allowing monitoring
+effective and fruitful exchanges with the
+collaborators.
+- Know how to anticipate delays and changes in
+planning in order to successfully meet deadlines and
+customer requirements.
+Design and implement
+application work
+automated in a
+production line
+industrial
+- Master the engineering of automated systems  
+- Study operational and technical needs
+of an industrial production line  
+- Model and design the system to be automated by
+electronic, automatic, robotic tools
+and architectural
+- Automate chain control tasks
+of designed production
+Test
+And
+to validate
+THE
+operation of IS
+in
+terms
+of
+connectivity,
+ability
+of infrastructure and
+security.
+- Design information networks from a notebook
+specific charges.
+- Define and develop functional specifications
+and techniques of a network (hardware, software,
+implantation)
+- Design and administer computer networks
+And
+of
+telecommunications
+In
+different
+environments.
+- Supervise, measure performance, analyze
+operating and use conditions and
+implement adjustment solutions,
+of network developments or migrations and
+resources
+CS6
+Master
+of the
+environments
+of
+Programming
+- Exploit programming environments
+recognized
+And
+of
+adapt
+to
+new
+programming environments.
+Instrument, test and
+validate devices
+embarked
+- Acquire the specific skills to test and
+validate on-board devices  
+- Define validation requirements: features
+expectations, performances and constraints  
+- Analyze communication between the different
+components of the system and understand their
+behaviors  
+- Master the tools and methodologies for testing
+embedded systems
+- Instrument on-board devices for
+observe and measure the behavior of the system
+know sensors, debugging interfaces
+Master
+THE
+tools
+scientific implementation
+- Acquire theoretical and practical skills in
+computer science.
+place
+of
+news
+storage solutions
+virtual data and
+to validate
+THE
+aspects
+storage techniques.
+- Design
+And
+develop
+of the
+applications
+computing using storage solutions
+virtual data.
+- Operate, manage and analyze large volumes of
+data, structured and unstructured.
+CS7
+Design and develop
+of the
+systems
+intelligent
+- Design intelligent IT solutions
+from a specific specification.
+- Define and develop functional specifications
+and techniques of a smart solution.
+- Carry out scientific monitoring and know how to use it to
+propose smart solutions.
+- Supervise, measure performance, analyze
+operating and use conditions and
+implement adjustment solutions,
+of developments in the intelligent solutions offered.
+Master
+there
+programming
+hardware and software and
+there
+co-design
+of the
+architectures
+heterogeneous
+on board
+- Design and program embedded systems
+heterogeneous  
+- Acquire knowledge in electronics:
+electronic components, signals and
+communication protocols  
+- Master
+of the
+languages
+of
+programming
+embedded C and C++ to develop code
+effective  
+- To know
+THE
+architectures
+material
+:
+microcontrollers, ARM processors, FPGA, SOC
+- Study real-time operating systems
+Mastering standards and
+best practices in
+view to auditing IS and
+to propose
+of the
+improvements.
+- Assimilate solid networking skills,
+security and accounting optimize IT security
+- Analysis of information systems, procedures
+and all existing IT resources and
+suggest possible improvements.
+- Improve
+there
+security
+of the
+systems
+information and ensure the reliability of the data
+to transmit.
+CS8
+Test and validate
+computer systems
+- Master
+engineering
+And
+THE
+techniques
+test automation.  
+- Write and execute functional test plans.
+- Perform tests on scripts or
+configurations.
+- Automate network management tasks
+computers
+Master and design
+of the
+systems
+smart and innovative
+- Master the necessary engineering and techniques
+to design an innovative embedded system and
+clever  
+- Master artificial intelligence techniques
+and machine learning  
+- Develop design knowledge
+materials for designing circuits
+specific and innovative electronics
+- Mastering hardware architecture adapted to AI
+embarked
+ 
+ 
+CS9
+Master
+THE
+SKILLS
+managerial
+And
+of
+industrial culture
+- Know how to manage a group of employees.
+- Have an industrial culture that helps success in
+socio-economic environment.
+CS10
+Mastering the techniques
+of communication with
+a varied audience and the
+foreign languages.
+- Master modern languages ​​and techniques of
+communication to help its integration into a
+professional environment and its future collaborations.
+CS11
+To have
+there
+ability
+of the self-
+development
+staff
+And
+professional
+- To have
+of the
+abilities
+self-learning
+scientific and behavioral in autonomy.
+- Carry out scientific monitoring to maintain and make
+develop his knowledge.
+- Know how to develop oneself as a human being in order to succeed
+its integration into a professional environment and its
+future collaborations.
+ 
+IDL sector
+ISEOC sector
+IDISC sector
+ 

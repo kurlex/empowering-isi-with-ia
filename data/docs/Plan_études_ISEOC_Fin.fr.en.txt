@@ -1,0 +1,6872 @@
+Half
+Unit
+Half
+Unit
+Semester 1
+Mathematics 1
+Signals and Systems
+Algorithmic and implementation
+ 
+in work
+Theory of
+computer science
+Semester 2
+Mathematics 2
+Systems and
+architectures
+Telecommunications
+programming and
+ 
+compilation
+ISEOC Study Plan (Current)
+Databases and
+ 
+implementation
+SKILLS
+behavioral II
+Systems
+operating and implementation
+in work
+SKILLS
+ 
+behavioral I
+Half
+Unit
+Semester 3
+Mathematics for
+the engineer
+Foundations of
+IoT systems
+Distributed systems
+Software engineering and
+systems
+intelligent
+Half
+Unit
+1
+credit
+t
+=30h
+SKILLS
+behavioral III
+Semester 4
+Design and implementation
+digital circuits on
+FPGA
+Modeling, identification
+and systems control
+Connected objects
+Operational safety
+SKILLS
+behavioral IV
+Half
+Unit
+to
+me
+str
+e 6
+Semester 5
+Systems design
+embedded and real time
+ 
+Engineering
+Vision, robotics and AI
+Automation and control
+advanced systems
+Add-ons
+SKILLS
+behavioral V
+4%
+29%
+Total load distribution with PFE
+Percentage of Hourly Volume/Family
+of Skills (3 years)
+Constituent Elements/Material
+ECTS credits
+Linear Algebra
+3
+Math supplement
+3
+Signal processing
+2
+Electronics for the engineer
+4
+Information theory and coding
+2
+Fundamental algorithms
+3
+Mini algorithmic project
+1
+Theory of languages ​​and automata
+3
+Computer logic
+3
+Advanced Operating Systems
+3
+Mini project Operating systems
+1
+Language and methodology
+1
+Business Communication  
+1
+Total
+30
+Constituent Elements/Material
+Credits
+Applied analysis
+2
+Numerical analysis
+3
+Dynamical systems theory
+dynamics
+3
+Advanced processor architecture
+ 
+processors
+2.5
+Mini project on microprocessor systems
+1
+Waves and applications
+2.5
+Analogue and digital telecommunications
+analog and digital
+3
+Object Programming
+3
+Compilation techniques
+3
+Databases and interfaces
+3
+Mini programming project
+object and databases
+1
+Language and Methodology
+1
+Digital management and information systems
+1
+Business Communication
+1
+30
+ISEOC Study Plan (Current)
+Total
+Constituent Elements/Material
+ECTS credits
+Statistical methods
+3
+Optimization
+3
+Microcontrollers and connected objects
+connected
+2
+Discrete event systems
+discreet
+2
+Business networks
+3
+Mini-project Microcontrollers and connected objects
+microcontrollers and objects
+connected
+1
+Fundamentals of distributed systems
+ 
+distributed
+1
+System Programming in Unix
+ 
+under Unix
+2
+Distributed Systems Project
+1
+Client/server architecture and middleware programming
+and programming
+middleware
+3
+Object Oriented Modeling
+objects
+3
+AI and Expert Systems
+3
+Software Engineering
+1
+Total (1st year)
+Total face to face (1st year)
+Personal Development and Socializing
+1
+ICT Law
+1
+introductory course
+Total
+30
+Constituent Elements/Material
+ECTS credits
+Digital Circuit Design
+2.5
+Mini-project Design and implementation of digital circuits on
+FPGA
+1
+Multiprocessor architectures
+2.5
+Modeling and identification of systems
+3.5
+Digital control of systems
+3.5
+Mini-project Identification and digital control of systems
+1
+Power electronics
+2
+Communication protocols for connected objects
+2
+Smart sensors and sensor networks
+2
+Home automation and connected buildings
+2
+Operational safety
+2
+Embedded systems security
+1
+Stochastic modeling
+2
+Internet Marketing
+1
+Personal development and socializing
+socializing
+1
+Personal and professional project
+professional
+1
+Total
+30
+Total (2nd year)
+Total face to face (2nd year)
+Constituent Elements/Material
+ECTS credits
+Embedded systems design
+3
+Development of embedded real-time applications
+3
+Mini-project Connected embedded systems
+1
+On-board vision
+service platforms
+telecoms
+2
+Mobile robotics
+2
+Mini-project Vision and robotics
+telecom services
+1
+AI and renewable energy
+2
+Automated Systems Engineering
+3
+Advanced systems control
+3
+Integrated management software package
+3
+Add-on 1 (Labview 1)
+2
+Add-on 2 (Labview 2)
+2
+English
+1
+Academic literature and ICT
+1
+Innovation and entrepreneurship
+1
+Advanced training course
+Total
+30
+Total face to face (Semester 5)
+30
+Total (3rd year)
+Total face to face (3rd year)
+PFE
+Full charge repair without PFE (Hours)
+Total Load Repair (Hours)
+45%
+22%
+29%
+Total load ratio with PFE
+Course
+TD
+TP
+Personal work
+Scientific and technical tools
+14%
+14%
+63%
+15%
+8%
+Hourly volume - Skills family
+Coefficients
+Duration
+Assimilation
+C
+1
+37.5
+40
+30
+1
+37.5
+40
+30
+1
+30
+30
+22.5
+52.5
+50
+22.5
+1
+30
+30
+22.5
+2
+45
+30
+22.5
+1
+22.5
+20
+1
+45
+30
+22.5
+1
+45
+30
+22.5
+2
+45
+30
+22.5
+1
+15
+20
+1
+22.5
+10
+1
+22.5
+10
+450
+370
+217.5
+Coefficients
+Duration
+Assimilation
+C
+1
+30
+30
+22.5
+2
+45
+45
+22.5
+2
+45
+45
+22.5
+2
+30
+35
+22.5
+1
+15
+10
+1
+30
+35
+22.5
+2
+45
+45
+22.5
+1
+45
+45
+30
+1
+45
+45
+22.5
+2
+37.5
+45
+22.5
+1
+15
+10
+1
+22.5
+10
+1
+22.5
+10
+18
+1
+22.5
+10
+18
+450
+420
+246
+Total Face to face =1932
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Duration
+C
+900
+463.5
+Coefficients
+Duration
+Assimilation
+C
+1
+37.5
+45
+30
+1
+45
+45
+22.5
+2
+30
+30
+22.5
+2
+22.5
+30
+15
+2
+37.5
+45
+22.5
+1
+22.5
+10
+1
+22.5
+10
+15
+2
+30
+30
+22.5
+1
+22.5
+10
+2
+37.5
+50
+22.5
+3
+45
+45
+22.5
+3
+37.5
+40
+22.5
+1
+15
+10
+15
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Total (1st year)
+Total face to face (1st year)
+Hourly volume by skill (1st year)
+Percentage (1st year)
+Total Credit per skill (1st year)
+Percentage (1st year)
+Percentage of Hourly Volume/Skills Family
+1
+22.5
+10
+1
+22.5
+10
+18
+450
+420
+250.5
+Coefficients
+Duration
+Assimilation
+C
+2
+30
+30
+22.5
+1
+22.5
+10
+1
+30
+45
+22.5
+2
+37.5
+50
+22.5
+2
+37.5
+50
+22.5
+1
+22.5
+10
+1
+30
+25
+15
+2
+30
+25
+22.5
+2
+30
+25
+22.5
+1
+30
+25
+15
+1
+30
+25
+22.5
+1
+22.5
+10
+15
+1
+30
+25
+22.5
+1
+22.5
+10
+18
+1
+22.5
+10
+1
+22.5
+10
+450
+385
+243
+900
+493.5
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Percentage (2nd year)
+Total Credit per skill (2nd year)
+Percentage (2nd year)
+772.5
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Hourly volume by skill (2nd year)
+Coefficients
+Duration
+Assimilation
+C
+2
+37.5
+45
+22.5
+2
+30
+45
+22.5
+1
+15
+10
+2
+30
+30
+22.5
+2
+30
+30
+22.5
+1
+22.5
+10
+2
+30
+25
+22.5
+2
+37.5
+45
+22.5
+2
+45
+30
+22.5
+2
+45
+30
+22.5
+1
+30
+25
+30
+1
+30
+25
+30
+1
+22.5
+10
+1
+22.5
+10
+1
+22.5
+10
+18
+450
+380
+258
+450
+900
+258
+Percentage of Hourly Volume/Skills Family
+385.5
+Hourly volume by skill (3rd year)
+Percentage
+Total Credit per skill (3rd year)
+Percentage (3rd year)
+385.5
+Total credits per skill
+Total hourly volume per skill
+Percentage
+Total charge
+Course
+TD
+TP
+2700.00
+1215.00
+601.50
+115.50
+100%
+45%
+22%
+4%
+2250.00
+1215.00
+601.50
+115.50
+100%
+54%
+27%
+5%
+Percentage of Hourly Volume/Skills Family
+Staff
+Self-development,
+innovation and
+projects
+Communication
+and managerial
+15%
+8%
+Technologies for SE and IOT
+63%
+Scientific and technical tools
+Technologies for SE and IOT
+Self-development, innovation and
+projects
+Communication and management
+Scientific and technical tools
+TD
+TP
+Personal work
+CS1
+7.5
+x
+7.5
+x
+7.5
+x
+15
+9
+6
+x
+7.5
+x
+22.5
+x
+22.5
+x
+22.5
+x
+22.5
+x
+15
+3
+4.5
+15
+18
+4.5
+18
+4.5
+163.5
+12
+57
+345
+24
+345
+36%
+TD
+TP
+Personal work
+CS1
+7.5
+x
+15
+3
+4.5
+x
+15
+3
+4.5
+x
+7.5
+15
+7.5
+x
+7.5
+9
+6
+x
+15
+x
+15
+3
+4.5
+x
+9
+6
+15
+x
+18
+4.5
+4.5
+4.5
+108
+27
+69
+300
+this =1932
+Distribution
+20.5
+300
+28%
+TD
+TP
+Personal work
+271.5
+39
+126
+645
+645
+29%
+44.50
+32%
+scientific and technical tools
+29%
+TD
+TP
+Personal work
+CS1
+7.5
+x
+15
+7.5
+x
+7.5
+7.5
+x
+9
+6
+22.5
+7.5
+7.5
+x
+22.5
+12
+3
+15
+7.5
+7.5
+7.5
+774
+18
+4.5
+4.5
+85.5
+51
+63
+135
+10
+135
+12%
+TD
+TP
+Personal work
+CS1
+7.5
+22.5
+7.5
+15
+x
+15
+x
+22.5
+7.5
+4.5
+3
+x
+7.5
+7.5
+7.5
+4.5
+3
+7.5
+x
+7.5
+7.5
+x
+4.5
+18
+4.5
+18
+4.5
+133.5
+9
+64.5
+165
+219
+60
+127.5
+300
+13
+165
+13%
+300
+11%
+23.00
+13%
+scientific and technical tools
+11%
+TD
+TP
+Personal work
+CS1
+15
+7.5
+15
+7.5
+7.5
+x
+22.5
+7.5
+7.5
+7.5
+15
+7.5
+7.5
+9
+6
+18
+4.5
+18
+4.5
+4.5
+111
+16.5
+64.5
+30
+450
+2
+30
+2%
+111
+16.5
+514.5
+30
+2%
+2
+2%
+scientific and technical tools
+2%
+Total Face to Face Personal Work
+768.00
+1932.00
+28%
+318.00
+1932.00
+14%
+54%
+27%
+5%
+14%
+Total load distribution without PFE
+Course
+TD
+TP
+Personal work
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+180
+60
+30
+52.5
+52.5
+97.5
+45
+82.5
+12
+4
+2
+4
+4
+6
+3
+4
+180
+60
+30
+52.5
+52.5
+97.5
+45
+82.5
+18%
+6%
+3%
+6%
+6%
+9%
+4%
+6%
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+142.5
+142.5
+75
+45
+45
+142.5
+90
+97.5
+Communication, management
+Technologies for SE and IoT
+10.5
+4
+5.5
+3
+3.5
+10.5
+6
+5
+142.5
+52.5
+75
+45
+45
+142.5
+90
+97.5
+14%
+5%
+7%
+4%
+5%
+14%
+8%
+7%
+322.5
+202.5
+105
+97.5
+97.5
+240
+135
+180
+322.5
+202.5
+105
+97.5
+97.5
+240
+135
+180
+15%
+9%
+5%
+4%
+4%
+11%
+6%
+8%
+22.50
+8.00
+7.50
+7.00
+7.50
+16.50
+9.00
+9.00
+16%
+6%
+5%
+5%
+5%
+12%
+6%
+6%
+auto-
+developments
+t,
+innovation
+and projects
+8%
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+54%
+Technologies for SE and IOT
+x
+x
+262.5
+202.5
+75
+22.5
+52.5
+210
+135
+90
+17
+13
+6
+2
+3
+14
+8
+4
+262.5
+202.5
+75
+22.5
+52.5
+210
+135
+90
+21%
+16%
+7%
+2%
+4%
+17%
+10%
+5%
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+195
+247.5
+112.5
+157.5
+82.5
+225
+90
+112.5
+457.5
+450
+187.5
+180
+135
+435
+225
+202.5
+13
+16
+7
+12
+5.5
+15
+6
+5
+195
+247.5
+112.5
+157.5
+82.5
+225
+90
+112.5
+13%
+16%
+7%
+12%
+6%
+15%
+6%
+5%
+457.5
+450
+187.5
+180
+135
+435
+225
+202.5
+16%
+16%
+7%
+6%
+5%
+15%
+8%
+7%
+30.00
+29.00
+13.00
+14.00
+8.50
+29.00
+14.00
+9.00
+17%
+16%
+7%
+8%
+5%
+16%
+8%
+5%
+auto-
+developments
+t,
+innovation
+and projects
+7%
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+247.5
+195
+15
+187.5
+75
+135
+255
+105
+x
+18
+14
+1
+11
+10
+16
+6
+35
+247.5
+195
+15
+157.5
+135
+225
+97.5
+555
+15%
+12%
+1%
+9%
+8%
+13%
+5%
+29%
+247.5
+195
+15
+157.5
+135
+225
+97.5
+555
+14%
+11%
+1%
+9%
+8%
+13%
+5%
+31%
+18
+14
+1
+11
+10
+16
+6
+35
+10%
+8%
+1%
+6%
+6%
+9%
+3%
+19%
+Technologies for SE and IOT
+73%
+auto-
+developments
+t,
+innovation
+and projects
+31%
+Technologies for SE and IOT
+60%
+CS10
+CS11
+Total skills
+1
+1
+1
+4
+3
+3
+x
+5
+1
+2
+2
+x
+4
+x
+2
+x
+2
+82.5
+Total
+0
+4
+67
+0
+82.5
+1027.5
+0%
+6%
+CS10
+CS11
+Total skills
+1
+2
+2
+3
+x
+5
+2
+3
+3
+1
+3
+x
+6
+x
+2
+x
+2
+x
+2
+22.5
+75
+Total
+Communication, management, personal development and
+1
+4
+73.5
+22.5
+75
+1087.5
+1%
+5%
+22.5
+157.5
+22.5
+157.5
+2205
+1%
+7%
+1.00
+8.00
+140.50
+1%
+6%
+CS10
+CS11
+Total skills
+1
+1
+5
+3
+2
+x
+7
+3
+4
+x
+5
+4
+3
+1
+2
+Communication and management
+8%
+x
+x
+3
+x
+2
+45
+67.5
+Total
+2
+3
+82
+45
+67.5
+1297.5
+2%
+4%
+CS10
+CS11
+Total skills
+4
+x
+6
+3
+2
+2
+x
+4
+3
+5
+5
+4
+5
+4
+1
+1
+x
+x
+3
+x
+x
+3
+45
+90
+90
+157.5
+Total
+2
+4
+98.5
+45
+90
+1522.5
+2%
+4%
+90
+157.5
+2820
+3%
+6%
+4.00
+7.00
+180.50
+2%
+4%
+CS10
+CS11
+Total skills
+3
+3
+x
+7
+3
+5
+x
+6
+3
+4
+2
+1
+2
+2
+x
+2
+x
+2
+x
+x
+3
+22.5
+105
+Total
+1
+5
+119
+22.5
+105
+1785
+1%
+4%
+22.5
+105
+1785
+1%
+6%
+1
+5
+119
+1%
+3%
+Communication and management
+9%
+Communication and management
+7%
+Course
+TD
+TP
+Face-to-face
+Non-Presential
+Personal work
+Total
+30%
+35%
+Hourly volume/Competence
+86.00%
+14.00%
+0%
+20%
+40%
+60%
+80%
+100%
+1st Year
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+CS1
+CS2
+CS3
+CS4
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+CS1
+CS2
+CS3
+CS4
+Credit Rate/Compe
+CS1
+CS2
+CS3
+CS4
+1st Year
+2nd Year
+3rd Year
+51.50%
+54.83%
+28.67%
+30.17%
+24.33%
+12.33%
+4.33%
+6.67%
+1.83%
+Hourly volume per year
+14.00%
+14.17%
+57.17%
+100.00%
+100.00%
+100.00%
+1st Year
+2nd Year
+3rd Year
+86.00%
+85.83%
+42.83%
+14.00%
+14.17%
+57.17%
+schedule/Skills - ISEOC training
+86.00%
+85.83%
+42.83%
+14.00%
+14.17%
+57.17%
+1st Year
+2nd Year
+3rd Year
+Face-to-face vs. Non-face-to-face by year
+Face-to-face
+Non-Presential
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+Credit/Skills - ISEOC training
+Total (1st year)
+Total (2nd year)
+Total (3rd year)
+Total (1st year)
+Total (2nd year)
+Total (3rd year)
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+463.5
+493.5
+271.5
+196.5
+39
+60
+126
+127.5
+1
+2
+HOURLY VOLUME / YEAR -ISEOC
+C
+TD
+TP
+Personal work
+1st year
+CS10
+CS11
+1st year
+2nd year
+3rd year
+CS10
+CS11
+1st year
+2nd year
+3rd year
+Duration
+C
+TD
+TP
+Personal work
+900
+463.5
+271.5
+39
+126
+900
+493.5
+219
+60
+127.5
+900
+258
+111
+16.5
+514.5
+51.50%
+30.17%
+4.33%
+14.00%
+54.83%
+24.33%
+6.67%
+14.17%
+28.67%
+12.33%
+1.83%
+57.17%
+CS10
+CS11
+258
+81
+16.5
+514.5
+3
+51.50%
+30.17%
+4.33%
+14.00%
+1
+54.83%
+28.67%
+24.33%
+12.33%
+6.67%
+1.83%
+14.17%
+57.17%
+2
+3
+% C TD TP TPE / YEAR -ISEOC
+C
+TD
+TP
+Personal work
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Linear Algebra
+2
+1
+Math supplement
+2
+1
+Signal processing
+2
+1
+Electronics for the engineer
+4
+2
+Information theory and coding
+2
+1
+Fundamental algorithms
+4
+2
+Mini algorithmic project
+2
+1
+Theory of languages ​​and automata
+2
+1
+Computer logic
+2
+1
+Advanced Operating Systems
+4
+2
+Mini project Operating systems
+2
+1
+Language and methodology
+1
+1
+Business Communication  
+1
+1
+Total
+30
+2020_2021
+Number
+16
+Number
+33
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Applied analysis
+2
+1
+Numerical analysis
+3
+2
+Dynamical systems theory
+dynamics
+3
+2
+Advanced processor architecture
+ 
+processors
+3
+2
+Mini project systems at
+microprocessors
+2
+1
+Waves and applications
+2
+1
+Analogue and telecommunications
+digital
+analog and digital
+3
+2
+Object Programming
+2
+1
+Semester 1
+Mathematics
+e 1
+Signals and
+Systems
+Algorithmic
+and put
+ 
+in work
+Theory of
+computer science
+Systems
+operating
+and put
+SKILLS
+behavior
+ 
+tales I
+Semester 2
+Mathematics
+it is 2
+Systems and
+architectures
+Telecommunications
+cations
+programming
+n and
+Total credits per skill
+Compilation techniques
+2
+1
+Databases and interfaces
+3
+2
+Mini programming project
+object and databases
+2
+1
+Language and Methodology
+1
+1
+Digital and system management
+of information
+1
+1
+Business Communication
+1
+1
+30
+2020_2021
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Statistical methods
+2
+1
+Optimization
+2
+1
+Microcontrollers and objects
+connected
+connected
+2
+2
+Discrete event systems
+discreet
+2
+2
+Business networks
+2
+2
+Mini-project Microcontrollers and
+connected objects
+microcontrollers and objects
+connected
+1
+1
+Fundamentals of distributed systems
+ 
+distributed
+2
+1
+System Programming in Unix
+ 
+under Unix
+2
+2
+Distributed Systems Project
+1
+1
+Client/server architecture and
+middleware programming
+and programming
+middleware
+2
+2
+Object Oriented Modeling
+objects
+4
+3
+AI and Expert Systems
+4
+3
+Software Engineering
+2
+1
+n and
+ 
+compilation
+Bases of
+data and
+put in
+ 
+artwork
+SKILLS
+behavior
+tales II
+Total
+Total credits per skill
+Semester 3
+Mathematics
+is for
+the engineer
+Foundations
+of the
+IoT systems
+Systems
+distributed
+Genius of the
+software and
+systems
+intelligent
+Personal Development and
+Socializing
+1
+1
+ICT Law
+1
+1
+Total
+30
+2020_2021
+Number
+STUDENTS
+17
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Digital Circuit Design
+3
+2
+Mini-project Design and
+implementation of circuits
+digital on FPGA
+1
+1
+Multiprocessor architectures
+2
+1
+Modeling and identification of
+systems
+2
+2
+Digital control of systems
+2
+2
+Mini-project Identification and
+digital control of systems
+1
+1
+Power electronics
+2
+1
+Communication protocols of
+connected objects
+3
+2
+Smart sensors and networks
+sensors
+IOT
+3
+2
+Home automation and connected buildings
+IOT
+2
+1
+Operational safety
+2
+1
+Embedded systems security
+IOT
+2
+1
+Stochastic modeling
+IOT
+2
+1
+Internet Marketing
+1
+1
+Personal development and socializing
+socializing
+1
+1
+SKILLS
+behavior
+tales III
+Total credits per skill
+Semester 4
+Design
+And
+implementation
+we have
+circuits
+digital
+on FPGA
+Modeling
+,
+identification
+And
+order
+systems
+Objects
+connected
+Safety of
+operation
+nt
+SKILLS
+behavior
+tales IV
+Personal and professional project
+professional
+1
+1
+Total
+30
+2020_2021
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Embedded systems design
+4
+2
+Time Application Development
+real on-board
+3
+2
+Mini-project Embedded systems
+connected
+1
+1
+On-board vision
+service platforms
+telecoms
+3
+2
+Mobile robotics
+3
+2
+Mini-project Vision and robotics
+telecom services
+1
+1
+AI and renewable energy
+2
+2
+Automated Systems Engineering
+3
+2
+Advanced systems control
+3
+2
+Integrated management software package
+2
+2
+Add-on 1 (Labview
+1)
+1
+1
+Add-on 2 (Labview
+2)
+1
+1
+English
+1
+1
+Academic literature and ICT
+1
+1
+Innovation and entrepreneurship
+1
+1
+2020_2021
+tales IV
+Total credits per skill
+Semester 5
+Design
+systems
+embarked and
+real time
+ 
+Engineering
+Vision,
+robotics and
+AI
+Automation
+and order
+advancement of
+systems
+Modules
+Complementa
+ires
+SKILLS
+behavior
+tales V
+Total credits per skill
+Number
+22
+Scientific and technical tools
+CS1
+CS2
+CS3
+Semester 1
+0.498316498
+0.66666667
+0.4798
+Semester 2
+0.454545455
+0.70909091
+0.553
+Semester 3
+0.548076923
+0.77777778
+0.7756
+Semester 4
+0.630769231
+0.81868132
+0.8269
+Semester 5
+0.772727273
+0.80454545
+0.7273
+% Main
+58%
+76%
+67%
+Scientific and technical tools
+CS1
+CS2
+CS3
+Semester 1
+0.555555556
+0.7030303
+0.4949
+Semester 2
+0.496212121
+0.75757576
+0.5909
+Semester 3
+0.576923077
+0.82051282
+0.8141
+Semester 4
+0.7
+0.8956044
+0.9231
+Semester 5
+0.954545455
+0.90909091
+0.8636
+% Catch-up
+66%
+82%
+74%
+2020-2021
+2020-2021
+Tools
+scientist
+ues and
+technical
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+9
+5
+6
+1
+1
+1
+4
+1
+165
+116
+98
+30
+27
+27
+73
+9
+0.555556
+0.7030303 0.495
+0.90909091
+0.81818182
+0.81818182
+0.5530303
+0.27272727
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Technologies for SE and IoT
+x
+x
+x
+x
+x
+x
+x
+x
+x
+8
+5
+4
+2
+1
+2
+5
+2
+131
+125
+78
+11
+28
+55
+125
+31
+0.496212
+0.75757576 0.591
+0.16666667
+0.84848485
+0.83333333
+0.75757576
+0.46969697
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+4
+9
+6
+2
+1
+2
+5
+5
+60
+192
+127
+46
+4
+45
+118
+112
+0.576923 0.82051282 0.814 0.88461538
+0.15384615
+0.86538462
+0.90769231
+0.86153846
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+5
+7
+4
+4
+5
+3
+3
+6
+91
+163
+96
+96
+105
+70
+67
+137
+0.7
+0.8956044
+0.923 0.92307692
+0.80769231
+0.8974359
+0.85897436
+0.87820513
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+1
+10
+1
+1
+7
+6
+7
+9
+21
+200
+19
+21
+150
+128
+145
+178
+0.954545 0.90909091 0.864 0.95454545
+0.97402597
+0.96969697
+0.94155844
+0.8989899
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+0.727273
+0.6969697 0.697
+0.5
+0.24242424
+0.89393939
+0
+0.89393939
+0.090909
+0.72727273 0.788
+0.70909091
+0.39393939
+0.80606061
+0.6969697
+0.83333333
+0.788462
+0.11538462 0.827
+0.88461538
+0.81538462
+0.83653846
+0.67307692
+0.98717949
+0.826923
+0.74615385 0.833
+0.80769231
+0.80769231
+0.98461538
+0.96153846
+0.98076923
+0.954545
+0.81818182 0.871
+0.83766234
+0.7979798
+0.77272727
+0.90909091
+0.77272727
+68%
+62%
+80%
+75%
+61%
+86%
+81%
+71%
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+0.909091
+0.81818182 0.818
+0.5530303
+0.27272727
+0.89393939
+0
+0.89393939
+0.166667
+0.84848485 0.833
+0.75757576
+0.46969697
+0.80606061
+0.6969697
+0.83333333
+0.884615
+0.15384615 0.865
+0.90769231
+0.86153846
+0.83653846
+0.67307692
+0.98717949
+0.923077
+0.80769231 0.897
+0.85897436
+0.87820513
+0.98461538
+0.96153846
+0.98076923
+0.954545
+0.97402597
+0.97
+0.94155844
+0.8989899
+0.77272727
+0.90909091
+0.77272727
+77%
+72%
+88%
+80%
+68%
+86%
+81%
+71%
+Technologies for SE and IoT
+Communication, management,
+Technologies for SE and IoT
+Communication, management,
+CS9
+CS10
+CS11
+Total SP Students
+21
+16
+22
+23
+24
+1
+x
+x
+33
+0
+8
+20
+x
+x
+33
+x
+x
+33
+x
+x
+19
+4
+0
+4
+118
+0
+118
+0.89393939
+0
+0.89393939
+CS9
+CS10
+CS11
+Total SP Students
+20
+24
+24
+19
+x
+x
+33
+4
+2
+5
+Communication, management,
+personal development and innovation
+Total credits per skill (Main): 2021_2022
+8
+27
+x
+x
+33
+x
+x
+28
+x
+x
+23
+x
+x
+16
+5
+1
+4
+133
+23
+110
+0.80606061
+0.6969697
+0.83333333
+CS9
+CS10
+CS11
+Total SP Students
+16
+18
+17
+3
+18
+x
+x
+26
+14
+20
+x
+x
+26
+23
+20
+23
+18
+Total credits per skill (Main): 2021_2022
+x
+x
+x
+25
+x
+x
+10
+4
+2
+3
+87
+35
+77
+0.83653846
+0.67307692
+0.98717949
+CS9
+CS10
+CS11
+Total SP Students
+18
+x
+x
+26
+19
+23
+17
+x
+x
+26
+10
+23
+17
+23
+21
+23
+11
+x
+26
+x
+x
+x
+24
+Total credits per skill (Main): 2021_2022
+x
+x
+x
+26
+5
+2
+4
+128
+50
+102
+0.98461538
+0.96153846
+0.98076923
+CS9
+CS10
+CS11
+Total SP Students
+18
+16
+x
+x
+21
+11
+17
+x
+x
+22
+18
+19
+18
+19
+17
+18
+x
+x
+13
+x
+x
+9
+x
+x
+x
+20
+Total students
+5
+1
+5
+85
+20
+85
+0.77272727
+0.90909091
+0.77272727
+Total credits per skill (Main): 2021_2022
+Total credits per skill (Main): 2021_2022
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+CS1
+CS2
+CS3
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+ISEOC Promotion 2020/2021
+% Etds passed / CSi - Catch-up session  
+SR
+Total
+% students passed >=10 SP
+1
+22
+0.636363636
+2
+18
+0.484848485
+3
+25
+0.666666667
+4
+27
+0.696969697
+6
+30
+0.727272727
+0
+1
+0.03030303
+0
+33
+1
+0
+0
+0
+1
+9
+0.242424242
+2
+22
+0.606060606
+0
+33
+1
+0
+33
+1
+0
+19
+0.575757576
+33
+9
+5
+148
+110
+0.498316498
+0.666666667
+SR
+Total
+% students passed >=10 SP
+2
+22
+0.606060606
+0
+24
+0.727272727
+4
+28
+0.727272727
+3
+22
+0.575757576
+33
+1
+0
+4
+0.121212121
+5
+7
+0.060606061
+0
+5
+0.151515152
+2020- 2021
+Main): 2021_2022
+2020- 2021
+0
+8
+0.242424242
+5
+32
+0.818181818
+0
+33
+1
+0
+28
+0.848484848
+0
+23
+0.696969697
+0
+16
+0.484848485
+8
+5
+4
+120
+117
+73
+0.454545455
+0.709090909
+0.553030303
+SR
+Total
+% students passed >=10 SP
+0
+16
+0.615384615
+2
+20
+0.692307692
+2
+19
+0.653846154
+1
+4
+0.115384615
+2
+20
+0.692307692
+0
+26
+1
+1
+15
+0.538461538
+0
+20
+0.769230769
+0
+26
+1
+3
+26
+0.884615385
+0
+20
+0.769230769
+3
+26
+0.884615385
+2
+20
+0.692307692
+2020- 2021
+0
+25
+0.961538462
+0
+10
+0.384615385
+4
+9
+6
+57
+182
+121
+0.548076923
+0.777777778
+0.775641026
+SR
+Total
+% students passed >=10 SP
+2
+20
+0.692307692
+0
+26
+1
+2
+21
+0.730769231
+3
+26
+0.884615385
+2
+19
+0.653846154
+0
+26
+1
+0
+10
+0.384615385
+3
+26
+0.884615385
+1
+18
+0.653846154
+3
+26
+0.884615385
+3
+24
+0.807692308
+3
+26
+0.884615385
+1
+12
+0.423076923
+0
+26
+1
+0
+24
+0.923076923
+2020- 2021
+0
+26
+1
+5
+7
+4
+82
+149
+86
+0.630769231
+0.818681319
+0.826923077
+SR
+Total
+% students passed >=10 SP
+4
+22
+0.818181818
+3
+19
+0.727272727
+0
+21
+0.954545455
+0
+11
+0.5
+4
+21
+0.772727273
+0
+22
+1
+4
+22
+0.818181818
+4
+23
+0.863636364
+3
+21
+0.818181818
+4
+23
+0.863636364
+2
+19
+0.772727273
+3
+21
+0.818181818
+0
+13
+0.590909091
+0
+9
+0.409090909
+0
+20
+0.909090909
+22
+1
+10
+17
+177
+0.772727273
+0.804545455
+2020- 2021
+Main): 2021_2022
+CS4
+CS5
+CS6
+CS7
+CS8
+CS9
+ISEOC Promotion 2020/2021
+% Etds passed / CSi - Main Session  
+CS7
+CS8
+CS9
+CS10
+CS11
+ISEOC 2020/2021
+Catch-up Session  
+% students passed >=10 SR
+0.666666667
+0.545454545
+0.757575758
+0.818181818
+0.909090909
+0.03030303
+1
+0
+0.272727273
+0.666666667
+1
+1
+0.575757576
+6
+1
+1
+1
+4
+95
+24
+23
+23
+66
+0.47979798
+0.727272727
+0.6969697
+0.6969697
+0.5
+% students passed >=10 SR
+0.666666667
+0.727272727
+0.848484848
+0.666666667
+1
+0.121212121
+0.212121212
+0.151515152
+0.242424242
+0.96969697
+1
+0.848484848
+0.696969697
+0.484848485
+2
+1
+2
+5
+2
+6
+24
+52
+117
+26
+0.090909091
+0.727272727
+0.78787879
+0.70909091
+0.39393939
+% students passed >=10 SR
+0.615384615
+0.769230769
+0.730769231
+0.153846154
+0.769230769
+1
+0.576923077
+0.769230769
+1
+1
+0.769230769
+1
+0.769230769
+0.961538462
+0.384615385
+2
+1
+2
+5
+5
+41
+3
+43
+115
+106
+0.788461538
+0.115384615
+0.82692308
+0.88461538
+0.81538462
+% students passed >=10 SR
+0.769230769
+1
+0.807692308
+1
+0.730769231
+1
+0.384615385
+1
+0.692307692
+1
+0.923076923
+1
+0.461538462
+1
+0.923076923
+1
+4
+5
+3
+3
+6
+86
+97
+65
+63
+126
+0.826923077
+0.746153846
+0.83333333
+0.80769231
+0.80769231
+% students passed >=10 SR
+1
+0.863636364
+0.954545455
+0.5
+0.954545455
+1
+1
+1.045454545
+0.954545455
+1.045454545
+0.863636364
+0.954545455
+0.590909091
+0.409090909
+0.909090909
+1
+1
+7
+6
+7
+16
+21
+126
+115
+129
+0.727272727
+0.954545455
+0.81818182
+0.87121212
+0.83766234
+CS10
+CS11
+1
+4
+0
+4
+8
+118
+0
+118
+0.24242424
+0.89393939
+#DIV/0!
+0.89393939
+5
+1
+4
+133
+23
+110
+0.80606061
+0.6969697
+0.83333333
+4
+2
+3
+87
+35
+77
+0.83653846
+0.67307692
+0.98717949
+5
+2
+4
+128
+50
+102
+0.98461538
+0.96153846
+0.98076923
+9
+5
+1
+5
+158
+85
+20
+85
+0.7979798
+0.77272727
+0.90909091
+0.77272727
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Linear Algebra
+2
+1
+Math supplement
+2
+1
+Signal processing
+2
+1
+Electronics for the engineer
+4
+2
+Information theory and coding
+2
+1
+Fundamental algorithms
+4
+2
+Mini algorithmic project
+2
+1
+Theory of languages ​​and automata
+2
+1
+Computer logic
+2
+1
+Advanced Operating Systems
+4
+2
+Mini project Operating systems
+2
+1
+Language and methodology
+1
+1
+Business Communication  
+1
+1
+Total
+30
+2021_2022
+Number
+16
+Number
+33
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Applied analysis
+2
+1
+Numerical analysis
+3
+2
+Dynamical systems theory
+dynamics
+3
+2
+Advanced processor architecture
+ 
+processors
+3
+2
+Mini project systems at
+microprocessors
+2
+1
+Waves and applications
+2
+1
+Analogue and telecommunications
+digital
+analog and digital
+3
+2
+Object Programming
+2
+1
+Semester 1
+Mathematics
+e 1
+Signals and
+Systems
+Algorithmic
+and put
+ 
+in work
+Theory of
+computer science
+Systems
+operating
+and put
+SKILLS
+behavior
+ 
+tales I
+Total credits per skill
+Semester 2
+Mathematics
+it is 2
+Systems and
+architectures
+Telecommunications
+cations
+programming
+n and
+Compilation techniques
+2
+1
+Databases and interfaces
+3
+2
+Mini programming project
+object and databases
+2
+1
+Language and Methodology
+1
+1
+Digital and system management
+of information
+1
+1
+Business Communication
+1
+1
+30
+2021_2022
+Number
+16
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Statistical methods
+2
+1
+Optimization
+2
+1
+Microcontrollers and objects
+connected
+connected
+2
+2
+Discrete event systems
+discreet
+2
+2
+Business networks
+2
+2
+Mini-project Microcontrollers and
+connected objects
+microcontrollers and objects
+connected
+1
+1
+Fundamentals of distributed systems
+ 
+distributed
+2
+1
+System Programming in Unix
+ 
+under Unix
+2
+2
+Distributed Systems Project
+1
+1
+Client/server architecture and
+middleware programming
+and programming
+middleware
+2
+2
+Object Oriented Modeling
+objects
+4
+3
+AI and Expert Systems
+4
+3
+Software Engineering
+2
+1
+n and
+ 
+compilation
+Bases of
+data and
+put in
+ 
+artwork
+SKILLS
+behavior
+tales II
+Total
+Total credits per skill
+Semester 3
+Mathematics
+is for
+the engineer
+Foundations
+of the
+IoT systems
+Systems
+distributed
+Genius of the
+software and
+systems
+intelligent
+Personal Development and
+Socializing
+1
+1
+ICT Law
+1
+1
+Total
+30
+2021_2022
+Number
+14
+STUDENTS
+17
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Digital Circuit Design
+3
+2
+Mini-project Design and
+implementation of circuits
+digital on FPGA
+1
+1
+Multiprocessor architectures
+2
+1
+Modeling and identification of
+systems
+2
+2
+Digital control of systems
+2
+2
+Mini-project Identification and
+digital control of systems
+1
+1
+Power electronics
+2
+1
+Communication protocols of
+connected objects
+3
+2
+Smart sensors and networks
+sensors
+IOT
+3
+2
+Home automation and connected buildings
+IOT
+2
+1
+Operational safety
+2
+1
+Embedded systems security
+IOT
+2
+1
+Stochastic modeling
+IOT
+2
+1
+Internet Marketing
+1
+1
+Personal development and socializing
+socializing
+1
+1
+SKILLS
+behavior
+tales III
+Total credits per skill
+Semester 4
+Design
+And
+implementation
+we have
+circuits
+digital
+on FPGA
+Modeling
+,
+identification
+And
+order
+systems
+Objects
+connected
+Safety of
+operation
+nt
+SKILLS
+behavior
+tales IV
+Personal and professional project
+professional
+1
+1
+Total
+30
+2021_2022
+Number
+14
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Embedded systems design
+4
+2
+Time Application Development
+real on-board
+3
+2
+Mini-project Embedded systems
+connected
+1
+1
+On-board vision
+service platforms
+telecoms
+3
+2
+Mobile robotics
+3
+2
+Mini-project Vision and robotics
+telecom services
+1
+1
+AI and renewable energy
+2
+2
+Automated Systems Engineering
+3
+2
+Advanced systems control
+3
+2
+Integrated management software package
+2
+2
+Add-on 1 (Labview
+1)
+1
+1
+Add-on 2 (Labview
+2)
+1
+1
+English
+1
+1
+Academic literature and ICT
+1
+1
+Innovation and entrepreneurship
+1
+1
+2021_2022
+Total credits per skill
+tales IV
+Vision,
+robotics and
+AI
+Automation
+and order
+advancement of
+systems
+Modules
+Complementa
+ires
+SKILLS
+behavior
+tales V
+Total credits per skill
+Semester 5
+Design
+systems
+embarked and
+real time
+ 
+Engineering
+Number
+13
+Tools
+scientists
+And
+techniques
+CS1
+CS2
+CS3
+CS4
+Semester 1
+0.26388889
+0.5
+0.36458333
+0.3125
+Semester 2
+0.3046875
+0.5
+0.421875
+0.1875
+Semester 3
+0.32142857
+0.46031746
+0.4047619
+0.3571
+Semester 4
+0.3
+0.448979592
+0.39285714
+0.3929
+Semester 5
+0.61538462
+0.676923077
+0.61538462
+1
+% Main
+36%
+52%
+44%
+45%
+Tools
+scientists
+And
+techniques
+CS1
+CS2
+CS3
+CS4
+Semester 1
+0.45833333
+0.6
+0.41666667
+0.8125
+Semester 2
+0.5859375
+0.6375
+0.671875
+0.4375
+Semester 3
+0.60714286
+0.706349206
+0.61904762
+0.7143
+Semester 4
+0.54285714
+0.826530612
+0.875
+0.875
+Semester 5
+0.69230769
+0.776923077
+0.84615385
+1
+% Catch-up
+58%
+71%
+69%
+77%
+2021-2022
+2021-2022
+Technologies for SE and IoT
+Technologies for SE and IoT
+Tools
+scientist
+ues and
+technical
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+9
+5
+6
+1
+1
+1
+4
+1
+66
+48
+40
+13
+13
+13
+31
+1
+0.458333
+0.6 0.417
+0.8125
+0.8125
+0.8125
+0.484375
+0.0625
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Technologies for SE and IoT
+x
+x
+x
+x
+x
+x
+x
+x
+x
+8
+5
+4
+2
+1
+2
+5
+2
+75
+51
+43
+14
+13
+23
+51
+23
+0.585938
+0.6375 0.672
+0.4375
+0.8125
+0.71875
+0.6375
+0.71875
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+4
+9
+6
+2
+1
+2
+5
+5
+34
+89
+52
+20
+12
+25
+56
+57
+0.607143 0.70634921 0.619 0.71428571
+0.85714286
+0.89285714
+0.8
+0.81428571
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+5
+7
+4
+4
+5
+3
+3
+6
+38
+81
+49
+49
+52
+31
+32
+67
+0.542857 0.82653061 0.875
+0.875
+0.74285714
+0.73809524
+0.76190476
+0.79761905
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+1
+10
+1
+1
+7
+6
+7
+9
+9
+101
+11
+13
+74
+63
+72
+94
+0.692308 0.77692308 0.846
+1
+0.81318681
+0.80769231
+0.79120879
+0.8034188
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+0.375
+0.375 0.328
+0
+0.859375
+0
+0.859375
+0.3125
+0.59375
+0.5
+0.28125
+0.9625
+1
+0.953125
+0.428571
+0.67857143 0.614
+0.58571429
+0.71428571
+0.42857143
+0.85714286
+0.5
+0.54761905 0.524
+0.45238095
+0.78571429
+0.71428571
+0.82142857
+0.659341
+0.74358974 0.714
+0.7008547
+0.75384615
+0.53846154
+0.75384615
+46%
+59%
+54%
+40%
+82%
+54%
+85%
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+0.8125
+0.8125 0.484
+0.0625
+0.859375
+0
+0.859375
+0.8125
+0.71875 0.638
+0.71875
+0.9625
+1
+0.953125
+0.857143
+0.89285714
+0.8
+0.81428571
+0.71428571
+0.42857143
+0.85714286
+0.742857
+0.73809524 0.762
+0.79761905
+0.78571429
+0.71428571
+0.82142857
+0.813187
+0.80769231 0.791
+0.8034188
+0.75384615
+0.53846154
+0.75384615
+81%
+79%
+69%
+64%
+82%
+54%
+85%
+s for SE and IoT
+Communication, management,
+personal development and innovation
+s for SE and IoT
+Communication, management,
+personal development and innovation
+CS9
+CS10
+CS11
+Total SP Students
+5
+3
+2
+6
+5
+0
+x
+x
+16
+1
+0
+2
+x
+x
+16
+x
+x
+12
+x
+x
+11
+4
+0
+4
+55
+0
+55
+0.859375
+0
+0.859375
+CS9
+CS10
+CS11
+Total SP Students
+1
+3
+5
+3
+x
+x
+16
+0
+6
+3
+Total credits per skill (Main): 2021_2022
+Communication, management,
+personal development and innovation
+6
+3
+x
+x
+15
+x
+x
+15
+x
+x
+16
+x
+x
+15
+5
+1
+4
+77
+16
+61
+0.9625
+1
+0.953125
+CS9
+CS10
+CS11
+Total SP Students
+3
+4
+5
+6
+5
+x
+x
+14
+2
+5
+x
+x
+14
+5
+5
+6
+3
+Total credits per skill (Main): 2021_2022
+x
+x
+x
+8
+x
+x
+4
+4
+2
+3
+40
+12
+36
+0.71428571
+0.42857143
+0.85714286
+CS9
+CS10
+CS11
+Total SP Students
+5
+x
+x
+12
+5
+4
+5
+x
+x
+14
+6
+6
+4
+6
+6
+6
+0
+x
+9
+x
+x
+x
+11
+Total credits per skill (Main): 2021_2022
+x
+x
+x
+9
+5
+2
+4
+55
+20
+46
+0.78571429
+0.71428571
+0.82142857
+CS9
+CS10
+CS11
+Total SP Students
+5
+8
+x
+x
+13
+8
+8
+x
+x
+13
+9
+9
+6
+10
+8
+10
+x
+x
+9
+x
+x
+7
+x
+x
+x
+7
+Total students
+5
+1
+5
+49
+7
+49
+0.75384615
+0.53846154
+0.75384615
+Total credits per skill (Main): 2021_2022
+Total credits per skill (Main): 2021_2022
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+ISEOC Promotion 2021/2022
+% Etds passed / CSi - Main Session  
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+ISEOC Promotion 2021/2022
+% Etds passed / CSi - Catch-up session
+SR
+Total
+% students passed >=10 SP
+4
+9
+0.3125
+2
+5
+0.1875
+2
+4
+0.125
+7
+13
+0.375
+8
+13
+0.3125
+1
+1
+0
+0
+16
+1
+3
+4
+0.0625
+1
+1
+0
+0
+2
+0.125
+0
+16
+1
+0
+12
+0.75
+0
+11
+0.6875
+16
+9
+5
+38
+40
+0.263888889
+0.5
+SR
+Total
+% students passed >=10 SP
+0
+1
+0.0625
+6
+9
+0.1875
+8
+13
+0.3125
+4
+7
+0.1875
+0
+16
+1
+0
+0
+0
+8
+14
+0.375
+5
+8
+0.1875
+Main): 2021_2022
+2021- 2022
+2021- 2022
+9
+15
+0.375
+2
+5
+0.1875
+0
+15
+0.9375
+0
+15
+0.9375
+0
+16
+1
+0
+15
+0.9375
+8
+5
+4
+39
+40
+27
+0.3046875
+0.5
+0.421875
+SR
+Total
+% students passed >=10 SP
+4
+7
+0.214285714
+0
+4
+0.285714286
+6
+11
+0.357142857
+6
+12
+0.428571429
+7
+12
+0.357142857
+0
+14
+1
+2
+4
+0.142857143
+6
+11
+0.357142857
+0
+14
+1
+3
+8
+0.357142857
+4
+9
+0.357142857
+8
+14
+0.428571429
+3
+6
+0.214285714
+2021- 2022
+0
+8
+0.571428571
+0
+4
+0.285714286
+4
+9
+6
+18
+58
+34
+0.321428571
+0.46031746
+0.404761905
+SR
+Total
+% students passed >=10 SP
+3
+8
+0.357142857
+0
+12
+0.857142857
+7
+12
+0.357142857
+1
+5
+0.285714286
+4
+9
+0.357142857
+0
+14
+1
+7
+13
+0.428571429
+8
+14
+0.428571429
+3
+7
+0.285714286
+8
+14
+0.428571429
+5
+11
+0.428571429
+8
+14
+0.428571429
+0
+0
+0
+0
+9
+0.642857143
+0
+11
+0.785714286
+2021- 2022
+0
+9
+0.642857143
+5
+7
+4
+21
+44
+22
+0.3
+0.448979592
+0.392857143
+SR
+Total
+% students passed >=10 SP
+0
+5
+0.384615385
+3
+11
+0.615384615
+13
+1
+2
+10
+0.615384615
+1
+9
+0.615384615
+13
+1
+3
+12
+0.692307692
+2
+11
+0.692307692
+2
+8
+0.461538462
+3
+13
+0.769230769
+1
+9
+0.615384615
+2
+12
+0.769230769
+9
+0.692307692
+7
+0.538461538
+7
+0.538461538
+13
+1
+10
+8
+88
+0.615384615
+0.676923077
+2021- 2022
+Main): 2021_2022
+ISEOC 2021/2022
+Main Session  
+Catch-up
+% students passed >=10 SR
+0.5625
+0.3125
+0.25
+0.8125
+0.8125
+0.0625
+1
+0.25
+0.0625
+0.125
+1
+0.75
+0.6875
+6
+1
+1
+1
+4
+35
+5
+6
+6
+21
+0.364583333
+0.3125
+0.375
+0.375
+0.328125
+% students passed >=10 SR
+0.0625
+0.5625
+0.8125
+0.4375
+1
+0
+0.875
+0.5
+0.9375
+0.3125
+0.9375
+0.9375
+1
+0.9375
+2
+1
+2
+5
+2
+6
+5
+19
+40
+9
+0.1875
+0.3125
+0.59375
+0.5
+0.28125
+% students passed >=10 SR
+0.5
+0.285714286
+0.785714286
+0.857142857
+0.857142857
+1
+0.285714286
+0.785714286
+1
+0.571428571
+0.642857143
+1
+0.428571429
+0.571428571
+0.285714286
+2
+1
+2
+5
+5
+10
+6
+19
+43
+41
+0.357142857
+0.428571429
+0.67857143
+0.61428571
+0.58571429
+% students passed >=10 SR
+0.571428571
+0.857142857
+0.857142857
+0.357142857
+0.642857143
+1
+0.928571429
+1
+0.5
+1
+0.785714286
+1
+0
+0.642857143
+0.785714286
+0.642857143
+4
+5
+3
+3
+6
+22
+35
+23
+22
+38
+0.392857143
+0.5
+0.54761905
+0.52380952
+0.45238095
+% students passed >=10 SR
+0.384615385
+0.846153846
+1
+0.769230769
+0.692307692
+1
+0.923076923
+0.846153846
+0.615384615
+1
+0.692307692
+0.923076923
+0.692307692
+0.538461538
+0.538461538
+1
+1
+7
+6
+7
+8
+13
+60
+58
+65
+0.615384615
+1
+0.65934066
+0.74358974
+0.71428571
+1
+4
+0
+4
+0
+55
+0
+55
+0
+0.859375
+0
+0.859375
+5
+1
+4
+77
+16
+61
+0.9625
+1
+0.953125
+4
+2
+3
+40
+12
+36
+0.71428571
+0.42857143
+0.85714286
+5
+2
+4
+55
+20
+46
+0.78571429
+0.71428571
+0.82142857
+9
+5
+1
+5
+82
+49
+7
+49
+0.7008547
+0.75384615
+0.53846154
+0.75384615
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Linear Algebra
+2
+1
+Math supplement
+2
+1
+Signal processing
+2
+1
+Electronics for the engineer
+4
+2
+Information theory and coding
+2
+1
+Fundamental algorithms
+4
+2
+Mini algorithmic project
+2
+1
+Theory of languages ​​and automata
+2
+1
+Computer logic
+2
+1
+Advanced Operating Systems
+4
+2
+Mini project Operating systems
+2
+1
+Language and methodology
+1
+1
+Business Communication  
+1
+1
+Total
+30
+2022_2023
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Applied analysis
+2
+1
+Numerical analysis
+3
+2
+Dynamical systems theory
+dynamics
+3
+2
+Advanced processor architecture
+ 
+processors
+3
+2
+Mini project systems at
+microprocessors
+2
+1
+Waves and applications
+2
+1
+Analogue and telecommunications
+digital
+analog and digital
+3
+2
+Object Programming
+2
+1
+Systems
+operating
+and put
+SKILLS
+behavior
+ 
+tales I
+Total credits per skill
+Semester 2
+Mathematics
+it is 2
+Systems and
+architectures
+Telecommunications
+cations
+programming
+n and
+Semester 1
+Mathematics
+e 1
+Signals and
+Systems
+Algorithmic
+and put
+ 
+in work
+Theory of
+computer science
+Compilation techniques
+2
+1
+Databases and interfaces
+3
+2
+Mini programming project
+object and databases
+2
+1
+Language and Methodology
+1
+1
+Digital and system management
+of information
+1
+1
+Business Communication
+1
+1
+30
+2021_2022
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Statistical methods
+2
+1
+Optimization
+2
+1
+Microcontrollers and objects
+connected
+connected
+2
+2
+Discrete event systems
+discreet
+2
+2
+Business networks
+2
+2
+Mini-project Microcontrollers and
+connected objects
+microcontrollers and objects
+connected
+1
+1
+Fundamentals of distributed systems
+ 
+distributed
+2
+1
+System Programming in Unix
+ 
+under Unix
+2
+2
+Distributed Systems Project
+1
+1
+Client/server architecture and
+middleware programming
+and programming
+middleware
+2
+2
+Object Oriented Modeling
+objects
+4
+3
+AI and Expert Systems
+4
+3
+Software Engineering
+2
+1
+n and
+ 
+compilation
+Bases of
+data and
+put in
+ 
+artwork
+SKILLS
+behavior
+tales II
+Total
+Total credits per skill
+Semester 3
+Mathematics
+is for
+the engineer
+Foundations
+of the
+IoT systems
+Systems
+distributed
+Genius of the
+software and
+systems
+intelligent
+Personal Development and
+Socializing
+1
+1
+ICT Law
+1
+1
+Total
+30
+2022_2023
+Number
+17
+STUDENTS
+17
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Digital Circuit Design
+3
+2
+Mini-project Design and
+implementation of circuits
+digital on FPGA
+1
+1
+Multiprocessor architectures
+2
+1
+Modeling and identification of
+systems
+2
+2
+Digital control of systems
+2
+2
+Mini-project Identification and
+digital control of systems
+1
+1
+Power electronics
+2
+1
+Communication protocols of
+connected objects
+3
+2
+Smart sensors and networks
+sensors
+IOT
+3
+2
+Home automation and connected buildings
+IOT
+2
+1
+Operational safety
+2
+1
+Embedded systems security
+IOT
+2
+1
+Stochastic modeling
+IOT
+2
+1
+Internet Marketing
+1
+1
+Personal development and socializing
+socializing
+1
+1
+Design
+And
+implementation
+we have
+circuits
+digital
+on FPGA
+Semester 4
+Modeling
+,
+identification
+And
+order
+systems
+Objects
+connected
+Safety of
+operation
+nt
+SKILLS
+behavior
+tales III
+Total credits per skill
+SKILLS
+behavior
+tales IV
+Personal and professional project
+professional
+1
+1
+Total
+30
+2022_2023
+Number
+17
+Half
+Unit
+Constituent Elements/Material
+Credits
+Coefficients
+Embedded systems design
+4
+2
+Time Application Development
+real on-board
+3
+2
+Mini-project Embedded systems
+connected
+1
+1
+On-board vision
+service platforms
+telecoms
+3
+2
+Mobile robotics
+3
+2
+Mini-project Vision and robotics
+telecom services
+1
+1
+AI and renewable energy
+2
+2
+Automated Systems Engineering
+3
+2
+Advanced systems control
+3
+2
+Integrated management software package
+2
+2
+Add-on 1 (Labview
+1)
+1
+1
+Add-on 2 (Labview
+2)
+1
+1
+English
+1
+1
+Academic literature and ICT
+1
+1
+Innovation and entrepreneurship
+1
+1
+2022_2023
+tales IV
+Total credits per skill
+Semester 5
+Design
+systems
+embarked and
+real time
+ 
+Engineering
+Vision,
+robotics and
+AI
+Automation
+and order
+advancement of
+systems
+Modules
+Complementa
+ires
+SKILLS
+behavior
+tales V
+Total credits per skill
+Number
+17
+Tools
+scientists
+And
+techniques
+CS1
+CS2
+CS3
+CS4
+Semester 1
+0.18181818
+0.381818182
+0.33333333
+0.1364
+Semester 2
+0.22727273
+0.427272727
+0.31818182
+0.1364
+Semester 3
+0.33823529
+0.568627451
+0.52941176
+0.5
+Semester 4
+0.36470588
+0.495798319
+0.45588235
+0.4559
+Semester 5
+0.76470588
+0.682352941
+0.70588235
+0.8824
+Rate (main)
+38%
+51%
+47%
+42%
+Tools
+scientists
+And
+techniques
+CS1
+CS2
+CS3
+CS4
+Semester 1
+0.56565657
+0.609090909
+0.57575758
+0.7273
+Semester 2
+0.49431818
+0.663636364
+0.59090909
+0.25
+Semester 3
+0.52941176
+0.810457516
+0.75490196
+0.8529
+Semester 4
+0.63529412
+0.781512605
+0.80882353
+0.8088
+Semester 5
+0.82352941
+0.776470588
+0.88235294
+0.8824
+% Catch-up
+61%
+73%
+72%
+70%
+2023-2022
+2023-2022
+Technologies for SE and IoT
+Technologies for SE and IoT
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+ISEOC Promotion 2022/2023
+% Successful Etds / CSi
+Tools
+scientist
+ues and
+technical
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+9
+5
+6
+1
+1
+1
+4
+1
+112
+67
+76
+16
+16
+16
+42
+8
+0.565657
+0.60909091 0.576
+0.72727273
+0.72727273
+0.72727273
+0.47727273
+0.36363636
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Technologies for SE and IoT
+x
+x
+x
+x
+x
+x
+x
+x
+x
+8
+5
+4
+2
+1
+2
+5
+2
+87
+73
+52
+11
+17
+32
+73
+21
+0.494318
+0.66363636 0.591
+0.25
+0.77272727
+0.72727273
+0.66363636
+0.47727273
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+4
+9
+6
+2
+1
+2
+5
+5
+36
+124
+77
+29
+7
+31
+75
+79
+0.529412 0.81045752 0.755 0.85294118
+0.41176471
+0.91176471
+0.88235294
+0.92941176
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+5
+7
+4
+4
+5
+3
+3
+6
+54
+93
+55
+55
+63
+35
+38
+82
+0.635294 0.78151261 0.809 0.80882353
+0.74117647
+0.68627451
+0.74509804
+0.80392157
+CS1
+CS2
+CS3
+CS4
+CS5
+CS6
+CS7
+CS8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+1
+10
+1
+1
+7
+6
+7
+9
+14
+132
+15
+15
+89
+78
+91
+112
+0.823529 0.77647059 0.882 0.88235294
+0.74789916
+0.76470588
+0.76470588
+0.73202614
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+0.136364
+0.13636364
+0.25
+0.09090909
+0.82954545
+0
+0.82954545
+0.136364
+0.5 0.427
+0.13636364
+0.87272727
+0.90909091
+0.86363636
+0.294118
+0.70588235 0.694
+0.69411765
+0.89705882
+0.79411765
+0.94117647
+0.494118
+0.52941176 0.549
+0.50980392
+0.91764706
+0.91176471
+0.91176471
+0.605042
+0.67647059 0.681
+0.64052288
+0.95294118
+0.94117647
+0.95294118
+33%
+51%
+52%
+41%
+89%
+71%
+90%
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+0.727273
+0.72727273 0.477
+0.36363636
+0.82954545
+0
+0.82954545
+0.772727
+0.72727273 0.664
+0.47727273
+0.87272727
+0.90909091
+0.86363636
+0.411765
+0.91176471 0.882
+0.92941176
+0.89705882
+0.79411765
+0.94117647
+0.741176
+0.68627451 0.745
+0.80392157
+0.91764706
+0.91176471
+0.91176471
+0.747899
+0.76470588 0.765
+0.73202614
+0.95294118
+0.94117647
+0.95294118
+68%
+76%
+71%
+66%
+89%
+71%
+90%
+s for SE and IoT
+Communication, management,
+personal development and innovation
+s for SE and IoT
+Communication, management,
+personal development and innovation
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+ISEOC motion 2022/2023
+ussis / CSi - Main Session  
+CS9
+CS10
+CS11
+Total SP Students
+2
+3
+3
+3
+3
+1
+x
+x
+16
+3
+2
+3
+x
+x
+19
+x
+x
+19
+x
+x
+19
+Total students
+4
+0
+4
+73
+0
+73
+0.82954545
+#DIV/0!
+0.82954545
+CS9
+CS10
+CS11
+Total SP Students
+3
+3
+3
+3
+x
+x
+19
+3
+3
+2
+Total credits per skill (Main): 2022_2023
+Communication, management,
+personal development and innovation
+3
+3
+x
+x
+20
+x
+x
+18
+x
+x
+20
+x
+x
+19
+Total students
+5
+1
+4
+96
+20
+76
+0.87272727
+0.90909091
+0.86363636
+CS9
+CS10
+CS11
+Total SP Students
+4
+5
+7
+5
+9
+x
+x
+17
+9
+9
+x
+x
+17
+8
+8
+9
+3
+Total credits per skill (Main): 2022_2023
+x
+x
+x
+14
+x
+x
+13
+4
+2
+3
+61
+27
+48
+0.89705882
+0.79411765
+0.94117647
+CS9
+CS10
+CS11
+Total SP Students
+5
+x
+x
+14
+9
+7
+6
+x
+x
+17
+4
+9
+6
+9
+8
+7
+6
+x
+16
+x
+x
+x
+14
+Total credits per skill (Main): 2022_2023
+x
+x
+x
+17
+5
+2
+4
+78
+31
+62
+0.91764706
+0.91176471
+0.91176471
+CS9
+CS10
+CS11
+Total SP Students
+10
+12
+x
+x
+15
+10
+13
+x
+x
+17
+7
+13
+12
+13
+13
+1
+x
+x
+16
+x
+x
+17
+x
+x
+x
+16
+Total students
+5
+1
+5
+81
+16
+81
+0.95294118
+0.94117647
+0.95294118
+Total credits per skill (Main): 2022_2023
+Total credits per skill (Main): 2022_2023
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+CS1
+CS2
+CS3
+CS4
+ISEOC 202 Promotion
+% Successful Etds / CSi
+CS1
+CS2
+CS3
+CS4
+SR
+Total
+% students passed >=10 SP
+9
+11
+0.090909091
+8
+11
+0.136363636
+12
+15
+0.136363636
+13
+16
+0.136363636
+13
+16
+0.136363636
+1
+2
+0.045454545
+0
+16
+0.727272727
+14
+17
+0.136363636
+6
+8
+0.090909091
+11
+14
+0.136363636
+0
+19
+0.863636364
+0
+19
+0.863636364
+0
+19
+0.863636364
+22
+9
+5
+36
+42
+0.181818182
+0.381818182
+SR
+Total
+% students passed >=10 SP
+1
+4
+0.136363636
+11
+14
+0.136363636
+14
+17
+0.136363636
+10
+13
+0.136363636
+19
+0.863636364
+1
+4
+0.136363636
+4
+7
+0.136363636
+8
+10
+0.090909091
+2022- 2023
+Main): 2022_2023
+2022- 2023
+8
+11
+0.136363636
+8
+11
+0.136363636
+20
+0.909090909
+18
+0.818181818
+20
+0.909090909
+19
+0.863636364
+22
+8
+5
+4
+40
+47
+28
+0.227272727
+0.427272727
+0.318181818
+SR
+Total
+% students passed >=10 SP
+0
+4
+0.235294118
+6
+11
+0.294117647
+7
+14
+0.411764706
+2
+7
+0.294117647
+7
+16
+0.529411765
+17
+1
+5
+14
+0.529411765
+5
+14
+0.529411765
+17
+1
+5
+13
+0.470588235
+6
+14
+0.470588235
+8
+17
+0.529411765
+2
+5
+0.176470588
+2022- 2023
+14
+0.823529412
+13
+0.764705882
+4
+9
+6
+23
+87
+54
+0.338235294
+0.568627451
+0.529411765
+SR
+Total
+% students passed >=10 SP
+2
+7
+0.294117647
+14
+0.823529412
+8
+17
+0.529411765
+6
+13
+0.411764706
+4
+10
+0.352941176
+17
+1
+5
+9
+0.235294118
+5
+14
+0.529411765
+7
+13
+0.352941176
+8
+17
+0.529411765
+6
+14
+0.470588235
+4
+11
+0.411764706
+2
+8
+0.352941176
+16
+0.941176471
+14
+0.823529412
+2022- 2023
+17
+1
+5
+7
+4
+31
+59
+31
+0.364705882
+0.495798319
+0.455882353
+SR
+Total
+% students passed >=10 SP
+0
+10
+0.588235294
+3
+15
+0.705882353
+15
+0.882352941
+2
+12
+0.588235294
+1
+14
+0.764705882
+17
+1
+2
+9
+0.411764706
+3
+16
+0.764705882
+1
+13
+0.705882353
+4
+17
+0.764705882
+4
+17
+0.764705882
+2
+3
+0.058823529
+16
+0.941176471
+17
+1
+16
+0.941176471
+17
+1
+10
+13
+116
+0.764705882
+0.682352941
+2022- 2023
+Main): 2022_2023
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+ISEOC Promotion 2022/2023
+% Etds passed / CSi - Catch-up session  
+CS5
+CS6
+CS7
+CS8
+CS9
+CS10
+CS11
+% students passed >=10 SR
+0.5
+0.5
+0.681818182
+0.727272727
+0.727272727
+0.090909091
+0.727272727
+0.772727273
+0.363636364
+0.636363636
+0.863636364
+0.863636364
+0.863636364
+6
+1
+1
+1
+4
+44
+3
+3
+3
+22
+0.333333333
+0.136363636
+0.13636364
+0.13636364
+0.25
+% students passed >=10 SR
+0.181818182
+0.636363636
+0.772727273
+0.590909091
+0.863636364
+0.181818182
+0.318181818
+0.454545455
+0.5
+0.5
+0.909090909
+0.818181818
+0.909090909
+0.863636364
+2
+1
+2
+5
+2
+6
+3
+22
+47
+6
+0.136363636
+0.136363636
+0.5
+0.42727273
+0.13636364
+% students passed >=10 SR
+0.235294118
+0.647058824
+0.823529412
+0.411764706
+0.941176471
+1
+0.823529412
+0.823529412
+1
+0.764705882
+0.823529412
+1
+0.294117647
+0.823529412
+0.764705882
+2
+1
+2
+5
+5
+17
+5
+24
+59
+59
+0.5
+0.294117647
+0.70588235
+0.69411765
+0.69411765
+% students passed >=10 SR
+0.411764706
+0.823529412
+1
+0.764705882
+0.588235294
+1
+0.529411765
+0.823529412
+0.764705882
+1
+0.823529412
+0.647058824
+0.470588235
+0.941176471
+0.823529412
+1
+4
+5
+3
+3
+6
+31
+42
+27
+28
+52
+0.455882353
+0.494117647
+0.52941176
+0.54901961
+0.50980392
+% students passed >=10 SR
+0.588235294
+0.882352941
+0.882352941
+0.705882353
+0.823529412
+1
+0.529411765
+0.941176471
+0.764705882
+1
+1
+0.176470588
+0.941176471
+1
+0.941176471
+1
+1
+7
+6
+7
+12
+15
+72
+69
+81
+0.705882353
+0.882352941
+0.60504202
+0.67647059
+0.68067227
+1
+4
+0
+4
+2
+73
+0
+73
+0.09090909
+0.82954545
+#DIV/0!
+0.82954545
+5
+1
+4
+96
+20
+76
+1.2
+1.25
+1.1875
+4
+2
+3
+61
+27
+48
+0.89705882
+0.79411765
+0.94117647
+5
+2
+4
+78
+31
+62
+0.91764706
+0.91176471
+0.91176471
+9
+5
+1
+5
+98
+81
+16
+81
+0.64052288
+0.95294118
+0.94117647
+0.95294118
+**: https://www.opiiec.fr/sites/default/files/inline-files/2_OPIIEC_Systemes_Embarques_Synthese.pdf
+***: https://www.opiiec.fr/metiers/83038
+Professions added by the CNSI to the REM/REC reference system
+*: https://rtmc.emploi.nat.tn/dm/index.php/fichemetier/rtmc_resp/M1805
+Jobs on Opiiec
+Embedded Systems Engineer **
+Industrial Programmer / Industrial IT Programmer Analyst *
+Architect/IoT Engineer ***
+CS1
+x
+x
+x
+C_Embedded_Systems_Synthesis.pdf
+Specific Skills / Jobs Matrix
+industrial automation *
+CS2
+CS3
+CS4
+CS5
+CS6
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+ 
+Specific Skills / Jobs Matrix
+CS7
+CS8
+CS9
+CS10
+CS11
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+        
+CG1
+CG2
+CG3
+CG4
+CG5
+CS1
+x
+x
+x
+CS2
+x
+x
+x
+x
+x
+CS3
+x
+x
+x
+x
+x
+CS4
+x
+x
+x
+x
+x
+CS5
+x
+x
+x
+x
+x
+CS6
+x
+x
+x
+x
+x
+CS7
+x
+x
+x
+x
+x
+CS8
+x
+x
+x
+x
+CS9
+CS10
+CS11
+Matrix: Special skills
+CG6
+CG7
+CG8
+CG9
+CG10
+CG11
+CG12
+CG13
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Specific skills - Generic skills
+CG14
+x
+x
+x

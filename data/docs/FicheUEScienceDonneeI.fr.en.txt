@@ -1,0 +1,739 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 11
+EU code:
+ 
+ 
+University: Tunis El Manar University
+Establishment: Higher Institute of Computer Science
+ 
+ 
+Field of training: Computer science
+Mention: IDL
+Degree: Engineer
+Course: Software Engineering
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+-Statistical and Matrix Calculations
+-Set theory
+-Notion of Signal Processing  
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+
+Understand the various phenomena that occur during processing and
+data analysis
+
+Master the mathematical apparatus used to pose vision problems;
+
+Be able to choose and implement the best analysis approach
+appropriate to the type of image under study;
+3- Constituent elements of the EU (ECUE)
+ 
+Constituent elements of the EU (ECUE)
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+Stochastic modeling
+30
+7.5
+ 
+ 
+3
+Data analysis
+15
+7.5
+7.5
+ 
+2
+Computer vision
+22.5
+ 
+15
+ 
+3
+Parallelism and high-performance computing
+performance
+22.5
+15
+ 
+ 
+3
+EU Title: Data Science I
+2
+ 
+Total
+76
+30
+15
+ 
+11
+'
+Practical activities (Projects, internships, dissertations, etc.)
+Practical activities related to the use of media and tools for the processing of multimedia objects
+in particular image and video support, data processing.
+4- Content (course descriptions and plans)  
+Teaching: see the detailed module sheets for each ECUE
+This Teaching Unit allows learners to develop their skills in the
+context of developments relating to different multimedia supports (videos).
+ 
+ 
+Practical EU activities  
+Practical activities related to the use of support and tools for object processing
+multimedia, especially image and video media.
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+1- Detailed course support for each chapter of the course
+2- Bibliographic references (books, web links) must be provided to learners
+3- Tools appropriate to the content of each module will be installed, configured and
+used during practical activity sessions.
+                  5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet:  
+All the ECUEs of this UE are under mixed regime: control + Final exam  
+Continuous assessment: Graded work/assessments
+This work aims to verify the acquisition of knowledge and the skills to apply and
+transfer the concepts studied to concrete situations.  
+The final proctored exam covers all course material and will consist of questions
+objectives, development, case studies, problems, etc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+ 
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Stochastic modeling 50%  
+50% 30%
+100%  
+ 
+70%
+1
+5
+Data analysis
+50%  
+50% 30%
+100%  
+ 
+70%
+1
+ 
+Computer Vision
+50%  
+50% 30%
+100%  
+ 
+70%
+1
+ 
+Parallelism and high-performance computing
+performance
+50%  
+50% 30%
+100%  
+ 
+70%
+1
+ 
+ 
+ 
+ 
+ECUE fact sheet: Stochastic modeling
+ 
+Teaching Unit: Data Science 1  
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+Probabilities
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE 1: analyze random phenomena using stochastic models.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IRIS training
+ 
+ 
+O
+E1
+SC1
+x
+SC2
+ 
+SC3
+x
+SC4
+ 
+SC5
+x
+SC6
+ 
+SC 7
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+SE and IOT training
+4
+ 
+ 
+O
+E1
+SC1
+x
+SC2
+ 
+SC3
+ 
+SC4
+ 
+SC5
+ 
+SC6
+ 
+SC 7
+ 
+SC 8
+ 
+ 
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+ 
+Chapters and sections
+Course
+(h)
+TD (h)
+TP (h)
+Total (h)
+Chapter
+1:
+Resolution
+of
+system of linear equations
+10
+7.5
+ 
+17.5
+Chapter 2: Interpolation and
+approximation
+10
+ 
+ 
+10
+Chapter 3: Root of equations
+non-linear
+10
+ 
+ 
+10
+ 
+ 
+Reference books:
+● Sheldon M. Ross “Introduction to probability models”, Academic Press, 2003.
+● Jean-Christophe Breton. Stochastic calculus. Lecture notes, M2 Mathematics, University of
+Rennes 1, 2020.
+● Youri Davydov. DEA course “Stochastic processes”. University of Lille 1, 1999–2000.
+● Nicole El Karoui, Emmanuel Gobet, Etienne Pardoux. Introduction to stochastic calculus. School
+Polytechnic, 2001.
+ 
+ECUE Fact Sheet: Data Analysis
+ 
+ECUE: Data Analysis
+Constituent element plan (ECUE):
+ 
+ 
+ 
+5
+ 
+Prerequisites:
+-
+Algorithms and programming
+-
+Mathematics
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+At the end of this course students will be able to:
+-
+OE1: Develop the elements introduced in the basic probability courses and
+statistics in a multivariate framework; the aim being to provide the tools allowing
+to analyze multidimensional data sets.  
+-
+OE2: At the end of the course, the student should be able to implement, with
+real data, the most classic processing tools. The course will therefore focus on
+good understanding of methods and their application, including mastery
+of appropriate software.
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+CS1
+X
+X
+CS2
+X
+X
+ 
+ 
+Course outline
+6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+Chapter and
+sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+X
+ 
+X
+ 
+ 
+ 
+Chapter 2
+X
+ 
+X
+ 
+ 
+ 
+Chapter 3
+X
+ 
+X
+ 
+ 
+ 
+Chapter 4
+X
+ 
+X
+ 
+ 
+ 
+Chapter 5
+X
+ 
+X
+ 
+ 
+ 
+Chapter 6
+X
+ 
+X
+ 
+ 
+ 
+Chapter 7
+X
+ 
+X
+ 
+ 
+ 
+Chapter 8
+X
+ 
+X
+ 
+ 
+ 
+Chapter 9
+X
+ 
+X
+ 
+ 
+ 
+Chapter 10
+X
+ 
+X
+ 
+ 
+ 
+ 
+Reference books:
+ G. Saporta. Probability, Data Analysis and Statistics. Technip Paris Editions,
+1990.
+ G. Saporta. Data mining and decision statistics. Technip Editions, 2005.  
+ M. Crucianu, J.-P. Asselin de Beauville, R. Boné: Factorial methods for
+Data analysis: linear methods and nonlinear extensions. Ed.
+Chapter I: Knowledge Discovery in Data (KDD)
+Chapter II: Introduction to multivariate methods
+Chapter III: Principal component analysis
+Chapter IV: Clustering
+-
+Concept of distance and similarity
+-
+Partitioning Algorithms
+-
+Hierarchical algorithms
+Chapter V: Supervised learning
+Chapter VI: Unsupervised classification: mobile centers and hierarchical classification
+Chapter VI: Linear Discriminant Analysis
+Chapter VII: Distribution Theory
+Chapter VIII: Multiple Linear Regression
+Chapter IX: Logistic Regression
+Chapter X: Searching for motives
+-
+Association rules, Apriori algorithm
+-
+Sequence mining
+-
+Search under constraints
+-
+Other types of patterns and data
+Note: The student must be able to apply statistical functions using the language
+Python or the R language
+7
+ 
+Hermes.
+ 
+ 
+ 
+ECUE fact sheet: Computer Vision
+ 
+Teaching Unit: Data Science 1
+ECUE no 1.1: Computer Vision
+ 
+Prerequisites:
+ 
+- Statistical and Matrix Calculation
+-Set theory
+-Notion of Signal Processing
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+
+EO1: Understand the various phenomena that occur during training
+of an image;
+
+EO2: Choose the analysis approach most appropriate to the type of image under study;
+
+EO3: Identify and implement the processes necessary to identify and
+locate the various objects present on one or more images of the scene below
+observation.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OP1
+X
+X
+X
+OP3
+ 
+ 
+X
+OP4
+ 
+ 
+X
+OP7
+X
+X
+X
+ 
+ 
+Constituent element plan (ECUE):
+Course outline
+Chapter 1: Introduction to Computer Vision and Application Domain
+           1.1 Computer Vision Context and History
+           1.2 Analogy between computer vision and human vision
+           1.3 Areas of application
+Chapter 2: Image Formation and Acquisition
+            2.1 General information on light
+            2.2 The point of view of geometric optics
+            2.3 Image formation  
+8
+ 
+            2.4 Acquisition system: the digital camera
+            2.5 Projective Geometry for Camera Modeling
+Chapter 3: On the need for pre-processing of acquired images
+  3.1 The digital image
+3.2 Improvement methods
+3.2 Means of Restoration
+Chapter 4: Vision approach regions
+             4.1 Thresholding methods  
+             4.2 classification-based method
+             4.3 Split and Merge Method
+Chapter 5: Frontier Approach Vision
+            5.1 Derivative methods
+            5.2 Morphological segmentation
+Chapter 6: Active contour model for image segmentation
+6.1 The Snakes
+             6.2 GVF Algorithm
+             6.3 Application and results obtained
+ 
+Description of the content of the constituent element
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+X
+ 
+ 
+ 
+ 
+ 
+Chapter 2
+X
+ 
+ 
+ 
+ 
+ 
+Chapter 3
+X
+ 
+ 
+X
+ 
+ 
+Chapter 4
+X
+ 
+ 
+X
+ 
+ 
+Chapter 5
+X
+ 
+ 
+X
+ 
+ 
+Chapter 6
+X
+ 
+ 
+X
+ 
+ 
+ 
+Reference books:
+ 
+ Forsyth, DA & Ponce, J, Computer Vision: A Modern Approach. Upper Saddle, NJ: Prentice Hall, 2003.
+E. Trucco and A. Verri, Introductory Techniques for 3-D Computer Vision, Prentice Hall, 1998.
+ D. Lingrand, Introduction to image processing, Vuibert (Paris), 2004.
+ LG Shapiro and GC Stockman, Computer Vision, Prentice Hall, 2001.
+ Jain, R., Kasturi, R, Schunck, BG, Machine Vision, McGraw-Hill, 1995.
+ P. Bolon, J.-M. Chassery, J.-P. Cocquerez, D. Demigny, C. Graffigne, A. Montanvert, S. Philipp, R. Zéboudj,
+and J. Zérubia, Image analysis: filtering and segmentation, Masson, 1995.
+ H. Maître, Image processing, Hermes Science, 2003.
+ M. Bennamoun and GJ Mamic, Object Recognition: Fundamentals and Case Studies, Springer, 2002.
+ Horn, HKP, Robot Vision, MIT Press, 1986.
+ Marr, D., Vision, Freeman, 1982.
+ Tisserand, E., Pautex, J.-F. and Schweitzer, P., Analysis and processing of signals – Methods and
+applications to sound and image, Dunod, 2004.
+ Trémeau, A., Fernandez-Maloigne, C. and Bonton, P., Digital color image: from acquisition to
+treatment, Dunod, 2004.
+ 
+ 
+ 
+9
+ 
+ 
+ECUE fact sheet: Parallelism and high-performance computing
+ 
+Teaching Unit: Data Science 1
+ECUE no 1.1: Parallelism and high performance computing
+ 
+Prerequisites:
+ 
+Computer Architectures, Algorithms and Programming  
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+
+EO1: Understand the various parallel architectures and high
+performances;
+
+EO2: Choosing the best approach to modeling distributed systems;
+
+EO3: Study parallelization techniques.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OP1
+X
+X
+X
+OP3
+ 
+ 
+X
+OP4
+ 
+ 
+X
+OP7
+X
+X
+X
+ 
+ 
+Constituent element plan (ECUE):
+Course outline:
+Introduction
+Chapter 1: Parallel Architectures
+Introduction
+1.1. Flynn classification
+1.2. SIMD architectures
+1.3. MIMD Architectures
+1.3. Other Parallel Architectures
+1.4. Multi-core architectures
+1.5. GPU Architecture
+Chapter 2: Distributed Systems: clusters, grids, volunteer systems, Peer-to-P systems.
+2.1. Network Topologies
+2.2. Static Networks: Ring, complete, toroidal grid
+2.3. Dynamic Networks: Crossbar, Omega-Network, Bus
+Chapter 3: Performance Evaluation Metrics
+3.1. Measurement of execution times
+3.2. Expression of performance
+10
+ 
+3.3. Amdahl's Law
+3.4. Gustafson's Law
+Chapter 3: The Sources of Parallelism
+3.1. Data Parallelism
+3.2. Parallelism of control (of tasks)
+3.3. Flow parallelism
+3.4. Task parallelism
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+X
+ 
+ 
+ 
+ 
+ 
+Chapter 2
+X
+ 
+ 
+ 
+ 
+ 
+Chapter 3
+X
+ 
+ 
+X
+ 
+ 
+ 
+Reference books:
+ 
+ DE CULLER & JP SINGH, Parallel Computer Architecture, A hardware / Software Approach, Morgan
+Kaufmann Publishers, San Francisco, California, 1999.  
+ HS MORSE, Practical Parallel Computing, academic Press, Cambridge, 1994  
+ 

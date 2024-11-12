@@ -1,0 +1,296 @@
+ISI Human Resources 
+  
+Administrative staff  
+ 
+N° Surnames and First Names Ranks Service 
+01 Houda Thamri General Administrator Secretary General 
+02 Ahlem Chbichib Chief Administrator Principal Secretary 
+03 Lamia Krichène Associate Director Secretary 
+of establishment 
+04 Ali Khemiri Consultant Administrator Service Internship 
+05 Adib Othmani Administrator Advisor Examinations Department 
+06 Nawal Arrami Administrator Advisor Purchasing Department 
+07 Ahlem Manouba Administrator Advisor Human Services Department 
+08 Khiari Raja Administrator Advisor Pedagogical Service 
+09 Essia Alaimi Pedagogical Service Administrator 
+10 Monia Senene Administrator of the Order Office 
+11 Ilhem Amri, Directorate, Executive Secretary 
+12 Habib Louati Technical Service Administrator 
+13 Houria Mtira Doc. 
+Archives Schooling 
+14 Samia Salem Curator of 
+libraries Library 
+15 Garoui Essaied Chief Technician IT Department 
+16 Chibli Lassaad Senior Technical Technician 
+17 Besma Othmani Senior Technician Examination Department 
+18 Skander Balloumi Senior Technician Seconded 
+19 Leila Fadhlia, IT Service Technician 
+20 Thouraya Alibi Librarian Examination Service 
+21 Hejer Hosni, Administrative Officer, Examinations Department 
+22 Ines Sayadi Secretary of the School 
+sup Secretary of the SG 
+23 Khamies Bouzguaya Worker category 09 Driver 
+24 Khaled Saafi Worker Category 07 Service 
+Maintenance 
+25 Zied Chouchene Worker category 07 Service 
+Pedagogical 
+26 Henda Ben Ahmed Worker category 07 Education Department 
+27 Labbed Souad Worker category 06 Switchboard operator 
+28 Zakia Amri Worker Category 06 Service Draw 
+29 Ounaes Naser Worker category 06 Internship service 
+30 Abdessattar Bel hadj 
+Said 
+Worker category 06 Service Circulation 
+31 Radhwene Dahmani Worker category 06 Storekeeper 
+32 Chayma Miraoui Ouvrier category 05 Service Tirage 
+33 Adel Mejri Worker category 04 Service 
+Maintenance 
+34 Souad Boussida Worker category 03 Cleaning lady 
+35 Moufida Amizi Worker category 03 Cleaning lady 
+36 Neziha Henez Worker category 03 Cleaning lady 
+37 Mahdi Souii Worker category 03 Guardian 
+38 Jalel Jandoubi Worker category 03 Goalkeeper 
+39 Nesrine Ouertani Worker category 02 Cleaning lady 
+40 Jalila Taboubi Worker category 02 Cleaning lady 
+41 Med Mahdi 
+Abdelmalek 
+Worker category 02 Night watchman 
+42 Kamel Taamallah Worker category 02 Night watchman 
+Teaching staff 
+ 
+Speciality Grade Name and Surname N° 
+Computer Science Professor Ezzedine Zagrouba 1 
+Computer Science Professor *Naoufel kraiem 2 
+Applied Math Professor Fethi Dkhil 3 
+Electrical Engineering Professor Nejiba Bellaaj 4 
+Telecommunication Professor Azza Aouled Zaid 5 
+Telecommunication Professor Monia Najjar 6 
+Electrical Engineering Professor Arous Najet 7 
+Computer Science Professor Amel Borgi 8 
+Automation and Computer Science 
+Professor Salah Salhi 9 
+Automation and Computer Science 
+Professor Ali Tlili 10 
+Applied Math Master of 
+Conference 
+*Mohamed Fahmi ben 
+Hassine 11 
+Math Master of 
+Cyrine Baccar Conference 12 
+Telecommunication Master of 
+Lecture *Rafik Zayani 13 
+Electrical Engineering Master of 
+Lecture *Ridha Ghayoula 14 
+Math Master 
+Houda Aissa Assistant 15 
+Math Master 
+Assistant *Mouna Ghdamssi 16 
+Math Master 
+Assistant Walid Miladi 17 
+Math Master 
+Assistant *Mourad Mazigh 18 
+Applied Math Master 
+Assistant Lobna Derbal 19 
+Applied Math Master 
+Assistant Salma El Oud 20 
+Applied Math Master 
+Assistant Hejer Metoui 21 
+Applied Math Master 
+Assistant Anis Younes 22 
+Quantitative Master Methods 
+Assistant Inès Rekik 23 
+Electrical Engineering Master Farhat Yatim 24 
+Assistant 
+Electrical Engineering Master 
+Assistant Dorra Ben ayed 25 
+Electrical Engineering Master 
+Assistant Sofien Touj 26 
+Electrical Engineering Master 
+Assistant 
+Sameh Masmoudi 
+Touj 27 
+Electrical Engineering Master 
+Assistant Hanen Ben Fraj 28 
+Electrical Engineering Master 
+Assistant Shiraz Seddik 30 
+Electrical Engineering Master 
+Assistant Rayen Gamarty 31 
+Electrical Engineering Master 
+Assistant Zouhour Ben Azzouz 32 
+Electrical Engineering Master 
+Assistant * Lamjed Hajlaoui 33 
+Electrical Engineering Master 
+Assistant Mohamed Glaoui 34 
+Electrical Engineering Master 
+Assistant *Hassen Mibar 35 
+Master Industrial Engineering 
+Assistant Imene Hmouda 36 
+Master Electronics 
+Assistant Hamed Chaabouni 37 
+Automation and Computer Science 
+Industrialist 
+Master 
+Assistant Meriem fekih 38 
+Automation and Computer Science 
+Industrialist 
+Master 
+Assistant Feten Ben Aicha 39 
+Automation and Computer Science 
+Industrialist 
+Master 
+Assistant Imene Ayachi 40 
+Automation and Computer Science 
+Industrialist 
+Master 
+Assistant Yassine Mannai 41 
+Signal Processing and 
+The image 
+Master 
+Assistant Mediha Ajabi 42 
+Signal Processing and 
+The image 
+Master 
+Assistant Olfa ben Sassi 43 
+Signal Processing and 
+The image 
+Master 
+Assistant *Amira Kheriji 44 
+Telecommunication Master 
+Assistant *Fethi Rawafi 45 
+Telecommunication Master 
+Assistant Anis Loghmari 46 
+Telecommunication Master 
+Assistant Sonia Ben Rejab 47 
+Telecommunication Master 
+Assistant Mourad Wertani 48 
+Telecommunication Master 
+Assistant Sonia Bouaijina 49 
+Telecommunication Master 
+Assistant *Mohamed Laaraedh 50 
+Telecommunication Master 
+Assistant Sourrour Mhenni 51 
+Telecommunication Master 
+Assistant Aymen Ayari 52 
+Telecommunication Master 
+Assistant Meriem Kallel 53 
+Telecommunication Master 
+Assistant Safa Rjichi 54 
+Telecommunication Master 
+Assistant Maha Hachani 55 
+Telecommunication Master 
+Assistant Moez Ferchichi 56 
+Master IT 
+Assistant *Mohamed Jaraya 57 
+Master IT 
+Assistant Adel Khalfallah 58 
+Master IT 
+Assistant Kaled Sammoud 59 
+Master IT 
+Assistant Wafa Karoui 60 
+Master IT 
+Rym Kaabi Assistant 61 
+Master IT 
+Assistant *Achraf Kazdar 62 
+Master IT 
+Assistant Wassim Youssef 63 
+Master IT 
+Assistant Riadh Zaafrani 64 
+Master IT 
+Assistant Imene Hfaiedh 65 
+Master IT 
+Assistant *Olfa Hamdi 66 
+Master IT 
+Assistant Nihel Ben Youssef 67 
+Computer Science Master Sahbi Bahroun 68 
+Assistant 
+Master IT 
+Assistant *Rachid Zaghrouba 69 
+Master IT 
+Assistant *Ines Gam 70 
+Master IT 
+Assistant *Ines korbi 71 
+Master IT 
+Assistant *Fahem Kbaier 72 
+Master IT 
+Assistant 
+Ghayeth el Mouna 
+Zhioua 73 
+Master IT 
+Assistant Kerman Marzouki 74 
+Master IT 
+Assistant *Saloua Mbarek 75 
+Master IT 
+Assistant Wiem Mrabet 76 
+Master IT 
+Assistant Rania Mzid 77 
+Master IT 
+Assistant Imene Lassoued 78 
+Master IT 
+Assistant Ghada Besbes 79 
+Master IT 
+Assistant Nefissa Anabi 80 
+Master IT 
+Assistant *Sami Wali 81 
+Master IT 
+Assistant Yosra Najjar 82 
+Master IT 
+Assistant Mayssa Frikha 83 
+Master Business Informatics 
+Assistant Hatem Ben Sta 84 
+Master Business Informatics 
+Assistant *Jeber Jmii 85 
+Master Business Informatics 
+Assistant Olfa Mourali 86 
+Master Business Informatics 
+Assistant *Lobna Hsairi 87 
+Master Business Informatics 
+Assistant Sahbi Zahaf 88 
+Master Business Informatics 
+Assistant *Hela Hachicha 89 
+Master Business Informatics 
+Hela Limam 90 Assistant 
+Master Business Informatics 
+Assistant Olfa Limam 91 
+Master Business Informatics 
+Assistant *Mohsen Rouwechif 92 
+Master Business Informatics 
+Assistant Maher Helaoui 93 
+Master Physics 
+Assistant Houda Ben Abdallah 94 
+Management Sciences Master 
+Assistant Fatma Shoura 95 
+Master Geomatics 
+Assistant Feten Katlene 96 
+Economics Assistant Alia Khemiri 97 
+Computer Assistant *Rym Akrout 98 
+Computer Assistant *Tahani Kazdar 99 
+Computer Assistant Hayet Mogaadi 100 
+Computer Assistant Narjes Ben Hariz 101 
+Assistant Amen Bel hadj Ali 102 
+Right Assistant Imen Hammi 104 
+General Law Assistant Imen Balahwene 105 
+Management Information Technology Assistant Baktha Hawari 106 
+French PES Detached Sonia Zaouali 107 
+French PES Detached Tlilii Samar 108 
+French PES Detached Rabii Ben Henda 109 
+English Core Nadia Alouane 110 
+English Core Sonia Mzoughi 111 
+English Core Lamia Landolsi 112 
+English Core Imene Bessaoudia 113 
+English Core Leila Samir 114 
+Computer Science Common Core Rym Bellakhal 115 
+Computer Science Core Nadia Boulifa 116 
+Computer Science Common Core Foued Ouslati 117 
+Computer Science Core Zahra Channouf 118 
+Computer Science Core Yessine Bannour 119 
+Computer Science Common Core Moez Ben Rgeya 120 
+Computer Science Core Thouraya Khemiri 121 
+Computer Science Common Core Nadia Bridaa 122 
+Computer Science Core Kaouther Bouriel 123 
+Computer Science Core Asma Nafti 124 
+Computer Science Core Mouna Kaieb Selmi 125 
+Computer Science Core Zakia Zouayghia 126 
+Sport PES Detached Olfa Ayadi 127 
+Sport PES Detached Rym Ben Chaabene 128 
+Sport PES Detached Radhia Messaoudi 129 
+ 

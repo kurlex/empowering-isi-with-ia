@@ -1,0 +1,154 @@
+1
+ 
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Connected Objects
+ECUE no 1.1: Smart sensors and sensor networks
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Signals and systems
+2- Basic notions about sensors
+3- Basic notions of networks
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Define smart sensors and specify the difference between classic sensors
+and intelligent.  
+OE2: Highlighting the hardware architecture of a wireless smart sensor as well as the
+architecture of sensor networks, their technical characteristics, their specificities and
+their classification.  
+OE3: Study the problems of this type of network.
+OE4: Define certain applications of RCSFs.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OP2
+x
+x
+x
+x
+OP3
+x
+x
+x
+x
+OP4
+x
+x
+x
+x
+OP6
+x
+x
+x
+x
+OP8
+ 
+x
+x
+x
+ 
+Description of the content of the constituent element
+ 
+1. Introduction to smart sensors
+2. Hardware architecture of a smart sensor
+3. Architecture and characteristics of wireless networks (IEEE 802.15.4)
+4. Problems of wireless sensor networks
+5. Applications of RCSFs (home automation, agriculture, industry, medicine, etc.)
+6. Conclusion: Horizons?
+ 
+ 
+ 
+ 
+2
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+5h
+Chapter 2
+x
+ 
+x
+ 
+ 
+5h
+Chapter 3
+x
+ 
+x
+ 
+ 
+5h
+Chapter 4
+x
+ 
+x
+ 
+ 
+5h
+Chapter 5
+x
+ 
+x
+ 
+ 
+5h
+Chapter 6
+x
+ 
+x
+ 
+ 
+5h
+ 
+ 
+ 
+Reference books:
+ 
+1. Aurelien Valade, “Smart sensors: what methodologies for data fusion
+embarked? » 2017
+2. David Simplot, Ryl Eric Fleury, “Sensor Networks - Theory and Modeling”, Hermes
+Science Publications, 2009
+3. Yacine Challal, Hatem Bettahar, Abdelmadjid Bouabdallah “Sensor Networks (WSN:
+Wireless Sensor Networks) » University of Technology of Compiègne, France.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

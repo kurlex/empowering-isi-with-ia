@@ -1,0 +1,542 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 7
+EU code:
+ 
+ 
+University: Tunis El Manar University
+Establishment: Higher Institute of Computer Science
+ 
+ 
+Field of training: Computer science
+Mention: IDL
+Degree: Engineer
+Course: Software Engineering
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+-
+Object Programming
+-
+HMI programming
+-
+UML Design  
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+
+Developing mobile applications in modern environments
+
+Developing web applications with advanced frameworks  
+3- Constituent elements of the EU (ECUE)
+ 
+Constituent elements of the EU (ECUE)
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+Application Development
+mobile
+15
+15
+3
+4.5
+3
+Advanced Web Development
+15
+7.5
+15
+ 
+3
+Mini-project complex systems
+ 
+ 
+ 
+22.5
+1
+Total
+30
+22.5
+18
+27
+7
+ 
+ 
+EU Title: Methods and tools for complex systems
+ 
+2
+ 
+Practical activities (Projects, internships, dissertations, etc.)
+Practical activities related to the use of support and tools for the development of
+web and mobile applications  
+4- Content (course descriptions and plans)  
+Teaching: see the detailed module sheets for each ECUE
+This Teaching Unit allows learners to develop their skills in the
+context of developments relating to web and mobile development.
+ 
+ 
+Practical EU activities  
+Practical activities related to the use of support and tools for the development of
+web and mobile applications
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+1- Detailed course support for each chapter of the course
+2- Bibliographic references (books, web links) must be provided to learners
+3- Tools appropriate to the content of each module will be installed, configured and
+used during practical activity sessions.
+                  5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet:  
+All the ECUEs of this UE are under mixed regime: control + Final exam  
+Continuous assessment: Graded work/assessments
+This work aims to verify the acquisition of knowledge and the skills to apply and
+transfer the concepts studied to concrete situations.  
+The final proctored exam covers all course material and will consist of questions
+objectives, development, case studies, problems, etc.  
+ 
+ 
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Development
+mobile applications
+50%  
+50% 30%
+100%  
+ 
+70%
+2
+4
+3
+ 
+Web Development
+Advance
+50%  
+50% 30%
+100%  
+ 
+70%
+2
+ 
+Mini-project systems
+complex
+ 
+ 
+100% 30%
+ 
+ 
+100% 70%
+1
+ 
+ 
+ 
+ 
+ECUE Fact Sheet: Mobile Application Development
+ 
+Teaching Unit: Methods and tools for complex systems
+ 
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+-
+Object Programming
+-
+HMI programming
+-
+Advanced Operating Systems
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE 1: Developing a mobile application in a modern environment
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IDL training
+ 
+ 
+OE1
+SC1
+X
+SC2
+x
+SC3
+x
+SC4
+x
+SC6
+x
+SC 8
+x
+ 
+Constituent element plan (ECUE):
+ 
+Course outline
+I. Architecture and basic functionalities of mobile platforms;
+II. Mobile platform development environment;
+III. Structure and fundamental components of mobile applications;
+IV. Construction of the user interface; use of resources: XML, images, files,
+etc. ;
+V. Data persistence;
+VI. Integration; signing an application;
+VII. Deployment and specific constraints of mobile applications.
+4
+ 
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+ 
+Chapters and sections
+Course
+(h)
+TD (h)
+TP (h)
+Total (h)
+Chapter I  
+1.5h
+ 
+ 
+1.5h
+Chapter II
+1.5h
+1.5h
+ 
+3h
+Chapter III  
+1.5h
+1.5h
+ 
+3h
+Chapter IV
+3h
+3h
+ 
+6h
+Chapter V
+1.5h
+3h
+ 
+4.5h
+Chapter VI
+1.5h
+3h
+1.5h
+6h
+Chapter VII
+3h
+3h
+1.5h
+7.5h
+Chapter VIII
+ 
+ 
+1.5h
+1.5h
+Chapter IX
+ 
+ 
+1.5h
+1.5h
+Chapter X
+ 
+ 
+1.5h
+1.5h
+Chapter XI
+1.5h
+ 
+ 
+1.5h
+ 
+ 
+Reference books:
+● Meier, R. (2010). Developing Business Applications with Android 2. Pearson Education
+France.
+● Murphy, M. (2010). The Art of Android Development. Pearson Education France.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIII. API for the development of context-dependent mobile applications.
+IX. Interactions with data capture tools across devices and networks
+mobile.
+X. Development of mobile e-commerce applications.
+XI. Future trends and prospects.
+5
+ 
+ECUE Fact Sheet: Web Development
+ 
+Teaching Unit: Methods and tools for complex systems
+ 
+Constituent Element Plan (ECUE)
+ 
+Prerequisites:
+-
+Algorithms and programming
+-
+UML Design
+-
+HMI design
+ 
+Course outline
+- Chapter 1: Web Application Architectures
+- Chapter 2: Web Application Design Patterns
+- Chapter 3: Overview of Web Development Frameworks
+- Chapter 4: Industrialization of Web dev.
+- Web development project management
+- Classic practices vs. Agile and Devops approaches
+- Software factory
+- Version management
+- Dependency management
+- Test and Quality
+- Continuous integration
+- Continuous delivery
+- Chapter 5: Web and Cloud Applications
+- Web application and APIs
+- Different cloud deployment models
+- SAAS, PAAS, IAAS
+- Multi-tenant applications
+- Scaling
+- Chapter 6: Web Application Security
+- OWASP top 10
+- Chapter 7: Overview of web technologies
+- Server-side web technologies and frameworks
+- PHP (Symfony, Laravel), Python (Flesk), Java (Spring), .Net
+- Databases
+- Customer-facing web technologies and frameworks
+- Javascript, Native Script, Angular, React, Vue
+- Full stack web technologies
+- Mean Stack
+- Chapter 8: Case study
+- Presentation of the case study
+// Implementation of the case study.
+// Technological choices can evolve depending on technological advances
+- Implementation of a full stack approach for the case study
+- Chapter 9: Implementation using a full stack approach
+- Javascript language
+- Key concepts
+- Types, Varialbes, expressions
+- Objects and paintings
+- Functions
+6
+ 
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of this course students will be able to:
+-
+OE1: Develop a web application using advanced frameworks
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IDL training
+ 
+ 
+OE1
+SC1
+X
+SC2
+x
+SC3
+x
+SC4
+x
+SC6
+x
+SC 8
+x
+ 
+Description of the content of the constituent element
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+1.5h
+ 
+ 
+ 
+ 
+ 
+Chapter 2
+1.5h
+ 
+3h
+ 
+ 
+ 
+Chapter 3
+1.5h
+ 
+ 
+ 
+ 
+ 
+Chapter 4
+1.5h
+ 
+ 
+ 
+ 
+ 
+Chapter 5
+1.5h
+ 
+3h
+1.5h
+ 
+ 
+Chapter 6
+3h
+ 
+ 
+1.5h
+ 
+ 
+Chapter 7
+3h
+ 
+ 
+3h
+ 
+ 
+Chapter 8
+1.5h
+ 
+1.5h
+ 
+ 
+ 
+Chapter 9
+ 
+ 
+ 
+ 
+9am
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Javascript client side
+- Javascript Design Patterns
+- Presentation of the AngularJS framework
+- Angular JS Design patterns
+- Javascript Server side
+- Node JS
+- Node JS Design Patterns
+- Mean Stack
+- Javascript rating Mobile
+- Frmawork Ionic
+- Native script
+- Cloud deployment
+Reference books:
+ Falvo, L. (2016). Native, xamarin, hybrid or web development.  
+ Prieur, B. (2020). Technological fundamentals for development
+web (Doctoral dissertation, IT-Akademy).  
+7
+ 
+ 
+ 
+ 
+ECUE Mini-project complex systems descriptive sheet
+ 
+Teaching Unit: Methods and tools for complex systems
+ 
+Prerequisites:
+  
+ HMI design
+ UML design
+ Development of mobile applications
+ Development of web applications
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+
+EO1: Implement the concepts acquired for web and mobile development
+by tackling a realistic problem  
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+SC2
+x
+SC3
+x
+SC4
+x
+SC5
+x
+SC6
+x
+SC 8
+x
+ 
+Description of the content of the constituent element
+ 
+ 
+Chapter and
+sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Mini-project
+ 
+ 
+ 
+ 
+22.5h
+ 
+ 

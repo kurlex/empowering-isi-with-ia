@@ -1,0 +1,138 @@
+ECUE fact sheet  
+ 
+              Teaching Unit: Networks and Security I
+ECUE no 2.2: Advanced cryptography
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Engineering mathematics, congruences and modular arithmetic
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+OE1- Choose the most appropriate cryptographic system for a given situation
+OE2- Interpret the operation of protocols/software using cryptographic processes
+modern.
+OE3- Determine secure solutions using cryptographic processes
+OE4- Explain the concepts, methods and techniques used in security protocols
+and which serve for the protection and data during transmission
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+CS3
+X
+X
+ 
+X
+CS4
+ 
+ 
+X
+X
+CS5
+X
+X
+X
+X
+ 
+Description of the content of the constituent element
+ 
+Chapter 1 – The Evolution of Cryptography
+1.1. Classical cryptography
+1.2. Modern cryptography
+1.3. Advanced cryptography
+ 
+Chapter 2 – Modern Cryptography
+2.1. Symmetric encryption (AES example)
+2.2. Asymmetric encryption (RSA example)
+2.3. Hashing
+2.4. Digital signature  
+ 
+Chapter 3 - Identity-Based Cryptography
+3.1. Principle, Mathematical preliminaries (pairing….etc)
+3.2. Boneh-Franklin Algorithm, Solutions to the Key Escrow Problem
+3.3. Applications
+ 
+Chapter 4 - Threshold Cryptography
+4.1. Principle, Mathematical preliminaries.
+4.2. Secret sharing algorithms (shamir, pederson, Feldman…etc)
+4.3. Applications (adhoc, IoT, threshold authentication, etc.)
+ 
+Chapter 5 - Elliptic Curve Cryptography
+5.1. Preliminary mathematics (finite field, DLP and ECDLP problems, operations on curves)
+elliptical…etc)
+5.2. Elliptic curve MV cryptosystem, From DH to ECDH, ECDSA
+ 
+Chapter 6 - Quantum Cryptography
+6.1. The BB84 entanglement calculation protocol  
+6.2. Quantum algorithms
+6.3. Post-quantum cryptography
+ 
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+3
+ 
+1.5
+ 
+ 
+4.5
+Chapter 2
+3
+ 
+1.75
+ 
+ 
+4.75
+Chapter 3
+4.5
+ 
+1.75
+ 
+ 
+6.25
+Chapter 4
+4.5
+ 
+2.25
+ 
+ 
+6.75
+Chapter 5
+4.5
+ 
+2.25
+ 
+ 
+6.75
+Chapter 6
+3
+ 
+1.75
+ 
+ 
+4.75
+ 
+Reference books:
+[1] AppliedCryptography, volume 6 of Discrete Mathematics and Its Applications, CRC Press,
+2001.
+[2]. Williams Stallings, Cryptography and Network Security: Principles and Practice (7th
+Edition)
+[3]. S. Iftene, Secret Sharing Schemes with Applications in Security Protocols, TR 07-01,
+January 2007.
+[4]. D. Boneh and M. Franklin, “Identity-based encryption from the weil pairing,” in Advances in CryptologyCRYPTO
+2001. Springer, 2001, pp. 213–229.
+ 
+ 

@@ -1,0 +1,63 @@
+ECUE fact sheet  
+ 
+              Teaching Unit: Network Assessment Tools
+ECUE no 4.2: Stochastic Modeling
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Probabilities
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+OE1- Study the main tools and concepts of stochastic modeling
+OE2- model and analyze a simple random phenomenon using stochastic models
+proposed.
+  
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+CS1
+X
+X
+CS2
+ 
+X
+CS5
+X
+X
+ 
+Description of the content of the constituent element
+                   Chapter 1. Reminders of probabilities  
+                   Chapter 2. Conditional probability and conditional expectation  
+                   Chapter 3. Markov chains (with various applications, notably to inventory and queue management.
+ 
+ 
+Chapter and sections
+Course (h)
+TD (h)
+Project(h)
+Total (h)
+Chapter 1
+6
+1.5
+1.5
+9
+Chapter 2
+7.5
+3
+3
+13.5
+Chapter 3
+9
+3
+3
+15
+ 
+Reference books:
+ 
+                   1. Arthur Engel “Random Processes for Beginners”, Vuibert, 2011.  
+                   2. Sheldon M. Ross “Introduction to probability models”, Academic Press, 2003.

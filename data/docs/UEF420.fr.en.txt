@@ -1,0 +1,825 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 10
+EU code: UEF420
+ 
+ 
+University: Tunis El Manar
+Establishment: Higher Institute of Computer Science
+ 
+ 
+Field of training: Computer science
+Mention :
+Degree: engineer
+Course: Embedded Systems and Connected Objects Engineering  
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+ 
+1- Continuous and sampled automatic  
+2- Theory of dynamic systems
+3- Z-transform
+4- Electricity  
+5- Electronics
+6- Microcontrollers
+7- Arduino cards
+ 
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+1. Define the techniques for modeling and identifying dynamic systems
+and study identification algorithms, the objective of which is to minimize a
+certain criterion allowing the identification of the system according to a hypothesis model
+candidate. Analyze Kalman filters (principles and structures)
+ 
+2. Establish digital process control approaches using
+digital calculators. Integrating a digital calculator into a loop
+servo and associate the appropriate digital corrector in the form of a
+recurrent control algorithm implementable on a digital computer
+ 
+3. Apply real-time control techniques for dynamic systems
+such as mobile robots, thermal enclosures and DC motors
+continuous and then implement control laws on Arduino boards for the
+EU title: Modeling, identification and control of systems
+2
+ 
+order
+ 
+4. Define the fundamental elements constituting a power converter,
+analyze the operation of the most used power converters and
+apply the methodology for sizing and designing a converter
+of power
+ 
+3- Constituent elements of the EU (ECUE)
+ 
+ 
+Constituent elements of the EU (ECUE)
+ 
+ 
+Practical activities (Projects, internships, dissertations, etc.)
+MP Identification and digital control of systems (see ECUE sheet)
+  
+Power electronics TP  
+TP1: Using PSIM
+TP2: Diode rectifiers
+TP3: Thyristor rectifiers
+TP4: Thyristor dimmers
+ 
+4- Content (course descriptions and plans)  
+Teachings (Present a brief description of the programs of each ECUE and attach
+the detailed programme in the EU fact sheet).
+ 
+Modeling and identification of systems  
+ 
+I. Introduction to modeling and identification
+ 
+II. Modeling of dynamic systems
+ 
+III. Identification of systems
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+ 
+Modeling and identification of
+systems
+22.5
+15
+ 
+ 
+3.5
+Digital control of systems 22.5
+15
+ 
+ 
+3.5
+MP Identification and ordering
+digital systems   
+ 
+22.5
+ 
+ 
+1
+Power electronics
+15
+7.5
+7.5
+ 
+2
+Total
+60
+60
+7.5
+ 
+10
+3
+ 
+       A- Methods for identifying noise-free systems
+ 
+      B- Methods for identifying noisy systems
+ 
+ 
+Numerical control of systems
+ 
+I. Introduction to numerical control of systems
+ 
+II. Study of sampled systems
+A. First order system
+B. Second order system
+ 
+III. Behavior of sampled linear servo systems
+ 
+IV. Synthesis of digital correctors
+MP identification and digital control of systems
+ 
+I. Control of a mobile robot to follow a path in advance using sensors
+infrared.
+ 
+II. Control of a mobile obstacle-avoiding robot in a hostile environment through
+sensors
+ultrasound.
+ 
+III. Acquisition of data from a temperature sensor of a thermal enclosure at
+through Arduino cards and real-time display of this data whether on
+7-segment displays or directly on a PC. Possibly, it is a question of implementing a
+PID control via Arduino board.
+ 
+IV. Design and implementation of a range of PI and PID control approaches for the
+speed control of a direct current motor (DCM) equipped with an incremental encoder, and
+this via Arduino cards.
+ 
+ 
+Power electronics
+ 
+I. Switches in power electronics and switching
+ 
+II. Uncontrolled and semi-controlled rectifiers
+ 
+III. Choppers and inverters
+ 
+IV. Application to the control of a direct current motor (DCM)
+ 
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+ 
+ 
+4
+ 
+-course support/TD (paper and digital)
+-paper and digital TP support
+ 
+ 
+5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet
+2- Mixed diet
+  3- CC regime
+4- Mixed diet
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Modeling and
+identification of systems
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+2
+6
+Numerical control of the
+systems
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+2
+MP Circuit Design
+digital and
+implementation on FPGA
+ 
+ 
+ 
+ 
+ 
+ 
+x
+100% 1
+Architectures
+multiprocessors
+x
+ 
+x
+30%
+x
+ 
+ 
+70%
+1
+ 
+Validation of internships and projects
+The mini-project is validated following an oral examination and the submission of a written report.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Modeling, identification and control of systems
+ECUE no 1.1: Modeling and identification of systems
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+8- Automatic analog and discreet  
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Define the techniques for modeling and identifying dynamic systems.
+OE2: Study identification algorithms, the objective of which is to minimize a certain
+criterion allowing the identification of the system according to a candidate hypothesis model  
+OE3: Analyze Kalman filters (principles and structures)
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OP5
+x
+x
+x
+x
+ 
+Description of the content of the constituent element
+ 
+I. Introduction to modeling and identification
+ 
+II. Modeling of dynamic systems
+1. Reminder on the models of the systems (1st and 2nd order)
+2. Modeling by transfer function
+3. Modeling by state representation
+ 
+III. Identification of systems
+ 
+A- Methods for identifying noise-free systems
+1. Strejc's method
+2. Broida method
+3. Cohen-Coon method
+4. Ziegler-Nichols method
+ 
+B- Methods for identifying noisy systems
+1. Identification Algorithms
+a- Identification based on output error
+b- Identification based on prediction error
+c- Simple least squares method
+d- Generalized least squares method
+6
+ 
+e- Quadratic criterion
+2. Choice of model complexity: Models Hypotheses
+a- ARX model (AutoRegressive with eXogenous variables)
+b- ARMAX model (AutoRegressive with Adjusted Mean and eXogenous variables)
+c- OE Model (Output Error)
+d- BJ (Box-Jenkins) model
+3. Kalman Filter
+a- Principle
+b- The discrete Kalman filter algorithm
+c- Structural diagram of the Kalman Filter
+d- Suboptimal steady-state Kalman filter
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+7:30 a.m.
+Chapter 2
+x
+ 
+x
+ 
+ 
+10
+Chapter 3
+x
+ 
+x
+ 
+ 
+10
+Chapter 4
+x
+ 
+x
+ 
+ 
+10
+ 
+ 
+ 
+Reference books:
+ 
+1. Ioan D. Landau “Identification of Systems” Educational Collection of automatics, The
+Hermes Science Publications, 1998
+2. ID Landau, “Control of Systems”, Chapter 6: Identification Methods, The
+Hermes Editions, 2002
+  3. Pierre Borne “Modeling and Identification of Processes”, Volume 2, Technip Edition, 2000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Modeling, identification and control of systems
+ECUE no 1.1: Numerical control of systems
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Theory of dynamic systems
+2- Z-transform
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+(Specify the objectives of the constituent element (OE) using verbs according to the taxonomy
+Bloom's or other reference taxonomy, maximum 8)
+OE1: Establish digital process control approaches using
+digital calculators
+OE2: Integrating a digital calculator into a control loop  
+OE3: associate the appropriate digital corrector in the form of a recurrent algorithm of
+command implementable on a digital computer
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OP1
+x
+ 
+ 
+OP5
+ 
+X
+X
+ 
+Description of the content of the constituent element
+ 
+I. Introduction to numerical control of systems
+1. Sampling a continuous signal (Shannon's theorem)
+2. Concepts of Digital-Analog and Analog-Digital converters
+3. Zero-order blocker
+4. Z-transform and inverse Z-transform
+5. Sampled transfer function
+6. Recurring equations
+ 
+II. Study of sampled systems
+A. First order system
+1. Sampling condition
+2. First-order sampled model
+3. First-order dynamic behavior
+4. Stability of a first-order system
+8
+ 
+B. Second order system
+1. Sampling condition
+2. Real-pole and complex-pole sampled mathematical model
+3. Dynamic behavior and influence of poles and zeros
+4. Performance analysis
+5. Example of discrete physical processes
+ 
+III. Behavior of sampled linear servo systems
+1. Sampled servo system
+2. Closed loop study
+3. Performance of a controlled system
+4. Stability Analysis: Jury Criterion
+5. Closed loop control with disturbance
+6. Study of delayed loop systems
+ 
+IV. Synthesis of digital correctors
+1. Numerical model of a derivative corrector
+2. Derivative corrector with filtered derivative action
+3. Numerical model of an integrating corrector
+4. Digital correctors PI, PD, parallel PID, mixed PID with filtered derivative action
+5. Corrector with correct answer
+6. Minimal response time corrector
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+9
+Chapter 2
+x
+ 
+x
+ 
+ 
+9
+Chapter 3
+x
+ 
+x
+ 
+ 
+9
+Chapter 4
+x
+ 
+x
+ 
+ 
+10:30 a.m.
+ 
+ 
+Reference books:
+ 
+1. R. Konn “Analog and digital control of systems. Frequency methods and
+polynomial, state space » Editions Ellipses, 2010
+2. E. Ostertag “Multivariable control and estimation. Linear methods and optimization
+quadratic » Editions Ellipses, 2006
+3. E. Godoy, E. Ostertag “Digital control of systems” Editions Ellipses, 2003
+4. Ph. Vanheeghe, C. Sueur, P. Borne “Automation of sampled systems: elements
+of courses and solved exercises”, Editions Technips, 2001
+5. M. Villain “Continuous and sampled signals and systems” Editions Ellipses, 1996
+6. M. Villain “Linear servo systems” Editions Ellipses, 1996
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Modeling, identification and control of systems
+ECUE no 1.1: MP identification and digital control of systems
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+9- Continuous and sampled automatic  
+10- Microcontrollers
+11- Arduino cards
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Apply real-time control techniques for dynamic systems such as
+than mobile robots, thermal enclosures and DC motors
+OE2: Implement control laws on Arduino boards for control
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OP5
+x
+x
+ 
+Description of the content of the constituent element
+ 
+I. Control of a mobile robot to follow a path in advance using sensors
+infrared.
+ 
+II. Control of a mobile obstacle-avoiding robot in a hostile environment through
+sensors
+ultrasound.
+The hardware used for controlling the line-following and/or obstacle-avoiding mobile robot
+East :
+1. Two-wheeled mobile robot
+2. Infrared sensors
+3. Ultrasonic sensors
+4. Arduino board
+5. Integrated circuit (LM398) for driving the wheels of the mobile robot
+ 
+III. Acquisition of data from a temperature sensor of a thermal enclosure at
+across the
+Arduino cards and real-time display of this data whether on 7" displays
+segments or directly on PC. Possibly, it is a question of implementing a PID command
+via the Arduino board.
+The equipment used for acquiring data from the thermal enclosure is:
+1. Thermal enclosure equipped with a halogen lamp
+10
+ 
+2. Arduino board
+3. Temperature sensor
+4. 7-segment display compatible with Arduino board
+5. PC
+ 
+IV. Design and implementation of a range of PI and PID control approaches for the
+speed control of a direct current motor (DCM) equipped with an incremental encoder, and
+this via Arduino cards.
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Part 1
+ 
+ 
+x
+ 
+ 
+5
+Part 2
+ 
+ 
+x
+ 
+ 
+5
+Part 3
+ 
+ 
+x
+ 
+ 
+6
+Part 4
+ 
+ 
+x
+ 
+ 
+6:30 a.m.
+ 
+ 
+ 
+Reference books:
+ 
+1. Erik Bartmann “The big book of Arduino” Editions Eyrolles, 2015
+2. Massimo Banzi and Michael Shiloh “Get started with Arduino” Editions Dunod, 2015
+3. Christian Tavernier “Arduino - Master its programming and its interface cards (shields)”
+Dunod Editions, 2011
+4. Yves Mergy “Arduino-uno in practice” Editions Books on Demand, 2016
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Modeling, identification and control of systems
+ECUE no 1.1: Power electronics
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Electricity  
+2- Electronics
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+(Specify the objectives of the constituent element (OE) using verbs according to the taxonomy
+Bloom's or other reference taxonomy, maximum 8)
+OE1: Define the fundamental elements constituting a power converter
+OE2: Analyze the operation of the most used power converters
+OE3: Apply the methodology for sizing and designing a converter
+of power
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OP3
+x
+x
+x
+OP5
+x
+x
+x
+ 
+Description of the content of the constituent element
+ 
+I. Switches in power electronics and switching
+1. Diode and thyristors
+2. IGBTS, GTOs
+3. Switching in power electronics
+ 
+II. Uncontrolled and semi-controlled rectifiers
+1. Single-phase and three-phase diode rectifiers
+2. Single-phase and three-phase thyristor rectifiers
+ 
+III. Choppers and inverters
+1. BOOST and BUCK choppers
+2. Single-phase voltage inverters
+3. Three-phase voltage inverters
+ 
+IV. Application to the control of a direct current motor (DCM)
+12
+ 
+1. The MCC
+2. The MCC order
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+x
+ 
+7h
+Chapter 2
+x
+ 
+x
+x
+ 
+7h
+Chapter 3
+x
+ 
+x
+x
+ 
+7h
+Chapter 4
+x
+ 
+x
+x
+ 
+9am
+ 
+ 
+Reference books:
+ 
+1. Bin Wu, Mehdi Narimani “High Power Converters and AC Drives” IEEE Press, Wiley
+Interscience Publications, 2017
+2. Leonard L. Grigsby “Electric Power Engineering Handbook: Power systems” CRC Press
+Editions, 2012
+3. Guy Séguier, Philippe Delarue, Francis Labrique “Power electronics: Structures,
+basic functions, main applications » 9th edition, Editions Dunod 2011
+4. Michel Pinard “Converters and power electronics: control. Description and
+Implementation » Editions Dunod, 2007
+5. François Leplus “Electrical engineering practical work by simulation and solution with PSIMDEMO”
+ELLIPSES Edition, 2011
+ 
+ 

@@ -1,0 +1,687 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 6
+EU code: UEF430
+ 
+ 
+University: Tunis El Manar
+Establishment: Higher Institute of Computer Science
+ 
+ 
+Field of training: Computer science
+Mention :
+Degree: engineer
+Course: Embedded Systems and Connected Objects Engineering  
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+1- Advanced microcontroller architecture
+2- Sensor and actuator
+3- Signals and systems
+4- Basic notions of networks
+5- Automation
+6- Power electronics
+7- Local networks  
+8- Communication bus
+ 
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+1. Build the complete chain allowing the design of an object with its
+different elements (sensors, actuators, microcontrollers) as well as the
+IoT communication protocols (MQTT, HTTP, CoAP,…), gateways, servers and
+Brokers, terminal (application: web, mobile, desktop)
+ 
+2. Define smart sensors and clarify the difference between classic sensors
+and intelligent and bring out the hardware architecture of a smart sensor without
+wires as well as the architecture of sensor networks, their characteristics
+techniques, their specificities and their classification. Study problems of this type
+networks and define certain applications of RCSFs.
+ 
+3. Define the concept of intelligent, connected, autonomous and ecological building. Explain
+the different technologies of home automation and technical management of buildings
+EU Title: Connected Objects
+2
+ 
+wired, wireless, proprietary and standard. Design a control and management network
+building control. Choose the equipment needed to successfully complete the project
+of such a network.
+ 
+3- Constituent elements of the EU (ECUE)
+ 
+ 
+Constituent elements of the EU (ECUE)
+ 
+ 
+Practical activities (Projects, internships, dissertations, etc.)
+  
+TP Home automation and connected buildings  
+Developing mini projects with hardware and programming
+4- Content (course descriptions and plans)  
+Teachings (Present a brief description of the programs of each ECUE and attach
+the detailed programme in the EU fact sheet).
+ 
+Communication protocols for connected objects
+ 
+Introduction and IoT chain
+
+Context and evolution of Connected Objects  
+
+Example of connected objects in different fields: home automation, agriculture, automotive, etc.)
+
+the different types of connected objects and their constraints
+
+Complete IOT chain: the different elements
+ 
+                     IOT node  
+a. Sensors and actuators of an IoT chain
+b. Microcontrollers for IoT: Raspberry Pi4, NodeMCU ESP32, STM32,...
+ 
+Communication protocols for IoT
+a. Embedded IoT protocols (Sensors Networks):
+o Bluetooth: characteristics, range, field of application, etc.
+o Zigbee
+o SigFox
+o LoraWan and Lora
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+ 
+Communication protocols of
+connected objects
+22.5
+7.5
+ 
+ 
+2
+Smart sensors and networks
+sensors  
+22.5
+7.5
+ 
+ 
+2
+Home automation and connected buildings 15
+7.5
+7.5
+ 
+2
+Total
+60
+22.5
+7.5
+ 
+6
+3
+ 
+o Comparative study
+b. IoT Web protocols  
+o MQTT: clients, broker, topic, publish, subscribe, QoS, ...
+o HTTP: clients, server, method (get, post,...)
+o COAP
+o Comparative study and choice
+c. Gateways: role  
+ 
+                      Terminal applications:   
+a. Data analysis (streaming, real time), Deep Learning and control,   
+c. REST API
+d. Data backups: structured and unstructured, Database,...
+ 
+The Watson IOT platform from IBM
+a. open source platforms: ThingsBoard, myDevices (Cayenne), Blynk
+b. Proprietary platforms: IBM Watson IoT Platform, Amazon Web Services (AWS) IoT
+Platform, Microsoft Azure IoT Platform, Google IoT Cloud Platform
+c. Detailed study of IBM's Watson IOT platform: aiming for IBM certification  
+ 
+ 
+Smart sensors and sensor networks
+ 
+1. Introduction to smart sensors
+2. Hardware architecture of a smart sensor
+3. Architecture and characteristics of wireless networks (IEEE 802.15.4)
+4. Problems of wireless sensor networks
+5. Applications of RCSFs (home automation, agriculture, industry, medicine, etc.)
+6. Conclusion: Horizons?
+ 
+ 
+ 
+Home automation and connected buildings
+ 
+Chapter 1: Building networks
+Chapter 2: Wired protocols for home automation (KNX, LON, MODBUS, DALI)
+Chapter 3: Wireless protocols for home automation
+ 
+ 
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+ 
+ 
+-course support/TD (paper and digital)
+-paper and digital TP support
+ 
+ 
+4
+ 
+5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet
+2- Mixed diet
+3- Mixed diet
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Protocols of
+communication of objects
+connected
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+2
+5
+Smart sensors and
+sensor networks
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+2
+Home automation and buildings
+connected
+x
+ 
+x
+30%
+x
+ 
+ 
+70%
+1
+ 
+Validation of internships and projects
+The mini-project is validated following an oral examination and the submission of a written report.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Connected Objects
+ECUE no 1.1: Communication protocols for connected objects
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+9- Advanced microcontroller architecture
+10- Sensor and actuator
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Build the complete chain enabling the design of a connected object as well as
+understanding each element of this chain.
+OE2: highlight the nodes (sensors, actuators, microcontrollers)
+OE3: Define IoT communication protocols (MQTT, HTTP, CoAP,…)
+OE4: Define gateways, servers and Brokers, terminal (application: web, mobile, desktop)
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OP2
+x
+x
+x
+x
+OP3
+x
+ 
+ 
+x
+OP4
+x
+ 
+x
+x
+OP6
+x
+x
+x
+ 
+ 
+Description of the content of the constituent element
+ 
+                  Introduction and IoT chain
+
+Context and evolution of Connected Objects  
+
+Example of connected objects in different fields: home automation, agriculture, automotive, etc.)
+
+the different types of connected objects and their constraints
+
+Complete IOT chain: the different elements
+ 
+                     IOT node  
+e. Sensors and actuators of an IoT chain
+f. Microcontrollers for IoT: Raspberry Pi4, NodeMCU ESP32, STM32,...
+ 
+Communication protocols for IoT
+d. Embedded IoT protocols (Sensors Networks):
+o Bluetooth: characteristics, range, field of application, etc.
+o Zigbee
+6
+ 
+o SigFox
+o LoraWan and Lora
+o Comparative study
+e. IoT Web protocols  
+o MQTT: clients, broker, topic, publish, subscribe, QoS, ...
+o HTTP: clients, server, method (get, post,...)
+o COAP
+o Comparative study and choice
+f. Gateways: role  
+ 
+                      Terminal applications:   
+b. Data analysis (streaming, real time), Deep Learning and control,   
+g. REST API
+h. Data backups: structured and unstructured, Database,...
+ 
+The Watson IOT platform from IBM
+d. open source platforms: ThingsBoard, myDevices (Cayenne), Blynk
+e. proprietary platforms: IBM Watson IoT Platform, Amazon Web Services (AWS) IoT
+Platform, Microsoft Azure IoT Platform, Google IoT Cloud Platform
+f. Detailed study of IBM's Watson IOT platform: aiming for IBM certification  
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+ 
+ 
+ 
+6h
+Chapter 2
+x
+ 
+x
+x
+ 
+8h
+Chapter 3
+x
+ 
+x
+x
+ 
+8h
+Chapter 4
+x
+ 
+x
+x
+ 
+8h
+Chapter 5
+x
+ 
+x
+x
+ 
+8h
+ 
+ 
+ 
+Reference books:
+ 
+ 
+1.
+S. Khare, M. Totaro "Internet of Things: An Overview", Computer Science, 2019
+2.
+M. Younan, EH Houssein, M. Elhoseny, AA. "Ali Challenges and recommended technologies
+for the industrial internet of things: A comprehensive review", Computer Science, 2020.
+3.
+K. Jot Singh, DS Kapoor "Create Your Own Internet of Things: A survey of IoT platforms".
+Computer Science IEEE Consumer Electronics Magazine, 2017
+4.
+S. Chin and J. Weaver "Raspberry Pi with Java: Programming the Internet of Things". Editions
+Oracle Press. 2016
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Connected Objects
+ECUE no 1.1: Smart sensors and sensor networks
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+11- Signals and systems
+12- Basic notions about sensors
+13- Basic notions of networks
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Define smart sensors and specify the difference between classic sensors
+and intelligent.  
+OE2: Highlighting the hardware architecture of a wireless smart sensor as well as the
+architecture of sensor networks, their technical characteristics, their specificities and
+their classification.  
+OE3: Study the problems of this type of network.
+OE4: Define certain applications of RCSFs.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OP2
+x
+x
+x
+x
+OP3
+x
+x
+x
+x
+OP4
+x
+x
+x
+x
+OP6
+x
+x
+x
+x
+OP8
+ 
+x
+x
+x
+ 
+Description of the content of the constituent element
+ 
+1. Introduction to smart sensors
+2. Hardware architecture of a smart sensor
+3. Architecture and characteristics of wireless networks (IEEE 802.15.4)
+4. Problems of wireless sensor networks
+5. Applications of RCSFs (home automation, agriculture, industry, medicine, etc.)
+6. Conclusion: Horizons?
+ 
+ 
+ 
+ 
+8
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+5h
+Chapter 2
+x
+ 
+x
+ 
+ 
+5h
+Chapter 3
+x
+ 
+x
+ 
+ 
+5h
+Chapter 4
+x
+ 
+x
+ 
+ 
+5h
+Chapter 5
+x
+ 
+x
+ 
+ 
+5h
+Chapter 6
+x
+ 
+x
+ 
+ 
+5h
+ 
+ 
+ 
+Reference books:
+ 
+1. Aurelien Valade, “Smart sensors: what methodologies for data fusion
+embarked? » 2017
+2. David Simplot, Ryl Eric Fleury, “Sensor Networks - Theory and Modeling”, Hermes
+Science Publications, 2009
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Connected Objects
+ECUE no 1.1: Home automation and connected buildings
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+14- Automation
+15- Power electronics
+16- Local networks  
+17- Communication bus
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Define the concept of intelligent, connected, autonomous and ecological building
+OE2: Present the different technologies of home automation and technical management of
+wired, wireless, proprietary and standard buildings.
+OE3: design a building command and control network.
+OE4: choose the equipment needed to successfully complete the creation of such a network
+OE5: Compare existing technologies, their advantages and weaknesses.
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OE5
+OP2
+x
+x
+x
+x
+x
+OP4
+x
+x
+x
+x
+x
+OP8
+x
+ 
+x
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+Chapter 1: Building networks
+Chapter 2: Wired protocols for home automation (KNX, LON, MODBUS, DALI)
+Chapter 3: Wireless protocols for home automation
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+x
+ 
+10am
+Chapter 2
+x
+ 
+x
+x
+ 
+10am
+Chapter 3
+x
+ 
+x
+x
+ 
+10am
+ 
+ 
+ 
+ 
+10
+ 
+Reference books:
+ 
+                 www.knx.com
+LONWORKS technology, EBV Elektronik GmbH & Co KG Im Technologiepark Version 5.11 /
+July 2004 Updated by Philippe Bénédet Based on an original idea by Franz Wiedemann
+ 
+ 
+ 
+ 
+ 

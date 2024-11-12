@@ -1,9 +1,7 @@
 import { IGPTService } from "../../domain/interfaces/IGPTService";
 import { IPromptService } from "../../domain/interfaces/IPromptService";
 import ChatBotServiceResponseFactoryService from "./chatBotServiceResponseFactoryService";
-import { GPTService } from "./GPTService";
 import IndexingService from "./IndexingService";
-import { franc } from "franc-min";
 import TranslationService from "./TranslationService";
 
 class ChatBotService {
@@ -17,7 +15,6 @@ class ChatBotService {
   private FRENCH_CODE = "fr";
 
   public async processPrompt(prompt: string) {
-    prompt = "what is isi";
     const language = await this.translateService.detectLanguage(prompt);
     if (language != this.ENGLISH_CODE && language != this.FRENCH_CODE)
       return ChatBotServiceResponseFactoryService.getResponse(null);
@@ -30,11 +27,13 @@ class ChatBotService {
     const similarDocuments = await this.indexationService.similaritySearch(
       prompt
     );
-    console.log(similarDocuments);
-    prompt = this.promptService.wrapPrompt(prompt, similarDocuments);
-    console.log(prompt);
+    prompt = this.promptService.wrapPrompt(prompt, similarDocuments, language);
+    console.log("service side prompt", prompt);
     const response = await this.gptService.generateResponse(prompt);
-    console.log(ChatBotServiceResponseFactoryService.getResponse(response));
+    console.log(
+      "service side",
+      ChatBotServiceResponseFactoryService.getResponse(response)
+    );
     return ChatBotServiceResponseFactoryService.getResponse(response);
   }
 }

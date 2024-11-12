@@ -1,0 +1,642 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 4
+EU Code: UEF840
+ 
+ 
+University: Tunis El Manar University
+Institution: Higher Institute of Computer Science
+ 
+ 
+Field of training:  
+Mention :
+Degree: Engineer
+Course: Software Engineering
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+-
+Development in advanced languages,
+-
+UML modeling,
+-
+Linux or Windows system administration at the command line.
+-
+Knowledge of software development cycles
+-
+Software engineering / IT project experience
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+1- The aim of this course is to familiarize yourself with the concepts of the Process
+Business  
+2- Model workflows and integrate them using software packages such as
+ERP, CRM, ERM,…
+3- Master the essential principles of the DevOps methodology  
+4- Study numerous use cases applicable to scenarios of
+development of businesses, SMEs and startups.
+5- Acquire the vocabulary of norms and standards relating to the activity of
+Tests (ISO and IEEE)
+6- Master all the activities of a test process
+EU Title: Software Process
+2
+ 
+7- Know the different levels and types of tests
+ 
+ 
+3- Constituent elements of the EU (ECUE)
+ 
+Constituent elements of the EU (ECUE)
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+Software Quality and Testing
+15
+7.5
+15
+ 
+3
+Advanced Software Engineering
+15
+ 
+3
+4.5
+2
+Total
+30
+7.5
+18
+4.5
+5
+ 
+4- Content (course descriptions and plans)  
+Teaching: see the detailed module sheets for each ECUE
+This Teaching Unit allows learners to develop their skills in the
+context of development strategies and in particular in the validation and verification phase
+of their software
+ 
+ 
+Practical EU activities  
+Practical work sessions in each ECUE are scheduled to experiment with the
+tools and techniques related to systems testing and validation skills.  
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+1- Detailed course support for each chapter of the course
+2- Bibliographic references (books, web links) must be provided to learners
+3- Tools appropriate to the content of each module will be installed, configured and
+used during practical activity sessions.
+                  5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet:  
+All the ECUEs of this UE are under mixed regime: control + Final exam  
+Continuous assessment: Graded work/assessments
+This work aims to verify the acquisition of knowledge and the skills to apply and
+transfer the concepts studied to concrete situations.  
+The final proctored exam covers all course material and will consist of questions
+objectives, development, case studies, problems, etc.  
+ 
+3
+ 
+ 
+ 
+ 
+ 
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Software Quality and Testing
+50%  
+50% 30%
+100%  
+ 
+70%
+2
+3
+Advanced Software Engineering
+50%  
+50% 30%
+100%  
+ 
+70%
+1
+ 
+ 
+ 
+ECUE fact sheet: Process engineering
+Teaching Unit: UEF840 Engineering and Quality
+ECUE no 1.1: Process engineering
+ 
+Prerequisites:
+ 
+Development in advanced languages,  
+UML modeling,
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+EO1: Understand the concepts of the Business Process  
+EO2: Modeling and managing workflows  
+EO3: Integrate with software packages such as ERP, CRM, ERM, etc. EO2:
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IDL training
+ 
+ 
+OE1
+OE2
+OE3
+CS 1
+X
+X
+ 
+CS2
+ 
+ 
+X
+CS3
+ 
+ 
+X
+CS4
+ 
+X
+X
+CS6
+X
+X
+ 
+CS7
+ 
+ 
+X
+ 
+ 
+4
+ 
+ 
+Constituent element plan (ECUE):
+Course outline
+Chapter 1: Workflow Management: Activities,  
+Chapter 2: Business Process Modeling Activiti,....
+Chapter 3: Integrator-based programming: Node Red, jenkis, ...
+Chapter 4: Integrated management by software packages: ERP; CRM; ERM; ...1.4 Turing machine and
+the RAM machine
+ 
+     
+Description of the content of the constituent element
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+X
+ 
+X
+ 
+ 
+ 
+Chapter 2
+X
+ 
+X
+ 
+ 
+ 
+Chapter 3
+X
+ 
+X
+X
+ 
+ 
+Chapter 3
+X
+ 
+X
+X
+ 
+ 
+ 
+Reference books:
+1.
+Morley, C., Hugues, J., Leblanc, B., & Hugues, O. (2005). Business processes and systems
+information
+ 
+ 
+ 
+ECUE Fact Sheet: Software Quality and Testing
+ 
+Teaching Unit: Software Process
+ECUE: Software Quality and Testing
+ 
+Prerequisites:
+ 
+Knowledge of software development cycles
+Software engineering / IT project experience
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+EO1: Acquire the vocabulary of standards and norms relating to the Testing activity (ISO and IEEE)
+EO2: Master all the activities of a test process
+EO3: Know the different levels and types of tests
+EO4: Understand testing techniques and methods and have an overview of the
+tester job
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IDL training
+ 
+ 
+5
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+CS1
+X
+X
+ 
+ 
+CS2
+ 
+ 
+X
+X
+CS4
+ 
+ 
+X
+X
+CS5
+ 
+ 
+X
+X
+CS6
+ 
+X
+ 
+ 
+CS8
+X
+X
+X
+X
+ 
+ 
+Constituent element plan (ECUE):
+Course outline
+Chapter 1: Testing Fundamentals
+o What are tests? The objectives of testing. Differences between testing and debugging.
+o Why are tests necessary? Issues and quality.
+o Test vocabulary: verification, validation, error, defect, failure.
+o 7 general principles of testing: exhaustive testing is impossible, test early,
+defect grouping, testing and context...
+o Testing process: testing activities and associated tasks.
+o The psychology of testing. Difference in mindset between the tester and the
+developer.
+ 
+Chapter 2: Testing during the software development lifecycle
+o
+Software development models: V-model, incremental and iterative model.
+o
+The 4 levels of testing: component testing, integration testing, system testing, testing
+of acceptance.
+o
+The main testing approaches: Big-bang, Ad-hoc, Incremental, Exploratory, Dos
+to Back...
+o
+Types of testing: functional, non-functional, black box, white box.
+o
+Confirmation and regression testing.
+o
+Maintenance tests
+ 
+Chapter 3: Testing Process  
+o
+Testing activities
+o
+Testwares  
+o
+Test conditions/test cases/test data  
+ 
+Chapter 4: Static Testing
+o Basics of static testing.
+o Benefits of static testing.
+o The different types of review.
+o Formal review process. Key activities, roles and responsibilities,
+success factors.
+o Review techniques: Ad hoc, role-based, perspective-based.
+ 
+Chapter 5: Dynamic Testing Techniques  
+o Identify test conditions and design test cases.
+6
+ 
+o Specification-based techniques or black box techniques.
+o Structure-based or white-box techniques
+o Experience-based techniques.
+o Select testing techniques.
+ 
+Chapter 6: Test Management
+o Test organization: test independence, role of a Test Manager and a
+Tester.
+o Test planning and estimation: test plan, entry and exit criteria
+tests.
+o Test management and control, test reports.
+o Configuration management.
+o Risks and Tests: project risks and product risks.
+o Defect management.  
+ 
+Chapter 7: Test Support Tools
+o Classification of tools.
+o Benefits and risks of automation.
+o Tools for test management.
+o Tools for static testing.
+o Tools for running tests.
+o Effective use of tools: potential benefits and risks.
+o Introduce a tool into an organization: selection, pilot project, deployment.
+ 
+Description of the content of the constituent element
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+X
+ 
+ 
+ 
+ 
+ 
+Chapter 2
+X
+ 
+ 
+ 
+ 
+ 
+Chapter 3
+X
+ 
+ 
+X
+ 
+ 
+Chapter 4
+X
+ 
+ 
+X
+ 
+ 
+Chapter 5
+X
+ 
+ 
+X
+ 
+ 
+Chapter 6
+X
+ 
+ 
+X
+ 
+ 
+Chapter 7
+X
+ 
+ 
+X
+ 
+ 
+ 
+Reference books:
+ 
+ https://www.istqb.org/downloads/syllabi/foundation-level-syllabus.html
+ https://www.istqb.org/certification-path-root/foundation-level/foundation-level-
+content.html
+ 
+ 
+ 
+ 
+ 
+7
+ 
+ECUE fact sheet: Advanced Software Engineering
+Teaching Unit: Software Process
+ 
+Prerequisites:
+ 
+-
+Analysis and design (MERISE), OO (UML)
+-
+Object-oriented programming (Java, C++, C#, …)
+ 
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+ 
+EO1: understand the challenges of software engineering and describe the qualities of software
+and the basic principles that enable it to be achieved.
+EO2: deepen essential knowledge on the different aspects of the process
+software development, particularly requirements, design,
+development, maintenance and quality assurance of software.
+ 
+ 
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+CS2
+ 
+X
+CS3
+X
+X
+          
+Constituent element plan (ECUE):
+ 
+ 
+ 
+8
+ 
+Course outline
+Chapter I: Introduction to Software Engineering  
+I.1. Definition
+I.2. The objectives of the GL
+I.3. The difficulties of the GL
+I.4. GL software and professions.
+I.5. The quality of the software?
+Chapter II: Classical life cycle models  
+II.1. Introduction.
+II.2. Cascade model
+II.3. V-model  
+II.4. Incremental model
+II.5. Spiral model
+Chapter III: Introduction to the Development Process
+III.1.Definition   
+III.2. History of the unified process
+III.3. Instances of the Unified Process
+Chapter IV: The Unified Process
+IV.1. Introduction
+IV.2. The life of the Unified Process  
+IV.2.1. Horizontal axis
+IV.2.2. Vertical axis
+IV.3. Use case driven process  
+IV.3.1. Interest of use cases  
+IV.3.2. Implementation of use cases
+IV.4. Architecture-centric process  
+IV.4.1. Interest of architecture
+IV.4.2. Architecture and use cases
+IV.4.3. Construction of the architecture
+IV.5. Iterative and incremental process  
+IV.5.1. What is iterative and incremental?  
+IV.5.2. Interest in iterative and incremental development  
+IV.5.3. Risk reduction  
+Chapter V: The main chains of activities
+V.1. Understanding the system context  
+V.2. Expression of needs.  
+V.2.1. Presentation.
+V.2.2. Artifacts  
+V.2.3. Workers  
+V.2.4. Sequence of activities  
+V.3. Analysis.  
+V.3.1. Presentation
+V.3.2. Artifacts  
+V.3.3. Workers  
+V.3.4. Sequence of activities
+V.4. Design   
+V.4.1. Presentation
+V.4.2. Artifacts  
+V.4.3. Workers
+V.4.4. Sequence of activities  
+V.5. Implementation  
+V.5.1. Presentation
+V.5.2. Artifacts  
+V.5.3. Workers  
+V.5.4. Sequence of activities  
+V.6. Tests.  
+9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference books:
+ 
+ Khemissa, Hamid. "Advanced Software Engineering Environment: Assistance Model in the
+software process development." (2013).
+ .Fernandes Barbosa, Raphael. A method for evaluating dashboards for software engineering.
+Diss. University of Quebec in Chicoutimi, 2022
+ 
+V.6.1. Presentation
+V.6.2. Artifacts  
+V.6.3. Workers
+V.6.4. Sequence of activities.
+V.7. Conclusion
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+X
+ 
+X
+ 
+ 
+ 
+Chapter 2
+X
+ 
+X
+ 
+ 
+ 
+Chapter 3
+X
+ 
+X
+ 
+ 
+ 
+Chapter 4
+X
+ 
+X
+ 
+ 
+ 
+Chapter 5
+X
+ 
+X
+ 
+ 
+ 

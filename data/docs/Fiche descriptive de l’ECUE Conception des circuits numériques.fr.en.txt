@@ -1,0 +1,139 @@
+ECUE fact sheet
+ 
+Teaching Unit: Design and implementation of digital circuits on
+FPGA
+ECUE no 1.1: Design of digital circuits  
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Advanced processor architecture
+2- Logical system
+ 
+Learning objectives of the constituent element (ECUE):
+ 
+OE1- Model, from a specification, a complex digital circuit and
+synthesizable with a hardware description language and to validate it functionally.
+OE2- Evaluate the performance of these circuits and understand the steps required for its
+implementation on a programmable FPGA circuit.
+OE3- Understanding analog and digital electronic systems and components
+ 
+Association matrix between the objectives of the constituent element and those of the
+training program (OP)
+ 
+ 
+ 
+OE1
+OE2
+OE3
+CS1
+ 
+ 
+X
+CS2
+ 
+X
+X
+CS5
+X
+X
+ 
+CS6
+ 
+X
+X
+CS7
+X
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+Chapter 1: Introduction to Digital Circuits
+1. Evolution of CMOS technology: MOORE's law  
+2. CMOS transistor: operating principle and type (PMOS, NMOS)
+3. Levels and types of modeling of a digital circuit
+4. Hardware description languages: interest  
+Chapter 2: VHDL Modeling
+1. Structure of a VHDL program: entity, architecture, configuration, package
+2. The different types of modeling: behavioral, data flow, structural
+3. Signals, types, operators, variables
+4. Concurrent instructions: process,  
+5. Sequential instructions: if thenelse; ...
+6. Construction of a Testbench and functional validation: code coverage, assertion, ...
+Chapter 3: Finite State Machines (FSM)
+1. Moore machine and Mealy machine
+2. State diagram
+3. VHDL modeling of a FSM
+Chapter 4: VHDL Synthesis
+4. Synthesizers: role and standard of synthesis
+5. The synthesizable RTL level
+6. The rules of synthesis
+7. The synthesis of combinatorial logic
+8. The synthesis of sequential logic
+Chapter 5: Performance study
+1. Propagation delays of combinational and sequential circuits
+2. Deadlines for preparing and maintaining D scales.
+3. Critical path and maximum frequency of a complex digital circuit
+4. Taking into account the clock propagation delay: clockskew
+Chapter 6: The different implementation solutions
+1. ASICs: semi custom ASIC, custom ASIC, gate array ASIC,...
+2. PLDs (ProgrammableLogicDevice): PLA, SPLD, CPLD, FPGA
+3. The different stages of implementation
+ 
+ 
+Chapter and sections
+Course(h)
+CI (h)
+TD(h)
+TP (h)
+Project(h)
+Total(h)
+Chapter 1
+3
+ 
+1
+ 
+ 
+4
+Chapter 2
+3
+ 
+1
+ 
+ 
+4
+Chapter 3
+3
+ 
+1.5
+ 
+ 
+4.5
+Chapter 4
+4.5
+ 
+1.5
+ 
+ 
+6
+Chapter 5
+4.5
+ 
+1.5
+ 
+ 
+6
+Chapter 6
+4.5
+ 
+1
+ 
+ 
+5.5
+ 
+Reference books:
+ 
+1- S. Lee "Advanced Digital Logic Design with VHDL". Thomson Prentice Hall Publishing. 2006
+2- P. Chu “RTL Hardware Design Using VHDL”. Wiley Editions. 2006
+3- P. Chu "FPGA prototyping by VHDL examples. Xilinx Spartan-3 version". Wiley Editions. 2008
+4- P. Simpson "System design with FPGA". Dunod Editions. 2014

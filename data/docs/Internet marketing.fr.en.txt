@@ -1,0 +1,83 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Behavioral Skills IV
+ECUE no 6.1: Internet Marketing
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- General notions in digital management
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+OE1: Familiarize the student with the concepts of marketing, given the relationship
+close collaboration that exists between engineers and marketing professionals in
+business.
+OE2: Understanding the evolution of marketing strategy and practices in the digital age
+OE3: Know the concepts, techniques and practices of digital processes.
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+CS1
+X
+ 
+X
+CS2
+ 
+X
+X
+CS3
+X
+X
+X
+CS4
+X
+X
+X
+CS5
+ 
+X
+ 
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+ 
+                           Introductory Chapter: What changes in Marketing practices in the digital age:
+                          Chapter 1: The digital marketing strategy
+                         Chapter 2: Internet and the marketing mix
+                          Chapter 3: E-commerce: customer relations and digitalization of the point of sale
+                      Chapter 4: M-Marketing: Mobile Marketing
+   
+ 
+Chapter and sections
+Course (h)
+TP (h)
+Total (h)
+Chapter 1
+4.5
+ 
+4.5
+Chapter 2
+4.5
+1.5
+6
+Chapter 3
+4.5
+1.5
+6
+Chapter 4
+4.5
+1.5
+6
+ 
+Reference books:
+1. Internet Marketing (2014-2015), ebg Electronic Business Group, under the direction of Soraya Cabezon.
+2. Succeeding in your digital transformation, G. Westerman, (2016), New Horizons.
+3. Marketing 4.0 The shift to digital, P. Kotler, ED. De Booek

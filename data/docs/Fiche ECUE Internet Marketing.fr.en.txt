@@ -1,0 +1,141 @@
+1
+ 
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Behavioral Skills IV
+ECUE no 1.1: Internet Marketing
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- General concepts in Management  
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+
+OE1: Mastering marketing concepts
+
+OE2: Understanding the evolution of marketing strategy and practices in the era of
+digital.  
+
+OE3: Know the concepts, techniques and practices of digital processes.  
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OP9
+x
+x
+ 
+OP10
+x
+x
+x
+OP11
+x
+x
+x
+ 
+Description of the content of the constituent element
+ 
+Chapter 1: Introduction
+What changes in Marketing practices in the digital era, Marketing, E-Marketing and M-Marketing
+Chapter 2: The digital marketing strategy
+Chapter 3: Internet and the marketing mix
+Chapter 4: E-commerce  
+Customer relations and digitalization of the point of sale  
+Chapter 5: M-Marketing: Mobile Marketing
+Chapter 6: Case Studies
+2
+ 
+The course is based on a pragmatic approach that allows the student to
+actively contribute to the definition of concepts based on case studies of companies, studied
+at the beginning of each chapter. The interest is to involve the student in the work of reflection and
+brainstorming and thus develop their interpretation skills in an approach of
+preparation for problem solving and proposing solutions from a perspective of
+group dynamics, which is one of the main missions of a company engineer.
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+ 
+ 
+ 
+3h
+Chapter 2
+x
+ 
+ 
+ 
+ 
+3h
+Chapter 3
+x
+ 
+ 
+ 
+ 
+4h
+Chapter 4
+x
+ 
+ 
+ 
+ 
+4h
+Chapter 5
+x
+ 
+ 
+ 
+ 
+4h
+Chapter 6
+x
+ 
+ 
+ 
+ 
+4:30 a.m.
+ 
+ 
+ 
+Reference books:
+ 
+1. Internet Marketing (2014-2015), ebg Electronic Business Group, under the direction of Soraya
+Cabezon.  
+2. Succeeding in your digital transformation, G. Westerman, (2016), New Horizons. Marketing 4.0 The
+digital transition, P. Kotler, ED. De Booek  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

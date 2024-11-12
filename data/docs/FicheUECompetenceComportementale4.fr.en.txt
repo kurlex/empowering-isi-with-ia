@@ -1,0 +1,310 @@
+ 
+Description sheet of a teaching unit (UE) And
+of its constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 3
+EU code:  
+ 
+ 
+University :  
+Establishment:  
+ 
+ 
+Field of training: Computer science
+Mention: IDL
+Degree: Engineer  
+Course: IDL
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+ 
+-
+Select and carry out language, personality, etc. tests
+2- Objectives of the EU (use Bloom's taxonomy or other reference
+recognized, the objectives can be specified here or at the level of
+each ECUE, they must be compliant)
+ 
+-
+Have the ability for personal and professional self-assessment
+-
+Master communication techniques with a varied audience and foreign languages
+ 
+3- Constituent elements of the EU (ECUE)
+ 
+Constituent elements of the EU (ECUE)
+ 
+Constituent elements
+Hourly volume (1 semester = 15 weeks)
+Credits
+Course
+TD
+TP
+Others
+Internet Marketing     
+22.5
+ 
+ 
+ 
+1
+Personal development and
+Socializing
+ 
+22.5
+ 
+ 
+1
+Personal and professional project
+ 
+22.5
+ 
+ 
+1
+Total
+22.5
+45
+ 
+ 
+ 
+3
+EU Title: Behavioural Competencies IV
+4- Content (course descriptions and plans)  
+ 
+ 
+5- Teaching methods and teaching resources specific to the EU
+(teaching methods and tools, reference works, use of
+ICT/distance learning possibilities, ..)
+ 
+The educational materials and resources that will be made available to students are
+in the form of power point presentations, TD, audio-visual resources and
+course supplements in digital or paper format.
+The TD and TP subjects will be distributed to students in paper/digital format.  
+ 
+5- Exams and assessment of knowledge
+Assessment methods and examination system (Introduce the assessment system
+recommended: continuous monitoring only or, mixed regime i.e. monitoring
+continuing and final exams)
+ 
+1- Continuous Control
+2- Continuous Control
+ 
+Validation of the EU (specify the weights of the examination tests for the calculation
+of the average of the UCUE, the coefficients of the ECUE and the coefficient of the UE
+within the course)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Internet Marketing    
+X
+ 
+ 
+100%
+ 
+ 
+ 
+ 
+1
+3
+Personal development and
+Socializing
+X
+ 
+ 
+100%
+ 
+ 
+ 
+ 
+1
+ 
+Personal project and
+professional
+X
+ 
+ 
+100%
+ 
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ECUE Digital Marketing Fact Sheet    
+ 
+Teaching Unit: Behavioral Skills IV
+ 
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+ General concepts in Management  
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+ 
+At the end of the component, the student will be able to:
+ OE1: Master the concepts of marketing
+ OE2: Understanding the evolution of marketing strategy and practices
+in the digital age.  
+ OE3: Know the concepts, techniques and practices of the processes
+digital.  
+ 
+Association matrix between the objectives of the constituent element
+and those of the training program (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OP6
+X
+X
+ 
+OP7
+X
+X
+X
+OP8
+X
+X
+X
+ 
+ 
+Course outline
+Chapter 1: Introduction
+What changes in Marketing practices in the digital era, Marketing, E-Marketing and M-
+Marketing
+Chapter 2: The digital marketing strategy
+ 
+ 
+References:
+ 
+1. Internet Marketing (2014-2015), ebg Electronic Business Group, under the direction of Soraya
+Cabezon.  
+2. Succeeding in your digital transformation, G. Westerman, (2016), New Horizons. Marketing 4.0 The
+digital transition, P. Kotler, ED. De Booek  
+ 
+ 
+ECUE Personal development and Socializing fact sheet
+ 
+Teaching Unit: Behavioral Skills IV
+ 
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+ The student benefits from an introduction to the first part of the TOEIC
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+ 
+At the end of the component, the student will be able to:
+Chapter 3: Internet and the marketing mix
+Chapter 4: E-commerce  
+Customer relations and digitalization of the point of sale  
+Chapter 5: M-Marketing: Mobile Marketing
+Chapter 6: Case Studies
+The course is based on a pragmatic approach that allows the student to contribute
+actively in defining concepts based on business case studies, studied at the beginning of
+each chapter. The interest is to involve the student in the work of reflection and brainstorming and to
+thus develop their interpretation skills in an approach to preparing for the resolution of
+problems and the proposal of solutions from a group dynamics perspective, which figures
+among the main missions of a company engineer.
+ 
+ OE1: Acquire English communication skills  
+ 
+Association matrix between the objectives of the constituent element
+and those of the training program (OP)
+ 
+ 
+OE1
+OP6
+X
+OP7
+X
+OP8
+X
+ 
+ 
+ 
+ 
+ECUE Personal and Professional Project Description Sheet
+ 
+Teaching Unit: Behavioral Skills IV
+ 
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+ Initial knowledge of communication and writing in French and
+English  
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+ 
+ 
+At the end of the component, the student will be able to:
+ OE1: Write a CV and submit an application  
+ 
+ 
+ 
+ 
+Association matrix between the objectives of the constituent element
+and those of the training program (OP)
+ 
+Course outline
+The first part of the TOEIC: LISTENING
+-Photographs
+-Question and answer
+-short conversation
+-short talks
+ 
+ 
+ 
+ 
+OE1
+OP6
+X
+OP7
+X
+OP8
+X
+ 
+ 
+ 
+ 
+ 
+Course outline
+Module 1: Preparing an application file for an internship
+Module 2: Writing and ethics
+Part 1: Summarize
+Section 2: Writing standards

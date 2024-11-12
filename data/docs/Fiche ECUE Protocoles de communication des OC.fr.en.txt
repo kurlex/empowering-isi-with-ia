@@ -1,0 +1,197 @@
+1
+ 
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Connected Objects
+ECUE no 1.1: Communication protocols for connected objects
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Advanced microcontroller architecture
+2- Sensor and actuator
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Build the complete chain enabling the design of a connected object as well as
+understanding each element of this chain.
+OE2: highlight the nodes (sensors, actuators, microcontrollers)
+OE3: Define IoT communication protocols (MQTT, HTTP, CoAP,…)
+OE4: Define gateways, servers and Brokers, terminal (application: web, mobile, desktop)
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OP2
+x
+x
+x
+x
+OP3
+x
+ 
+ 
+x
+OP4
+x
+ 
+x
+x
+OP6
+x
+x
+x
+ 
+ 
+Description of the content of the constituent element
+ 
+                  Introduction and IoT chain
+
+Context and evolution of Connected Objects  
+
+Example of connected objects in different fields: home automation, agriculture, automotive, etc.)
+
+the different types of connected objects and their constraints
+
+Complete IOT chain: the different elements
+ 
+                     IOT node  
+a. Sensors and actuators of an IoT chain
+b. Microcontrollers for IoT: Raspberry Pi4, NodeMCU ESP32, STM32,...
+ 
+Communication protocols for IoT
+a. Embedded IoT protocols (Sensors Networks):
+o Bluetooth: characteristics, range, field of application, etc.
+2
+ 
+o Zigbee
+o SigFox
+o LoraWan and Lora
+o Comparative study
+b. IoT Web protocols  
+o MQTT: clients, broker, topic, publish, subscribe, QoS, ...
+o HTTP: clients, server, method (get, post,...)
+o COAP
+o Comparative study and choice
+c. Gateways: role  
+ 
+                      Terminal applications:   
+a. Data analysis (streaming, real time), Deep Learning and control,   
+c. REST API
+d. Data backups: structured and unstructured, Database,...
+ 
+The Watson IOT platform from IBM
+a. open source platforms: ThingsBoard, myDevices (Cayenne), Blynk
+b. Proprietary platforms: IBM Watson IoT Platform, Amazon Web Services (AWS) IoT
+Platform, Microsoft Azure IoT Platform, Google IoT Cloud Platform
+c. Detailed study of IBM's Watson IOT platform: aiming for IBM certification  
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+ 
+ 
+ 
+6h
+Chapter 2
+x
+ 
+x
+x
+ 
+8h
+Chapter 3
+x
+ 
+x
+x
+ 
+8h
+Chapter 4
+x
+ 
+x
+x
+ 
+8h
+Chapter 5
+x
+ 
+x
+x
+ 
+8h
+ 
+ 
+ 
+Reference books:
+ 
+ 
+1.
+S. Khare, M. Totaro "Internet of Things: An Overview", Computer Science, 2019
+2.
+M. Younan, EH Houssein, M. Elhoseny, AA. "Ali Challenges and recommended technologies
+for the industrial internet of things: A comprehensive review", Computer Science, 2020.
+3.
+K. Jot Singh, DS Kapoor "Create Your Own Internet of Things: A survey of IoT platforms".
+Computer Science IEEE Consumer Electronics Magazine, 2017
+4.
+S. Chin and J. Weaver "Raspberry Pi with Java: Programming the Internet of Things". Editions
+Oracle Press. 2016
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

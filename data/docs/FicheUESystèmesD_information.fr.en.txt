@@ -1,0 +1,458 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 5
+EU code:
+ 
+ 
+University: Tunis El Manar University
+Establishment: Higher Institute of Computer Science
+ 
+ 
+Field of training: Computer science
+Mention: IDL
+Degree: Engineer
+Course: Software Engineering
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+- UML design and modeling  
+- Programming in advanced languages ​​(in particular object-oriented approach)
+- Algorithms and data structure
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+
+Understanding the importance of human-machine interaction during a
+task given
+
+Become familiar with the concepts of Business Processes and their modeling
+
+Implement the knowledge acquired through a practical activity  
+3- Constituent elements of the EU (ECUE)
+ 
+Constituent elements of the EU (ECUE)
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+Design and programming of
+user interfaces
+15
+7.5
+7.5
+ 
+2
+Business Process Engineering
+15
+ 
+15
+ 
+2
+Mini-project development of
+information systems
+ 
+ 
+ 
+22.5
+1
+Total
+30
+7.5
+22.5
+22.5
+5
+ 
+EU Title: Information Systems
+2
+ 
+'
+Practical activities (Projects, internships, dissertations, etc.)
+Practical activities related to the use of support and tools for the design and evaluation of
+HMI as well as business process modeling. In addition, a mini-project with the objective of
+implementation of acquired knowledge is associated with this unit.
+4- Content (course descriptions and plans)  
+Teaching: see the detailed module sheets for each ECUE
+This Teaching Unit allows learners to develop their skills in the
+context of developments relating to the design of HMIs and business workflows.  
+ 
+ 
+Practical EU activities  
+Practical activities related to the use of support and tools for object processing
+multimedia, especially image and video media.
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+1- Detailed course support for each chapter of the course
+2- Bibliographic references (books, web links) must be provided to learners
+3- Tools appropriate to the content of each module will be installed, configured and
+used during practical activity sessions.
+                  5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet:  
+All the ECUEs of this UE are under mixed regime: control + Final exam  
+Continuous assessment: Graded work/assessments
+This work aims to verify the acquisition of knowledge and the skills to apply and
+transfer the concepts studied to concrete situations.  
+The final proctored exam covers all course material and will consist of questions
+objectives, development, case studies, problems, etc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+ 
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Design and programming
+user interfaces
+50%  
+50% 30%
+100%  
+ 
+70%
+2
+5
+Process engineering
+job
+50%  
+50% 30%
+100%  
+ 
+70%
+1
+ 
+Mini-development project
+information systems
+ 
+ 
+100% 30%
+ 
+ 
+100% 70%
+1
+ 
+ 
+ 
+ 
+ECUE fact sheet: Design and programming of HMIs
+ 
+Teaching Unit: Information Systems  
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+Object Oriented Design/Programming
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE 1: Assimilate the human processor model (cognitive abilities)
+OE 2: Design the architecture of a human-machine interface
+OE 3: Evaluate the architecture of a human-machine interface
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IDL training
+ 
+ 
+OE1
+OE2
+OE3
+SC1
+x
+ 
+x
+SC2
+ 
+x
+ 
+SC3
+ 
+ 
+ 
+SC4
+X
+x
+ 
+SC5
+ 
+ 
+ 
+SC6
+ 
+x
+ 
+SC 8
+ 
+ 
+x
+ 
+ 
+ 
+4
+ 
+ 
+Constituent element plan (ECUE):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+ 
+Chapters and sections
+Course (h)
+TD (h)
+TP (h)
+Total (h)
+Chapter 1: Introduction
+1.5h
+-
+-
+1.5h
+Chapter 2: Design of
+HMI
+9am
+4.5h
+-
+13.5h
+Chapter 3: Programming
+HMIs
+4.5h
+3h
+7.5h
+10
+ 
+ 
+Reference books:
+1. Jean François Naugier, “Software Ergonomics and Web Design, The Interface Manual
+2. Users » 4th edition, Les Éditions Dunod, 2008.
+3. 2. Frédéric Vella, “Design of human-machine interface with psychophysical models”
+4. European University Editions, 2010.
+ 
+ 
+ 
+ 
+Course outline
+I. Introduction.
+II. HMI Design
+1. The Human Model
+2. Ergonomics: Usability
+3. Ergonomics: The user
+4. Ergonomics: The Display Screen
+5. Ergonomic Evaluation
+III. Programming HMIs
+1. Markup languages ​​for describing user interfaces
+2. Windows and .Net platforms
+3. JAVA platform
+4. Unix platform
+5
+ 
+ECUE fact sheet: Business process engineering
+ 
+Teaching Unit: Information Systems  
+Constituent Element Plan (ECUE)
+Prerequisites:
+-
+Development in high-level languages
+-
+UML modeling
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of this course students will be able to:
+-
+OE1: Master the concepts of the business process  
+-
+OE2: Understand the mechanisms for managing workflows and software packages (ERP, CRM, etc.)
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+SC1
+x
+ 
+SC2
+ 
+x
+SC3
+ 
+x
+SC4
+ 
+x
+SC6
+x
+x
+ 
+ 
+Constituent element plan (ECUE):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description of the content of the constituent element
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+3h
+ 
+ 
+ 
+ 
+ 
+Chapter 2
+3h
+ 
+ 
+3h
+ 
+ 
+Chapter 3
+6h
+ 
+ 
+6h
+ 
+ 
+Chapter 4
+3h
+ 
+ 
+6h
+ 
+ 
+ 
+Reference books:
+Course outline
+Chapter 1: Workflow Management: Activities,...
+Chapter 2: Business Process Modeling Activiti,....
+Chapter 3: Integrator-based programming: Node Red, jenkis, ...
+Chapter 4: Integrated management by software packages: ERP; CRM; ERM; ...
+6
+ 
+ 
+
+Briol, P. (2008). Business Process Engineering, from development to operation. Lulu.
+com.
+
+Schael, T. (1997). Theory and practice of Workflow: renewed business processes.
+Springer Science & Business Media.
+ 
+ 
+ECUE fact sheet: Mini-project development of
+information systems
+ 
+Teaching Unit: Information Systems  
+ 
+Prerequisites:
+ 
+ Algorithms and data structure, programming
+ HMI design
+ UML design, workflows
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+
+EO1: Implement information systems concepts by tackling a
+realistic problem
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+SC1
+x
+SC2
+X
+SC3
+X
+SC4
+X
+SC5
+X
+SC6
+X
+SC 8
+x
+ 
+Description of the content of the constituent element
+ 
+ 
+Chapter and
+sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Mini-project
+ 
+ 
+ 
+ 
+22.5h
+ 
+ 
+ 
+ 
+ 

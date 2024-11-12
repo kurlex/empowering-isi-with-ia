@@ -24,12 +24,9 @@ class VectorStoreSingleton {
       console.log(__dirname, docsFolderPath);
       const textFiles = fs
         .readdirSync(docsFolderPath)
-        .filter((file) => file.endsWith(".txt"));
-      let count = 0;
+        .filter((file) => file.endsWith(".en.txt"));
       let maxPartSize = 0;
       for (const file of textFiles) {
-        if (count >= 10) break;
-        count++;
         const filePath = path.join(docsFolderPath, file);
         const content = fs.readFileSync(filePath, "utf-8");
         for (let split = Math.max(content.length / 9032, 1); ; split++) {
@@ -46,7 +43,7 @@ class VectorStoreSingleton {
             continue;
           }
 
-          for (let i = 1; i < content.length; i += partSize) {
+          for (let i = partSize; i < content.length; i += partSize) {
             parts.push(content.slice(i, i + partSize));
           }
           parts.forEach(async (part) => {

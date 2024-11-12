@@ -1,0 +1,598 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 6
+EU code: UEF440
+ 
+ 
+University: Tunis El Manar
+Establishment: Higher Institute of Computer Science
+ 
+ 
+Field of training: Computer science
+Mention :
+Degree: engineer
+Course: Embedded Systems and Connected Objects Engineering  
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+1- Maintenance
+2- Transmission technique
+3- Telecommunications initiation
+4- Probabilities
+ 
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the
+objectives can be specified here or at the level of each ECUE, they must be
+compliant)
+1. Define the tools and methods of Operational Safety used in
+industry for the assurance of equipment availability. Highlight the
+tools for qualitative and quantitative analysis of failures and to evaluate via laws
+probability with different parameters related to the SdF: reliability, MTBF, MTTR,
+availability
+2. Understand attack techniques and exploitation of vulnerabilities
+protocols to carry out intrusions. Apply the mechanisms and protocols
+security at the SE level. Recognizing the risk following a security incident
+in an embedded system.
+3. analyze random phenomena using stochastic models.
+ 
+ 
+3- Constituent elements of the EU (ECUE)
+ 
+ 
+ 
+EU Title: Safety of systems
+2
+ 
+ 
+ 
+Constituent elements of the EU (ECUE)
+ 
+ 
+HAS
+c
+t
+i
+v
+practical activities (projects, internships, dissertations,
+..)
+ 
+4- Content (course descriptions and plans)  
+Teachings (Present a brief description of the programs of each ECUE and
+join
+the detailed programme in the EU fact sheet).
+ 
+Operational safety
+ 
+I. Operational Safety: Basic Concepts
+II. Equipment availability assurance
+III. Failure analysis and diagnostic assistance
+IV. Risk management
+ 
+ 
+Embedded systems security
+ 
+Chapter 1: General aspects of computer security
+                  Chapter 2: Security Policy
+                  Chapter 3: Protocol Vulnerabilities and Attacks
+Chapter 4: Security Services
+Chapter 5: Control Points/Security Domain/Trust Domain
+Chapter 6: Risk Management
+ 
+Stochastic modeling
+ 
+Chapter 1: Solving a system of linear equations
+Chapter 2: Interpolation and Approximation
+Chapter 3: Root of nonlinear equations
+ 
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+ 
+Operational safety  
+22.5
+7.5
+ 
+ 
+2
+“Security” of embedded systems 15
+7.5
+ 
+ 
+2
+Stochastic modeling
+22.5
+7.5
+ 
+ 
+2
+Total
+60
+22.5
+ 
+ 
+6
+3
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational, reference works, use of ICT/teaching possibilities at
+distance, ..)
+ 
+ 
+ 
+-course support/TD (paper and digital)
+ 
+ 
+5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system:
+continuous assessment only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet
+2- Mixed diet
+3- Mixed diet
+Validation of the EU (specify the weights of the examination tests for the calculation of the
+average of the UCUE, the coefficients of the ECUE and the coefficient of the EU within the
+course)
+ 
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Operational safety  
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+1
+3
+System security
+embarked
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+1
+Stochastic modeling
+x
+ 
+ 
+30%
+x
+ 
+ 
+70%
+1
+ 
+Validation of internships and projects
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECUE fact sheet  
+ 
+Teaching Unit: Systems Safety
+ECUE no. 1.1: Operational safety
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+5- Maintenance
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Define the tools and methods of Operational Safety used in
+industry for equipment availability assurance.
+ 
+OE2: Highlight the qualitative and quantitative analysis tools of failures and
+to evaluate via probability laws with different parameters linked to the SdF: reliability, MTBF,
+MTTR, availability
+ 
+Association matrix between the objectives of the constituent element and those of the
+training program (OP)
+ 
+ 
+OE1
+OE2
+OP5
+x
+x
+ 
+Description of the content of the constituent element
+ 
+I. Operational Safety: Basic Concepts
+1. Maintenance concepts
+2. The presentation of the SdF
+3. The components of the SdF
+ 
+II. Equipment availability assurance
+1. Mathematical reminders
+2. Reliability of equipment
+3. Maintainability
+5
+ 
+4. Availability
+5. Security
+ 
+III. Failure analysis and diagnostic assistance
+1. Qualitative failure analysis
+2. Quantitative failure analysis
+3. AMDEC approach
+ 
+IV. Risk management
+1. Preliminary risk analysis
+2. Risk tree
+3. Risk management
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+7h
+Chapter 2
+x
+ 
+x
+ 
+ 
+7h
+Chapter 3
+x
+ 
+x
+ 
+ 
+8h
+Chapter 4
+x
+ 
+x
+ 
+ 
+8h
+ 
+ 
+Reference books:
+ 
+ 
+1. Operational safety of industrial systems – A. VILLEMEUR - Eyrolles –
+1997
+2. Risk management. Bernard BARTHÉLEMY & Philippe COURRÈGES. Editions d'
+organization
+3. Security Safety – GEIBEN & NASSET – Editions d’organization – 1998
+4. Reliability-based maintenance – G.ZWINGELSTEIN – Hermès – 1996
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+ 
+ECUE fact sheet
+ 
+Teaching Unit: Systems Safety
+ECUE no 1.1: Security of embedded systems
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+-Transmission technique
+- Telecommunications initiation  
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Understanding attack techniques and exploitation of vulnerabilities
+protocols to carry out intrusions.  
+OE 2: Apply security mechanisms and protocols at the SE level.
+OE 3: Recognize the risk following a security incident in an embedded system.
+ 
+Association matrix between the objectives of the constituent element and those of the
+SE and connected objects training program
+ 
+OE1
+OE2
+OE3
+SC1
+ 
+ 
+ 
+SC2
+x
+ 
+ 
+SC3
+ 
+ 
+ 
+SC4
+x
+ 
+x
+SC5
+ 
+x
+x
+SC6
+ 
+ 
+ 
+SC 7
+ 
+ 
+ 
+SC 8
+ 
+x
+ 
+ 
+Description of the content of the constituent element
+Chapter 1: General aspects of computer security
+                Chapter 2: Security Policy
+                Chapter 3: Protocol Vulnerabilities and Attacks
+Chapter 4: Security Services
+Chapter 5: Control Points/Security Domain/Trust Domain
+Chapter 6: Risk Management
+ 
+Chapter and sections
+Course (h)
+TD (h)
+TP (h)
+Total (h)
+Chapter 1: General aspects of the
+computer security
+X
+X
+X
+3
+Chapter 2: Security Policy
+X
+X
+X
+               3
+Chapter 3: Vulnerabilities
+protocols and attacks
+X
+X
+X
+               4
+Chapter 4: Security Services
+X
+X
+X
+4
+7
+ 
+Chapter 5: Checkpoints/
+Security Domain/Domain of
+trust
+X
+X
+X
+4.5
+Chapter 6: Risk Management
+X
+X
+X
+4
+ 
+ 
+Reference books:
+[1] Computer Security – An End State. Steven M. Bellovin. Communications of the ACM, vol. 44,
+no. 3, March 2001, pp. 131—132.
+[2] Security Problems in the TCP/IP Protocol Suite
+SM Bellovin. Computer Communication Review, Vol. 19, No. 2, pp. 32-48, April 1989.
+[3] Quality of Security Service. Cynthia Irvine Timothy Levin. the MSHN Project of theDARPA/ITO
+Quorum Program
+[4] Implementing a Distributed Firewall. Sotiris Ioannidis. Angelos D. Keromytis. Steve M. Bellovin.
+Jonathan M. Smith. CCS '00, Athens, Greece. 2000 ACM 1581132034/00/0011.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ECUE fact sheet
+ 
+ 
+Teaching Unit: Systems Safety  
+ECUE no 1.1: Stochastic modeling
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+8
+ 
+Probabilities
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE 1: analyze random phenomena using stochastic models.
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the
+SE and Connected Objects training program
+ 
+ 
+OE1
+SC1
+x
+SC2
+ 
+SC3
+ 
+SC4
+ 
+SC5
+ 
+SC6
+ 
+SC 7
+ 
+SC 8
+ 
+ 
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a book of
+known and referred reference in the field. Also specifies the number of hours of
+course (C), CI, TD, TP, project or other necessary for each chapter or part.
+ 
+Chapters and sections
+Course
+(h)
+TD (h)
+TP (h)
+Total (h)
+Chapter 1: System Resolution
+of linear equations
+7.5
+2.5
+ 
+10
+Chapter
+2:
+Interpolation
+And
+approximation
+7.5
+2.5
+ 
+10
+Chapter 3: Root of non-equations
+linear
+7.5
+2.5
+ 
+10
+ 
+ 
+Reference books:
+ Sheldon M. Ross “Introduction to probability models”, Academic Press, 2003.
+ Jean-Christophe Breton. Stochastic calculus. Lecture notes, M2 Mathematics,
+University of Rennes 1, 2020.
+
+Youri Davydov. DEA course “Stochastic processes”. University of Lille 1, 1999–2000.
+
+Nicole El Karoui, Emmanuel Gobet, Etienne Pardoux. Introduction to stochastic calculus.
+Polytechnic School, 2001.
+ 
+ 
+9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

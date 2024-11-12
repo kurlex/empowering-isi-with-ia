@@ -1,0 +1,97 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Mobile and Wireless Networks
+ECUE no 1.1: Mobile Networks
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Basic knowledge of networks
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+(Specify the objectives of the constituent element (OE) using verbs according to the taxonomy
+Bloom's or other reference taxonomy, maximum 8)
+OE1: Recognize the different technologies used in mobile radio networks
+2G, 2G+, 3G, 3G+ (HSPA+), 4G (LTE/LTE-A) cellular and the evolution towards all-IP
+OE2: identify each type of mobile network and define its specificities and limits.
+OE3: Define characteristics of future 5G networks, use cases and new
+technologies: SDN, NFV, Network Slicing, Cloud RAN,...
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IRIS training (SC)
+ 
+ 
+OE1
+OE2
+OE3
+SC1
+ 
+X
+X
+SC2
+X
+X
+X
+SC3
+ 
+ 
+ 
+SC4
+X
+X
+ 
+SC5
+X
+ 
+X
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+Chapter 1: Introduction
+Chapter 2: 2nd generation 2G networks
+Chapter 3: 3rd Generation (3G) networks and the evolution towards 3G+
+Chapter 4: 4th generation (4G) networks and their evolution
+Chapter 5: Evolution towards 5G: R12 and beyond
+ 
+ 
+ 
+ 
+ 
+Chapter  
+Course
+(1.5h)
+TD
+(1.5h)
+Total (h)
+Chapter 1
+X
+ 
+1.5
+Chapter 2
+X
+X
+4.5
+Chapter 3
+X
+X
+7.5
+Chapter 4
+X
+X
+6
+Chapter 5  
+X
+ 
+3
+ 
+Reference books:
+- LTE and 4G Networks, Yannick Bouguen, EricHardouin, François-Xavier Wolff, Eyrolles, 2012.
+- Mobile networks, Sami Tabbane, Hermès Lavoisier, 1997
+- Mobile network architecture: GSM/GPRS, UMTS/HSPA, EPS, NGN, IMS, PÉREZ André, Hermès Lavoisier,
+2011.
+- UMTS: Third generation mobile networks, HarriHolma, AnttiToskala, Collection Pro Micro, 2001.
+- Software Networks, Virtualization, SDN, 5G and Security, Guy Pujolle, ISTE Editions, 2015.
+ 

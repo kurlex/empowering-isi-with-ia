@@ -1,0 +1,1373 @@
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+Purpose      
+The purpose of this process is to:
+ 
+- Plan, implement and control activities
+relating to the management and running of internships,
+final year projects and dissertations
+master's degree.
+ 
+- Meet additional requirements relating to
+special education regarding
+internships, PFE, master's theses.
+Professional
+- Summer courses
+- SFE Internships
+- PFE internships
+ 
+Process Pilot
+Pilot: Internship Director: Nihel Ben Youssef
+Co-pilot: Ali Khemiri  
+Co-pilot: Zohra Channouf  
+ 
+Suppliers Customers
+- The program design process
+training and educational management CPE-03
+- The GSA-07 schooling process
+- HR Process-08
+- General Services Process GSG-09
+- Learners and other beneficiaries
+- Permanent teachers and experts
+- Professional partners  
+- Interested parties  
+- The EXD-06 review and deliberation processes
+- The schooling process of GSA-07 learners
+- Learners and other beneficiaries
+- Permanent teachers and experts
+- Professional partners  
+- Communication cell
+Input data Output data
+- Curriculum and program of courses.
+- Authorization file and characteristics of the
+educational products and services.
+- Planning the academic year
+- Additional education requirements
+specialized.
+- Feedback from listening and learner satisfaction
+and other beneficiaries.
+- Result of processing non-conformities and
+non-compliant educational products.
+- Handling of complaints and appeals.
+- Results of internal and external audits.
+- List of professional partners.
+- List of teachers supervising the internship.  
+- Anti-plagiarism requirements.
+ 
+ 
+ 
+ 
+- Satisfaction of learners' needs in internships
+summer, and SFE/PFE internship.
+- Planning of summer internships, and SFE/PFE internships.
+- Satisfaction of the needs and expectations of the parties
+interested.
+- Satisfaction of additional requirements relating to
+to special education.
+- Documented information relating to the
+recognition of assessed learning.
+- Status of corrective actions, actions in the face of
+risks and improvement actions.
+- Processing of non-conformities, complaints and
+calls.
+- Report on the progress of summer internships, and
+SFE/PFE internship. (With recommendations).
+ 
+ 
+ 
+Objectives of the process
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+- Ensure the planning and running of internships.
+- Master the progress of the internships.
+- Achieve the expected objectives of the internships. (Ensure the satisfaction of the stakeholders of the internships)
+- Plan the actions necessary to support additional educational requirements
+specialized in internships.
+ 
+Performance indicators
+Indicator Formula Periodicity Source of information
+Schedule compliance rate
+internships
+ 
+ 
+Number of internships completed
+on time / Total number of
+internships
+- 1 indicator for
+each category of
+internship  
+Annual
+Dashboard of the
+learners on internship by
+category
+Satisfaction rate of
+professional partners
+ 
+ 
+Number of partners
+satisfied professionals /
+Total number of
+professional partners
+- 1 indicator for
+each category of
+internship
+Annual Satisfaction Survey
+professionals
+ 
+ 
+Satisfaction rate of
+learners  
+ 
+Number of learners
+satisfied /Total number of
+learners
+- 1 indicator for
+each category of
+internship
+Annual
+Satisfaction survey of
+the learner vis-à-vis
+the host organization   
+Non-conformity rate by
+student for internships  
+ 
+ 
+ 
+Number of non-
+conformities detected during
+of the progress of the internships
+/ Number of students
+concerned by the internships
+- 1 indicator for
+each category
+Annual
+ 
+Processing sheet of
+non-conformities
+Rate of satisfaction of needs
+student specific
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of needs
+learner specifics
+regarding internships
+satisfied / Total number
+of specific needs of
+learners regarding the
+internships
+1 indicator for each
+internship category
+            Annual
+ 
+Processing sheet of
+specific needs
+ 
+ 
+ 
+Reference documents
+ISO 21001 Version 2018
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+ISO 21001
+Internal process documents
+GSP-PR-01- Procedure for managing and running summer internships
+GSP-PR-02- SFE/PFE internship management and execution procedure  
+GSP-PR-03- Procedure for managing defenses
+GSP-PP-05- Process plan for managing summer internships, SFE (Bachelor's degrees)PFE (Engineers/Master's degrees) and Defenses
+PAC-DOC-00- Legislative Requirement (PFE Administrative Charter)
+PAC-DOC-01 Educational Calendar
+GSA-FR-02- Specific needs sheet
+GSP-FR-01- summer internship application
+GSP-FR-02- National summer internship agreement
+GSP-FR-03- International summer internship agreement
+GSP-FR-04-Cooperation Agreement  
+GSP-FR-05- Summer internship agreement submission form
+GSP-FR-06- Summer internship assignment letter
+GSP-FR-07- Summer internship certificate
+GSP-FR-08- Summer internship certificate submission form
+GSP-FR-09- Summer internship report submission form  
+GSP-FR-10- SFE/PFE internship request
+GSP-FR-11- National SFE/PFE internship agreement
+GSP-FR-12- SFE/PFE International Internship Agreement
+GSP-FR-13- Cooperation Agreement
+GSP-FR-14-SFE/PFE internship agreement submission form
+GSP-FR-15-SFE/PFE internship assignment letter
+GSP-FR-16 Request for Modification of SFE/PFE Internship
+GSP-FR-17 Amendment to the Initial SFE/PFE Internship Agreement
+GSP-FR-18 Request for cancellation of SFE/PFE internship
+GSP-FR-19 Internship cancellation certificate  
+GSP-FR-20 Calendar of Defense Sessions and Submission Deadline
+GSP-FR-21- Final Assignment of Academic Supervisors
+GSP-FR-22- Final Student Assignment
+GSP-FR-23 Writing Guide
+GSP-FR-24 Latex Template
+GSP-DOC-25-SFE report filing procedure
+GSP-DOC-26-PFE report filing procedure
+GSP-FR-27 SFE/PFE Reports submission file (Cover page. Signature page. Code image)
+GSP-FR-28-The SFE/PFE Internship Journal
+GSP-DOC-29 Plagiarism Certificate
+GSP-FR-30-Individual Evaluation Sheet
+GSP-FR-31-SFE/PFE Report Submission Form
+GSP-FR-32- Professional Satisfaction Survey
+GSP-FR-33- Satisfaction survey of trainees with regard to the host organization
+GSP-FR-34-SFE/PFE Defense Schedule
+GSP-FR-35-Defense file (Defense minutes. Rapporteur report. Supervisor report. Note sheet)  
+GSP-DOC-36- Status of submission of defense files
+GSP-FR-37- Supervisor satisfaction survey
+GSP-FR-38- Alumni Survey
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+Documents external to the process
+PAC-DOC-00: Legal and regulatory requirement
+PAC-DOC-01: Educational calendar
+GSA-FR-02: Specific Needs Request Form
+ 
+ 
+ 
+RISK ANALYSIS
+Internal risks Control methods
+The database relating to structures
+reception, especially for stage 1, is not
+update.
+Update of the database relating to
+reception structures at the start of each university year.
+Learners are not sufficiently informed
+on the internship procedure.
+An information email is sent to all learners
+at the start of the university year.
+The start of internships 1 and 2 before the submission of
+the reception authorization and/or the letter
+assignment or before signing the agreements
+internship for PFE and Masters
+.
+Plan information and awareness-raising actions
+with learners.
+Failure to comply with the deadlines for submitting reports and
+documents associated with the internship by the learners.  
+Plan information and awareness-raising actions
+with learners.  
+Submission of missing documents related to the internship. Plan information and awareness-raising actions
+with learners.  
+Failure to comply with the deadlines for submitting grades by
+the assessing teachers.
+Plan information and awareness-raising actions
+with the evaluating teachers.
+External Risks  
+Control methods
+ 
+Control methods  
+Control methods
+ 
+Late reception authorization received by the department
+internships from host organizations.
+Plan information actions relating to
+the importance of internships in the educational path
+and awareness-raising actions with organizations
+welcome.  
+The unavailability of a host organization for
+cover the learner's needs.  
+Assist/advise the learner in their research and
+strengthen the network of socio-economic partners.
+Weather conditions not suitable for
+needs and objectives of the activities.
+Review the planning of internship periods in
+consequence.
+Conflicts with reception structures (interruption
+internship, non-issuance of documents, etc.).
+Mediation provided by the internship director or the
+department director / coordinator of the
+master or the academic supervisor.
+ 
+History of modifications the coordENSTABeur
+Revision Date Reason for change All process drivers
+00 Creation   
+     
+ 
+Established by Verification Approval
+First and last name    
+Function    
+Date    
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+Signature     
+Process flow
+ 
+Responsible Stage / Action Description Documents
+associates
+Management of
+studies
+Management of
+internships
+ 
+ 
+The director in collaboration with management
+studies and the management of internships develop
+the annual planning of the academic year which
+specifies the internship, PFE and
+Master's theses and submission periods
+and support. The management of internships
+recovers from the university and the ministry, the
+laws and regulations that govern the
+course of the internships, in particular the  
+decree-law JORT (December 8, 2017, no. 98 page
+4187)
+ 
+ 
+PAC-DOC-01
+Calendar
+educational
+ 
+PAC-DOC-00
+Legal requirement
+And
+regulatory
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Management of
+studies
+Management of
+internships
+Director of
+department
+Commission
+Master's degree
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At the start of the school year, and as part of the days
+integration, an information meeting
+and awareness on the
+procedures/modalities of internships is
+organized for all learners.
+During this meeting, it will be recalled
+to learners the mandatory nature
+internships, durations, periods
+internship possibilities as well as the need
+to respect the internal regulations of
+reception establishments.
+In addition, learners are informed of:
+The need to launch the search for
+internships as early as possible and to ensure that
+compliance with the internship procedure.
+The list of host organizations,
+indicative and not exhaustive, and
+academic supervisors, but also the
+rules for assigning organizations
+reception and supervisors: the assignment
+will be done according to several criteria such as the
+internship category, or the adequacy between
+the subject of the internship/PFE/dissertation and the
+specialty of the supervisor, but also the
+maximum frame load per
+teacher according to the departments and
+master's commissions, in particular for
+the PFE or the master's internship. This list
+is established by the internship director, and
+in consultation with the management of
+ 
+ 
+ 
+ 
+ 
+GSP-PR-01
+Procedure of
+management and
+progress
+summer internship
+ 
+ 
+GSP-PR-02
+Procedure of
+management and
+progress
+internship
+SFE/PFE
+ 
+GSP-PR-03
+Procedure of
+defenses
+ 
+GSP-DOC-04
+Doc file
+forum
+ 
+Calendar
+pedagogical
+e
+Requirements
+legal and
+regulatory
+it is
+Information and training meeting
+awareness
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+studies, department directors and
+master's committees, in particular
+for PFE and masters. During
+This meeting, students will be
+informed of:
+The list of different categories and
+internship procedures to follow.
+The list of host organizations  
+supervisors, and the criteria
+assignment.
+The annual internship schedule.
+The internship journal, especially for
+summer internships.
+The internship request and authorization.
+The internship assignment letter.  
+The internship agreement.
+- Satisfaction surveys...
+- The subject registration sheet of
+PFE / Masters.
+- Etc.
+ 
+Responsible
+Schooling
+Identifying the specific needs of
+learners formalized by a form at the
+schooling. The necessary measures will be
+proposed and validated by the administration and
+or departments
+ 
+ 
+GSA-FR-02
+Data sheet
+Request for
+Need
+specific
+ 
+Student
+(License,
+Master,
+Engineer)
+Management of
+internships
+Business
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The PFE subject search is done by
+priority :  
+By the student (autonomy)   
+By the management of internships, through
+the organization of info session seminars
+presented by companies and/or forum
+companies and/or agreements or
+offers/catalogues received or solicitation
+dedicated companies and platforms
+(fabskill…) /Solicitation of
+Teachers/Survey Form
+Dissemination of SFE/PFE internship offers via
+mailing lists of concerned students  
+Calling on teachers to help with the
+search for internship offers
+PFE/Subject proposal  
+  Call on ISI graduate alumni to
+list the offers proposed by the
+companies where they are hired
+ 
+ 
+ 
+GSP-DOC-05
+Offers of
+internships
+GSP-FR-3
+Survey
+Alumni
+Looking for proposals from
+SFE/PFE subject (bachelor's degrees, master's degrees
+pro, engineers)
+Identification of Interns having
+Specific Needs
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+Student
+Service of
+internships
+Business
+Entrance
+-The student can request by email or
+directly from the internship service
+an internship application required by
+the company when submitting the application
+at the internship  
+ 
+Exit
+The internship management signs the request
+internship certificate certifying that the student is
+authorized to complete his internship during the
+period indicated
+ 
+GSP-FR-01
+Request for
+summer internship
+ 
+GSP-FR-10
+Request for
+SFE/PFE internship
+ 
+ 
+Student
+Service of
+internships
+Business
+Head of
+department
+Responsible
+Master –
+Teacher
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The student receives the document
+Internship agreement to be completed by email
+or in paper version of the service of
+internships.  
+-The internship agreement must be filed
+Mandatory via Online Form
+for filing of PFE/SFE internship agreement
+and via Online submission form
+summer internship agreement
+-The internship agreement must
+must be signed by
+the company with stamp
+- Signature of the academic supervisor
+is not mandatory.  
+- An Excel file (Shared with the leaders
+departments and managers of
+Masters) is prepared by the service of
+stage containing the information
+contained in the internship agreement
+including the chosen academic supervisor
+by the student temporarily. A
+“confirmed” column is added if
+the teacher signed the proposal sheet
+confirming its approval
+supervision (The assignment is not
+final only after validation by the head of
+department in the first place and by the
+second stage management following
+to the maximum load check
+authorized and fair supervision
+(rate) at the departmental level and
+establishment, defined each year
+depending on the proportion of number of PFE to
+supervise/number of qualified teachers
+to frame..  
+ 
+GSP-FR-02
+Convention of
+summer internship
+National
+ 
+GSP-FR-03
+Convention of
+summer internship
+International
+ 
+GSP-FR-04
+Cooperation
+Agreement
+ 
+GSP-FR-11
+Convention of
+SFE/PFE internship
+National
+ 
+GSP-FR-12
+Convention of
+SFE/PFE internship
+International
+ 
+GSP-FR-13
+Cooperation
+Agreement
+ 
+GSP-FR-05
+Form
+deposit
+convention of
+summer internship
+ 
+GSP-FR-14
+Form
+deposit
+convention of
+Withdrawal of request for
+internship (SFE/PFE or Internship
+summer)
+Filing of agreement of
+internship (National and
+abroad) PFE/SFE  
+Or summer internship
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+SFE/PFE internship
+ 
+ 
+Service of
+internships
+Director of
+internships
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+After checking the data included
+in internship agreements
+in particular, for SFE/PFE internships, the
+compliance with the minimum duration of the PFE
+required, the reliability of the establishment
+welcome letter…. A letter of assignment will be
+prepared by the internship service, signed
+by the internship director and issued to
+the student by email.  
+The student can retrieve the letter
+directly at the internship service or
+by email
+The assignment letter includes
+mainly the following information
+: Company name, student name
+intern, the internship period, and the
+mutual or insurance on which the
+internship refers to the intern
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GSP-FR-15
+Letter
+Assignment
+internship
+SFE/PFE
+ 
+ 
+Student
+Service of
+internships
+Business
+Management of
+internships
+  
+ 
+GSP-PR-01
+Procedure of
+management of
+summer internships
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Service of
+internships
+Heads of
+department
+Responsible persons
+masters
+professionals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dissemination of the status of
+assignments of
+frames
+academics
+The department head or manager
+master's degree proceeds with the allocation of
+Academic supervisors in Tenant
+account of (confirmation of supervision
+according to the “confirmed” field of the file,
+student proposal, specialty
+required depending on the subject submitted and the quota
+frameworks to be respected by
+teacher)  
+- Department heads and
+Master's degree managers send the
+proposal for the assignment of supervisors
+academics in the internship management.  
+The internship director checks compliance with
+supervision quota per intra teacher
+and interdepartmental and at the level of
+masters
+The internship director and the heads of
+GSP –FR-20
+Assignment
+Final Of
+Supervisors
+Academic
+ 
+ 
+ 
+ 
+ 
+ 
+GSP –FR-21
+Assignment
+Final of the
+students
+Delivery of the Letter
+Assignment Internship SFE/PFE)  
+Management and execution of
+summer internships
+Assignment of
+academic supervisors
+for a SFE/PFE subject
+ 
+Management procedure and
+summer internships
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+ 
+ 
+ 
+departments distribute the list of
+final assignments by sector (Excel or
+PDF) by email to teachers and
+students   
+Students are urged to contact
+their academic supervisors for the
+follow up.  
+The list of assignments can be updated
+day in case of modification or addition of
+PFE subjects submitted late (Process
+ 
+Management of
+internships
+Student
+Teacher
+(supervisor)
+academic)
+Business
+(supervisor)
+professional)
+ 
+ 
+Treatment of non-
+conformities
+(Modification/Cancellation of
+internship )
+If the student wishes to modify the internship
+(Modification at the level of the title of the
+subject. The professional supervisor. the duration
+internship…etc) or cancel the internship, A
+request for modification or
+respectively a request
+cancellation notice is issued to the interested party.
+The student must complete the application in
+question and submit it via a form
+online  
+The application must be signed by the
+academic and professional supervisors  
+In the event of cancellation of an internship, the student
+must submit the assignment letter
+original to the internship service  
+Once the request information
+(modification/cancellation) are checked
+by the internship service, respectively,
+an internship agreement amendment or
+a cancellation certificate will be
+delivered
+- Following the cancellation of the internship, if the student
+wants to start a new internship, he must
+resume step: “Submission of agreement
+internship (National and abroad) PFE/SFE
+GSP-FR-16
+Request for
+Modification
+Internship
+ 
+ 
+ 
+GSP-FR-18
+Request
+cancellation
+Internship
+ 
+GSP-FR-17
+Amendment to the
+convention
+Initial internship
+ 
+Student
+Service of
+internships
+Management of
+studies
+ 
+Distribution of the Guide to
+drafting of PFE,
+information and documents
+useful for the progress of the
+internship
+At the beginning of the internship period, the
+internship service sends a guide by email
+of writing a report in .doc, a
+Latex template, the internship journal has
+filled in by the student and signed by
+the professional and academic supervisor
+at the beginning, middle and end of the internship.  
+The internship service also informs the
+students regarding plagiarism rate
+maximum tolerated fixed by the committees
+educational and validated by the council
+scientist every year.
+After validation by the heads of
+GSP-FR_19
+Certificate
+cancellation
+internship
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GSP-FR-22
+Guide to
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+department and the direction of studies in
+taking into account the university calendar
+in progress, the internship service broadcasts the
+schedule of the three sessions of
+June/September defenses with the
+deadlines for submitting reports to
+students and teachers  
+ 
+ 
+Writing
+Reports
+ 
+ 
+GSP-FR-23
+Latex Template
+ 
+ 
+ 
+GSP-FR-20
+Calendar of
+Sessions of
+defense and
+Deadline of
+deposit
+ 
+ 
+ 
+ 
+Director of
+Internships
+Heads of
+Departments
+Responsible persons
+master
+Teacher
+ 
+ 
+ 
+Preparation of sessions  
+(June/September/December)
+defenses
+SFE/PFE
+ 
+The internship director rebroadcasts the lists
+final assignments after the
+potential changes that have taken place
+in shared mode to the heads of
+department which they subsequently broadcast
+to teachers by department  
+The teacher must indicate the session
+(June/September/December) during
+which SFE/PFE subjects they
+frame will be supported
+ 
+ 
+ 
+Director of
+internships
+Heads of
+Departments
+Responsible persons
+Master
+Teacher
+Students
+ 
+ 
+Session Planning
+of SFE/PFE defenses
+ 
+ 
+Department heads consult the
+shared and updated assignment files
+day by teachers (Subjects
+sustainable in June/September) and
+prepare a schedule of defenses
+by assigning 3 jury members
+(Jury President, rapporteur,
+supervisor) and a guest (Supervisor
+professional) for PFE (Bac+5) and
+two jury members (jury president,
+supervisor) and a guest (supervisor
+professional) for SFE (Bac+3) and this
+taking into account the load
+teacher supervision and the
+specialty intrinsic to the internship subject  
+The internship director receives the schedules
+GSP-FR-34
+Planning of
+defenses
+SFE/PFE
+ 
+ 
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+proposed by the heads of department and
+checks data consistency and
+the absence of overlaps  
+The internship director allocates the rooms to the
+planning level The director of
+internships sends the schedules of the
+final defenses to teachers and
+students by email
+Service of
+internships
+- Director of
+internship
+- Students
+ 
+ 
+Filing of reports
+SFE/PFE
+The internship service and the director of
+internships prepare the file » submission of
+reports  
+The reporting file includes:
+:  
+The intern evaluation form to be completed
+by the professional supervisor and made in
+closed envelope to the jury president at the beginning of
+the defense  
+Report cover page template,  
+  Signature page of the two supervisors   
+Image showing the label to stick on the
+report where the student must note his
+PFE number (first column number
+in the assignment list file) and its
+specialty to promote the organization of
+reports and their archiving at the service of
+internship  
+ 
+where the filing of proceedings Document
+regulations and rules
+their progress and defenses
+closed Huis example (by cited will be
+how much COVID, period during
+must be paper copies
+office, what level and deposited
+rapporteur contact him of the obligation
+iquetechn support a plan for
+presentation of the day before (PFE)
+to list the oral documents…),
+report report, of Number: submit
+plagiarism newspaper internship,
+The internship director sends an email to the
+students and teachers by implementing
+copy the department heads and the
+direction containing the document
+procedure for filing paper reports and
+the online submission form  
+The online submission form collects the
+Information about the project,
+Basically :
+The student  
+GSP-FR-25
+Procedure of
+SFE deposit
+ 
+ 
+ 
+GSP-FR-26
+Procedure of
+PFE deposit
+ 
+ 
+ 
+GSP-FR-27
+File of
+deposit of
+reports
+SFE/PFE
+ 
+ 
+GSP-FR-31
+Form of
+deposit of
+reports
+SFE/PFE
+ 
+ 
+GSP-FR-28
+The Journal Of
+internship
+ 
+GSP-FR-29
+Certificate of
+Plagiarism
+ 
+GSP-FR-33
+Survey of
+satisfaction
+interns
+vis-à-vis
+the body
+welcome
+ 
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+The subject/Project  
+Professional supervisors and
+academics
+The contact of the host company  
+Student satisfaction
+(assessment of the insertion
+professional)  
+Personal data with companies
+who require them for purposes
+hiring.
+Report in signed PDF version (archiving)
+Internship diary
+Certificate/Report Plagiarism
+ 
+ 
+GSP-FR-30
+Form
+devaluation
+Individual
+ 
+ 
+ 
+Service of
+internships
+Teacher
+ 
+ 
+ 
+ 
+ 
+ 
+Management Before The
+Defenses
+Once the defense schedule is ready
+and the reporting stage completed,
+The internship service prepares the internship file
+defense including:  
+1. Models of PV of defense according to the
+sector  
+2. note sheet   
+3. Supervisor's report
+4. Report of the rapporteur
+5. SFE/PFE reports
+6. Plagiarism Certificate/Report
+7. Internship diary
+The teacher shows up a few days later
+before the defense at the internship service
+to recover his file
+And sign in front of his name in the
+planning at the level of each PFE subject
+or he is among the members of the jury
+in order to confirm the recovery of the
+documents.  
+of service the defenses, the Before -
+to watch director internships and internship
+side defenses of rooms prepare them
+video place, in (logistics setting
+air conditioning…), eursproject
+ 
+GSP-FR-35
+File of
+defense
+ 
+ 
+ 
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+Teacher
+Management of
+studies
+Internship service
+Service Review
+ 
+ 
+ 
+Management After the
+Defenses and
+Treatment of non-
+conformities
+ 
+6. Consent for sharing of data
+personal data with companies
+who require them for purposes
+hiring.
+7. Report in signed PDF version (archiving)
+8. Internship diary
+Certificate/Report Plagiarism
+After the defenses have taken place, the
+jury president is called to testify
+support file for the management of
+studies
+of service the deposited, notes the times A-
+of PV of copy a recovers internship
+and internships of newspaper defenses,
+sfin for certificate plagiarism
+file to prepare it for storage and archiving
+payment frameworks
+ 
+In the event of non-validation of the report by the
+defense jury and after processing of the
+part of the review service the service of
+stage retrieves the new version of the
+report after validation (signature) of the
+reporter     
+ 
+GSP-FR-36
+State of delivery
+documents
+internship
+ 
+Management of
+internships
+Business
+Alumni
+Teachers
+Supervisors
+ 
+ 
+Census of the
+Satisfaction
+ 
+After the defenses have taken place, the
+internship management collects contacts
+companies through the form of
+online deposit for supervisors
+professionals and HR contacts of
+host companies and sends a
+Online Survey Form for
+to record their levels of satisfaction
+PFE internships and their opinions on training
+our interns, collect offers from
+internships, useful links and propose a project
+of collaboration/convention/partnership
+subsequent.
+ 
+The internship management sends a form
+online for supervisors for
+collect their feedback regarding the
+internship progress, ranking of
+companies, recover some points
+strengths, difficulties, issues and points
+of improvements perceived and proposed.
+ 
+After 2 to 3 months of the course of
+defense, the internship management broadcasts
+an online form for
+GSP-FR-32
+Survey of
+satisfaction
+of the
+Professionals
+ 
+ 
+GSP-FR-37
+Survey of
+satisfaction
+supervisors
+academic
+ 
+GSP-FR-38
+Survey
+Alumni
+ 
+ 
+ 
+ 
+GSP-PP-05-00 PROCESS PLAN
+INTERNSHIP MANAGEMENT AND FINAL PROJECT
+OF STUDIES
+10/18/2023
+ 
+ 
+ 
+new graduates to survey several
+information regarding employability,
+feedback on training, request for
+contribution to training …
+ 
+Management of
+internships
+Departments
+Commissions
+masters
+ 
+ 
+In case of detection of needs
+specific, the party concerned will take
+the appropriate measures that will be noted
+in the Needs Management Plan
+specific
+ 
+Management of
+internships
+ 
+  
+ 
+The assessment is carried out by the management of
+internships of the entire internship process via
+an analysis of learner feedback,
+of the socio-economic environment and
+supervisors
+ 
+ 
+ 
+Tracks
+improvement
+ 
+ 
+ 
+Processing needs
+student specific
+Internship evaluation  

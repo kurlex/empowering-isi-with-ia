@@ -1,0 +1,2451 @@
+ 
+1
+ 
+ 
+TUNISIAN REPUBLIC
+ 
+MINISTRY OF HIGHER EDUCATION
+AND SCIENTIFIC RESEARCH
+ 
+Competitive Innovation Funds for autonomy,
+accountability and performance
+PAQ-Development of Strategic Management of Universities,
+PAQ-DGSE
+ 
+Full Proposal
+March 2020
+Accountability, Innovation, Synergy and Guarantee of Excellence (RISE)
+the ISI
+Keywords :
+Modernization, Innovation, Excellence, Quality Assurance, Accreditation, Partnership, Governance, Entrepreneurship, Management of
+project, autonomy, accountability, sustainability
+Candidate university: Higher Institute of Computer Science
+Tunis El Manar University
+Academic institutions & associated professional partners: ENICartage, ATIA,
+Tunisia Telecom, LineData, Wevioo, UVT
+
+ 
+ 
+Page 2
+SUMMARY
+  
+1 Part I .............................................. .................................................. ................................... 6
+1.1 INSTITUTIONAL COMMITMENT TO THE MANAGEMENT AND SUSTAINABILITY OF THE
+PROJECT. ..................................................................................................................................... 6
+1.2 PRESENTATION OF THE CANDIDATE ................................................................................ 7
+1.2.1 Summary of the proposal ...................................................................................... 12
+1.2.2 Project summary ......................................... .................................................. ...... 12
+1.2.3 Summary table of the project ................................................................................. 13
+1.2.4 Summary of resource distribution .................................................................. 23
+2 PART II. INFORMATION RELATING TO CANDIDATE STRUCTURES AND
+THEIR EXTERNAL ENVIRONMENT .................................................................................... 25
+2.1 ORGANIZATION AND HUMAN RESOURCES. .................................................. 25
+2.1.1 Status of the candidate structure ................................................................................. 25
+2.1.2 Organization chart of the ISI ............................................. ................................................. 25
+2.1.3 Number of students and teachers .................................................................. 26
+2.1.4 Human resources (numbers and distribution, supervision rates)
+(managers/workers) ................................................................................................................... 27
+2.2 TRAINING, RESEARCH AND SERVICES ACTIVITIES
+STUDENTS. ................................................................................................................................ 28
+2.2.1 Training activities.................................................................................................. 28
+2.2.2 International cooperation ...................................................................................... 31
+2.2.3 Research activities ................................................................................................. 31
+2.2.4 Student Services ................................................................................................. 32
+2.3 RESOURCES, INFRASTRUCTURE, EQUIPMENT AND CAPACITIES
+MANAGEMENT ................................................................................................................................. 33
+2.3.1 Resources................................................................................................................. 33
+2.3.2 Infrastructure .............................................. .................................................. ........... 33
+2.3.3 Current projects ...................................................................................................... 34
+2.4 SOCIOECONOMIC ENVIRONMENT ................................................................ 34
+2.4.1 Socio-economic environment ................................................................................ 34
+2.4.2 Training in the field of ICT in Tunisia .................................................. 35
+3 PART III. SYNERGY AND COMPLEMENTARITY WITH THE PAQ-DGSU.................. 36
+4 PART IV. PROJECT DESIGN ................................................................................. 37
+4.1 DESCRIPTION OF THE CONTEXT AND STRATEGIC ANALYSIS ............................. 37
+4.1.1 External factors.................................................................................................. 37
+4.1.2 Internal factors .................................................................................................... 40
+ 
+ 
+Page 3
+4.2 DEFINITION OF STRATEGIC PRIORITIES AND PERSPECTIVES
+IMPROVEMENT .......................................... .................................................. ............... 42
+4.2.1 Description of the environmental context ................................................................. 42
+4.2.2 Strategic analysis ................................................................................................. 42
+4.2.3 SWOT analysis ............................................. .................................................. .......... 44
+4.2.4 Problem tree and objective tree ................................................................................. 49
+4.3 OBJECTIVES, RELEVANCE AND TARGET BENEFICIARIES. ..................................... 59
+4.3.1 Overall/general objective................................................................................................. 59
+4.3.2 Specific objectives. ............................................................................................. 59
+4.3.3 Relevance ................................................................................................................ 59
+4.3.4Target beneficiaries of the allocation ................................................................................ 59
+5 PART V. SCOPE OF THE PROJECT ................................................................................ 60
+5.1 DESCRIPTION OF THE PROJECT: OBJECTIVES, EXPECTED RESULTS,
+INDICATORS AND RISKS. ............................................................................................. 60
+5.1.1 Area 1. Management and Governance ...................................................................... 60
+5.1.2 Area 2. Training & Employability ................................................................. 60
+5.1.3 Area 3. Research and Innovation ...................................................................... 60
+5.1.4 Area 4. University Life .................................................................................. 60
+5.1.5 Expected results & responsibilities ......................................................................... 61
+5.1.6 Results indicators ................................................................................................ 62
+5.1.7 Assumptions and risks ................................................................................................. 64
+5.2 ACTIVITIES NECESSARY TO ACHIEVE THE RESULTS .................................... 66
+5.3 ACTIVITIES TO IMPROVE INSTITUTIONAL CAPACITY FOR
+PROJECT MANAGEMENT ................................................................................................. 69
+5.4 ACTIVITIES TO STRENGTHEN THE IMPACT OF THE RESULTS ................................ 69
+5.4.1 Dissemination and exploitation of results.................................................................. 69
+5.4.2 Communication ............................................. .................................................. ....... 69
+5.5 LOGICAL FRAMEWORK MATRIX ................................................................................ 70
+6 PART V. IMPLEMENTATION OF THE PROJECT ................................................................... 84
+6.1 TABLES OF RESULTS AND RELATED ACTIVITIES ................................ 84
+6.1.1 Results tables ................................................................................................. 84
+6.1.2 Table of activities associated with the results .................................................................. 88
+6.1.3 Summary tables of requested costs .................................................................. 107
+6.2 IMPLEMENTATION PLAN. ................................................................................................ 117
+6.3 ARRANGEMENTS FOR IMPLEMENTATION: ORGANIZATION OF THE
+MANAGEMENT, MONITORING OF IMPLEMENTATION, PROJECT MANAGEMENT AND RELATED RISKS.
+125
+ 
+ 
+Page 4
+6.3.1 Project management ................................................................................................... 125
+6.3.2 Organization for monitoring implementation and decision-making ................. 126
+6.3.3 Critical risks for implementation...................................................................... 127
+6.4 RESOURCES ............................................................................................................ 128
+6.4.1 Human resources/staff.................................................................................. 128
+6.4.2 Budget .............................................. .................................................. ................... 128
+ 
+ 
+ 
+ 
+PAQ-Promise
+ 
+ 
+ 
+
+ 
+ 
+Page 5
+TABLE OF FIGURES
+Figure 1: Current ISI organization chart ...................................................................................... 25
+Figure 2: Evolution of the number of students at the ISI ...................................................................... 26
+Figure 4: Evolution of the number of administrative, technical and manual staff ................................. 27
+.................................................. .................................................. .................................................. 28
+Figure 5: Evolution of the number of undergraduate students by level at the ISI ................................... 28
+.................................................. .................................................. .................................................. 29
+Figure 9: Evolution of the number of ICT graduates* .................................................................. 35
+Figure 10: The percentage of graduates in the ICT sector compared to other sectors.... 35
+Figure 11: ISI Strategic Assessment Profile ................................................................................. 42
+Figure 12: Distribution of Percentage of Compliance in Relation to Governance .................. 42
+Figure 13: Distribution of training compliance percentage .................................................. 43
+Figure 13: Distribution of research compliance percentage .................................................. 43
+Figure 14: Distribution of the percentage of compliance .................................................................. 43
+of life within the institution and society ................................................................................. 43
+Figure 15: Problem tree Domain 1 field 1: Quality assurance ...................................... 49
+Figure 16: Objectives tree Domain 1 field 1: Quality assurance ............................................ 50
+Figure 17: Problem tree Domain 1 field 2: Institutional autonomy .......................... 51
+Figure 18: Objectives tree Domain 1 field 2: Institutional autonomy .......................... 52
+Figure 19: Problem tree domain 2 field 3 proactive curriculum management capacity which
+insert ......................................................................................................................................... 53
+Figure 20: Objective tree domain 2 field 3 proactive curriculum management capacity which... 54
+Figure 21: Problem tree domain 3 research and innovation .................................................. 55
+Figure 22: Objectives tree for domain 3 research and innovation ................................................ 56
+Figure 23: Problem tree domain 4 university life.................................................................. 57
+Figure 24: Objectives tree for domain 4 university life ................................................................. 58
+PAQ-Promise
+
+ 
+ 
+Page 6
+1 Part I
+1.1 INSTITUTIONAL COMMITMENT TO THE MANAGEMENT AND SUSTAINABILITY OF THE PROJECT.
+We, the undersigned, certify that the information below and that contained in the
+presents
+full proposal are, to the best of our knowledge, accurate and have been
+approved. We are committed to supporting the project in its execution and to ensuring
+sustainability if an allocation is granted to it by the Innovation Fund (PAQ-DGSE). In
+particular :
+ We have the required professional skills and qualifications
+to carry out the proposed project.
+ We will not be able to benefit from any financial aid if, at the time of granting
+grants: (i) we are in a conflict of interest situation or, (ii) if
+we have been guilty of misrepresentation.
+Project Title
+Accountability, Innovation, Synergy & Guarantee
+of Excellence
+Legal representative of the applicant institution
+Name & Surname:
+Monia NAJJAR BOUNOUH
+Position: Director
+Signature
+Official stamp of the Institution
+candidate
+Location: Higher Institute
+Computer science
+Date :
+Coordinator 1 (of the PAQ project):
+Name & First name: Najiba MRABET BELLAAJ
+Signature
+Location: Higher Institute of Computer Science Date:
+                                                 
+1The coordinator is responsible for the development of the complete proposal as well as the implementation of the project and
+of its management in the event of allocation from the Fund
+ 
+ 
+
+ 
+ 
+Page 7
+1.2 PRESENTATION OF THE CANDIDATE
+Individual proposal
+RISE
+Accountability, Innovation, Synergy & Guarantee
+of Excellence
+Socio-economic partners
+ENICartage, ATIA, Tunisia Telecom, LineData
+Technologies, Wevioo, UVT
+Duration (MONTHS) 20 months
+Legal representative of the institution applying for the PAQ
+Title: Higher Institute of Computer Science
+First name NAJJAR BOUNOUH First name Monia
+Director Function
+Name of
+the university
+Tunis El Manar University
+Legal status Public administrative establishment under the supervision of the Ministry
+of Higher Education and Scientific Research (MESRS)
+City Ariana Postal code 2080
+Address 2 Rue Abou Rayhane Bayrouni
+Phone/Fax (216)71 706317
+Email & website Monia.najar@isi.utm.tn / www.isi.rnu
+ 
+ 
+PAQ-DGSE Project Coordinator
+(Bearer of the complete proposal and its management in the event of allocation of the
+Funds)
+Name Mrabet Bellaaj First name Najiba
+Function/Grade Professor & Quality Manager
+Domain of
+specialization
+Artificial intelligence applied to electrical systems
+Name of
+the Institution
+Higher Institute of Computer Science
+City Ariana Postal code 2080
+Address 2 Rue Abou Rayhane Bayrouni
+Phone/fax (216)71 706317- (216) 98469948
+Email & website Najiba.bellaaj@isi.utm.tn
+ 
+ 
+Page 8
+Legal representative of the partner institution at the PAQ
+Title: Sir
+Name Kraiem First name Fadhel
+Position of President and CEO
+Name of
+the Institution
+Tunisia Telecom
+Legal status Public Enterprise
+City Tunis Postal code 1053
+Address Jardins du Lac II
+Telephone/Fax (00 216) 71 901 717 / (00 216) 71 900 777
+Email www.tunisietelecom.tn
+Legal representative of the partner institution at the PAQ
+Title: Sir
+Name Mehdi First name TEKAYA
+Position of President and CEO
+Name of
+the Institution
+WEVIO
+Legal status an international digital consulting and services group
+City Ariana Postal code 2088
+Address WEVIOO Building Technopark El Ghazela 2088 Tunis-،Ariana- Tunisia
+2088
+Telephone/Fax 31 340 000
+Email contact@wevioo.com
+Legal representative of the partner institution at the PAQ
+Title: Sir
+Name Mondher First name MERAI
+Position of President and CEO
+Name of
+the Institution
+LineData Technologies
+Legal status Foreign private company
+City Ariana Postal code 1003
+Address Immeuble Cléopâtre Center-North Urban Zone Tunis Tunisia
+Phone/Fax 719001717/71900777
+Email http://www.linedata.com/
+ 
+ 
+Page 9
+Legal representative of the partner institution at the PAQ
+Title: Co-owner
+Name DAOUD First name Mohamed Ali
+CEO function
+Name of
+the Institution
+Biwam Consulting  
+Legal status Foreign private company
+City Ariana Postal code 2037
+Address 16 Rue Samarkand, Ennasr 1
+Phone/Fax 70001629
+Email info@biwamconsulting.com
+ 
+ 
+Page 10
+Project Steering Committee
+First and last name/
+Title
+Position/
+Department/
+Structure
+Responsibility(s)/Cont
+expected contribution(s) Email
+Monia Najjar
+Bounouh Director /ISI Engagement monia.najar@isi.utm.tn
+Youssef MACHAT Secretary
+General
+Administrative management
+and financial of the project
+youssef.machat@isi.utm.t
+n
+Najiba Mrabet
+Bellaaj PCQ Manager Najiba.bellaaj@isi.utm.tn
+Ahlem Chbichib Finance Department Resource Management
+project financials ahlemchbichib@yahoo.fr
+Garoui Tried Service
+Technical Club Manager essaied.garoui@isi.utm.tn
+Wafa Karoui CQ Vice Manager karoui.wafa@gmail.com
+Mohammed Anis
+loghmeri CQ
+Board Member
+scientist,
+4C Manager
+anisloghmari@yahoo.fr
+Technical Committee for the Implementation of the Project
+First and last name/
+Title
+Position/
+Department/
+Structure
+Responsibility(ies)/
+Contribution
+expected
+E-mail
+Najiba Mrabet Bellaaj
+ProfessorPCQ-ISI Coordinator/
+Internal Auditor
+Najiba.bellaaj@isi.utm.tn
+Monia Najjar
+Bounouh
+Teacher
+Director
+Activity tracking
+students /
+competition
+Monia.najar@isi.utm.tn
+Wafa Karoui
+Assistant Master CQ-ISI
+Coordinator
+Deputy/PMO
+karoui.wafa@gmail.com
+Youssef Machat Secretary General ISI
+CQ-ISI SMQ/SA monitoring youssef.machat@isi.utm.tn
+Ahlem Chbichib Finance Department
+CQ ISI GRF/PPM Ahlem.chbichib@isi.utm.tn
+Essaied Garoui IT Service
+CQ ISI
+Responsible for
+clubs/ competitionsssaised.garoui@isi.utm.tn
+Nadia Bridaa
+Head teacher
+emeritus
+CQ-ISI QMS Monitoring
+nadia.bridaa@isi.utm.tn
+Lobna derbel
+Master AssistantCQ-ISI Communication lobnaderbel@yahoo.fr
+ 
+ 
+Page 11
+Rania Mzid
+Assistant Master CQ-ISI Competitions
+/training
+rania.mzid@gmail.com
+Anis Loghmari
+Assistant Master CQ-ISI Competitions
+/training
+anisloghmari@yahoo.fr
+Zohra Channouf
+Head teacher
+emeritus
+CQ-ISI Competition monitoring/
+PPM
+zohra.channouf@isi.utm.tn
+Imen Ben Hafaiedh
+Assistant MasterCQ-ISI Monitoring
+accreditation
+ben.hafaiedh.imen@gmail.c
+om
+Olfa limem
+CQ-ISI ICT Training Assistant limemolfa@yahoo.fr
+Directors of
+departments
+Director of
+department
+Follow-up Reforms
+training courses
+Lassad Chebli Technical Service
+CQ-ISI GRM/SA chebli.las@gmail.com
+Lamia Krichène School Service School Monitoring lamia.krichen@isi.utm.tn
+Adib Othmeni Service Exams Follow-up News
+formationsElothmaniadib@yahoo.fr
+Ahlem Mannouba HR Department Statistics ahlemmanouba@gmail.com
+Essia Alaimi Educational Service Timetable essia.alaimi2017@gmai.com
+Ali Khmiri Internship Service Statistics
+é tudiantskhemiri_ali@hotmail.com
+Zied Chouchène HR Department Personnel Worker monitoring Zied.chouchè ne@isi.utm.tn
+Olfa Draoui Ayadi Professor in
+physical education Student life Draoui.ayedi.olfa@gmail.co
+m
+Amine Maamouri Alumni/Telnet Animation of
+Competition
+aminemaamouri@gmail.co
+m
+Ameni Ben Ayed Alumni/BIWAM
+consulting Competition Ameni.benayed@etudiant-
+isi.utm.tn
+Walid Ben Ali Alumni/BIWAM
+consulting Competition Wbenali@biwamconsulting.
+com
+Nidhal Abidi Engineering Student Competition ceo@study.tn
+Mohamed Ben
+Jaballah Engineering Student Training Follow-up
+startup/competition
+mohamed.benjaballah@etu
+diant-isi.utm.tn
+GRF: Financial Resources Management, GRM: Material Resources Management, SA: Development Monitoring
+ 
+ 
+ 
+Page 12
+THE PROPOSAL IN BRIEF
+1.2.1 Summary of the proposal
+The RISE project, for Accountability, Innovation, Synergy and Guarantee of Excellence, of the Institute
+Superior of Computer Science (ISI) strengthens educational management capacities,
+administrative, financial and university life. It consolidates in a specific way the Project
+PAQ DGSU of the University of Tunis El Manar while respecting its Strategic Orientation Plan
+(POS). ISI is renowned for the quality of its graduates in current fields:
+IT and its applications (Engineers, LMD) which justifies the increase in scores
+new admissions. Indeed, several training courses will be planned for the different beneficiaries
+(Teachers, administration and students) for the mastery of international standards in order to
+implement a Quality Management System (QMS) to guarantee autonomy
+institutional. These trainings will also allow the implementation of clear and
+to write the ISI procedures manual in order to accredit one or more courses and prepare
+to the transition to EPST status. Thus, certain training courses will be reviewed following workshops taking into account
+taking into account job markets and based on business processes and feedback
+of the various market players. This approach requires educational training and
+even certifying the different beneficiaries in the field of ICT. The ISItians have shown
+their skills during various events and challenges on a national scale and
+international. The RISE project aims to improve these skills to strengthen
+financially support the organization of competitions and hackathons to make them more innovative and
+motivated. As described in the UTM POS, the ISI adheres to the strengthening of exchanges
+cultural, scientific and sporting by developing partnerships, twinning between clubs and
+national and international associations.
+ 
+1.2.2 Project summary
+The RISE (Accountability, Innovation, Synergy and Guarantee of Excellence) project of the Higher
+Institute of Computer Science (ISI) aims to enhance the capacity of management in several areas
+such as education, academic life, administration and financial. This project consolidates in a
+specific way the PAQ DGSU project of Tunis el Manar University while respecting its Strategic
+Orientation Plan (POS). ISI is rated one of the best institute due to the quality of its graduates
+students in emerging fields: computer science and its applications, which explains the increase
+of the score of the new admissions. Indeed, several training sessions will be planned for the
+different members (teachers, administrators and students) around international standardsin
+order to set up a Quality Management System (SMQ) that guarantee institutional autonomy.
+These trainings allow setting up clear possessions and establishing ISI manual procedure in order to
+accredit some courses and prepare the transition to EPST status. Thus, some curses will be
+reviewed based on workshops and business processes to respond to the job market. This strategy
+requires educational trainings and even certifications for the different project members in the ICT
+field. The higher institute of computer science participates frequently in various even ts;
+participants demonstrate their skills in national and international challenges. In fact, the RISE
+project aims to improve these skills to financially support the organization of competitions and
+hackathons to improve their motivation. As mentioned in the UTM POS, ISI strongly adheres to
+improve scientific and sporting exchanges by establishing partnerships between clubs and
+national and international associations.
+ 
+ 
+Page 13
+1.2.3 Summary table of the project
+Table of Objectives.
+Goals
+Indicators
+Indicator(s)
+& Brief description
+Value
+basic
+Value
+mid-
+course
+Value
+End of
+project
+Value
+Sustainability
+(2 years
+after the end
+of the project)
+Sources of Verification
+Global Objective
+Strengthening the quality of management and training in higher education for a
+better employability
+ISI engagement rate
+(teachers, administration,
+students)
+20% 70% 100% 100%
+Annual report
+"Quality Committee"
+Audit Report
+Specific objective(s)
+OS1.1:Ensure visibility and
+international recognition of courses through accreditation
+Number of accredited courses 0 0 3 5 Reports
+accreditation
+OS1.2:Strengthen the provisions of
+institutional autonomy and continuous improvement of the quality assurance system
+Progress rate of the
+preparation of the EPST file 0 35% 90% 100% Evaluation report
+EPST
+OS2: Implement management
+proactive and dynamic, integrated and developed, for the management of courses guaranteeing integration
+Implementation rate of
+new courses relating to the
+business reference
+15% 35% 55% 65% New Plans
+of studies
+Number of certificates obtained 5 10 15 20 Certificates
+Number of rooms
+conferences 0 1 1 1 Room for at least
+80 people
+ 
+ 
+Page 14
+OS3: Develop a program
+pilot for the promotion of innovation and entrepreneurial activities
+Number of skills
+innovative and creative 1 3 5 7 Number of projects
+innovative
+OS4. Strengthen infrastructure and
+capacity to organize events and activities: sporting, cultural, scientific and associative at the ISI
+Satisfaction rate of
+students, teachers and
+ISI administrators
+cultural and sports activities
+scientists
+5% 40% 70% 80%
+Survey of
+students,
+teachers and
+ISI administrative
+Results Tables
+ 
+Domain 1. Management & Governance
+Fields No. 1. 1: Quality Assurance: Support for quality committees and accreditation
+Expected Results & Activities (necessary to achieve
+the specific objective of the Domain) Actions (Summary characteristics)
+Costs
+estimated
+(in mDT)
+Funds
+requested from
+PAQ
+(in mDT)
+Result R1.1-1
+CQ –ISI qualified
+constituted and
+implied
+A1.1-1.1 Constitution of the CQ-ISI (Establishment of the commitment of the CQ-ISI)
+ Role Assignment
+ Commitments
+ Communication
+2 2
+A1.1-1.2 Carrying out a campaign
+awareness-raising among administrative and educational staff on Quality Assurance approaches
+ Organization of 2 quality days for all stakeholders11 11
+ 
+ 
+Page 15
+A.1.1-1.3 Action training and
+Assistance in developing quality policy and EMS according to ISO 21001:2019 Standard
+ ISO 9001 version 2015 and ISO 21001 version 2018 training (except members supported by UTM)
+ Investigations and analysis of factual data
+37 37
+Result R1.1-2
+Accreditation of
+some routes
+prepared
+A1.1-2.1: Definition of a general action plan for the accreditation system according to the procedures of the accrediting body
+ Internal evaluation of ISI training courses according to an appropriate framework
+ Establish a stakeholder satisfaction questionnaire (alumni)
+ Choice of training to be accredited
+ (consolidation with the CS)
+2 2
+A.1.1-2.2 Improving the training environment
+educational at the course level
+ Development of a mini amphitheater and the library
+ Acquisition of equipment (boards, video projector, etc.)
+ Improving the functioning of certain laboratories
+50 50
+A.1.1-2.3 Implementation of a plan
+action plan for the mobility of teachers responsible for educational pathways
+ Double degree agreement
+ One-year mobility
+ Internships
+10 10
+A.1.1-2.4 Definition of a Manual of Educational Procedures
+ Develop a procedures manual (Part relating to teaching) 11.2 11.2
+A.1.1-2.5 Development of skills of Internal Auditors of the accreditation system (Action training)
+ Measurement of the gaps between the different processes and the chosen reference11.8 11.8
+A.1.1.2-6 Support for accreditation procedures for teaching courses
+ Contact the accrediting structure
+ Request for accreditation 35 35
+Total Resources (in thousands of Tunisian dinars) 170 170
+ 
+ 
+Page 16
+    
+Fields No. 1. 2: Quality Assurance: Institutional autonomy and accountability
+Expected Results & Activities (necessary for
+achieve the specific objective of the Domain) Actions (Summary characteristics)
+Costs
+estimated
+(in mDT)
+Funds requested
+of the PAQ
+(in mDT)
+Result R1.2-1
+Quality policy
+deployed at
+level of
+the institution
+A1.2-1.1 Action training for staff on quality tools ISO 9001 version 2015 training (QC and administration) 5 5
+A1.2-1.2 Support for communication cells (Mediation cells come under the DGSU PAQ)
+ Designation of the communication unit, Accountability.
+ Monitoring of site updates and social networks
+3.8 3.8
+A1.2-1.3 Setting up a plan
+organizational structure of administration and administrative positions
+ Establish a comprehensive study of functions and positions at the ISI
+ Establish a study of the mechanisms of existing structures and their operating modes
+ Provide updated organizational charts
+ Establish new job descriptions
+ Validate and communicate organizational charts and job descriptions
+8 8
+A1.2-1.4 Definition and deployment of the institutional quality policy
+ Develop a procedures manual (Administration part: Support process) 3.36 3.36
+Result R1.2-2
+A1.2-2.1: Capacity building on leadership University management training 3.8 3.8
+ 
+ 
+Page 17
+Preparation for
+EPST
+ Training in financial autonomy (director, SG, CQ)
+A1.2-2.2 Training of internal auditors Self-assessment framework for the administrative function (CAF)
+ QC training in ISO 19011+ vouchers
+ Additional training if necessary (change of manager)
+12.8 12.8
+A1.2-2.3 Strengthening skills in the field of project assembly according to the ISO 21500 STANDARD
+ PMP project management action training
+ Training in ISO 21500 6.84 6.84
+A1.2-2.4: Redevelopment of the Internet network platform and the WEB site
+ Audit of the current system (will be done by UTM)
+ Reinstallation of an internet network to serve all
+practical work rooms (3) blocksImplementation of an intranet
+55 35
+A1.2-2.5 Consolidation of arrangements for welcoming foreign students
+ Strategy and implementation of a structure for welcoming foreign students
+ Training in legal and administrative references for welcoming foreign students
+7.4 7.4
+A1.2-2.6: Preparation of the file to become EPST
+ Workshops for drafting the elements constituting the EPST8.8 8.8 file
+Total Resources (in thousands of Tunisian dinars) 120 100
+       
+ 
+ 
+Page 18
+   Area 2. Training & Employability
+Field No. 3. Capacity for proactive management of courses that include
+Expected Results & Activities (necessary for
+achieve the specific objective of the Domain) Actions (Summary characteristics)
+Costs
+estimated
+(in mDT)
+Funds requested
+of the PAQ
+(in mDT)
+Result R3.1
+Strengthening of
+training and
+certification
+news
+technologies (ICT)
+teachers and
+students
+A3.1-1 Strengthening the skills of teachers and students (certified training on ICT)
+ Diagnosis of existing training
+ Training and certification of trainers
+ Student certification (voucher acquisition)
+ Integrate innovative training into existing training (25%)
+ Involve experts in specific training
+57 57
+A3.1-2: Strengthening soft skills and entrepreneurial culture among students
+ Acquisition of student vouchers 12.8 12.8
+Result R3.2
+Organization and
+strengthening of
+communications
+with
+the environment
+socioeconomic
+A3.2-1: Organization of University-Company events
+ Organization of the ISI forum and open days
+ Organization of thematic days
+ Alumni involvement
+41 41
+A3.2-2 Strengthening the trainee monitoring platform (PFE, SFE)
+ Training in the use of the platform carried out in the
+framework of the DGSU PAQ
+ Create an observatory 17 17
+ 
+ 
+Page 19
+A3.2-3 Strengthening the professional training unit with IT equipment
+ Workshops for the creation of training courses (co-constructed, evening classes, continuing education, online training (UVT)….)
+22.2 22.2
+Total Resources (in thousands of Tunisian dinars) 150 150
+Area 3. Research & Innovation
+Field No. 4. Competition for the Best Innovative and Entrepreneurial Initiatives
+Expected Results & Activities (necessary for
+achieve the specific objective of the Domain) Actions (Summary characteristics)
+Costs
+estimated
+(in mDT)
+Funds requested
+of the PAQ
+(in mDT)
+Result R4.1
+Preparations for
+competition
+A4.1-1: Mobilization of funds to finance the organization, coaching
+ Mobilization of an organizing committee
+ Selection of coaches
+ Planning and budgeting of actions
+4 4
+A4.1-2: Support for the selection of competition themes in relation to the socio-economic environment
+ Raising awareness among industrialists
+ Choice of themes 5 5
+A4.1-3 Establishment of communication mechanisms with potential candidates in order to encourage participation in competitions
+ Media coverage of each event 7.6 7.6
+A4.1-4 Implementation of specific training to prepare participants for competitions (creativity and innovation)
+ Organization of specific training (entrepreneurship and innovation strategies)23.4 23.4
+Result R4.2
+A4.2-1 Fundraising to finance the organization, coaching
+ Choice of number of prizes
+ Meetings and designation of person in charge 5 5
+ 
+ 
+Page 20
+Choice of initiatives
+innovative and
+entrepreneurial
+(Price)
+A4.2-2: Establishment of the student entrepreneur culture
+ Study the legal texts
+ Reorganize the timetables according to the law (in the process of being formulated)
+ Organize an annual workshop jointly with the center4C
+5 5
+A4.2-3 Selection and support in the socio-economic environment of the best innovative projects
+ Reception of files
+ Constitution of the competition selection jury.
+ Pre-selection of eligible candidates for pitching.
+ Planning the pitch presentation day.
+ Selection of the best projects.
+ Awarding of prizes to the winners
+ Media coverage of the event (digital media, posters with photos of the winners, etc.)
+50 50
+Total Resources (in thousands of Tunisian dinars) 100 100
+   
+ 
+ 
+Page 21
+Area 4. Student Services/University Life
+Field No. 5: Cultural, scientific and sporting associative activities
+Expected Results & Activities (necessary to achieve
+the specific objective of the Domain) Actions (Summary characteristics)
+Costs
+estimated
+(in mDT)
+Funds
+requested from
+PAQ
+(in mDT)
+Result R5.1
+Strengthening of
+associative activities
+cultural,
+scientists and
+sports of
+students
+A5.1-1: Implementation of associative and social communication mechanisms
+ Create a welcome desk (group of students responsible for integrating new students)
+ Organize a day for the presentation of clubs.
+20 20
+A5.1-2: Improving the conditions for the conduct of sporting and cultural activities
+ Maintenance and minor improvements to club premises
+ Equipment and clothing for student sports activities
+35 35
+A5.1-3: Strengthening of intra and inter-establishment cultural and sporting exchanges and competitions
+ Organize events (cultural, sporting)
+ Set up logistical means: posters, mobility, prices, etc.
+ Improving the visibility of clubs and their activities on the ISI website and via social networks
+30 30
+A5.1-4: Organization of visits and discoveries of the socio-professional world
+ Establishment of agreements with professionals for carrying out visits
+ Implementation of a procedure for exits and visits
+ Coverage of expenses related to visits
+20 20
+A5.1-5: Support for twinning initiatives with student clubs/associations in
+ List of Clubs/Associations with twinning at national and international level
+ Integration of this information on the ISI WEB page
+40 40
+ 
+ 
+Page 22
+national and international scale
+ Support for Clubs/Associations in twinning procedures (mobility, prices, etc.)
+A5.1-6 Setting up funds for individual student initiatives (sports and cultural)
+ Strengthening competitions and individual participations 5 5
+Total Resources (in thousands of Tunisian dinars) 150 150
+ 
+ 
+ 
+Page 23
+1.2.4 Summary of resource distribution
+Expense items
+eligible
+FUNDS
+requested from the Total PAQ
+Funds
+PAQ
+EQUITY
+of the Institution
+candidate
+Total
+Funds
+Institution
+candidate
+TOTAL
+& % by
+report
+to
+ceilings
+Year 1 Year
+2
+Year
+1
+Year
+2
+Technical assistance
+(Services of
+consultants)
+98.16 18.20 116.36 0 0 0 16.86%
+Goods (equipment)
+and services (other than
+consultants)
+133.00 110.90 243.9 0 0 0 35.35%
+Civil engineering:
+rehabilitation/
+(Light) fittings
+55.00 25.00 80 20 0 20 14.49%
+Strengthening of
+capacities125.74 104.00 229.74 0 0 0 33.29
+%
+Training and
+certification119.74 98 217.74 0 0 0 32.43%
+Mobility
+(travel/internship)6 6 12 0 0 0 1.74%
+Seminars/congresses 0 0 0 0 0 0 0
+Others):
+to be specified, if relevant.0 0 0 0 0 0 0
+TOTAL COSTS
+(in thousands of dinars
+Tunisians)
+431.9 258.1 670 20 0 20 690=
+100%
+ 
+ 
+The budget breakdown is detailed in the following table:
+ 
+  
+ 
+24
+PAQ
+ISI
+Supplies
+Goods and services
+Works
+Services of
+consultants
+Reinforcement
+of capacity
+Total Activity
+Total Result
+Total Field
+R1.1-1
+A1.1-1.1
+50
+2 2
+50
+170
+A1.1-1.2 6.5 4.5 11
+A1.1-1.3 37 37
+R1.1-2
+A1.1-2.1 2 2
+120
+A1.1-2.2 15 35 50
+A1.1-2.3 10 10
+A1.1-2.4 120 3 8.2 11.2
+A1.1-2.5 11.8 11.8
+A1.1-2.6 35 35
+R1.2-1
+A1.2-1.1 5 5
+20.16
+120
+A1.2-1.2 3.8 3.8
+A1.2-1.3 5 3 8
+A1.2-1.4
+100
+3.36 3.36
+R1.2-2
+A1.2-2.1 3.8 3.8
+99.84
+A1.2-2.2 18 18
+A1.2-2.3 6.84 6.84
+A1.2-2.4 20 35 55
+A1.2-2.5 1.4 6 7.4
+A1.2-2.6 8.8 8.8
+R3.1 A3.1-1 57 57 69.8
+150
+A3.1-2 12.8 12.8
+R3.2:
+A3.2-1 36 5 41
+80.2
+A3.2-2 150 15 2 17
+A3.2-3 18 4.2 22.2
+R4.1
+A4.1-1 4 4
+40 100
+A4.1-2 5 5
+A4.1-3 5 2.6 7.6
+A4.1-4 100 23.4 23.4
+R4.2
+A4.2-1 5 5
+60
+A4.2-2 5 5
+A4.2-3 50 50
+R5.1
+A5.1-1 10 5 5 20
+150 150
+A5.1-2 25 10 35
+A5.1-3 20 10 30
+A5.1-4 150 5 15 20
+A5.1-5 20 20 40
+A5.1-6 4 1 5
+Total 670 20 243.9 80 116.36 229.74 690 690 690
+Total /690 0.353 0.115 0.168 0.3329   
+ 
+ 
+ 
+25
+ 
+2 PART II. INFORMATION RELATING TO CANDIDATE STRUCTURES AND
+THEIR EXTERNAL ENVIRONMENT
+2.1 ORGANIZATION AND HUMAN RESOURCES.
+ 
+2.1.1 Status of the candidate structure
+The Higher Institute of Computer Science (ISI) under the University of Tunis El Manar was created
+by decree No. 1912 of August 14, 2001. It has the status of a Public Establishment of a
+Administrative (EPA) with the mission of higher education and scientific research
+in the field of science and technology. ISI training courses are specialized in
+computing and its applications.
+2.1.2
+ISI Organization Chart
+The official ISI organization chart contains only four members (the director, the director
+studies/deputy director, the internship director, the four departments, the secretary
+general and administrative secretary). However, a new unofficial organization chart which
+reflects the current organization of the school was established (see Figure 1).
+The four departments of the ISI concern the following specialties:
+ Software Engineering and Information Systems (GLSI)
+ Architectures, Systems and Networks (ASR)
+ Electrical Engineering and Industrial Computing (GEII)
+ Applied Mathematics (MA)
+Figure 1: Current ISI organization chart
+Note: The blank boxes are non-functional positions and structures.
+paid.
+Direction
+Internship Management
+Secretary General
+Secretary
+Main
+Financial service
+School service
+Examination service
+HR department
+Library
+Technical service
+The 4
+departments
+Center 4C
+Scientific Council
+Vice Director
+Management of
+Studies
+Quality Committee
+ 
+26
+2.1.3 Number of students and teachers
+Since its inception, the number of students has seen an increase of 170 students in
+2001 to 2500 students in 2011 and stabilized around 1100 students during the last few years
+years (see Figure 2).
+Figure 2: Evolution of the number of students at ISI
+Following a great opening on the socio-economic environment, ISI graduates have
+demonstrated strong integration potential and remarkable competence. This contributed to the
+influence of the establishment allowing it to place itself among the establishments of
+renowned in the field of IT and its applications: Information systems,
+development, IOT, networks and telecoms, embedded systems and industrial computing.
+For the 2018-2019 academic year, the ISI has 116 permanent teacher-researchers
+in activity distributed according to grades as follows: 09 Higher education professors
+(PR), 05 Lecturers (MC), 71 Assistant Professors (MA), 14 Assistants (A) and 17
+Secondary Education Teachers (PES).
+The number of students registered in 2018-2019 being 1130: 299 engineering students, 642 in
+Bachelor's degree and 189 in Master's degree. The supervision rate at ISI is approximately 2.3 students per teacher
+researcher. Some teachings are provided by experts from the world
+socio-professional. In the event of a shortage of permanent teachers, contract teachers and
+temporary workers are requested. In 2018-2019, the ISI requested 26 temporary workers and 06 assistants
+contractual.
+Language lessons (French and English) as well as introductory workshops
+Computer science is mainly provided by teachers from the education system
+secondary school teachers assigned to the school (PES or common body). A total of 11 secondary school teachers
+and 2 technologists are assigned to the ISI, or 6% of the total number of permanent teachers.
+The charges are managed by the departments based on the teaching units
+depending on the skills of teachers following Decree No. 2000-240 of January 31, 2000.
+The teaching costs of languages ​​and cross-curricular subjects are managed by the
+MA department.
+Payment of contract workers is made by the UTM. Casual workers as well as hours
+additional fees are paid by the ISI at the end of the academic year.
+0
+500
+1000
+1500
+2000
+2500
+3000
+L1+L2+L3 M1+M2 ING1+I2+3
+ 
+27
+The evolution of the number of teachers is shown in Figure 3.
+Figure 3: Evolution of the number of teachers
+2.1.4 Human resources (numbers and distribution, supervision rates)
+(managers/workers)
+ISI has 50 permanent administrative, technical and worker staff in activity.
+technicians ensure the maintenance of the IT equipment in the practical work rooms, which is obsolete
+in relation to today's technological needs, and to ensure the smooth running of
+laboratories that require hardware upgrades.
+Figure 4: Evolution of the number of administrative, technical and manual staff
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+65 64 71 87 84 85 103 109 97 117 117 116
+10 19 13
+5 14 4
+23 17
+4
+20 33 26
+10
+19 13 5 14
+4
+23 17
+4
+20
+33
+26
+Temporary workers
+Contractual workers
+Permanent
+2016/2017
+2017/2018
+2018/2019
+0
+20
+40
+60
+Frame
+administrative
+Frame
+technical
+Total workers
+23
+5
+22
+50
+21
+6
+24
+51
+21
+5
+23
+49
+2016/2017
+2017/2018
+2018/2019
+ 
+28
+2.2 TRAINING, RESEARCH AND STUDENT SERVICES ACTIVITIES.
+2.2.1 Training activities
+ISI offers the following training courses:
+i. Training License
+Admission to the Bachelor's degree cycle, which lasts (03) years, is done through the orientation of high school graduates.
+The mobility of some students from other institutions is done via the University according to
+a social file. The number of students accepted per mobility depends on the capacity of each
+sector.
+For this training, the ISI has (04) specialties:
+ SIL: Computer Systems and Software
+ SI: Computer Science
+ ARS: Administration of Networks and Services
+ SE: Embedded Systems
+The evolution of the number of undergraduate students since 2007 is shown in Figure 5.
+Figure 5: Evolution of the number of undergraduate students by level at the ISI
+The decrease in this number by each level is a consequence of the decrease in the number of
+graduates in recent years
+Following the unification of licenses which started in the 2019/2020 year, three different courses
+proposed by the national sectoral commission in IT were adopted by the
+GLSI, ASR, and GEII departments, namely:
+ L 1.2: Computer Science (CS) course
+o Mention: Software Engineering and Information Systems (GLSI)
+o Mention: Computer Science and Multimedia (IM)
+ L3: Computer Engineering (CE) course
+o Mention: Network and Systems Engineering (IRS)
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+L1 L2 L3
+ 
+29
+ L4: Electronics, Electrotechnics and Automation (EEA) course
+o Mention: Embedded Systems (ES)
+The number of undergraduate students for the year 2019-2020 is: 1328
+ii. Engineering Training
+The number of students admitted to the first engineering year is 120 to 125 students per year.
+Admission to this training is via a specific national competition, of which 40% of those admitted
+are graduates of ISI and 60% come from different state institutions providing
+adequate training. 5% of students admitted to the second year are selected
+among those who successfully completed their first year of a master’s degree in the same discipline.
+The training of engineers lasts three years. After a common exchange of (03)
+semesters, (03) specialties are offered:
+ GLSI: Software Engineering and Information Systems
+ GTR: Telecommunications and Networks Engineering
+ GISI: Industrial Systems Computer Engineering
+A reform was proposed to the DGET and implemented since 2017-2018 for a reform of the
+training of engineers. With this in mind, the ISI relied on the Job References and
+Skills to redefine its training offers according to the requirements of all parties
+stakeholders.
+Current training courses are:
+ IDL: Software Development Engineering Specialty
+ IDISC: Specialty Engineering and Development of Infrastructures and Services
+Communications
+ ISEOC: Specialty in Embedded Systems Engineering and Connected Objects
+The evolution of the number of engineering students since 2007 by level is presented
+in Figure 6.
+Figure 6: Evolution of the number of students in engineering training by level at the ISI
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+1-ING 2-ING 3-ING
+ 
+30
+iii. Master's degree training
+ISI Masters are divided into three categories:
+ Professional Master's Degree in Computer Science "Systems Security"
+Information and Infrastructure (SSII) which has been reformed for 2 years;
+ Professional Masters in Computer Science (continuing education) "Systems Security
+Information and Infrastructure Services (SSII) in collaboration with the Chamber of
+trade
+ Professional Masters in Computer Science "Free Software" (MP2L) in
+collaboration
+with the Virtual University of Tunis;
+ Master of Research in Computer Science with two courses:
+o Course: Intelligent Systems in Imaging and Artificial Vision (SIIVA)
+o Course: Software Engineering (GL)
+The evolution of the number of Master's students by level is presented in Figure 7.
+Figure 7: Evolution of the number of students in all masters by level at the ISI
+The bridges between the different training courses described above are presented in
+the flowchart of the paths shown in Figure 8.
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+M1 M2
+ 
+31
+Figure 8: Different ISI training courses and gateways
+2.2.2 International cooperation
+Since its consecration, the ISI has continued to invite visiting professors to give
+courses and conferences in new ICT technologies. A convention in
+double degree with ENSEEIHT of the INP of Toulouse started since 2014 making
+benefit on average two to three students per year from a double degree. Recently,
+ISI signed two other new agreements, namely:
+ Joint degree between ISI and the Sup Galilée school of the University of Paris 13
+ A mobility agreement, for the master's level, between the ISI and the university
+from Limoges
+2.2.3
+Research activities
+ISI has only one research laboratory. Teachers and doctoral students
+assigned to this laboratory have a dedicated space for research and
+the framing.
+Doctorate
+Engineering training
+IDL, IDISC, ISEOC
+Engineering degree
+Job market
+BBaaccccaallaauurrééaatt
+Mathematics, technology, experimental sciences, computer science
+LLiicceenncceess eenn IInnffoorrmmaattiiqquuee
+PPaarrccoouurrss :: CCSS--GGLLSSII//IIMM,, CCEE--IIRRSS,, EEEEAA--SSEE
+Bachelor's Degree in Computer Science
+MMaassttèèrree PPrrooffeesssssiioonnnnneell
+Engineering training:
+Common core
+MMaassttèèrree ddee rreecchheerrcchhee
+ 
+32
+LIMTIC LABORATORY
+Number of doctoral students: 31
+Number of publicationsi 103
+Number of patents (intellectual properties) 1
+Number of conventions (national and international) 4
+Number of theses defended 12
+2.2.4 Student Services
+Many services are offered to ISI students:
+ A Library: which has:
+ A documentary collection consisting of 7469 titles of different types
+ A copy of each Masters, PFE and SFE report is filed with the
+library every year
+ Access to the BIRUNI software which allows document searches by index:
+author, title, subject, publisher, code, periodical title.
+Access to electronic subscriptions through the National University Center
+of Scientific and Technical Documentation (CNUDST). With regard to all
+higher education institutions, the ISI has a Science Coordinator
+and Technology and Research, linking teacher-researchers and the
+CNUSDT.
+ Internships: Several ISI partner companies welcome students each year
+for periods ranging from 3 to 6 months.
+The ISI has established several agreements with public and private companies (FIS, HLI,
+AMC Ernst & Young, Intercom Technologies, Linedata, Think.it, Wevioo, ADACTIM,
+Axefinanace, Telnet, Breakpoint Technology, TBS, etc.). These agreements cover the
+areas of education, internships, PFE, student life.
+ Sports activities: ISI offers its students sports and cultural activities
+like table tennis, boys' football (Ariana field), chess...
+ Centre 4C: it is a structure for monitoring and strengthening the skills of
+young graduates by facilitating their professional integration. It is a center of
+authorized and accredited training and certification.
+ Clubs and Associations: The ISI has
+ 11 clubs namely: Securninets, ARTBOX, ISI Junior Entreprise, Freewayes, IEEE
+ISI, Enactus-ISI, Change Makers, Beb-ISI, ISI_GEEKS, Creative Lab and TuniVision.
+ 01 association: Association of scientific and cultural clubs of the ISI.
+For club activities, the school provides students with spaces
+dedicated and undeveloped.
+The ISI Association of Scientific and Cultural Clubs supports students in
+the organization of events and the different structures of the establishment
+ 
+33
+support students in identifying different sources of funding
+for the organization of scientific and cultural events.
+2.3 RESOURCES, INFRASTRUCTURE, EQUIPMENT AND MANAGEMENT CAPACITIES
+2.3.1 Resources
+The institution has a transparent system for internal distribution of resources
+financial.
+“Title I” of the school budget is set each year in consultation between the departments
+financial institutions of the School and those of the Ministry. The School then freely manages its budget,
+in accordance with its status as a Public Administrative Establishment. In 2018 this
+budget amounted to 1780,000,000 Dinars. The remainder of Title I amounted at the end of 2018 to
+549,572,049 Dinars. “Title II” comes essentially from the opening activity on
+the environment, research and engineering program contracts and projects
+competitive research programs both nationally and internationally. In 2018 this budget was
+amounted to 1,158,905,000 Dinars. The financial statement is presented each year to the board
+scientific of the ISI. The distribution of financial resources by heading is carried out in
+looking at the expenditure relating to the previous year and based on the evolution of the number
+of students.
+2.3.2
+Infrastructure
+Material resources allocated to teachers and administrators (PC, scanner,
+printers, etc.) are very limited and some purchases are dependent on a pooled market
+at the university level.
+The building, rented since 2001, comprises three blocks of four floors joined together
+(limited accessibility and no emergency exits) is distributed as follows:
+a. Block A
+Block A includes:
+ 2 Libraries, 4C center (created in 2018), club premises (ground floor)
+ School service, technical service and drawing service (1st floor)
+ Central administration, registry office and meeting room (3rd floor)
+Classrooms, practical work rooms, teachers' offices and toilet blocks are scattered throughout
+the 4 floors.
+b. Block B
+Block B (on 4 floors) contains offices (04), classrooms (04) and practical work rooms (03) and (02)
+sanitary blocks.
+c. Block C
+Block C, consisting of four floors, contains only two classrooms per floor.
+The rooms on the first floor are dedicated and fitted out as language laboratories by the UTM.
+ 
+34
+The layout of the building was not initially designed for educational purposes.
+superior. Moreover, access to blocks 'B' and 'C' is only possible from block 'A'.
+The ISI does not have any lecture theatre or large room for organising training courses or
+of lectures.
+2.3.3 Current projects
+a. PAQ 4C
+Apart from the projects that fall within the framework of the research laboratory (PaQ Collabora,
+PEER, CMCU, etc.), the ISI has just received approval for a PAQ 4C project which will make it possible to develop
+the premises of office 4C and its equipment and finance certain certified training courses in software
+skills and start-ups.
+b. Erasmus Plus Project
+The experience of the first ERASMUS Plus project with the AVEIRO University of Portugal was
+fruitful. This encouraged the two partners to propose a new project of
+ERASMUS Plus cooperation with the same university to strengthen exchanges
+of teachers and students
+Uniquely.
+2.4 SOCIOECONOMIC ENVIRONMENT
+2.4.1 Socio-economic environment
+In a context marked by an economic crisis and an alarming unemployment rate of 15%
+of the population, the ICT sector brings added value to the development of
+Tunisia's economy. Knowing the importance of this sector, the government has decided to
+take adequate measures to avoid imposing a tax on the importation of
+computer equipment. This is in order to promote the growth rate of this
+sector and attract more potential investors. The ease of data relocation, the
+stimulation of the creation of qualified jobs, encouragement of the creation of businesses
+IT are all policies implemented by the State to boost activities
+in the IT field. Tunisia is attracting more and more companies
+European and foreign in general working in the field of IT, carelle
+has all the necessary assets in terms of skills. The majority of these
+companies are located in Greater Tunis (82%) which is a major asset for
+ISI students.
+The El Gazala pole, the Charguia Industrial Zone and the Northern Urban Center
+located in the governorate of Arianapas far from the ISIet, present the perfect illustration of
+this policy. The latter already welcome some heavyweights in the sector (Alcatel,
+Ericsson or STM micro-electronics, Telnet, etc.) convinced of the competitiveness of engineers
+Tunisians.
+The offers that ISI students receive come mainly from companies that operate
+IT product distribution services, engineering or
+support for businesses, this also concerns companies which offer a range of
+services for both the local and international markets. These offers concern the
+information and communication technologies (ICT) including services
+software engineering, systems integration, website creation, maintenance
+or network management, support service, content production etc. These providers
+ 
+35
+offer all types of services: from subcontracting to turnkey solutions,
+consultancy, assistance, training or expertise activities, auditing up to BPO and
+IT management of a fleet. These services cover various areas, namely industry,
+the public sector, health, etc. ISI students are still in demand by several
+foreign companies, contacts are generally made from the end of study project, a
+ten agreements are signed each year which will allow students to
+ISI, the majority of whom are engineers, to carry out their final study project within a
+foreign organization and to be able to continue their professional studies within a
+foreign company.
+ 
+2.4.2
+Training in the field of ICT in Tunisia
+A more in-depth analysis of the evolution of the number of ICT graduates since the year
+2010 to 2017 in public and private education is presented in both
+figures that follow.
+Figure 9: Evolution of the number of ICT graduates*
+Figure 10: Percentage of graduates from the ICT sector compared to other sectors
+*Source: Ministry of Communication Technologies and Digital Economy.
+ 
+0
+5000
+10000
+15000
+20000
+2010 2011 2012 2013 2014 2015 2016 2017
+15111
+12868 13227 12040 11269 10048 9236 8789
+433 680 875 941 1177 1489 1265 1575
+Chart Title
+Public education Private education
+0
+10
+20
+30
+40
+2010 2011 2012 2013 2014 2015 2016 2017
+17.6 17.4 19.2 19.5 18.4 17.3 15.9 15.6
+36.7
+21.7
+26.8
+22.1 20.4 21.3
+16.2 18.5 Public education
+Private education
+ 
+36
+In Appendix 2, the ranking of ISI students is shown by stream. ISI is among
+Top 5 in ICT training.
+ 
+ 
+3 PART III. SYNERGY AND COMPLEMENTARITY WITH THE PAQ-DGSU
+The ISI actively contributed to the development of the PAQ DGSU project of the University of Tunis El
+Manar via the President of the ISI Quality Committee (PCQ-ISI) who is responsible for the project
+RISE. From internal assessment, strategic study and proposal writing
+complete. The actions and results expected in the PAQ DGSU project concern
+cross-cutting actions for all UTM EESRs. The actions programmed within the framework of this
+project concerns ISI specifications and are chosen to consolidate that of the DGSU,
+For example :
+ The development of the DoCOSY digital platform should be used by everyone
+UTM establishments and their homogeneity is imperative. The specificity of the ISI
+will impose an adaptation of certain functionalities of this platform which are not
+was planned in this project
+ Training and certifications are planned in the DGSU QAP for a number
+maximum of 10 people per institution (the CQ). The training courses offered in this
+project concerns all stakeholders (teachers, students and ATOS).
+ ICT training is planned to strengthen teachers’ skills
+and students in emerging technologies and enable students to have
+certifications to improve their CVs.
+ The layout of a conference room (no room can hold more than 30
+students) and the library are specific to ISI
+ The computer network installed for almost 18 years is threatened by cuts
+frequent which is a real threat to TP in the field of ICTs. An action
+corrective action was also planned in this project.
+ In the area of ​​student life, the student well-being component has been planned
+in the DGSU and not the DGSE.
+ The conditions for sports, cultural and scientific activities are limited to the ISI given
+that it is far from the grounds of the Farhat Hached campus (UTM) and that it does not have
+no bus to plan company visits. ISI will be able to use this project
+rent a bus from time to time or make partnerships within the framework of this project
+to strengthen the various activities of the ISI.
+ The acquisition of fixed and current computers is one of the educational priorities
+for training in computer science subjects and especially in
+development. In this project, the equipment of a practical work room with PCs
+performance was proposed.
+ Etc..
+ 
+37
+4 PART IV. PROJECT DESIGN
+4.1 DESCRIPTION OF THE CONTEXT AND STRATEGIC ANALYSIS
+4.1.1 External factors
+Today, the Tunisian university is judged to be not responsive and not adapting to
+market trends, this judgment cannot be fair if we do not take into account the role
+What role can a company play if it remains disconnected from the university and only acts as a
+accusing the university of launching graduates onto the market who are unfit for employment. This
+The disconnect between business and academia is a major source of mass unemployment.
+higher education graduates given the skills imbalance
+young university graduates and the qualifications that employers are looking for.
+a. Local and national labor market
+The job market in Tunisia is a challenge that we strive to meet as best we can every day.
+at the local level, according to the national employment report produced by IACE, the governorate of
+Ariana represents the lowest unemployment rates compared to the unemployment rates
+At the national level, it nevertheless remains affected by the current economic situation of
+country. Nationally, the unemployment rate according to the National Institute of Statistics is 15.4
+%, recorded for the year 2018, although it is stationary, it remains however quite high and
+poses a real social and economic problem.
+Table: Evolution of the unemployment rate (%) from 2016 to 2018*
+Governorate 2016 2017 2018
+Ariana 11.6 11.1 10.9
+Tunis 19.5 18.5 18.2
+Ben Arous 18.4 17.8 18.4
+Manouba 21.7 20.5 19.4
+Nabeul 10.3 9.6 8.9
+Bizerte 11.5 12.2 11.3
+Beja 18.5 18.5 18.9
+Jendouba 20.1 19.7 21.6
+Sousse 11.6 11.8 13.4
+Monastir 6.6 6.1 7.5
+Kairouan 15.2 14.5 16.1
+Tataouine 32 32.4 32.4
+Gafsa 28.2 27.3 28.9
+*Source: National Employment Report (IACE, September 2018).
+It is clear that according to the unemployment evolution table from 2016 to 2018, a
+The inequality in the distribution of unemployment is clearly evident at the regional level. This
+disparity between regions is related to uneven economic development. This is
+Why, in coastal regions, job opportunities are more available in particular?
+for graduates.
+b. Demand and supply in higher education
+Despite a fairly diversified training offer, the search for employment remains the request
+major and capital of the young population. Indeed, unemployment has not spared the population
+young graduates who represent a quarter of the unemployed, each year, that's around 100
+ 
+38
+000 young people, half of whom are university graduates, who are entering the labour market
+work !
+In relation to the training offered, the main problem comes from the inadequacy of the
+university degrees with the needs of companies. According to a study conducted by IACE
+(Arab Institute of Business Leaders), more than 52% of the unemployed have diplomas that give them
+allow to work only in the public sector. Also according to this report, the
+The private sector lacks low-skilled and skilled labor, particularly in the
+fields of communication and information technology.
+According to the university orientation guide, published by the IACE in September 2019, and according to a
+survey which covered more than 60% of specialties present in the orientation guide
+university, more than 65% of higher education specialties have a deadline
+average waiting time for first professional integration exceeds 24 months.
+Table: Average waiting time for young people to find their first job
+graduates*
+Ladder
+Number
+specialties
+covered in
+2017
+Number
+specialties
+covered in
+2018
+Number
+specialties
+covered in
+2019
+Percentage
+0 - 6 months 4 3 19 4.35 %
+6 - 12 months 12 22 30 6.86 %
+12 - 24 months 50 89 103 23.57 %
+24 - 36 months 126 140 152 34.78 %
+36 - 48 months 69 58 78 17.85 %
+48 months and
+more 45 21 55 12.59 %
+Total 306,333,437 100%
+*Source: University orientation guide (IACE, September 2019).
+However, there is a significant disparity in the average waiting time, depending on the sector.
+Table: Average waiting time by sector*
+Diploma Average waiting time
+Medicine 3.5 months
+Bachelor (TBS) 3.6 months
+Architecture 15.8 months
+Basic license 32.1 months
+License applied 34.0 months
+*Source: Source: University Orientation Guide (IACE, September 2019).
+Let us note in passing that the average delays are longer at the level of short cycles.
+(Bac +3) than in relation to other cycles.
+According to this same orientation guide, we can note a strong correlation between employability
+and the capacity of universities, high-demand sectors and the supervision rate of the body
+Offered by the university.
+Table: Some causes influencing waiting times*
+ 
+39
+Employability Correlation
+Ability
+70% of specialties with capacities
+important ones have average delays
+very long waiting times
+Average score of the last orientation
+80% whose last oriented score is
+high have very high average waiting times
+important
+Supervision rate for body A
+70% who do not benefit from supervision
+of body A have average waiting times
+very important
+*Source: Source: University orientation guide (IACE, September 2019).
+An analysis of the job positions in demand shows that the market needs more
+in addition to skilled or unskilled labor, than universities, except institutes
+technological, are unable to provide, especially with the deficiencies of our system of
+vocational training. Vacancies or less in-demand positions are explained
+mainly either by the absence of candidates or by the poor quality of the candidate, if
+exists. Thus, 16 out of 49 positions are considered difficult to satisfy because they are 100% of poor quality.
+or of insufficient quality. The following table shows the classification of professions according to the
+number of vacancies:
+Table: Ranking of professions according to the number of vacant positions*
+Rank Workstation Total
+1 Skilled workers in the process industry 19731
+3 Sales and technical sales representatives 15951
+5 Engineers and technical managers in industry 12349
+8 ICT Engineers 7131
+13 ICT Technicians 3533
+20 Teachers and trainers 1059
+27 Unskilled handling workers 50
+*Source: Employment Report (IACE, 2016).
+The ranking of the number of positions offered shows that the target positions of the ISI, namely the
+ICT engineers and ICT technicians, are in the first half of the table, and are in
+conformity with the analysis carried out at the beginning of this paragraph, indicating that the engineers
+ICT (7131) are more in demand than ICT technicians (3533).
+ 
+1. Socio-economic environment
+Today the economic context in Tunisia remains fragile in the aftermath of the revolution and
+of the global financial crisis. Thus, following the political, economic upheavals
+and geopolitical developments that have affected the country since 2009, the economy has stagnated. Under the impetus of
+agriculture and tourism, real GDP growth should, according to the IMF, reach 2.9% in
+2019, compared to 2.6% in 2018 and 2.4% in 2017. This complex economic situation as well as
+the quality of the skills analyzed above inevitably have an impact on the
+ability of companies to meet their employee needs and therefore, on their strategies
+investment, expansion and market positioning. According to IACE figures,
+These difficulties have certain repercussions on businesses, the most significant of which are
+are market losses for 26% of companies, difficulties in meeting deadlines
+ 
+40
+delivery (22%), difficulties in achieving investment objectives (24%) and finally withdrawal
+of products or services offered (16%).
+2. State of development of technologies and innovation
+The results developed above on the dynamics of the labor market in Tunisia
+corroborate the observation on an international scale where we are witnessing sectoral changes
+linked to the dominance of ICT and its generalization to practically all areas
+of activities. These technological developments are increasingly rapid, increasingly
+significant and influence both individual and business behavior.
+Tunisian strategy for the development of the technology sector is part of
+fully in these concerns and is structured around the following axes:
+ The development, modernization and implementation of new technologies
+for a communications infrastructure in line with the needs of a
+increasingly knowledge-based economy, including the strengthening and
+the expansion of fixed and mobile telephone infrastructures and the development of
+data transmission networks using new technologies.
+ Strengthening the organizational and regulatory platform for the purpose of establishing
+the opening of the sector to competition, in particular by strengthening the function
+regulation and the development of the presence of private operators.
+ The development of a network of innovative and efficient private companies, with strong
+added values, resolutely inscribed in the perspective of a globalized market and
+international, contributing to making Tunisia a regional center of excellence and
+technological radiation.
+It is therefore essential that this technological development be accompanied by
+strengthening of human, technical and technological capacities, through development
+research capacities, basic and continuing university training, and by the broad
+dissemination of digital culture contributing to the establishment of the information society
+and knowledge.
+4.1.2
+Internal factors
+Analyzing the internal factors, we can immediately note that the main weakness of
+The Higher Institute of Computer Science (ISI) lies in the fact that it has never established a project
+own establishment or a clearly formulated strategic plan, but it has always acted, by
+against, in accordance with those of the ESM and the UTM. Today, within the framework of the reform
+university towards unified licenses and the accreditation or rehabilitation of training
+engineers, the ISI has revised its training models taking into account the strategic plan
+of the ESM and national and international economic guidelines. With this in mind,
+ISI relied on the Job and Skills Reference Frameworks to redefine its offers
+training according to the requirements of all stakeholders. Four new licenses have
+were proposed by the national sectoral commission in IT, namely a license
+in Software Engineering and Information Systems (GLSI), Computer Science and Multimedia (IM),
+Network and Systems Engineering (IRS) and Embedded Systems (ES). Again, within the framework of
+the training of engineers, a national orientation towards the establishment of integrated preparatory courses
+will be adopted according to certain national and international standards, the ISI is among the
+establishments concerned by integrated preparatory training.
+The ISI has equipped itself with the resources necessary to deal with these various changes, strong
+of these four departments, namely the Software Engineering and Computer Systems department
+(GLSI), the Telecommunications and Networks Engineering department (GTR), the Engineering department
+ 
+41
+Computer Science and Industrial Systems (GISI) and the Applied Mathematics (MA) department,
+to manage this teaching load. Thus, for the 2018-2019 academic year the ISI
+has 116 permanent active teacher-researchers distributed according to grades as follows:
+follows: 09 Higher education professors (PR), 05 Lecturers (MC), 71
+Assistant professors (MA), 14 Assistants (A) and 17 secondary school teachers. The
+number of students registered in 2018-2019 being 1130 students: 299 engineering students,
+642 registered for a bachelor's degree and 189 for a master's degree. Some courses are provided by experts
+from the socio-professional world. Others are provided by contract workers and temporary workers
+are requested Thus for the 2018-2019 academic year, the ISI used 26 temporary workers and 06
+contract assistants.
+Language lessons (French and English) as well as introductory workshops
+Computer science is mainly provided by secondary school teachers
+assigned to the ISI (PES or common body). A total of 11 secondary school teachers and 2 technologists
+are assigned to the ISI, i.e. 6% of the total number of permanent teachers.
+The ISI still has 40 permanent administrative, technical and worker staff in
+activity. Technicians ensure the maintenance of the computer equipment in the practical work rooms and monitor
+to the smooth running of the laboratories. The ISI has 12 academic laboratories spread
+as follows: 7 computer labs, 3 electronics labs and
+automation and 2 telecommunications systems laboratories.
+Noting however that the equipment used in the labs remains obsolete compared to needs
+today's technological advances and requires an upgrade. It should also be noted in passing that
+material resources allocated to teachers and administrators (PC, scanner,
+printers, etc.) are very limited and remain dependent on a grouped market at the level of
+the university.
+We should also note the absence of an observatory center at the ISI for monitoring professional development.
+of its graduates. This center should be a key player in the structure of a
+university establishment and integrated within the framework of a strategic analysis aimed at
+improve the quality of training and respond effectively to the needs of
+walk.
+Analytical summary table of priority needs.
+Structure
+Consultations/Surveys
+Assessment
+internal/Evaluation
+external and Audit2
+Period of
+realization
+Implementation framework
+& public questioned
+Main results
+& priorities
+Consultation for
+identification of
+needs
+- -
+June 2019 Student Satisfaction Surveys Center 4C
+Internal evaluation May 2019 Action carried out
+by former CQ
+Improvement of
+the environment
+training courses
+Assessment
+external/Audit
+                                                 
+2 This is a summary table. The reports of consultations, surveys, evaluations, etc. are to be attached to
+the full proposal.
+ 
+42
+4.2 DEFINITION OF STRATEGIC PRIORITIES AND PERSPECTIVES FOR IMPROVEMENT
+4.2.1 Description of the environmental context
+4.2.2 Strategic analysis
+The first step in studying what exists in each UTM establishment including the ISI
+was the choice of the benchmarks according to which the diagnoses and self-assessment reports were
+were developed. This choice fell on a combination of the two IEAQA and AQU-EMD reference systems.
+This work was carried out by students, teachers and administrators (ATOS).
+A SWOT analysis and a compliance rate with the requirements of the standards were carried out.
+made by field. These reports have been validated by the scientific council which is made up of the
+director, the secretary general, the department directors, the directors of studies and
+internships, elected teachers, student representatives elected by their peers and representatives.
+Finally, a synthesis of these reports allowed the development of the global self-assessment report
+of the UTM, SWOT analyses and compliance rates of establishments by domain (see
+Figure 1, 2,3 and 4). Details of the following graphs can be found in the self-report
+UTM evaluation accompanying this project.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11: ISI Strategic Assessment Profile
+ 
+Figure 12: Distribution of Percentage of Compliance in Relation to Governance
+0
+50
+100
+IV-1-SYSTEM
+INFORMATION
+IV-2-THE
+TERMS
+OF DEVELOPMENT
+POLICIES
+IV-3-
+THE ORGANIZATION
+AND PILOTING
+OF THE…
+IV-4-LE
+MANAGEMENT
+FUNCTIONS
+SUPPORTS AT…
+IV-5-
+MANAGEMENT
+QUALITY
+GOVERNANCE
+
+ 
+43
+Figure 13: Distribution of training compliance percentage
+ 
+Figure 13: Distribution of research compliance percentage
+ 
+ 
+Figure 14: Distribution of compliance percentage
+of life within the institution and society
+The stakeholders in this project are:
+0
+50
+100
+V-1-WELCOME AND
+THE TAKING IN
+CHARGE OF
+STUDENTS AND
+STAFF
+V-2-THE
+ACTIVITIES
+CULTURAL AND
+SPORTS
+V-3 -THE
+CONDITIONS OF
+WORK LIFE
+V-4-
+RESPONSIBILITY
+SOCIETAL
+(ETHICS,
+CITIZENSHIP,…
+
+ 
+44
+ISI Socio-environment
+professional
+Ministry & bodies
+external AQ
+Others
+ Director
+ Committee
+educational
+ Directors of
+departments
+ Directors of
+internships
+ Committees for the
+quality
+ Teachers
+ Staff
+administrative
+ Students
+ Graduates (Alumni)
+ Employers
+ Responsible for the
+ R&D/innovation
+ The industrialists
+partners
+ Associations
+ DGES: Management
+general of
+teaching
+superior
+ DGET: Management
+general studies
+technological
+ PAQ Team
+ Office of Works
+university
+ 
+ 
+ Partners
+academics
+international
+ Universities
+national and
+international
+ Private institutions
+competitors
+ Experts
+ Media
+ Social networks
+ Commissions
+for accreditation
+(IEAQA, CTI,…)
+4.2.3 SWOT analysis
+Domain 1: Management and Governance
+STRENGTHS WEAKNESSES
+ Excellent supervision rate.
+ The Google mail address provided by UTM.
+ Communication of study plans to
+students (engineering courses only).
+ Versatile teaching team.
+ High percentage of teachers
+belonging to research structures.
+ Taking into account the evolution of the market
+employment for changes of plans
+of studies
+ Periodic knowledge check.
+Planning 4 sessions for homework
+supervised and exams.
+ Uniqueness of exams for core courses
+common to all sectors.
+ Diversity of training content offerings
+and learning
+ Entrepreneurship training through the
+4C career center
+ Online Professional Masters (UVT)
+ High participation rate of
+professionals (experts) in training.
+ Approval by the University Council of
+the request for the transition from ISI to EPST status.
+
+ Lack of an information system
+ Premises not dedicated to teaching during the
+construction.
+ Budget (300 MD) for rental
+ Pedagogy still too traditional.
+ Lack of multidisciplinary projects.
+ Lack of tools for knowledge of
+job offers.
+ Lack of systematic analysis tools and
+periodic monitoring surveys
+graduates.
+ Massive departure of teachers in cooperation
+technical.
+ Insufficient human resources in
+management and services level
+administrative.
+ No training evaluation by the
+students
+ Lack of tools for survey analysis.
+ Absence of collections of old exams with
+their corrections.
+ Failure to comply with the deadlines for submitting grades.
+ There is no more continuing education.
+ Lack of student involvement.
+ Insufficient internal communication and
+external.
+ 
+45
+ Lack of communication of guidelines
+strategic ISI.
+OPPORTUNITIES RISKS
+ Opening of training to students
+international (african)
+ Implementation of an admission system on
+specific competitions for the elites of
+graduates from other institutions
+ Opening of contract positions by
+UTM
+ UVT involvement in training at
+distance
+ Attracting the best students (score of more
+higher)
+ Existence of double degrees from institutions
+foreign
+ UTM financing for purchase
+of works
+ MESRS subscription with CNUDST
+ BIRUNI Base
+ International recognition of
+proposed programs
+ Proposal for certified training by the
+socio-economic environment
+ CQ
+ Number of students down due to the
+demographic hollow wave.
+ Difficulty in recruiting staff and
+teachers
+ Lack of contract and temporary workers
+ Instability of the computer network.
+ Budget and funding cuts.
+ Employer dissatisfaction with
+their expectations
+ Decrease in the number of scholarships and
+funding allowing students to
+participate in international mobility and
+to obtain a double degree
+ Geopolitical issues (ISI is located in
+a popular area near the market
+ Change of legal texts for
+the development or implementation of new
+modules or the control system
+ Economic recession in the country and drop in
+job offers
+ Lack of motivation among teachers for
+free spots (quality, 4C, presidents of
+jury)
+Area 2: Training and employability
+STRENGTHS WEAKNESSES
+ High supervision rate.
+ Existence of a 4C career center.
+ Quality of teachers.
+ Strong involvement of the ISI.
+ Nationally renowned establishment and
+international.
+ Partnership with IEAQA
+
+ Lack of visibility of training offers.
+ Low internal and external mobility of students.
+ Lack of coordination between offers of
+training and market needs.
+ Lack of skills assessment
+acquired by students.
+ Lack of a course evaluation process
+ Lack of sharing of experiences between
+teachers.
+ Low participation rate of professionals
+in training
+ Lack of coordination between the offers of
+training.
+ Lack of certified training
+ 
+46
+OPPORTUNITIES THREATS
+ Interdisciplinary and inter-specialty projects.
+ Strong demand for double degrees.
+ Request for bilateral mobility.
+ Request training and certifications by the
+socio-economic environment.
+ Possibility of transition to EPST (PAQ DGSE)
+ Lack of funding for students
+participate in international mobility and
+to obtain a double degree.
+ Decrease in the number of students.
+ Lack of involvement of the socio-economic world -
+economic.
+ Increased competition with others
+establishments of the same training.
+ Mismatch between supply and demand of
+training
+ Lack of job offers.
+ 
+47
+Area 3: Research and innovation
+STRENGTHS WEAKNESSES
+ Equal opportunities, fairness, impartiality and
+transparency for students, pillars of the
+ISI policy.
+ Database and agreements with
+important industrialists.
+ Significant number in competitions
+previous.
+ A significant number of teachers
+ Request for double degrees.
+ Mobility request
+ Significant demand for training
+innovative.
+ Low resources available.
+ Lack of available premises for
+the development of projects.
+ Lack of equipment.
+ Lack of a procedure manual.
+ Training in entrepreneurial culture is
+absent.
+ A single search structure.
+ Absence of a Doctoral School.
+ Lack of funding source.
+ Lack of an observatory for monitoring
+internships.
+ Lack of involvement of the socio-economic environment -
+economic.
+ Lack of an information system.
+ Lack of communication.
+ Lack of a research strategy.
+ Administrative management procedures and
+heavy and unsuitable financial
+ Unsuitable installations and infrastructure
+ Insufficient deployment of new
+Information technology for a
+modernization of administrative activity and
+an integration of new modes
+of teachings.
+ Lack of social network of former graduates.
+ Only one laboratory.
+OPPORTUNITIES THREATS
+ Center 4C.
+ Company days.
+ Training areas (IT,
+network and embedded systems) are
+news and important call for tender for
+research projects.
+ Possibility of transition to EPST status.
+ DGSU PAQ platform.
+ Alumni involvement.
+ mobility and research: Erasmus+,
+H2020…
+ Disengagement of industrialists and
+responsible.
+ Unsecured environment.
+ Insufficient funding.
+
+ 
+48
+Area 4: Student life
+STRENGTHS WEAKNESSES
+
+ Cultural and scientific association of
+clubs.
+ A significant number of clubs
+ Strong involvement of the ISI
+ Nationally renowned establishment and
+international
+ Partnership with IEAQA.
+ Cultural and scientific association of
+clubs.
+ A significant number of clubs.
+ Large number of trophies and prizes
+in national competitions and
+international.
+ Active and motivated students to carry out
+cultural, sporting and scientific activities.
+ Center 4C
+
+
+
+ Lack of information and communication
+(SITE).
+ Lack of an alumni association
+(ALUMNI).
+ Lack of openness to other experiences.
+ Lack of motivation.
+ No grounds or gym in the premises
+ Wifi (low speed).
+ Lack of means of transport (bus).
+ Absent cultural activities
+ Absence of integration days
+ Lack of organization and communication between
+the clubs.
+ Difficult financial management for the organization of
+events
+ Sound equipment in poor condition
+ Lack of agreement with the Youth House of
+proximity.
+ Lack of social assistance from the staff association
+of the ISI.
+OPPORTUNITIES THREATS
+ Campus grounds
+ 4 teachers in the field of education
+physical.
+ Very strong regional and national associative fabric
+motivating.
+ Signing of an agreement between the MESRS and the
+Ministry of Culture.
+ PAQ DGSE project for the purchase of equipment
+sports and sponsor certain events
+ Creation of the quality committee
+ Openness and collaboration with stakeholders in the
+market through PAQ programs
+DGSU.
+ Gradual reduction of the management budget and the
+budget allocated to research not allowing the
+restructuring of premises, resources
+educational and research
+ Slowdown in the provisioning process
+necessary skills: teachers,
+administrative and workers.
+ Lack of time
+ Very limited budget
+ Reduction in the number of students
+ Lack of sponsorship
+ Wednesday afternoon not 100% available
+ 
+49
+ 
+4.2.4 Problem tree and objective tree
+Figure 15: Problem tree Domain 1 field 1: Quality assurance
+Lack of a quality assurance approach
+Lack of an operational plan for
+a quality assurance policy
+Absence of an accreditation plan
+training courses
+Absence of a committee
+for quality
+Lack of an insurance policy
+quality
+Lack of evaluation
+internal courses
+Inadequate framework for the
+training
+Lack of an action plan for
+teacher mobility
+No accreditation of
+course
+Lack of guarantee of
+the quality
+teaching
+Teachers
+not engaged
+Issue
+employability
+Lack of
+recognition
+ 
+50
+ 
+          
+Figure 16: Objective tree Domain 1 field 1: Quality assurance
+  
+Quality assurance deployed
+Operational plan for a policy
+quality assurance
+Accreditation plan for certain
+course
+Quality Committee established,
+qualified and involved
+Quality assurance policy implemented
+place
+Internal evaluation
+continues of some
+A suitable framework for
+training
+Action plan for mobility of
+teachers
+Accreditation of
+some routes
+Quality guarantee
+teaching
+Commitment
+collective of
+Teachers
+Support a
+employability
+Recognition
+and of
+fi
+Commitment
+collective for
+insurance
+ 
+51
+ 
+ 
+                             
+Figure 17: Problem tree Domain 1 field 2: Institutional autonomy
+Absence of constitutional autonomy
+Absence of an administrative policy
+for quality
+Lack of financial autonomy
+Absence of a system of
+quality management
+Lack of training for
+personal
+EPST structure
+non-existent
+Administrative procedures
+slow
+Administrative management
+not effective
+Problems of
+sustainability of
+the establishment
+Problems of
+management
+strategic
+ 
+52
+ 
+ 
+                            
+Figure 18: Objectives tree Domain 1 field 2: Institutional autonomy
+ 
+Autonomous and accountable establishment
+Quality management system implemented
+artwork
+Financial autonomy
+A management system
+quality
+quality assurance policy
+Continuing education for
+personal
+EPST prepared
+Administrative procedures
+fast
+Administrative management
+effective
+Radiation of
+the establishment
+Management
+strategic implementation
+in work
+ 
+53
+ 
+                      
+          
+Figure 19: Problem tree domain 2 field 3 proactive management capacity of courses that include
+Lack of curriculum management
+Lack of curriculum management
+Lack of monitoring of improvement
+training
+Lack of communication with the socio-environment
+economic
+Absence of a specific approach to welcoming foreign students
+gers
+Lack of visibility of training
+Low teacher participation in
+Lack of return of ex
+experience of
+Lack of teacher training in
+ICT
+Strategic technological monitoring issues
+Lack of a specific framework for training
+professionals
+Lack of follow-up of trainees
+Lack of conformity between teaching and specialization
+Lack of student satisfaction
+ 
+54
+ 
+                           
+Figure 20: Objective tree domain 2 field 3 proactive course management capacity which
+Proactive course management
+Course management
+Improving training
+Effective communication with the environment
+socioeconomic
+A specific reception approach
+foreign students
+Strengthening culture
+training courses
+Strong participation of
+personal in the
+training
+Take advantage of the returns
+of experience of
+Teachers who
+follow the
+news
+technologies
+Day before
+strategic
+technological
+Setting up a framework
+specific for the training of
+Improve the monitoring of trainees
+Compliance
+teaching-specialty
+Lack of
+satisfaction of
+students
+ 
+55
+ 
+                         
+Figure 21: Problem tree domain 3 research and innovation
+  
+Lack of initiative, innovation and entrepreneurship
+Lack of entrepreneurial strategy
+Lack of innovative initiative
+Lack of involvement of industrialists
+Lack of funds for competitive contests with prizes
+Lack of innovation competition
+Low student involvement
+in the socio-economic fabric
+Lack of
+motivation of
+students
+Innovative projects few
+materialized
+ 
+56
+ 
+ 
+  
+        
+               
+Figure 22: Objective tree for domain 3 research and innovation  
+Strengthening innovation and entrepreneurship initiatives
+Implementation of an entrepreneurial strategy
+Involvement of industrialists
+Raising funds for
+competitive contests with prizes
+Conduct competitions
+of innovation
+Strong involvement of students in the socio-economic fabric
+Innovative projects
+materialized
+Increase in the
+number of projects
+innovative
+Motivation of
+students
+ 
+57
+ 
+                       
+Figure 23: Problem tree domain 4 university life  
+  
+Lack of sports and cultural activities for the
+students
+No buses for travel
+students
+Lack of media devices:
+Radio
+Unmotivated students
+ 
+Lack of openness on
+the experience environment
+interns
+Low level activities
+wingspan
+ 
+Weak twinning with student associations
+Lack of funding
+to sponsor the
+activities
+ 
+58
+ 
+                   
+Figure 24: Objective tree domain 4 university life
+  
+Strengthening sports and cultural activities for the
+students
+Implementation of mechanisms for
+communication: Radio, …
+Motivated students
+Opening on
+the environment
+of experience of
+interns
+High activities
+wingspan
+Supporting initiatives
+twinning with the
+student associations
+Financing for
+sponsor activities
+ 
+59
+ 
+ 
+4.3 OBJECTIVES, RELEVANCE AND TARGET BENEFICIARIES.
+4.3.1 Overall/general objective.
+Strengthening the concept of management through the quality of teaching and management
+within the ISI. The training courses offered are in the fields of new technologies
+which prompted a strengthening of teachers and students in these areas to
+improve their employability.
+4.3.2
+Specific objectives.
+Specific objective(s)
+OS1.1: Guarantee the visibility and international recognition of the courses by
+accreditation
+OS1.2: Strengthen the provisions of institutional autonomy and continuous improvement
+of the quality assurance system
+OS2: Implement proactive and dynamic, integrated and developed management for the
+steering of the curriculum guaranteeing integration
+OS3: Develop a pilot program to promote innovation, activities
+entrepreneurial
+OS4. Strengthen the infrastructure and capacity for organizing events and activities:
+sports, cultural, scientific and associative at the ISI
+4.3.3 Relevance
+The RISE project aims to strengthen the autonomy and increase the managerial capacity of the ISI in
+through the implementation of a QMS.
+The development of communication interfaces for better management of
+The membership of ISI stakeholders and partners (students, teachers, administrative staff,
+professionals, etc.) to the various quality assurance processes and to the various reforms
+(LMD, PAQ, decentralization, educational innovation, establishment projects,
+the entrepreneurship ecosystem, EPST, etc.).
+This project also aims to improve the visibility of the ISI through a reform based on the
+business processes and improving certain key processes to be able to align with the
+international benchmarks.
+The participation of industrialists in the training and socio-cultural activities of students
+(competition, challenge, etc.) is of great importance.
+4.3.4
+Target beneficiaries of the allocation
+The beneficiaries of this project are different depending on the areas:
+ Direct: elected officials, teachers, staff, students, ISI graduates
+ Indirect: the supervisory ministry, employers and the socio-economic environment
+They were directly and indirectly involved in the development of this project.
+A workshop was held with club leaders and delegates for contribution in
+SWOT analysis of the last two areas and to identify action plans (fields 4 & 5).

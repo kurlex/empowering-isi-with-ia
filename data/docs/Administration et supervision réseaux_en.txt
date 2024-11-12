@@ -1,0 +1,139 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Networks and Security 1 
+ECUE No. 2.1: Network Administration and Supervision 
+Component Plan (CUE) 
+Prerequisite: 
+ 
+1- Basic concepts of networks, protocols, routing, basic configuration of networks, 
+Cisco IoS network equipment, Windows, Linux, client/server communications 
+2- Basic knowledge of networks and operating systems. 
+ 
+Building Block Learning Objectives (CUE): 
+ 
+At the end of the building block, the student will be able to: 
+(Specify the objectives of the building block (OE) using verbs according to the taxonomy 
+Bloom or other reference taxonomy, maximum 8) 
+OE1: Recognize the basic concepts of network administration/supervision 
+OE2: Understand the different mechanisms that enable configuration management, 
+performance, faults, and documentation in networks 
+OE3: Examine the SNMP protocol family 
+OE4: Use network management platforms such as HP OpenView or NAGIOS, or  
+PRTG ... 
+ 
+Matrix of association between the objectives of the component and those of the programme 
+IRIS Training Course (SC) 
+ 
+OE1 
+OE2 
+OE3 
+OE4 
+SC1 
+X 
+ 
+X 
+SC2 
+X 
+ 
+SC3 
+ 
+X 
+ 
+SC4 
+ 
+SC5 
+X 
+X 
+X 
+X 
+SC6 
+ 
+Description of the constituent element 
+Specify chapters and their subsections by adopting the organization of a reference book 
+known and referred in the field. Also specifies the number of hours of lessons (C), CI, TD, 
+Practical work, project or other necessary for each chapter or part. 
+ 
+Chapter 1: Basic Concepts of Network Administration  
+                   1. Administration of the networks according to:  
+                          - the informational model  
+                          - the FCAPS functional model 
+                          - the architectural model  
+                          - the organizational  
+                          - the communication model  
+                   2. Network administration norms and standards  
+                   3. Basic monitoring tools applied to Cisco, Linux and Windows IoS  
+                   Chapter 2: Documentation Management  
+                   1. Why network documentation?  
+                   2. Network resource inventory (text file, DB)/tagging  
+                   3. Documentation automation: IpPlan, Netdisco  
+                   Chapter 3: Configuring Services and Applications  
+                   1. Configuration of services: DNS, DHCP, LDAP, NFS, NIS, SAMBA  
+                   2. Application configuration: telnet, ssh, file transfer, web, email  
+                   3. Configuration management: manual archiving, automatic, version control: CVS, Subversion 
+                   Chapter 4: SNMP Protocol Family for Network Management           
+                   1. Architecture: NMS, Agents, SMI  
+                   2. Notions of Eb and Oid  
+                   3. SMI Specification  
+                   4. SNMP Requests and Messages  
+                   5. SNMP v2 and v3  
+                   Chapter 5: Performance Management  
+                   1. Notion of flow: unidirectional/bidirectional, flow aggregation, flow descriptor  
+                   2. Traffic generation, collection, and analysis  
+                   3. Cisco Netflow   
+                   4. IPFIX  
+                   5. PRTG load tester  
+                   6. Load Balancing  
+                   Chapter 6: Fault Management  
+                   1. Log management in equipment and servers: syslog/rsyslog  
+                   2. Ticketing systems: request tracker, trac 135 
+ 
+Practical work 
+                        Practical work for the configuration of network services and applications  
+                       Installation, configuration and administration of the Nagios administration platform  
+                        Setting up a traffic observer with RMON for the control of an application   
+client/server.                                
+                      The objective is to know how to configure an RMON probe to control access to a server application. 
+ 
+Chapter  
+Course  
+TD  
+TP  
+Total (h) 
+Chapter 1 
+3 hours 
+ 
+3 hours 
+Chapter 2 
+4.5h 
+ 
+3 hours 
+7.5h 
+Chapter 3 
+4.5h 
+ 
+3 hours 
+7.5h 
+Chapter 4 
+4.5h 
+ 
+3 hours 
+7.5h 
+Chapter 5  
+3 hours 
+ 
+3 hours 
+7.5h 
+Chapter 6 
+3 hours 
+ 
+3 hours 
+6 hours 
+ 
+Reference books: 
+[1] G. Pujolle, "Les réseaux", Eyrolles editions, 2014. 
+[2] L. Toutain, "Local Networks and the Internet: From Protocols to Interconnection", Editions Hermes 
+Science Publications, 3rd edition, March 2003. 
+[3] A. Tanenbaum, "Computer Networks," http://iips.icci.edu.iq/images/exam/Computer-Networks---A-Tanenbaum---
+5th-edition.pdf, accessed March 2018. 
+[4] "LPIC-2: Linux Engineer", http://www.lpi.org/our-certifications/lpic-2-overview, accessed March 2018. 
+ 

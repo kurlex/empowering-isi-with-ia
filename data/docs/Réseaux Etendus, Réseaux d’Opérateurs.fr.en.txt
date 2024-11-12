@@ -1,0 +1,160 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Wide Area Network Technologies and Protocols
+ECUE no 3.2: Wide Area Networks, Operator Networks (CCNA3)
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Basic knowledge in Networking Fundamentals (CCNA1)
+2- Basic knowledge of Networks: Switching, Routing and Wireless (CCNA2)
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+(Specify the objectives of the constituent element (OE) using verbs according to the taxonomy
+Bloom's or other reference taxonomy, maximum 8)
+OE1: Use OSPFv2 for a single area in point-to-point and multi-access networks.
+OE2: Understanding Network Security Threats and Improvements Using Lists
+access control and security best practices
+OE3: Use IPv4 access control lists to filter traffic and secure access
+administrators.
+OE4: Use NAT services on the edge router to ensure scalability of
+IPv4 addresses.
+OE5: Describe techniques for ensuring address scalability and access to
+secure distance for WAN networks.
+OE6: Understand how to optimize, monitor and troubleshoot network architectures
+scalable.
+OE7: Understand how network devices implement QoS.
+OE8: Understand how technologies such as virtualization, networking
+Software-defined and automation impact evolving networks.
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+IRIS training (SC)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OE5
+OE6
+OE7
+OE8
+SC1
+X
+X
+ 
+X
+X
+X
+X
+ 
+SC2
+ 
+ 
+ 
+ 
+ 
+X
+X
+X
+SC3
+ 
+ 
+ 
+ 
+ 
+X
+X
+ 
+SC4
+ 
+X
+X
+ 
+ 
+ 
+ 
+ 
+SC5
+X
+X
+X
+X
+X
+ 
+ 
+ 
+SC6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+                          Chapter 1: Introduction to Network Scalability LAN Redundancy Link Aggregation
+                          Chapter 2: Wireless Local Area Networks      
+                          Chapter 3: Multi-Area OSPF Protocols  
+                          Chapter 4: EIGRP Routing Protocol  
+                          Chapter 5: Hierarchical Network Design  
+                          Chapter 6: WAN Connection  
+                          Chapter 7: Broadband Solutions  
+                          Chapter 8: Securing Site-to-Site Connections  
+                          Chapter 9: Introduction to BGP
+ 
+Chapter and sections
+Course (h)
+TP(h)  
+Total (h)
+Chapter 1  
+1h30
+1h30
+3h
+Chapter 2
+3h
+1h30
+4:30 a.m.
+Chapter 3
+3h
+1h30
+4:30 a.m.
+Chapter 4
+3h
+1h30
+4:30 a.m.
+Chapter 5
+4:30 a.m.
+1h30
+6h
+Chapter 6
+4h
+1h30
+5:30 a.m.
+Chapter 7
+3h
+1h30
+4:30 a.m.
+Chapter 8
+3h
+3h
+6h
+Chapter 9
+3h
+1h30
+4:30 a.m.
+ 
+Reference books:
+
+Online course, "CCNA Routing and Switching: Introduction to Networking," available on the Cisco website with the
+Cisco Academy account at http://www.netacad.com.
+
+Online course, "CCNA Routing and Switching: Routing and Switching Basics," available at
+Cisco's website with Cisco Academy account at http://www.netacad.com

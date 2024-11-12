@@ -1,0 +1,132 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Design and implementation of digital circuits on
+FPGA
+ECUE no 1.1: Multiprocessor architectures  
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Algorithms and data structures and complexity  
+2- Operating system 1 and 2  
+3- Advanced processor architecture  
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+(Specify the objectives of the constituent element (OE) using verbs according to the taxonomy
+Bloom's or other reference taxonomy, maximum 8)
+OE1: Define the multiprocessor/multi-core architectures found on
+systems on chip
+OE2: Manipulate programming tools for MIMD architectures with memory
+shared  
+OE3: Examine heterogeneous architectures and in particular the architecture of a
+graphics processor
+OE4: Apply programming tools adapted to embedded platforms
+heterogeneous
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OP2
+x
+ 
+x
+ 
+OP3
+ 
+x
+ 
+x
+OP7
+ 
+x
+ 
+x
+OP8
+x
+x
+x
+x
+ 
+Description of the content of the constituent element
+ 
+Introduction
+Recall the internal parallelism of the processor: pipeline, superscalar processor, VLIW processor.
+Define the needs and motivations for the study and programming of parallel architectures.  
+Chapter 1: Parallel On-Chip Architectures
+Present the different multiprocessor and multi-core architectures found on
+systems on chip (MPSoC, ManyCores architectures). Classify parallel architectures
+(Flynn taxonomy, SIMD architecture, MIMD ..). Define the differences between architecture at
+shared memory and distributed memory architecture. Present examples of architectures
+parallels in embedded and on-chip systems. Define evaluation metrics for
+performance.
+Chapter 2: Parallel and Concurrent Programming: Multi-Threaded Programming
+Introduce multi-tasking programming (thread management and synchronization mechanisms and
+mutual exclusion).  
+Chapter 3: Programming Parallel Shared Memory Architectures  
+Detail the programming of architectures with shared memory (example tool: openMP).
+Introduce the different directives, clauses and functions. Introduce the mechanisms of
+synchronization and mutual exclusion. Give recommendations for optimization of the
+parallel program.
+Chapter 4: Programming Heterogeneous Parallel Systems
+Introduce graphics processing unit (GPU) architecture. Introduce parallel systems.
+heterogeneous including both a multi-core processor and a GPU and introduce the tools
+necessary for programming this type of architecture (CUDA and/or openCL).
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+7
+Chapter 2
+x
+ 
+x
+ 
+ 
+7
+Chapter 3
+x
+ 
+x
+ 
+ 
+8
+Chapter 4
+x
+ 
+x
+ 
+ 
+8
+ 
+ 
+ 
+Reference books:
+ 
+1.
+Frédéric Magoulès and François-Xavier Roux “Parallel Scientific Computing” Dunos, 2013
+2.
+Jason Sanders and Edward Kandrot “CUDA by example: An Introduction to General-
+Purpose GPU Programming » Pearson, 2011.
+3.
+Aaftab Munshi “OpenCL Programming Guide” Pearson, 2012.  
+4.
+Michael J. Quinn “Parallel programming in C with MPI and OpenMP” McGraw-Hill
+Higher Education, 2004

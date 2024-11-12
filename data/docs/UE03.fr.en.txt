@@ -1,0 +1,139 @@
+1
+ 
+Description sheet of a teaching unit (UE) and its
+constituent elements (ECUE)
+ 
+ 
+ 
+ 
+ 
+ 
+Number of credits: 5
+EU code: EU03
+ 
+ 
+University: University of Tunis el Manar  
+Establishment: Higher Institute of Computer Science  
+ 
+ 
+Field of training:
+Mention :
+Degree: Engineer
+Course: IDISC
+Semester: 4
+ 
+1- Prerequisites (define the EUs and the skills essential to follow the EU concerned)
+1- networks, CCNA1-2.
+2- General knowledge in geometric optics
+3- knowledge of waves and propagation,  
+4- knowledge of classic signal processing tools (Fourier transform, probabilities
+... etc.)
+2- Objectives of the EU (use Bloom's taxonomy or other recognized reference, the objectives
+can be specified here or at the level of each ECUE, they must be compliant)
+The objectives of this UE are specified in the objectives of each ECUE  
+3- Constituent elements of the EU (ECUE)
+ 
+Constituent elements of the EU (ECUE)
+ 
+Constituent elements
+Hourly volume (1 semester = 14 weeks)
+Credits
+ 
+Course
+TD
+TP
+Others
+Optical Communications
+22.5
+7.5
+ 
+ 
+2
+Wide Area Networks and Networks
+of operators
+30
+ 
+15
+ 
+3
+Total
+52.5
+7.5
+15
+ 
+5
+ 
+Practical activities (Projects, internships, dissertations, etc.)
+EU Title: Wide Area Network Technologies and Protocols
+2
+ 
+Practical work sessions as well as Labs are carried out.
+4- Content (course descriptions and plans)  
+Teachings (Present a brief description of the programs of each ECUE and attach
+the detailed programme in the EU fact sheet).
+ 
+Practical EU activities (Provide a brief description of the objectives, contents and
+organizational procedures for each activity)
+ 
+Five practical sessions for the EU Wide Area Networks and Operator Networks, each lasting 3 hours and five sessions
+are carried out.  
+ 
+ 
+5- Teaching methods and teaching resources specific to the EU (methods and tools
+educational materials, reference works, use of ICT/distance learning possibilities, etc.)
+ 
+The course consists of lectures and learning sessions through exercises and assignments.
+practices to explore the different facets of the theory in more depth. A course support under
+form of a Powerpoint presentation will be accessible to students in electronic format.
+TD and TP subjects will be distributed to students in paper/digital format.
+ 
+5- Exams and assessment of knowledge
+Assessment methods and examination system (Present the recommended assessment system: control
+continuous only or, mixed regime i.e. continuous assessment and final exams)
+ 
+1- Mixed diet
+3- Continuous monitoring
+Validation of the EU (specify the weights of the examination tests for the calculation of the average of
+UCUE, ECUE coefficients and the EU coefficient within the course)
+ 
+ECUE
+Continuous monitoring
+Final Exam
+Coef. of the ECUE
+Coef. From EU to
+within the course
+Tests
+Weighting
+Tests
+Weighting
+Writing
+Oral
+TP and
+Others
+Writing
+Oral
+TP and
+Others
+Optical communications
+X
+ 
+X
+30%
+X
+ 
+ 
+70%
+3
+4
+Wide Area Networks and Networks
+of operators
+X
+ 
+x
+30%
+X
+ 
+ 
+70%
+4
+  

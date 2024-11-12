@@ -1,0 +1,1208 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Initial Diagnostic Report
+ 
+ 
+ISO 21001;2018
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 2 of 17
+ 
+Organization Higher Institute of Computer Science (ISI)
+Address Ariana, Tunisia
+ISO 21001:2018 Standard(s)
+Applicability of
+requirements
+All
+All except:………..
+LANGUAGES)
+Arab
+French
+English
+Combined Audit(s)
+Yes
+No
+Departments visited
+All
+All except:……………….
+Uniquely :……………….
+Multi-site audit
+Yes
+No
+Audit Date April 19-20, 2022
+Head of Mission Dr Maher Aidi (MA)
+Expert Consultant(s) Mr Omar Ayadi (OA)
+Mrs. Faten Maalej (FM)
+Number of sites One site
+Number of employees 57 employees
+Typology of findings:
+(+) : Positive point: to be maintained and strengthened in relation to the requirements of the ISO 21001 standard,
+possibility to take into consideration when setting up the SMOE
+(+/-): Partially positive point: Improvement necessary compared to the requirements of the standard
+ISO 21001 to be able to take it into consideration in the implementation phase of the
+SMOE
+(-) : Negative point: failure to comply with the requirements of the ISO 21001 standard, need to
+integrate it into the SMOE implementation phase
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 3 of 17
+1- Objectives of the Diagnostic phase
+ 
+The diagnostic phase or initial audit is the first step in a project to set up a
+management system for education/training organizations (SMOE) according to the Standard
+ISO 21001:2018
+The objectives of this step are to:
+• A good understanding of how the organization operates and verify the
+compliance of the existing with the requirements of the ISO21001 standard;
+• Establish a preliminary version of the organization's process map
+adapted to the needs and expectations and to the strategy of the management of the ISI establishment;
+• Estimate the durations and fields of intervention of the expert team during the phase
+accompanying
+Familiarize yourself with the organization (staff, premises, environment, procedures, etc.)
+ 
+2- Scope of application of the ISO 21001:2018 Standard
+ 
+ISO 21001 Standard specifies requirements for a Management System for
+Education/training organizations (SMOE) when such an organization:  
+(a) must demonstrate his or her ability to promote the acquisition and development of
+skills through education, training, apprenticeship or
+research ;  
+(b) aims to increase the satisfaction of learners, other beneficiaries and the
+staff through the effective application of its SMOE, including processes for
+system improvement and assurance of compliance with the requirements of
+learners and other beneficiaries.  
+ 
+It should be noted that all the requirements of the ISO 21001:2018 standard are generic and
+intended to apply to any organization that uses a curriculum to promote the
+skills development through education, training, apprenticeship
+or research, regardless of its type, size or delivery methods
+.
+ 
+3- The Directorates, services and departments which were concerned by the mission of
+diagnosis  
+  
+• Management of the ISI organization
+• 4C center manager  
+• Secretary General of the ISI
+• Direction of studies
+• Internship and PFE Management  
+• Educational departments
+• Exam Management Service  
+• Human Resources Department
+• Order office & Schooling
+• Digitalization service
+• Technical service   
+• Finance department
+ 
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 4 of 17
+Process/Department: Organization Management
+Chapter of the ISO 21001:2018 Standard Audit Findings
+4- Context of the organization
+4.1- Understanding the organism and
+its context
+4.2- Understanding the needs and
+expectations of interested parties
+(Vision, Mission and Values)
+5- Leadership
+5.1.2- Learner orientation and others
+beneficiaries
+5.1.3- Additional requirements relating to
+to specialized education
+5.2- Policy
+5.2.1- Establishment of the policy of
+the body
+5.2.2- Communication of the policy of
+the body
+5.3- Roles, responsibilities and authorities at
+within the body
+6- Planning
+6.1- Actions to be implemented in response to
+risks and opportunities
+6.2- Objectives of the organization
+education/training and planning of
+actions to achieve them
+6.3- Planning modifications
+7.1- Resources
+7.5- Documented information
+9.1- Monitoring, measurement, analysis and
+assessment
+9.2- Internal audit
+9.3- Management review
+10- Improvement
+(-) A Strategic Orientation Plan (POS) is established at the UTM level
+but not that of the establishment. The definition of internal issues
+external relevant to the establishment are not as defined;
+(+/-) Learner orientation is demonstrated by management but is not
+formulated at the level of learners with specific needs;
+(+) Good responsiveness in the internship department: interview of
+contacts with the socio-economic environment;
+(+) Good organization and smooth running of student life activities:
+eleven university clubs;
+(+) Positive feedback from the professional environment regarding the skills of
+ISI graduates;
+(-) Lack of formalization of working procedures and lack of
+traceability;
+(-) Lack of educational and technical resources for activities
+practical work (Wifi, maintenance, software (without licenses), etc.);
+(+) Good listening to the learner;
+(-) The available infrastructure is not adequate for the good
+course of teaching;
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured;
+(-) the education/training objectives, at the functions, levels and
+SMOE processes are not deployed;
+(+) Good support for learners before their admission: Day
+guidance for high school graduates;
+(+/-) planning of changes related to the running of courses and
+projects are not ensured in accordance with the requirements of the SMOE
+(+/-) Creation of teaching teams in progress;
+(+) Hybrid teaching with course availability on the platform
+(+) Certification of teachers and students in partnership with
+IBM Academy and other partner organizations;
+(-) Lack of communication on hybrid teaching
+(+/-) It is recommended to improve communication arrangements
+internal between teachers and heads of departments during
+allocation of timetables (absence of predefined criteria)
+(-) Absence of internal regulations of the establishment
+Objectives of the organization
+(+) Management of the establishment: The organization's strategy is oriented
+towards the following axes: Have quality training; adapt with the
+new teaching techniques; deepening the feeling
+of belonging of the learner, the teacher and the administrative body;
+taking into account the initiatives of the organization's stakeholders;
+conclude co-diploma projects;
+(+/-) The strategic axes are well identified by the leadership but not
+are not formalized or broken down into strategic objectives;
+(+/-) Some external and internal communication channels are defined
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 5 of 17
+by the body. However, they deserve to be formalized in accordance
+to the requirements of the ISO 21001:2018 standard;
+(+/-) Some actions are taken to address risks and opportunities.
+However, better identification of issues, risks and
+opportunities and related actions are necessary according to a
+predefined methodology (ISO 31000:2018);
+(-) Certain provisions required by the ISO 21001:2018 standard are not
+satisfied (internal audit, management review);
+(+) 4C Center: certification of student skills, the
+strengthening of entrepreneurship and support for the creation of startups
+However, no communication is established at the website level
+ISI (This Content will be available soon);
+(+) A focal points committee is set up at the UTM level whose role
+of project engineering is to seek project opportunities
+research or partnership and communicate information to teachers and
+support at the project assembly level;
+(+) PAQ projects aim at ISI certification and accreditation of
+training of engineering courses, establishment of the quality culture, the
+continuing education of teachers and students in soft skills and
+especially entrepreneurial culture. The two projects cooperate to
+the achievement of their objectives;
+(+) Direction of studies: Evaluation and accreditation of 3 courses;
+reform of engineering courses; systematization of processes
+handover; harmonization of course plans; improvement of courses
+training to facilitate hiring
+(+) Internship management: Digitalization and standardization of everything
+stage process; automation of the process on the platform;
+strengthening the partnership; teacher certification with IBM, implementation
+in place of investigations.
+Leadership
+(+) Very good relationship with the administrative, educational and
+learners;
+(-) the treatment of specific needs of learners is not
+formalized;
+(-) No system is in place to identify needs
+specific from teachers;
+(-) the SMOE policy is not defined;
+(-) Lack of formalization of responsibilities and authorities (data sheets)
+function/position);
+(+/-) Presence of a psychologist mandated by the UTM once a week,
+However, a lack of formalization of the activity of psychologists has been noted.
+note ;
+(-) No awareness-raising activities or support for learners
+to psychological problems such as: drug use,
+burnout, stress, etc. has not been implemented;
+(+) Organization of bi-monthly meetings with class delegates
+to raise educational issues;
+(+/-) Creation of the student guide in progress;
+(+) Provisions relating to internal and external communication are established
+and is done by email, on the ISI website, through the ISI FB page and the
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 6 of 17
+official correspondence in accordance with legal provisions and
+regulatory;
+(+/-) Carrying out a learner satisfaction survey for the degree
+computer science (UTM pilot project) covering all aspects of
+teaching in collaboration with the University of Montreal with a view to
+to be generalized to all training courses, however it has not taken the
+criteria required by the ISO 21001:2018 standard not yet established in
+the establishment;
+(+) Conducting teacher satisfaction surveys regarding
+the work environment and resources
+(-) provisions relating to the determination of performance indicators
+relevant to product and service compliance and improvement of
+the satisfaction of learners and other beneficiaries is not established
+(+/-) provisions for handling non-conformities,
+corrective actions, improvement actions and opportunities for the
+SMOE deserves to be deployed
+Process/Department: Internship and PFE Department
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1-Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+education/training and planning of
+actions to achieve them
+7.5- Documented information
+8.1- Operational planning and control
+8.5- Delivery of products and provision of
+educational services
+8.5.1- Control of the delivery of products and
+of the provision of educational services
+8.5.2- Identification and traceability
+8.5.3- Property of interested parties
+8.5.4- Preservation
+8.5.5- Data protection and transparency
+relating to learners
+8.5.6- Control of product modifications and
+educational services
+8.6- Release of products and services
+educational
+8.7- Control of output elements of
+non-educational products and services
+conform
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured.
+(+) the responsibilities and authorities at the internship service level are good
+known but are not formalized.
+(+) There are many socio-economic partners, however
+We must listen to them in order to better meet their needs and
+expectations;
+(+) Organization of days and events with companies “ISI-
+Business "
+(+) Implementation of the necessary provisions for the protection of
+personal data of learners;
+(-) Lack of systemic anti-plagiarism verification for reports
+end of study project;
+(+) The monitoring of the progress of the internships is ensured by the journal of
+internship ;
+(+) Digitalization of forms and documents required for the
+smooth running of activities related to learner internships;
+(+) Centralized monitoring of complaints and requests concerning
+internship and PFE activities;
+(+/-) Although the statistical data concerning internship activities
+and PFE are recent, it is recommended to start the analysis of
+its data for improvement purposes;
+(+) The validation of the list of academic supervisors is done by the
+management of studies in coordination with the directors of
+department. The allocation of supervision is done according to a quota
+predefined;
+(+) Formalization of a document which describes the stages of the process
+internships and final year projects;
+(+/-) provisions for handling non-conformities,
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 7 of 17
+corrective actions, improvement actions and opportunities
+for the SMOE deserve to be deployed.
+Process/Department: ISI Secretary General (General Services)
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1-Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+education/training and planning of
+actions to achieve them
+7- Support
+7.1- Resources
+7.1.2- Human resources
+7.1.3- Installations
+7.1.4- Environment for the implementation of
+educational processes
+7.1.5- Resources for monitoring and
+measure
+7.1.6- Organizational knowledge
+7.2- Skills
+7.2.1- General
+7.2.2- Additional requirements relating to
+special education
+7.3- Awareness
+7.4- Communication
+7.5- Documented information
+8.1- Operational planning and control
+8.5- Delivery of products and provision of
+educational services
+8.7- Control of output elements of
+non-educational products and services
+conform
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured;
+(-) objectives assigned to the level of general service activities
+are not determined;
+(-) It is recommended to review the organization at the management level
+administrative staff through better clarification of roles,
+responsibilities and authorities;
+(-) It is recommended to identify the necessary provisions for the
+mastery of ISI logistical resources;
+(-)
+The method of deploying personnel at the activity level
+examination and schooling is not defined in relation to the load of
+work ;
+(-) the need for drivers is essential for the organization, since
+two cars are at the expense of the institution with 0 driver,
+however, another staff member with the qualification of drawing agent
+provides the driver's position, which is not in compliance with the
+responsibilities assigned to him;
+(-) According to the SG, a lack of assiduity of the administrative staff well
+that the monitoring of the timekeeping is ensured by a time clock whose software
+is managed at the management level;
+(+) The library is managed by a single person
+having the necessary skills, and inventory monitoring is done
+annually on the Bayrouni platform;
+(+/-) Purchasing management is provided by the finance department, so the
+warehouse worker ensures the receipt of items delivered by suppliers
+however, the reception control criteria are not defined;
+(+/-) provisions for handling non-conformities,
+corrective actions, improvement actions and opportunities
+for the SMOE deserve to be deployed;
+Process/Department:Studies Department
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1-Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+education/training and planning of
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured;
+(-) The objectives assigned to the level of the activities of the management of
+studies are not determined;
+(+/-) Mastery of planning for habilitation and rehabilitation
+the routes of the four departments are not formalized despite
+the existence of coordination meetings of educational committees;
+(-) Mastery of curriculum design is not demonstrated;
+(-) The input elements of the design and development of the
+courses are not demonstrated at the level:
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 8 of 17
+-From the 3 engineering training courses: Development Engineer
+Software (IDL) GLSI department, Systems Engineer
+embedded and connected objects (ISEOC) and Engineer
+development of infrastructure and services
+communication) IDISC
+-Of the 3 licenses: Computer science license (GLSI), System
+Embedded (GEII) and Network and System Engineering (ASR)
+-Research master's degree: Software engineering or SIVA (Intelligent system
+in imaging and artificial vision) (two options), from the master
+Professional (SSII) information system security (face-to-face)
+and remotely with the UVT);
+(+) Coordination and exchange meetings are a strong point
+for the direction of studies (Director of Departments,
+educational coordinators);
+(+/-) The designation of coordinators or educational managers
+for each module facilitates the verification of the adequacy of the
+learning programs and their monitoring;
+(-) provisions to ensure mastery of course materials and
+their validations by the course managers are not
+defined;
+(+/-) It is recommended to take into consideration the terms
+learning at the program level for learners at
+specific needs;
+(-) The criteria for identification and traceability of course materials
+are not defined or applied;
+(-) The criteria for verification and validation of programs
+master's level studies are not formalized;
+(-) It is recommended to establish a charter of equality and equity and to
+raise awareness among teaching staff to strengthen equality and
+equity for learners in the delivery of services
+educational;
+(-) Clarify the responsibilities and authorities of the management of studies at
+examination management level;
+(-) It is recommended to identify the necessary provisions for the
+mastery of distance learning in professional master's degree with
+the UVT;
+(+/-) The education department with the head of department does not provide follow-up
+adequate to the needs of students as well as a lack of training
+adequate on student support and conflict management
+interpersonal;
+(+/-)It is recommended to improve coordination between the service
+pedagogical and infrastructure unit concerning the allocation of
+teaching and practical work rooms (Infrastructure inventory
+educational)
+Process/Department: Educational Departments
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1- Actions to be implemented in the face of risks
+and opportunities
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured;
+(-) The objectives assigned at the level of educational activities are not
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 9 of 17
+6.2- Objectives of the organization
+education/training and planning of
+actions to achieve them
+7.5- Documented information
+8.1- Operational planning and control
+8.2- Requirements relating to products and services
+educational
+8.2.1- Determination of requirements relating to
+educational products and services
+8.2.2- Communication of requirements relating to
+to educational products and services
+8.2.3- Modification of the requirements relating to
+educational products and services
+8.5- Delivery of products and provision of
+educational services
+8.5.1- Control of the delivery of products and
+of the provision of educational services
+8.5.2- Identification and traceability
+8.5.3- Property of interested parties
+8.5.4- Preservation
+8.5.5- Data protection and transparency
+relating to learners
+8.5.6- Control of product modifications and
+educational services
+8.6- Release of products and services
+educational
+8.7- Control of output elements of
+non-educational products and services
+conform
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+not determined;
+(+)Four departments are announced on the ISI website:
+Software Development Engineering, Electrical Engineering and
+Industrial Computing (GEII), Engineering and development of
+Infrastructure and Communication Services (IDISC) and
+Applied Mathematics (MA) as well as changes to the
+appointment of some departments are not recorded case of
+ASR (System and Network Architecture) department
+(+) The timetables are validated by the teachers of each
+department before display to students;
+(-) It is recommended to improve the mastery of information
+documented related to educational activities;
+(+/-) It is recommended to better manage the monitoring of the achievement of
+catch-up sessions;
+(-) It is recommended to publish the catch-up schedule in
+website level such as timetables;
+(-) Determination of requirements for products and services
+educational is not demonstrated;
+(-) Taking into account changes in the requirements relating to
+educational products and services is not established;
+(-) Provisions to ensure control of the delivery and
+release of educational products and services
+in accordance with the requirements of the standard deserve to be defined and
+implementation;
+(-) Summative assessment is not followed at the level of the activities of the
+departments in accordance with the requirements of the ISO Standard
+21001:2018;
+(-) The recruitment of temporary workers is ensured by the directors of
+departments however the evaluation of the educational service provided by its
+external providers is not demonstrated;
+(-) mastery of the output elements of products and services
+non-compliant educational materials are not documented;
+(-) Monitoring and measurement activities are implemented however
+It is recommended that arrangements be made to document the analysis
+and the evaluation of its activities;
+(+/-) provisions for handling non-conformities,
+corrective actions, improvement actions and opportunities
+for the SMOE deserve to be deployed.
+Process/Department: Human Resources Management
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1-Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+education/training and planning of
+actions to achieve them
+7- Support
+7.1- Resources
+7.1.2- Human resources
+7.1.3- Installations
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured.
+(-) The objectives assigned to the level of human resources activities do not
+are not determined
+(+) Although known, the responsibilities and authorities are not
+formalized at the level of job descriptions/positions;
+(+) The recruitment needs of teaching staff are decided
+during scientific council meetings;
+(+) good work organization for the management of: leave,
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 10 of 17
+Process/Department: Exam Management Service
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1- Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+education/training and planning of
+actions to achieve them
+7.5- Documented information
+8.1- Operational planning and control
+8.2- Requirements relating to products and services
+educational
+8.2.1- Determination of requirements relating to
+educational products and services
+8.2.2- Communication of requirements relating to
+to educational products and services
+8.2.3- Modification of the requirements relating to
+educational products and services
+8.5- Delivery of products and provision of
+educational services
+8.5.1- Control of the delivery of products and
+of the provision of educational services
+8.5.2- Identification and traceability
+8.5.3- Property of interested parties
+8.5.4- Preservation
+8.5.5- Data protection and transparency
+relating to learners
+8.5.6- Control of product modifications and
+educational services
+8.6- Release of products and services
+educational
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured;
+(-) The objectives assigned to the level of the activities of the management of
+studies related to the examinations are not determined;
+(+) the examination service ensures the planning of examinations and establishes the
+list of students by course and by exam days. The
+The examination schedule is communicated to students and
+teachers to make suggestions for preparing a
+proposal ;
+(+) Communication of examination schedules is provided by
+display or on site within the deadline;
+(-) The exam schedule requires validation by management
+studies in order to take into consideration the criteria
+pedagogical linked to the summative assessment of learners;
+(+/-) The list of student assignments per room is established on a
+recording (Excel table) so the risks of human error are
+still existing;
+(+) The attendance list is given to teachers at the level of
+DS and main exams.
+(+/-) Lack of training in taking needs into account
+specific when preparing for exam sessions
+(enlargement of exam sheets, extra time during
+exams, etc.)
+(-) provisions to ensure the monitoring of examination activities
+needs to be defined in order to ensure compliance with procedures
+internal;
+7.1.4- Environment for implementation
+educational processes
+7.1.5- Resources for monitoring and
+measure
+7.1.6- Organizational knowledge
+7.2- Skills
+7.2.1- General
+7.2.2- Additional requirements relating to
+special education
+7.3- Awareness
+7.4- Communication
+7.5- Documented information
+8.1- Operational planning and control
+8.7- Control of output elements of
+non-educational products and services
+conform
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+illnesses, various certificates, etc.;
+(+/-) Better formalize the exchange between the human resources unit and
+the educational service regarding the absence of teachers;
+(-) Better formalize the framework for integrating new recruits, it is
+recommended to set up an integration procedure;
+(-) Significant lack of human resources for activities
+cleaning, security, maintenance, workers, etc.
+(+/-) The training actions carried out are those planned by the UTM.
+However, no need is expressed internally;
+(-) Lack of evaluation of training actions carried out;
+(-) No retention of proof of completion of actions
+training;
+(-) Absence of provisions for the assessment of the skills of the
+administrative and educational staff;
+(+/-) Regulatory monitoring is carried out individually on the
+ministry websites.
+(+/-) Provisions for handling non-conformities,
+corrective actions, improvement actions and opportunities
+for the SMOE deserve to be deployed;
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 11 of 17
+8.7- Control of output elements of
+non-educational products and services
+conform
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+(+) The stamp composting system is replaced by a system of
+barcode in order to control the activity in a short time and reduce
+input errors.
+(+) Receipt of teachers' exam copies is ensured by
+the examination service which ensures signing by the teacher;
+(+) Entering continuous assessment grades on the “INES” application and
+"SALIMA" is ensured by the personnel and the verification provisions
+of the seizure are already established;
+(-) The provisions which ensure the recording and processing of
+complaints from learners related to the conduct of exams are not
+not formalized:
+(-) The presence of the teacher during the examination
+need to be monitored and recorded;
+(+/-) It is recommended to take into consideration the terms
+assessment at exam level for learners with special needs
+specific;
+(-) It is recommended to identify the necessary provisions for
+the evaluation of distance learning in professional master's degree with
+the UVT;
+(+/-) provisions for handling non-conformities,
+corrective actions, improvement actions and opportunities
+for the SMOE deserve to be deployed.
+Process/Department: Registry & Schooling
+Chapter of the ISO 21001:2018 Standard Audit Findings
+Planning
+6.1- Actions to be implemented in the face of risks
+And
+opportunities
+6.2- Objectives of the organization
+ 
+education/training and action planning
+to reach them
+7.5- Documented information
+8.1- Operational planning and control
+8.2-
+Product and Service Requirements
+educational
+8.2.1- Determination of requirements relating to
+Educational Products and Services
+8.2.2- Communication of requirements relating to
+to
+educational products and services
+8.2.3- Modification of the requirements relating to
+ 
+educational products and services
+8.5- Delivery of products and provision of
+ 
+educational services
+8.5.1- Control of the delivery of products and
+of
+the provision of educational services
+8.5.2- Identification and traceability
+8.5.3- Property of interested parties
+ 
+8.5.4- Preservation
+8.5.5- Data protection and transparency
+ 
+relating to learners
+8.5.6- Control of product modifications and
+ 
+Registry
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured;
+(-) The objectives assigned to the level of the activities of the registry office do not
+are not determined;
+(+) Recordings upon receipt of mail received on the
+arrival register (Order number, date of receipt, subject, sender,
+(sender reference) are adequate to internal requirements;
+(+) Distribution of mail according to subject and transmission to the director
+of the ISI with the exception of medical certificates which are transmitted
+directly to the HR department and calls for tender to the financial department.
+(+) Monthly classification of incoming mail;
+(+) Recording of mail departures in the departure register (No.
+order, date of dispatch, subject according to the slip, recipient, copy
+additional for discharge, sender's reference);
+(+) Monthly classification of outgoing mail;
+(+/-) No complaints from interested parties are recorded;
+(+) Good management of documentation with referencing of the
+mail supported by a good organization of the order office;
+(+) In case of confidentiality, the mail is kept closed accompanied
+of a dispatch or receipt slip;
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 12 of 17
+educational services
+8.6- Release of educational products and services
+ 
+8.7- Control of product output elements and
+non-compliant educational services
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+(+/-) Storage of documents for less than 5 years in boxes
+archive ;
+(+/-) Better formalize management traceability provisions
+documentary related to the activities of the ISI;
+School Service
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured;
+(-) The objectives assigned to the level of the activities of the education service do not
+are not determined;
+(-) No identification or monitoring of learners' specific needs
+at the level of education;
+(-) The consideration of student requests is not controlled nor
+documented;
+(-) Lack of communication for the definition of the mission of the
+school service in administrative support for learning;
+(-) Poor communication with stakeholders due to the
+lack of information;
+(+) Communication of information concerning learners is
+done primarily by posting and on the website;
+(+/-) proof of communication of pre-admission conditions
+as well as adequate information taking into account the requirements of
+the body and requirements to students are not demonstrated;
+(-) No discharge for requests received by students;
+(+) compliance with confidentiality rules is ensured;
+(+) Classification of files for the current year at the service level
+schooling and records from previous years are kept in the
+archives;
+(-) Lack of space for archiving and preservation of files;
+(-) The distance between management and the education department is a problem
+for staff;
+(-) We need to put in place a communication plan between education and the
+learners. In addition, it is recommended to raise awareness among staff on
+their communication responsibilities;
+(+) Good communication and collaboration with management
+the establishment;
+(+) Good listening and consideration of suggestions for improvement;
+(-) The roles and responsibilities at the school service level are not
+well defined;
+(-) The infrastructure necessary for the smooth running of activities does not
+are not sufficient (lack of storage space, lack
+maintenance of infrastructure, etc.)
+(-) Student complaints are not formalized and are not
+followed;
+(+/-) Maintaining student files in paper format.
+However, it is necessary to establish a
+procedure responding to the
+provisions of the activity and to formalize them in accordance with the
+requirements of ISO 21001:2018;
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 13 of 17
+(+/-) Conditions of admission for learners with specific needs
+need to be defined as well as the provisions of their sockets
+in charge.
+These provisions must be formalized and implemented
+artwork ;
+(+) The designation of a delegate per class as a representative of
+Management to discuss issues raised by students;
+(-) mastery of non-compliant output elements of schooling does not
+are not documented (diplomas, certificates, etc.);
+(+/-) provisions for handling non-conformities,
+corrective actions, improvement actions and opportunities
+for the SMOE deserve to be deployed.
+Process/Department: Digitalization Service
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1- Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+ 
+education/training and planning
+actions to achieve them
+7- Support
+7.1- Resources
+7.1.2- Human resources
+7.1.3- Installations
+7.1.4- Environment for the implementation of
+ 
+educational processes
+7.1.5- Resources for monitoring and
+ 
+measure
+7.1.6- Organizational knowledge
+7.2- Skills
+7.2.1- General
+7.2.2- Additional requirements relating to
+ 
+special education
+7.3- Awareness
+7.4- Communication
+7.5- Documented information
+8.1- Operational planning and control
+8.7- Control of product output elements
+ 
+and non-compliant educational services
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+(-) Determining risks and opportunities to ensure that the SMOE
+can achieve the expected result(s) is not assured.
+(+/-) The objectives assigned to the level of the digitalization service activities do not
+are not formalized;
+(+) Taking into account the digitalization of the registration form
+students and teachers' grade entry at the service level
+digitalization;
+(+/-) To secure learner registration data,
+the establishment has used the services of Google. This use is based
+on the agreement between GOOGLE and UTM
+(+) A backup is made periodically on the backup for the
+Ines applications; Smart review and employment management software
+time ;
+(-) Backups are provided on the same PCs containing the
+basic information;
+(-) Lack of suitable hardware and software resources for the
+digitalization service;
+(+) Good communication with other interested parties;
+(+) Consideration of complaints regarding exam grades;
+(+/-) Existing database for complaints. These
+complaints are transferred to the relevant entities, however no follow-up
+complaints by the digitalization manager:
+(-) Lack of performance indicators for the digitalization unit;
+(+) Opportunity for improvement which concerns the acquisition of a
+digitalization application and which offers extranet type functions in order to
+to facilitate communication between the different interested parties.
+ 
+ 
+Process/Department: Technical Service
+   
+Chapter of the ISO 21001:2018 Standard Audit Findings
+6- Planning
+6.1- Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+(-) Determining risks and opportunities to ensure that the
+SMOE can achieve the expected result(s) is not assured
+(-) The objectives assigned to the level of the technical service activities do not
+are not determined;
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 14 of 17
+education/training and planning of
+actions to achieve them
+6.3- Planning modifications
+7.1- Resources
+7.5- Documented information
+9.1- Monitoring, measurement, analysis and evaluation
+9.2- Internal audit
+9.3- Management review
+10- Improvement
+(+/-) Preventive maintenance of laboratories before each return to school
+university however it is not formalized;
+(-) Lack of maintenance of the establishment's infrastructure
+(infiltration problems, plumbing problems, cuts
+electricity which can even cause material damage...);
+(-) Building safety issue (ramp in poor condition, etc.)
+(-) Lack of maintenance and organization of the spaces allocated to x
+clubs;
+(-) Lack of equipment for clubs;
+(-) Instructions for using the equipment (practical work rooms) with
+displays that are not respected (loss of materials and
+equipment etc.)
+(-) Overlap between the activities of the examination service, the activities
+students and maintenance activities following the non-
+identification of roles and responsibilities within each;
+(-) lack of inventory of equipment and its condition
+functioning ;
+(-) Absence of evacuation plan, gas detector, detector
+fire and electrical installation control;
+(-) Very poor working condition of the boilers which are not
+inspected according to legal and regulatory requirements;
+(-) The number of toilets is insufficient compared to the number
+of students for both sexes according to legal requirements and
+regulatory;
+(-) Absence of inspection hatch for ventilation ducts;
+(-) Lack of infirmary and first aid box;
+(-) No training provided regarding the use of the means of
+first intervention;
+(+/-) Existing intervention sheet despite resistance to its
+use ;
+(-) Lack of traceability for curative interventions carried out by
+an external service provider;
+(-) No provisions to guarantee data protection or for the
+backup ;
+(-) The equipment is not well protected (reported cases of
+theft of mouse, keyboard, memory stick, etc.);
+(-) Lack of traceability concerning the management of complaints from
+learners;
+(-) Lack of performance monitoring indicators;
+(-) Lack of human resources (Lab technicians);
+(-)Lack of equipment for the computer network as well as for the
+platform security;
+(-) No traceability and monitoring of fleet maintenance;
+(-) Three applications -GESparc -makhzoun- alyssa linked to the CNI are
+available but not used (lack of human resources)
+and training);
+(+)Opportunity for improvement regarding the installation of a network
+internal with backup and data protection supported by
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 15 of 17
+the management.
+Process/Department: Finance Department
+Chapter of the ISO 21001:2018 Standard Audit Findings
+8- Planning
+6.1- Actions to be implemented in the face of risks
+and opportunities
+6.2- Objectives of the organization
+ 
+education/training and planning of
+actions to achieve them
+9- Support
+7.1- Resources
+7.1.2- Human resources
+7.1.3- Installations
+7.1.4- Environment for the implementation of
+ 
+educational processes
+7.1.5- Resources for monitoring and
+ 
+measure
+7.1.6- Organizational knowledge
+7.2- Skills
+7.2.1- General
+7.2.2- Additional requirements relating to
+ 
+special education
+7.3- Awareness
+7.4- Communication
+7.5- Documented information
+8.1- Operational planning and control
+8.7- Control of product output elements
+ 
+and non-compliant educational services
+9.1- Monitoring, measurement, analysis and evaluation
+10- Improvement
+(-) Determining risks and opportunities to ensure that the SMOE
+can achieve the expected result(s) is not assured;
+(-) The objectives assigned to the level of the finance department activities are not
+not determined;
+(+) Pre-established budget per year in accordance with the amount allocated by
+the university based on year N-1;
+(+) Expenditure projects are discussed with management
+the establishment;
+(+) Use of the “ADAB” application which can be a database
+for dashboards;
+(-) Lack of database for suppliers as well as criteria
+s
+supplier evaluation;
+(-) It is necessary to implement performance indicators
+financial (value for money);
+(-) lack of organizational procedures for service activities
+finance and purchasing;
+(-) Absence of a job description for the finance manager (several
+tasks at the same time);
+(-) Lack of human resources and work overload
+(+/-) The purchase need expression form is not implemented in
+organizational level;
+(+) Area of ​​improvement concerning the optimization of customer satisfaction
+interested parties in reducing purchasing and payment times.
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 16 of 17
+Specific synthetic evaluations
+➢ Assessment of staff skills
+The people encountered benefit from the essential skills for the proper execution of tasks
+requested and the motivation necessary for the success of this project.
+However, work is needed to:
+- Document knowledge management and skills development;
+- Provide training on strategic orientations and requirements of the ISO standard
+21001:2018;
+- Provide training on the requirements of the ISO 31000:2018 standard;
+- Establish a functional organization chart (define roles and responsibilities within
+the establishment) as well as the job descriptions;
+- Improve the recruitment arrangements for temporary workers.
+➢ Evaluation of available material and immaterial resources
+It is important, during the implementation of the SMOE, to focus on optimizing the operation
+equipment and materials necessary for the provision of educational services by clearly defining
+and overall acquisition needs, by implementing preventive maintenance planning
+which will guarantee the availability and quality of operation of these resources.
+It is also important to raise a structural problem at the level of the premises and infrastructure of the institute.
+computer science major.
+A lack of staff is reported (e.g. no drivers at the establishment, only one person
+takes care of finance and purchasing, lab technicians, etc.)
+➢ Evaluation of the activity of the departments
+During the diagnostic audit, recommendations were raised:
+- The course plans are already established. However, a course progress sheet exists at
+ASR department level (system and network architecture), but it is not generalized by
+all departments;
+- Pedagogical and didactic training for teachers is not planned;
+- The summative grading and assessment system is not followed at the level of the activities of the
+departments;
+- Low involvement of department directors during the conduct of examinations, otherwise it is
+recommended to appoint an examination committee.
+➢ Objectives identified during the ISI diagnosis
+- The management's objective is to adapt to the new learning mode, and improve the
+support for learners and the educational environment and above all its commitment to
+two quality support projects;
+- The objectives at the PAQ cell level concern the certification of the organization, the reform
+pedagogical training, the sustainability of the management culture of education;
+- The objectives of the management of studies concern the accreditation of the three engineering courses, the
+success of the reform and the systematization of the accreditation of courses;
+- The objective of the development of the staff and stakeholders of the organization;
+- The objective and digitalization of the internship and PFE process, and the Internship platform as well as the
+development of socio-economic partnerships and teacher certification;
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 17 of 17
+- The objective of perpetuating certification achievements and continuing training for teachers
+so that he becomes more involved in teaching;
+- The objective of student well-being, the organization of educational affairs;
+- Encourage co-graduation, entrepreneurship and incubators.
+➢ Identification of the resources needed to successfully and successfully complete the mission of setting up a
+SMOE
+Management must define the roles of the actors and assign the responsibilities of each of them in the SMOE.
+The designation of a manager to ensure the proper functioning of the SMOE and the smooth running of
+different stages of the project, particularly with regard to monitoring the actions proposed by the consultants
+experts and accepted by the ISI management, is of crucial importance for the success of the project and the
+sustainability of the SMOE
+It is also important to raise the structural problem of the premises' infrastructure (emergency exit, controls
+legal and technical requirements of installations, etc.), lack of material resources and equipment.
+➢ Evaluation of the activities of the studies department
+During the diagnosis of the management of studies, the following observations were made:
+- Mastery of curriculum design is not demonstrated,
+- Lack of inventory of teaching and learning materials at the level of the management of studies;
+- Mastery of the design and development of the educational service at the level of definition of
+objectives of the courses, curricula and lessons are established. However, this mastery is neither
+neither traced nor defined at the level of the management of studies;
+- The job description of the director of studies should be formalized;
+- Student absences are not monitored despite the presence of a requirement
+regulatory especially for the training of engineers;
+- Monitoring of the progress of training in accordance with the program is not ensured by the
+department or by the management of studies;
+- The evaluation of undergraduate training through student surveys has raised
+some failures and have generated recommendations. However, this investigation is not
+generalized for all courses.
+➢ Weak points were raised at the administration level:
+- The deployment of staff at the examination and education level is not well formalized, highlighting
+question the fairness of the distribution of staff workload;
+- The education service does not ensure adequate monitoring of students' needs given the lack of
+adequate training;
+- The absenteeism rate is high at the staff level and is not monitored;
+- The library is managed by a single person;
+- Purchasing management is provided by the finance department.
+➢ Assessment of the overall state of conformity with the requirements of the ISO 21001:2018 standard
+Average compliance rates are calculated in relation to the satisfaction of the requirements requested at the level
+chapters of the ISO 21001:2018 standard.
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 18 of 3
+Table of CONFORMITY results of activities according to the requirement criteria
+of the ISO 21001:2018 standard Average rate
+Art. 4: Context of the organization 34%
+Art. 5: Leadership 51%
+Art. 6: Planning of the quality management system 43%
+Art. 7: Support 45%
+Art. 8: Carrying out operational activities 34%
+Art. 9: Performance evaluation 09%
+Art. 10: Improvement 33%
+Average level across all articles of the ISO 21001:2018 standard 35%
+The assessment of the overall state of conformity of the application of the SMOE requirements is certainly not a
+evaluation of the organization or its personnel, nor an evaluation of the quality of the services provided
+the body.
+The assessment of the overall state of conformity of the application of the SMOE requirements is a tool that allows
+experts to judge the feasibility of setting up an EMS and to estimate the number of
+days required for a support mission.
+For the organization, the assessment of the overall state of conformity of the application of the SMOE requirements is a
+tool that allows you to estimate the efforts that need to be deployed to set up an EMS.
+Since there are no international statistics on the subject, the feedback from the office's experts allows
+estimate that an organization having more than 20% as an overall satisfaction rate (internal statistic at
+office), is a well-functioning organization with good strategy, good organization and good
+level of competence of its staff but which requires better organization and formalization of
+provisions.
+
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 19 of 3
+Proposal of the SMOE Process Mapping:
+General Conclusion
+The overall investigations of the initial audit mission of the current ISI system demonstrate:
+• A spirit of leadership;
+• An excellent level of maturity in the control of operational activities;
+• Operational arrangements are moderately formalized;
+• Competent, generally versatile staff;
+• A team spirit and synergy that promotes continuous improvement of the system;
+• The institute emphasizes student development: The importance given to learners in
+level of training courses, integration of clubs (11 clubs), definition of the systematic orientation of the
+customer satisfaction, lack of equipment, extra activities, participation in the scientific council,
+taking into account the needs of students, monitoring alumni.
+However, it is important to:
+• Integrate the requirements of the SMOE according to the ISO 21001:2018 standard into the operational activities of
+the organization;
+• It is important to create a process for developing the strategic direction of
+the long-term establishment;
+• Develop a process approach integrating activities related to human resources management,
+provision of resources, infrastructure management, skills development
+(training), budget management etc.
+ 
+Diagnostic report
+According to ISO21001:2018 standard
+ 
+ 
+Version 01 Page 20 of 3
+• Adopt an approach based on the identification of risks and opportunities based on the issues
+the organization;
+• Improve consideration of the needs and expectations of learners with specific needs.
+By processing the observations noted in this report and bringing them into line
+activities in relation to the requirements of the ISO 21001:2018 standard. The ISI should have a System of
+Functional and efficient Management of Educational Organizations (SMOE) within the desired timeframes.
+Indeed, the commitment and support of the management of the establishment, the general secretary, the management of
+studies and the different departments and the experience of the main managers constitute assets
+some for an effective deployment of the new requirements of ISO21001-2018.
+The leader: Maher Aidi
+Business Training experts: Mr Omar Ayadi Ms Faten Maalej

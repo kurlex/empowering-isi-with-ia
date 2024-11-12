@@ -1,0 +1,746 @@
+The student guide of the Higher Institute
+Computer science
+This document brings together useful information for students
+for the smooth running of their studies in a manner
+structured and simplified to guide them.
+Summary
+1
+Presentation
+3
+1.1
+The ISI leadership
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+1.2
+Departments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+1.3
+Useful contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+2
+Trainings
+4
+2.1
+Engineering cycles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+2.2
+Licenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+2.3
+The masters
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+3
+Study regime
+5
+3.1
+Duration of studies
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+3.2
+Specialties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+3.3
+The organization of studies
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+3.4
+attendance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+3.5
+Internships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+3.6
+The final project . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+3.7
+The evaluation procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+3.8
+Calculating averages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+3.9
+The terms of passage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+3.10 Catch-up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+3.11 Repeating . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+3.12 Obtaining a diploma
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+4
+The study and examination system for the bachelor's degree course
+9
+4.1
+Presentation of the LMD courses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+4.2
+Evaluation methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+4.2.1
+Capitalization of credits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+4.2.2
+Evaluation regimes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+4.3
+Moving to a higher level . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+4.4
+The case of redemption
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+4.5
+End of studies internship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+5
+Life at ISI
+13
+5.1
+Student life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+5.2
+Your student representatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+5.3
+University Libraries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+5.4
+Attendance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+5.5
+Health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+5.6
+General discipline. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+5.6.1
+Article 1: Compliance with the regulations . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+5.6.2
+Timetables
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+5.6.3
+Article 3: Information and notice boards
+. . . . . . . . . . . . . . .
+14
+5.6.4
+Article 4: The student-administration report . . . . . . . . . . . . . . . . . . .
+14
+5.6.5
+Article 5: The General Secretariat . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+5.6.6
+Article 6: Management of studies and internships . . . . . . . . . . . . . . . . . . .
+14
+5.6.7
+Article 7: Students' behavior at the institute . . . . . . . . . . . . . . .
+14
+5.6.8
+Article 8: associative activities
+. . . . . . . . . . . . . . . . . . . . . . . .
+15
+5.6.9
+Article 9: Display . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+1
+5.6.10 Article 10: Students' behavior towards materials and equipment
+biliary made available to them . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+5.6.11 Article 11: Loss of Student Property . . . . . . . . . . . . . . . . . . . .
+15
+5.6.12 Article 12: Internet and electronic messaging service
+. . . . . . . . . .
+15
+5.6.13 Article 13: Fraud . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+2
+Presentation
+The Higher Institute of Computer Science (ISI) under the University of Tunis El Manar was created by decree
+No. 1912 of August 14, 2001. It has the status of a Public Administrative Establishment (EPA)
+having as its mission higher education and scientific research in the field of sciences
+and technical. ISI training courses are specialized in IT and its applications.
+1.1
+The ISI leadership
+• Director of ISI: Salah Salhi ( direction@isi.utm.tn ).
+• Director of studies: Wafa Karoui (( direction.etudes@isi.utm.tn ).
+• Internship Director: Nihel Ben Youssef ( direction.stages@isi.utm.tn ).
+• General Secretary: Houda Techini ( houda.themri@isi.utm.tn ).
+1.2
+The departments
+• Software Engineering and Information Systems Department (GLSI).
+Director: Sahbi Bahroun ( sahbi.bahroun@isi.utm.tn ).
+• Architecture, Systems and Networks Department (ASR).
+Director: Sourour Mhenni ( sourour.mhenni@isi.utm.tn ).
+• Department of Electrical Engineering and Industrial Computing (GEII).
+Director: Ali Tlili ( ali.tlili@isi.utm.tn ).
+• Department of Applied Mathematics (MA).
+Director: Cyrine Baccar ( cyrine.baccar@isi.utm.tn ).
+1.3
+Useful contacts
+• Tuition service: Lamia krichen ( lamia.krichen@isi.utm.tn ).
+• Internship service: Ali Khemiri ( ali.khemiri@isi.utm.tn ).
+• Psychologist: ( psychologue.isi@isi.utm.tn ).
+• 4C Center: Walid Miladi ( 4c@isi.utm.tn ).
+• Club manager: Essaied Garoui ( essaied.garoui@isi.utm.tn ).
+• Librarian: Samia Salem ( samia.salem@isi.utm.tn ).
+3
+Trainings
+2.1
+Engineering cycles
+• Software Engineering (IDL).
+• Engineering and Development of Infrastructures and Communications Services (IDISC).
+• Engineering of Embedded Systems and Connected Objects (ISEOC).
+2.2
+Licenses
+• Bachelor's degree in computer science.
+Course: Software Engineering and Information Systems (GLSI).
+• Degree in Information Systems Engineering.
+Course: Network and Systems Engineering (IRS).
+• Degree in Electronics, Electrical Engineering and Automation.
+Course: Embedded Systems (ES).
+2.3
+The masters
+• Master of Research in Computer Science.
+Coordinator: Rania Mzid ( rania.mzid@isi.utm.tn ).
+• Professional Master in Information Systems and Infrastructure Security (SSII).
+Coordinator: Meha Hachani ( meha.hachani@isi.utm.tn ).
+• Professional Master in Information Systems and Infrastructure Security (SSII-FAD).
+Coordinator: Sourour Mhenni ( sourour.mhenni@isi.utm.tn ).
+• Professional Master in Software Development and New Technologies (MDL).
+Coordinator: Imen Ben Hafaiedh ( imen.benhafaiedh@isi.utm.tn ).
+• Professional Master in Intelligent Systems and IOT (SIIOT).
+Coordinator: Zouhour Ben Azouz ( zouhour.benazouz@isi.utm.tn ).
+• Professional Master in Software Engineering - Open Source (MP2L).
+Coordinator: Riadh Zaafrani ( riadh.zaafrani@isi.utm.tn ).
+4
+Study regime
+In accordance with Decree No. 95-2602 of December 25, 1995, establishing the general framework of the regime of
+studies and the conditions for obtaining the national engineering diploma, and more precisely its article
+11, the scientific council of the Higher Institute of Computer Science sets the regime of studies and
+engineering training exams by the text below.
+3.1
+Duration of studies
+Courses leading to the National Diploma of Engineer in Computer Science from ISI
+include a total time volume of approximately 2,700 hours, spread over three years of study.
+The first and second years of study each consist of thirty-six (36) weeks of teaching,
+including four (4) weeks of professional internships. The third year of studies includes thirty-two
+(32) weeks including sixteen (16) weeks reserved for the completion of the final studies project.
+3.2
+Specialties
+Candidates for admission to the ISI apply for one of the three specialties offered.
+The name-
+The number of places available for admission for each specialty is announced by the director of
+the establishment on the proposal of the different departments.
+3.3
+The organization of studies
+The studies are organized into modules which are grouped into teaching units as units
+assessment of knowledge. The lists of optional modules are updated every year
+by the director of studies on the proposal of the scientific council. Optional modules may
+not be insured if the number of engineering students having opted for these courses is deemed
+insufficient, the engineering students who have chosen them are then invited to transfer their choice to the
+other modules to choose from.
+The lessons are provided in the form of courses (C), tutorials (TD), assignments
+practical work (TP) and supervised personal work.
+3.4
+attendance
+Attendance at all lessons and all activities provided for in the study plan is obligatory.
+gatory.
+When absences in a module exceed 20% of the hourly volume allocated to it
+allocated by the study plan, the engineering student concerned is not authorized to attend the session
+main, to the tests relating to it. However, the accumulation of absences cannot exceed 10% of the
+total hourly volume of a year of study, in which case the engineering student concerned is not authorized
+to take all the tests in the main session.
+This overall volume also includes
+all educational activities (short courses, technical visits, seminars, etc.)
+which follows).
+5
+3.5
+Internships
+The training is completed by two compulsory internships:
+• A work placement in the first year.
+• An engineering internship in the second year which is the subject of a report drawn up by the engineering student
+who followed it. The internship report is evaluated by a jury whose composition, including a
+language teacher and a specialist teacher, is set by the internship director,
+on the proposal of the director of the department concerned. Any internship declared inconclusive by
+the jury, requires a replacement internship carried out and assessed under the same conditions.
+Internship reports not submitted in redone internships are assessed in a catch-up session.
+internship defenses. The internship grade counts in the final ranking of the class.
+3.6
+The final project
+In the third year, the training includes a final study project (PFE), of a professional nature.
+and related to the specialty followed, in the form of engineering work supervised by at least one
+teacher.
+The PFE is supported before a jury appointed by the director of the institute, after consulting the director of the
+department concerned. The jury is composed of three (3) teachers including the teacher responsible
+of the PFE. The director of the Institute may invite any person whose competence is recognized in
+the subject area of ​​the PFE to be part of the jury. Only those authorized to support the PFE are
+Engineering students who have passed the third year exams and validated the subject modules
+of credit and having filed their memorandum within the time limits.
+3.7
+The evaluation modalities
+The acquisition of knowledge by engineering students is assessed by a two-step system
+successive sessions:
+• A main session, the date of which for each module is set at the beginning of the academic year.
+approved by the director of the Institute, after consultation with the scientific council.
+• A catch-up session, which must take place at least one week after the proclamation
+results of the main session, for each module.
+The main session and catch-up session exams are organized in the form
+written tests, the duration of which is set at the beginning of each year by the director of the institute
+after advice from the scientific council and on proposal from the department.
+Continuous assessment includes, depending on the form of teaching specific to each module,
+written, oral, practical tests and, where appropriate, personalized work in class or at home.
+Any absence from one of the tests of the final examination of a module is penalized by a mark of zero.
+(0).
+3.8
+Calculating averages
+For each module, an average is calculated resulting from the marks obtained in the different
+knowledge control tests.
+The weighting coefficients attributed to these tests are set according to the form of the teachings
+specific to each module as follows:
+• Modules organized in the form of courses or courses with tutorials:
+1/3 of continuous monitoring.
+2/3 of the final exam.
+6
+• Modules organized in the form of courses, tutorials and practical work:
+2/3 theoretical grade: 1/3 of the continuous assessment and 1/3 of the final exam.
+1/3 grade for practical work.
+• Modules organized exclusively in the form of practical work and/or tutorials:
+100% continuous control.
+Modules organized exclusively in the form of practical work and/or tutorials do not
+may be subject to catch-up.
+3.9
+The terms of passage
+Is declared admitted to the next year by the director of the institute on the proposal of the jury of
+deliberation, the student engineer having satisfied the following conditions:
+• Obtaining a general average equal to or greater than 10/20, after the main tests
+or catch-up.
+The overall average is obtained from the averages of the assigned teaching units
+of their respective coefficients.
+• Obtaining an average equal to or greater than 08/20 in each of the teaching units,
+after the main or make-up exams.
+Calculating the average of each unit
+of teaching takes into account the weighting coefficients set by the study plan.
+3.10
+The catch-up
+The student who has not been declared admitted to the main session is authorized to move on to the
+catch up:
+• If the overall average is less than 10, the student is authorized to take the exam
+to catch up on modules in which he obtained an average of less than 10/20.
+• If the general average of this student is equal to or greater than 10/20, the modules subject to
+Catch-up exams are limited to those whose average is less than 10 and who belong to the
+EU with an average below 08/20.
+Modules assessed exclusively through continuous assessment cannot be resit.
+After the catch-up session, the average for each module is recalculated as follows:
+1. The maximum of the examination marks obtained in the main session and in the final session are substituted.
+catch-up, to the exam mark in the calculation of the average.
+2. The EU average and the half-yearly averages as well as the general annual average are
+calculated under the same conditions as for the main session.
+At the end of the first and second years, each engineering student can benefit, following the decision
+of the annual class council, of the redemption:
+• At most two non-validated UEs (Average strictly less than 8/20), or
+• From the general average (average strictly less than 10/20) and one EU at most.
+For the first semester of the third year, each engineering student can benefit, following the
+decision of the annual class council, of the repurchase of at most one non-validated teaching unit
+(average strictly less than 8):
+• The redemption conditions are set by the class council and after validation by the council
+scientist of the establishment.
+• The EU or remedial modules for which the engineering student has not taken the necessary steps cannot be repurchased.
+did not pass the resit test.
+• Engineering students who have a disciplinary measure cannot be bought out.
+7
+3.11
+The doubling
+Repeating a year is permitted only once during the school year. In the event of repeating a year, the student
+engineer keeps the benefit of teaching units and modules with a higher average
+or equal to 10/20.
+3.12
+Obtaining a diploma
+The national engineering diploma from the Higher Institute of Computer Science is awarded to students
+third-year engineers who have met the following conditions:
+• Have successfully passed the third year exams,
+• Have validated all required internships,
+• Have obtained a mark of at least 10/20 in the final project.
+8
+The study and examination system of the
+Bachelor's degree training
+This guide, for ISI students in a Bachelor's or Master's degree, known as the Bachelor's, Master's, Doctorate (LMD) course,
+presents the LMD studies regime as introduced by the legislative texts.
+4.1
+Presentation of the LMD courses
+The LMD, bachelor's and master's courses respond to study plans which distribute the
+teachings in three and two academic years respectively. Each academic year is
+structured in two semesters. Each semester corresponds to fourteen (14) weeks. The passage
+of a student from one level to the next level is done at the end of the academic year (and not the
+semester) according to criteria which will be detailed in section 3.
+The student studies between five (5) and six (6) teaching units in a single semester.
+Each
+unit is characterized by a number of credits, between four (4) and seven (7), and a coefficient. The
+total number of credits per semester, all units combined, is equal to thirty (30).
+A unit is either:
+• Fundamental. Its content is closely linked to the student's path. It must constitute
+at least 75% of the units of the course (in number and in credits). This is a compulsory unit.
+• Transversal. Its content is linked to various fields such as languages, culture of
+business, and human rights. This is a mandatory unit.
+• Optional. Its teaching aims to deepen the student's knowledge
+in a particular specialty related to his career.
+The teaching unit is provided in the form of constituent elements (at least one (1) single and
+maximum four (4)). Each element is delivered either in course sessions, and/or in assignments
+supervised and/or practical work, either in integrated course sessions or in the form of an internship.
+The constituent elements may be taught in distance learning courses. Students are informed of this
+at the beginning of the academic year.
+4.2
+The evaluation methods
+4.2.1
+Capitalization of credits
+The student's transition from the current level to the next level of his course is based on the assessment
+teaching units. Each teaching unit is validated either by definitive capitalization,
+either by compensation.
+Validation by final capitalization occurs when the student obtains an average of ten
+(10) out of twenty (20) between the constituent elements of the unit.
+Validation by compensation of a unit whose average is strictly less than ten (10)
+out of twenty (20) occurs when the student obtains an average of ten (10) out of twenty (20) on all
+the academic year. This average is calculated per semester (unit average) and then between
+9
+semesters (sum of the two semester averages divided by two (2)).
+In the case of validation by compensation of a unit, the student does not definitively capitalize
+unit. However, it capitalizes the credits of the constituent elements for which it had an average
+greater than ten (10). For the remaining constituent elements (for which he had an average
+strictly less than ten (10)), he can take the final capitalization exams only once
+times, either in the catch-up session of the current academic year, or in the catch-up session of
+the following academic year. In the event that the student obtains an average greater than or equal to ten
+(10), it capitalizes the credits of the element and unit concerned. That said, the average of the element and
+of the unit are not updated on the transcripts and minutes of the deliberations,
+they are only mentioned in the appendix to the diploma.
+The final capitalization of the credits of a unit allows the student not to repeat the study and
+pass the exam for the unit in question in the event of repeating a year, changing course or
+of reorientation.
+4.2.2
+Assessment regimes
+The assessment consists of the student completing one or more assignments for each unit of the course.
+that he studies. The average of a unit is calculated through the marks of its elements, weighted by
+its coefficients.
+Table 4.1: Example of the calculation of the average of the Cloud and Big Data teaching unit
+Unit
+Constituent element
+Coefficient
+Average of an element
+Cloud and Big Data
+Virtualization and cloud
+1.5
+13.5
+Big Data framework and techniques
+1
+16
+In Table 4.1, the average of the Cloud and Big Data unit is ((1.5 ∗13.5) + (1 ∗16))
+2.5
+= 14.5.
+The assessment regime of a constituent element responds either to the mixed regime or to the control regime
+continued in detail in the following.
+a- The mixed regime
+This is an assessment system that considers final exams (at a rate of 70% of the final mark)
+nale) as well as continuous assessment (at a rate of 30% of the final grade). The continuous assessment grade
+is split into supervised homework and/or practical work (20%) and exercises, oral tests,
+presentations, etc. (10%).
+The student who is not admitted to the main session has the right to retake the exam in the make-up session.
+page, the final exams of the mixed regime units that he did not pass.
+Table 4.2: Example of calculating the average of the Programming Workshop 1 element
+Programming Workshop 1
+Final exam
+12
+Continuous monitoring
+13
+Other note
+16
+In Table 4.2, the average of the Programming Workshop 1 element is:
+(12 ∗0.7) + (13 ∗0.2) + (16 ∗0.1) = 12.60
+a- The continuous monitoring system
+This assessment system is based exclusively on continuous assessment (supervised homework, oral tests,
+presentations, practical work, etc.). The student who does not pass a unit with the regime
+continuous assessment (CC) can no longer retake it in a catch-up session.
+The legislator allows two modes of evaluation. The first consists of evaluating the unit in its entirety,
+through common supervised duties between the constituent elements. The second method, that
+approved by the ISI Scientific Council, consists of the supervised assignments being carried out
+for each constituent element separately. The unit average is calculated as shown in Table
+10
+4.1 presented above.
+The assessment of units with continuous assessment is based on two marks for each
+constituent elements:
+• The first grade is an average between the two best grades of the supervised assignments. The con-
+higher grade concept is only taken into consideration if the teacher responsible for the element
+constituent performs more than two (2) supervised assignments. Otherwise (only two (2)
+supervised homework completed), it is the average between the two supervised homework assignments which will be counted.
+abilis´ee. This first average is counted at 80% of the overall average
+of the constituent element.
+• The second grade, worth 20%, is an average between practical work
+ticks, presentations, exercises, oral tests, etc.
+Table 4.3: Calculation of averages of the constituent elements of a unit in the CC regime
+Unit
+element
+Supervised homework
+Others
+Average of
+constitutive
+notes
+the constituent element
+Language and
+English
+13
+17
+13 + 15
+2
+∗0.8
+
++ (17 ∗0.2) = 14.6
+15
+communication
+Techniques of
+12
+15
+12 + 16 + 14
+3
+∗0.8
+
++ (15 ∗0.2) = 14.2
+16
+communication
+14
+4.3
+Moving to a higher level
+The assessment of students is biannual, but the passage from one level to the next is
+annual.
+The student moves from the current level to the next level if:
+• The student obtains an average greater than or equal to ten (10) out of twenty (20) on all
+units of the current level. In this case the student definitively capitalizes all his units.
+• The student obtains an annual average greater than or equal to ten (10) out of twenty (20) per
+compensation between units of the current level.
+• The student can move from the first year to the second year through the credit system, if he
+obtains 75% of the credits of the first year, that is to say at least 45 credits.
+• The student can move from the second year to the third year through the credit system
+if he obtains 75% of the credits of the second year on condition of obtaining the credits of the
+first year pending, if applicable. Grades for pending units are counted
+with the grades of the year concerned. The student cannot obtain his diploma if he does not have
+obtained the credits for the pending teaching units.
+The catch-up session (SR) concerns students who were not admitted to the main session
+(SP). Participation in this session is done according to the terms and deadlines set by the administration.
+It only concerns mixed regime units for which the student had a strictly average-
+ment less than ten (10) out of twenty (20), and more particularly the constituent elements (of these
+units) for which he had strictly less than ten (10) out of twenty (20).
+In other words, the student who failed the resit session retakes the final exams
+constituent elements where he had an average strictly lower than ten (10), in the units
+mixed-system education where he had an average strictly lower than ten (10). The calculation
+the average of each constituent element passed in the catch-up session is done as follows:
+• The student keeps the higher exam grade between that of the main session and that of the
+catch-up session.
+11
+• The continuous assessment mark is taken into account if it is higher than the examination mark which will be
+considered (i.e. the higher mark between the main session exam and that of the
+catch-up session) is counted.
+Table 4.4 illustrates all possible situations of calculating the mean of a constituent element.
+`mixed diet at the catch-up session.
+Table 4.4: Calculation of the average of a mixed regime element in a SR
+Consecutive element
+Notes to the
+Exam score
+Average
+Exam Notes
+Average
+in mixed regime
+CC
+main
+to the SP
+catch-up
+to the SR
+Situation 1
+Analysis 1
+13
+7
+8.8
+10
+10.9
+Situation 2
+Analysis 1
+13
+7
+8.8
+5
+8.8
+Situation 3
+Analysis 1
+5
+7
+6.4
+10
+10
+Situation 4
+Analysis 1
+5
+7
+6.4
+6
+7
+The principle of the higher mark is only valid for elements which are passed in session of
+catch up.
+The principle of not taking into account the continuous control score (in the event that it is lower than
+the exam grade) is not valid in these two cases:
+• The student was absent from the main session or the make-up session.
+• The student submitted a blank exam sheet in the main session or in the make-up session.
+page.
+In the event of repeating a year, the student is exempt from retaking the exams for the teaching units.
+where he had an average greater than or equal to ten (10) out of twenty (20). He is also exempt from the elements
+teaching for which they had an average greater than or equal to ten for the units in which they
+had an average less than or equal to ten (10).
+4.4
+The case of redemption
+The examination board may decide to buy back a student under exceptional conditions, depending on
+criteria that it establishes. The buyout may concern one or more teaching units.
+By decision of the ISI scientific council, the repurchase is only made at the catch-up session.
+Students who have received any disciplinary sanction are not entitled to this favor.
+It is important to note that the buy-back is not an acquired right, and only the examination board is authorized
+to decide whether or not to buy out a student.
+4.5
+End of studies internship
+The end-of-studies internship is carried out in the sixth semester for bachelor's degrees, and in the fourth semester
+for masters. It generally concludes an internship carried out in a company. The final project
+study may also concern a case study, a scientific research project, or any other
+type of project validated by the department linked to the course.
+The report or dissertation is written by the student under the supervision of an ISI supervisor and
+possibly from a supervisor of the host company.
+In case the project is not validated, the jury may grant an exceptional extension of a duration
+maximum of three (3) months to the student.
+If the sixth semester of a degree is allocated exclusively to a single unit relating to the project
+end of studies, then the average of semester five and six are not affected by the principle of
+compensation. In other words, the student must have an average greater than or equal to ten (10)
+in each semester.
+The undergraduate student has the right to do his SFE (semester 6) without semester 5 being validated.
+The master's student must validate semester 3 before starting his PFE (semester 4).
+12
+Life at ISI
+5.1
+Student life
+Students can participate in the creation and running of various scientific and sports clubs.
+and cultural.
+They can organize events (excursions, theatrical performances or
+musicals, film screenings, etc.) with the material participation of the administration. All these
+activities must be subject to prior approval from the administration.
+5.2
+Your student representatives
+Being a student at ISI means taking part in the life of the institute. Within the councils and commissions,
+Students are represented by elected representatives, whose renewal is ensured during the year.
+university.
+Their missions? Participate in decision-making, defend the interests of users and inform
+students of the directions taken by the university in terms of training or student life.
+5.3
+University Libraries
+ISI offers its information and documentation services to all its students through two libraries:
+a library at ISI and an online library.
+Online Libraries through the BIRUNI Network: Thousands of Digital Resources Accessible
+online via the following link: www.biruni.tn.
+Students are also entitled to on-site consultation or home loan of documentation.
+tion. To exercise this right, the student must present his library card.
+Obtaining certificates of achievement is dependent on the return of all borrowed works.
+Library materials must be handled with care. Failure to do so may result in
+obligation deprives its author of library services.
+In the event of damage or loss of a document, the student is required to pay twice the value
+of the document in question to the accountant of the institute.
+All students have the right to access the laboratories with the authorization of the administration.
+and on the proposal of teachers and department directors.
+All users of laboratory equipment are responsible for their condition and use.
+5.4
+Attendance
+The presence of students at all teachings (courses, integrated courses, practical work, seminars)
+and company visits) is compulsory. It is rigorously controlled by teachers.
+When absences in a UE or an EE exceed 20% of the hourly volume allocated to them
+study plan, the student concerned is not authorized to attend the main examination session
+relating to it.
+Attendance at all tests (tests, assignments, exams, defense, etc.) is mandatory. Any
+Absence from a test is penalized by a zero. Attendance at practical sessions is mandatory.
+Failure to attend a practical work session results in a grade of 0/20 for that session.
+13
+5.5
+Health
+Information and prevention actions are initiated by the school medicine service and
+university. Agents can meet you by appointment, advise you and guide you
+if necessary to the appropriate medical body.
+5.6
+General discipline
+5.6.1
+Article 1: Compliance with the regulations
+ISI students are required to comply with these regulations. They must comply with the
+instructions given to them by their teachers and the school administration.
+5.6.2
+Timetables
+As a general rule, timetables are weekly. They are brought to the attention of
+students by posting every Friday for the following week.
+5.6.3
+Article 3: Information and notice boards
+In order for them to be informed in time, press releases and notes from the various departments of the administration
+(timetables, changes to timetables, supervised homework and exam schedules)
+mens, company visits, internships, etc.). Students should regularly consult the tables
+display.
+5.6.4
+Article 4: The student-administration report
+Students' suggestions, possible problems and difficulties they may encounter should
+to be transmitted according to their nature:
+• In the service of education.
+• At the general secretariat.
+• To the management of studies and internships.
+• To department directors.
+To do this, a representative from each class is elected by his/her classmates to ensure liaison
+between their class and the various administrative services.
+5.6.5
+Article 5: The General Secretariat
+Students may request an audience with the Secretary General for any
+information on the payment of their tuition fees and the granting of different cards (card
+students, library card).
+5.6.6
+Article 6: Management of studies and internships
+Students may request an audience with the Director of Studies and Internships for any
+regarding the course of studies, internships, company visits, study trips,
+final year projects, their suggestions for needs in bibliographic works and equipment
+scientists and organization of scientific and socio-cultural seminars.
+5.6.7
+Article 7: Students' behavior at the institute
+ISI students must behave in a proper manner within the institute, they
+must observe a courteous and respectful attitude towards staff as well as towards
+their comrades.
+14
+5.6.8
+Article 8: associative activities
+Associative activities (socio-cultural activities, sports activities, organization of seminars,
+organization of festivities, publication of journals) by ISI students are desired and encouraged.
+However, students are required to request prior authorization from the ISI management which
+will provide full support for any activity that benefits students.
+5.6.9
+Article 9: Display
+A notice board is made available to students as a means of information at
+public of the school concerning the organization of their associative activities (club, sport, seminars,
+evenings,). However, the proposed display must be subject to prior authorization from the administration.
+5.6.10
+Article 10: Students' behavior towards materials and
+furniture made available to them
+Engineering students must keep in good condition all equipment and materials made available to them.
+provision. In this regard, they are responsible for any voluntary or involuntary deterioration of
+equipment and any damage to the premises. The repair of these will be the responsibility of the student
+who caused the damage in question, in addition to any possible disciplinary sanctions.
+5.6.11
+Article 11: Loss of Student Property
+The institute is not liable for any loss of personal items belonging to
+Students. Students must take all precautions and in particular refrain from abandoning
+; unattended valuables inside the institute. In the event of theft, it is recalled that
+The school cannot replace the judicial authorities, who alone are qualified to conduct an investigation.
+on this subject.
+5.6.12
+Article 12: Internet and electronic messaging service
+Wi-Fi hotspots are made available to students to enable them to access
+their accounts, to digital documents provided by teachers or to the Internet. The student is
+solely legally responsible for the content of his messages and the sites he accesses. The use
+The internet is controlled by the person in charge of the internet service. Any abuse will be punished.
+5.6.13
+Article 13: Fraud
+Any fraud or attempted fraud committed by the student during a written or oral test,
+Any unauthorized collaboration tending to distort the sincerity of its rating, automatically results in a
+zero for this control and can bring the offending student before the disciplinary council.
+15

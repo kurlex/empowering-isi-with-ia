@@ -4,7 +4,8 @@ class ChatBotServiceResponseFactoryService {
   static getResponse(response: string | null) {
     const errorResponse = {
       type: "error",
-      payload: "we are sorry, we can't",
+      payload:
+        "The query you submitted is unsupported. Please ensure your question pertains to university-related topics.",
     };
 
     if (!response) return errorResponse;
@@ -15,13 +16,13 @@ class ChatBotServiceResponseFactoryService {
         return {
           type: "question",
           payload: jsResp.response,
+          suggestions: jsResp.rapid_answer_suggestions,
         };
       }
       case "answer": {
         return {
           type: "response",
           payload: jsResp.response,
-          buttons: ["Oui", "Non", "Plus d'informations"],
         };
       }
       default:

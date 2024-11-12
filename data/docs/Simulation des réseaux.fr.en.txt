@@ -1,0 +1,88 @@
+ECUE fact sheet  
+ 
+              Teaching Unit: Network Assessment Tools
+ECUE no 4.1: Network simulation
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Mobile networks
+2- Network foundations
+3- Simulation tools: OpenFlow/OFDP, Matlab, Omnet++,…
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+OE1- Study the main techniques, tools and concepts of modeling and evaluation
+network performance.
+OE2- Design and analyze a simple random phenomenon using models
+proposed stochastics.
+OE3- Examine and manipulate networks
+OE4- Adapt quality of service parameters and evaluate network performance  
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+CS1
+X
+X
+ 
+ 
+CS2
+ 
+X
+X
+X
+CS5
+X
+X
+X
+X
+ 
+Description of the content of the constituent element
+Chapter 1. Introduction to network simulation  
+Chapter 2. Emulation of computer networks  
+Chapter 3. Systems Modeling  
+Chapter 4. Discrete Event Simulation  
+1. Discrete event simulation  
+2. Random number generation  
+3. Schedule and event management  
+4. Processing of statistical samples  
+5. Confidence intervals  
+Chapter 5. Study of a simulator (Jsim or Omnet++, GNS3, or other)
+ 
+ 
+ 
+Chapter and sections
+Course (h)
+TP (h)
+Total (h)
+Chapter 1
+4.5
+1.5
+6
+Chapter 2
+4.5
+1.5
+6
+Chapter 3
+4.5
+1.5
+6
+Chapter 4
+4.5
+1.5
+6
+Chapter 5
+4.5
+1.5
+6
+ 
+Reference books:
+[1]. Arthur Engel “Random Processes for Beginners”, Vuibert, 2011.
+[2]. Sheldon M. Ross “Introduction to probability models”, AcademicPress, 2003.
+ 
+ 

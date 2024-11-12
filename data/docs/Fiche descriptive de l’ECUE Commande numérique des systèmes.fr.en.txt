@@ -1,0 +1,129 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Modeling, identification and control of
+systems
+ECUE no 1.1: Numerical control of systems
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Theory of dynamic systems
+2- Z-transform
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+(Specify the objectives of the constituent element (OE) using verbs according to the taxonomy
+Bloom's or other reference taxonomy, maximum 8)
+OE1: Establish digital process control approaches using
+digital calculators
+OE2: Integrating a digital calculator into a control loop  
+OE3: associate the appropriate digital corrector in the form of a recurrent algorithm of
+command implementable on a digital computer
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the
+training program (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OP1
+x
+ 
+ 
+OP5
+ 
+X
+X
+ 
+Description of the content of the constituent element
+ 
+I. Introduction to numerical control of systems
+1. Sampling a continuous signal (Shannon's theorem)
+2. Concepts of Digital-Analog and Analog-Digital converters
+3. Zero-order blocker
+4. Z-transform and inverse Z-transform
+5. Sampled transfer function
+6. Recurring equations
+ 
+II. Study of sampled systems
+A. First order system
+1. Sampling condition
+2. First-order sampled model
+3. First-order dynamic behavior
+4. Stability of a first-order system
+B. Second order system
+1. Sampling condition
+2. Real-pole and complex-pole sampled mathematical model
+3. Dynamic behavior and influence of poles and zeros
+4. Performance analysis
+5. Example of discrete physical processes
+ 
+III. Behavior of sampled linear servo systems
+1. Sampled servo system
+2. Closed loop study
+3. Performance of a controlled system
+4. Stability Analysis: Jury Criterion
+5. Closed loop control with disturbance
+6. Study of delayed loop systems
+ 
+IV. Synthesis of digital correctors
+1. Numerical model of a derivative corrector
+2. Derivative corrector with filtered derivative action
+3. Numerical model of an integrating corrector
+4. Digital correctors PI, PD, parallel PID, mixed PID with filtered derivative action
+5. Corrector with correct answer
+6. Minimal response time corrector
+ 
+ 
+Chapter and sections
+Course (h)
+CI (h)
+TD (h)
+TP (h)
+Project (h)
+Total (h)
+Chapter 1
+x
+ 
+x
+ 
+ 
+9
+Chapter 2
+x
+ 
+x
+ 
+ 
+9
+Chapter 3
+x
+ 
+x
+ 
+ 
+9
+Chapter 4
+x
+ 
+x
+ 
+ 
+10:30 a.m.
+ 
+ 
+Reference books:
+ 
+1. R. Konn “Analog and digital control of systems. Frequency methods and
+polynomial, state space » Editions Ellipses, 2010
+2. E. Ostertag “Multivariable control and estimation. Linear methods and optimization
+quadratic » Editions Ellipses, 2006
+3. E. Godoy, E. Ostertag “Digital control of systems” Editions Ellipses, 2003
+4. Ph. Vanheeghe, C. Sueur, P. Borne “Automation of sampled systems: elements
+of courses and solved exercises”, Editions Technips, 2001
+5. M. Villain “Continuous and sampled signals and systems” Editions Ellipses, 1996
+6. M. Villain “Linear servo systems” Editions Ellipses, 1996
+ 

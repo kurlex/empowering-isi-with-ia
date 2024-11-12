@@ -1,0 +1,113 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Web services and mobile and network development
+ECUE no 5.2: Development of mobile applications
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Good knowledge of programming and an object-oriented language (C++, Java, C#, PHP5
+object, etc.)  
+2- Knowledge of HTML and have practical experience in web development.  
+3- Knowledge of JavaScript.
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+At the end of the component, the student will be able to:
+OE1: Study all the basics of Android application development  
+OE2: Master the fundamentals of the Kotlin language which is a modern language for
+develop applications for Android.  
+OE3: Learn all the basics of developing applications in an iOS environment
+(Apple)
+OE4: Developing high-performance mobile web applications with React Native
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+OE4
+OE4
+X
+ 
+X
+X
+SC2
+X
+X
+X
+ 
+SC3
+X
+X
+ 
+X
+SC4
+ 
+ 
+ 
+ 
+SC5
+X
+X
+X
+X
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+Chapter 1 – Android Platform  
+Chapter 2 – Android Development with Kotlin  
+Chapter 3 - iOS Platform  
+Chapter 4 – iOS Development with Swift  
+Chapter 5 – Mobile Development with React Native  
+Practical work & tutorials  
+TPs- Android  
+TPs- Kotlin  
+TPs- iOS  
+TPs-Swift  
+TPs- React Native
+               
+ 
+Chapter and sections
+Course (h)
+TD (h)
+TP (h)
+Total (h)
+Chapter 1
+3
+ 
+1.5
+4.5
+Chapter 2
+3
+ 
+1.5
+4.5
+Chapter 3
+3
+ 
+1.5
+4.5
+Chapter 4
+3
+ 
+1.5
+4.5
+Chapter 5
+3
+ 
+1.5
+4.5
+ 
+Reference books:
+Preferably, the main reference book should have national and/or international recognition.
+national in the scientific or technological field as an educational book.
+ 
+1. Develop an Android application: Java programming under Android Studio, Expert IT, Sylvain
+Hébuterne, Editions ENI, 2015, ISBN 2746097087  
+2. Android Development with Kotlin, Marcin Moskala, Igor Wojda, Packt Publishing Ltd, August 30, 2017  
+3. Swift for Dummies, Jesse FEILER, edi8, 2016, ISBN 2754085947  
+4. Getting Started with React Native, Ethan Holmes, Tom Bray, Packt Publishing, Dec 18 2015

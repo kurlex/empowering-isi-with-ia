@@ -1,12 +1,15 @@
 import React, { Dispatch, useEffect, useRef, useState } from "react";
 import { updateIAResponseDisplayState } from "../../utils/IAResponseHelper";
+import { MdError } from "react-icons/md";
 
 const GPTResponseDisplay = ({
   message,
   animate,
   setCanSendQuery,
+  isError = false,
   shouldAskQuestion = false,
 }: {
+  isError: boolean;
   message: any;
   animate: boolean;
   shouldAskQuestion: boolean;
@@ -44,16 +47,22 @@ const GPTResponseDisplay = ({
     }
   }, [displayState]);
 
+  const ErrorClass = isError ? "text-red-700" : "";
+
   if (!animate)
     return (
       <div className="chat-message text-white p-3 rounded-lg max-w-2xl self-end">
-        <p>{message.payload}</p>
+        {isError && <MdError className="text-red-700 inline m-1 size-5" />}
+        <span className={ErrorClass}>{message.payload}</span>
       </div>
     );
 
   return (
     <div className="chat-message text-white p-3 rounded-lg max-w-2xl self-end">
-      {displayState.payload.length > 0 && <p>{displayState.payload}</p>}
+      {isError && <MdError className="text-red-700 inline m-1 size-5" />}
+      {displayState.payload.length > 0 && (
+        <span className={ErrorClass}>{displayState.payload}</span>
+      )}
       {!displayState.isCompeleted && <div ref={bottomRef} />}
       {displayState.isCompeleted && shouldAskQuestion && <>buttons here</>}
     </div>

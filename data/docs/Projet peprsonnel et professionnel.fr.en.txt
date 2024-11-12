@@ -1,0 +1,66 @@
+ECUE fact sheet  
+ 
+Teaching Unit: Behavioral Skills IV
+ECUE no. 6.3: Personal and professional project
+Constituent Element Plan (ECUE)
+Prerequisites:
+ 
+1- Identify the standards for writing the Report,
+2- Use a synchronous collaborative writing tool (Coggle).
+ 
+ 
+Constituent Element Learning Objectives (CELU):
+ 
+OE1: Prepare for a first experience in the professional world,
+OE2: Improve communication skills,
+OE3: Developing autonomy skills
+
+ 
+ 
+Association matrix between the objectives of the constituent element and those of the program
+training (OP)
+ 
+ 
+OE1
+OE2
+OE3
+CS8
+X
+ 
+X
+CS9
+ 
+X
+ 
+CS10
+X
+X
+X
+ 
+Description of the content of the constituent element
+Specify the chapters and their subsections by adopting the organization of a reference book
+known and referred in the field. Also specifies the number of hours of courses (C), CI, TD,
+TP, project or other necessary for each chapter or part.
+ 
+                            
+                   Module 1: Preparing an application file for an internship
+                   Module 2: Writing and ethics   
+ 
+Chapter and sections
+TD(h)
+Project (h)
+Total (h)
+Module 1
+9
+1.5
+10.5
+Module 2
+9
+3
+12
+ 
+Reference books:
+1. “First-time entrants to Paul Valery University 2008-2009”, Student Life Observatory,
+November 2008.  
+2. “Long live the revolution! The long-term benefits of angry students”, Eric Maurin and Sandra McNally, ´
+Journal of Labor Economics, 2008, number 26 (1)
