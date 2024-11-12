@@ -72,14 +72,14 @@ const GPTResponseDisplay = ({
     );
 
   return (
-    <div className="inline-block relative chat-message text-white p-3 rounded-lg max-w-2xl self-end">
+    <div className="inline-block relative chat-message text-white p-3 rounded-lg max-w-2xl self-end border-[1px]">
       {isError && <MdError className="text-red-700 inline m-1 size-5" />}
       {displayState.payload.length > 0 && (
         <span className={ErrorClass}>{displayState.payload}</span>
       )}
       {displayState.isCompeleted && (
-        <div className=" flex justify-between bottom-20">
-          <div className="absolute right-2 flex gap-2">
+        <div className="  flex justify-between  ">
+          <div className="absolute -bottom-12 right-2 flex gap-2 ">
             <button
               className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
               onClick={() => handleButtonClick("oui")}
@@ -99,7 +99,7 @@ const GPTResponseDisplay = ({
               <FaRedo />
             </button>
           </div>
-          <div className="absolute flex gap-[16px]">
+          <div className="absolute -bottom-12 flex gap-[16px]">
             {animate &&
               suggestions &&
               suggestions.map((el, index) => (
