@@ -18,6 +18,7 @@ export type conversation = any;
 interface IConversationFactoryProps {
   conversation: conversation[];
   setCanSendQuery: Dispatch<React.SetStateAction<boolean>>;
+  handleSendMessage: any;
 }
 
 const unsupportedQueryMessage = {
@@ -33,6 +34,7 @@ const errorMessage = {
 const ConversationFactory = ({
   conversation,
   setCanSendQuery,
+  handleSendMessage,
 }: IConversationFactoryProps) => {
   return (
     <>
@@ -54,6 +56,7 @@ const ConversationFactory = ({
                 shouldAskQuestion
                 animate={animate}
                 setCanSendQuery={setCanSendQuery}
+                handleSendMessage={handleSendMessage}
               />
             );
           case "question":
@@ -64,6 +67,7 @@ const ConversationFactory = ({
                 shouldAskQuestion={false}
                 animate={animate}
                 setCanSendQuery={setCanSendQuery}
+                handleSendMessage={handleSendMessage}
               />
             );
           case "error":
