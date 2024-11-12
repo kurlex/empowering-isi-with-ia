@@ -13,6 +13,5 @@ export const updateIAResponseDisplayState = (
   if (!isValueUpdated) {
     newDisplayState.isCompeleted = true;
   }
-
   return newDisplayState;
 };
