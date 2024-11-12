@@ -41,7 +41,7 @@ const GPTResponseDisplay = ({
       setDisplayState((prevDisplayState) =>
         updateIAResponseDisplayState(prevDisplayState, message)
       );
-    }, 50);
+    }, 25);
     return () => clearTimeout(timer);
   }, [message, displayState, animate, setCanSendQuery]);
 
@@ -78,27 +78,7 @@ const GPTResponseDisplay = ({
         <span className={ErrorClass}>{displayState.payload}</span>
       )}
       {displayState.isCompeleted && (
-        <div className="  flex justify-between  ">
-          <div className="absolute -bottom-12 right-2 flex gap-2 ">
-            <button
-              className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
-              onClick={() => handleButtonClick("oui")}
-            >
-              <FaThumbsUp />
-            </button>
-            <button
-              className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
-              onClick={() => handleButtonClick("non")}
-            >
-              <FaThumbsDown />
-            </button>
-            <button
-              className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
-              onClick={() => handleButtonClick("plus")}
-            >
-              <FaRedo />
-            </button>
-          </div>
+        <div className="  flex  ">
           <div className="absolute -bottom-12 flex gap-[16px]">
             {animate &&
               suggestions &&

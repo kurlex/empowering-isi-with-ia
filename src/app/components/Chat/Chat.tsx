@@ -42,13 +42,21 @@ const Chat = () => {
   const handleSendMessage = async (el: string | null) => {
     let latestPromp = prompt.trim();
     if (el) {
-      const req = conversations.slice(-2);
+      latestPromp = "";
+      for (let i = conversations.length - 1; i >= 0; i -= 2) {
+        if (conversations[i].type !== "question") break;
+        latestPromp = `
+          ${conversations[i - 1]}
+          ${conversations[i].payload}
+          ${latestPromp}
+          `;
+      }
       latestPromp = `
-      ${req[0]}
-      ${req[1].payload}
+      ${latestPromp}
       ${el.trim()}
       `;
     }
+
     if (!latestPromp || !canSendQuery || !currentChatId || !userId) return;
     setConversations((oldConversation) => [
       ...oldConversation,
@@ -56,22 +64,22 @@ const Chat = () => {
       {},
     ]);
     setPrompt("");
-    // const iaResponse = await handleCreateConversationAction(
-    //   userId,
-    //   currentChatId,
-    //   latestPromp
-    // );
-    const iaResponse = {
-      type: "question",
-      payload:
-        "Could you please specify for which semester and year you would like to know the schedule?",
-      suggestions: [
-        "1st semester 2022-2023",
-        "2nd semester 2022-2023",
-        "1st semester 2023-2024",
-        "2nd semester 2023-2024",
-      ],
-    };
+    const iaResponse = await handleCreateConversationAction(
+      userId,
+      currentChatId,
+      latestPromp
+    );
+    // const iaResponse = {
+    //   type: "question",
+    //   payload:
+    //     "Could you please specify for which semester and year you would like to know the schedule?",
+    //   suggestions: [
+    //     "1st semester 2022-2023",
+    //     "2nd semester 2022-2023",
+    //     "1st semester 2023-2024",
+    //     "2nd semester 2023-2024",
+    //   ],
+    // };
     fetchMessagesCounter();
     setConversations((oldConversation) => [
       ...oldConversation.slice(0, -1),
