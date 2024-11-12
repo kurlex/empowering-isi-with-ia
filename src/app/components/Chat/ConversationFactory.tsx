@@ -7,6 +7,7 @@ export type conversation = any;
 interface IConversationFactoryProps {
   conversation: conversation[];
   setCanSendQuery: Dispatch<React.SetStateAction<boolean>>;
+  handleSendMessage: any;
 }
 
 export enum IAResponseSourceEnum {
@@ -17,6 +18,7 @@ export enum IAResponseSourceEnum {
 const ConversationFactory = ({
   conversation,
   setCanSendQuery,
+  handleSendMessage,
 }: IConversationFactoryProps) => {
   return (
     <>
@@ -39,6 +41,7 @@ const ConversationFactory = ({
                 animate={animate}
                 isError={false}
                 setCanSendQuery={setCanSendQuery}
+                handleSendMessage={handleSendMessage}
               />
             );
           case "question":
@@ -50,6 +53,7 @@ const ConversationFactory = ({
                 animate={animate}
                 isError={false}
                 setCanSendQuery={setCanSendQuery}
+                handleSendMessage={handleSendMessage}
               />
             );
           case "error":

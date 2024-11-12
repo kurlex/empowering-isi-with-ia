@@ -1,5 +1,6 @@
 import React, { Dispatch, useEffect, useRef, useState } from "react";
 import { updateIAResponseDisplayState } from "../../utils/IAResponseHelper";
+import { FaThumbsUp, FaThumbsDown, FaRedo } from "react-icons/fa";
 import { MdError } from "react-icons/md";
 
 const GPTResponseDisplay = ({
@@ -8,11 +9,13 @@ const GPTResponseDisplay = ({
   setCanSendQuery,
   isError = false,
   shouldAskQuestion = false,
+  handleSendMessage,
 }: {
   isError: boolean;
   message: any;
   animate: boolean;
   shouldAskQuestion: boolean;
+  handleSendMessage: any;
   setCanSendQuery: Dispatch<React.SetStateAction<boolean>>;
 }) => {
   const bottomRef = useRef<HTMLDivElement | null>(null);
@@ -23,6 +26,10 @@ const GPTResponseDisplay = ({
     payload: "",
     isCompeleted: false,
   });
+  const testSuggestions = [
+    "you are in second degree",
+    "you are in third degree",
+  ];
 
   useEffect(() => {
     if (animate) setCanSendQuery(false);
@@ -49,11 +56,54 @@ const GPTResponseDisplay = ({
 
   const ErrorClass = isError ? "text-red-700" : "";
 
+  const handleButtonClick = (type: string) => {
+    console.log(type);
+  };
+
+  const handleActionClick = (el: string) => {
+    handleSendMessage(el);
+  };
+
   if (!animate)
     return (
-      <div className="chat-message text-white p-3 rounded-lg max-w-2xl self-end">
-        {isError && <MdError className="text-red-700 inline m-1 size-5" />}
-        <span className={ErrorClass}>{message.payload}</span>
+      <div className="inline-block relative mb-[20px]">
+        <div className="chat-message text-white p-3 rounded-lg max-w-2xl mb-8">
+          {isError && <MdError className="text-red-700 inline m-1 size-5" />}
+          <span className={ErrorClass}>{message.payload}</span>
+          <div className=" flex justify-between">
+            <div className="absolute -bottom-4 right-2 flex gap-2">
+              <button
+                className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
+                onClick={() => handleButtonClick("oui")}
+              >
+                <FaThumbsUp />
+              </button>
+              <button
+                className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
+                onClick={() => handleButtonClick("non")}
+              >
+                <FaThumbsDown />
+              </button>
+              <button
+                className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
+                onClick={() => handleButtonClick("plus")}
+              >
+                <FaRedo />
+              </button>
+            </div>
+            <div className="absolute -bottom-3 flex gap-[16px]">
+              {testSuggestions.map((el, index) => (
+                <button
+                  key={index}
+                  className="max-w-[200px] truncate border-[1px] rounded-lg p-[4px]"
+                  onClick={() => handleActionClick(el)}
+                >
+                  {el}
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
       </div>
     );
 
