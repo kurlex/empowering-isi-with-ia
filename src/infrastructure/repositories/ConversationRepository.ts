@@ -18,7 +18,7 @@ export class ConversationRepository implements IConversationRepository {
   getChatConversations = async (chatId: string): Promise<Conversation[]> => {
     return await prisma.conversation.findMany({
       where: { chatId },
-      orderBy: { createdAt: "desc" },
+      orderBy: { createdAt: "asc" },
     });
   };
 

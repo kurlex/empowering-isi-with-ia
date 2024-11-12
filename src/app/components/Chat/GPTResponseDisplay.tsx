@@ -8,16 +8,17 @@ const GPTResponseDisplay = ({
   animate,
   setCanSendQuery,
   isError = false,
-  shouldAskQuestion = false,
   handleSendMessage,
+  suggestions,
 }: {
   isError: boolean;
   message: any;
   animate: boolean;
-  shouldAskQuestion: boolean;
   handleSendMessage: any;
+  suggestions: string[] | null;
   setCanSendQuery: Dispatch<React.SetStateAction<boolean>>;
 }) => {
+  suggestions = suggestions ? suggestions.slice(0, 2) : null;
   const bottomRef = useRef<HTMLDivElement | null>(null);
   const [displayState, setDisplayState] = useState<{
     payload: string;
@@ -26,10 +27,6 @@ const GPTResponseDisplay = ({
     payload: "",
     isCompeleted: false,
   });
-  const testSuggestions = [
-    "you are in second degree",
-    "you are in third degree",
-  ];
 
   useEffect(() => {
     if (animate) setCanSendQuery(false);
@@ -70,29 +67,42 @@ const GPTResponseDisplay = ({
         <div className="chat-message text-white p-3 rounded-lg max-w-2xl mb-8">
           {isError && <MdError className="text-red-700 inline m-1 size-5" />}
           <span className={ErrorClass}>{message.payload}</span>
-          <div className=" flex justify-between">
-            <div className="absolute -bottom-4 right-2 flex gap-2">
-              <button
-                className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
-                onClick={() => handleButtonClick("oui")}
-              >
-                <FaThumbsUp />
-              </button>
-              <button
-                className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
-                onClick={() => handleButtonClick("non")}
-              >
-                <FaThumbsDown />
-              </button>
-              <button
-                className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
-                onClick={() => handleButtonClick("plus")}
-              >
-                <FaRedo />
-              </button>
-            </div>
-            <div className="absolute -bottom-3 flex gap-[16px]">
-              {testSuggestions.map((el, index) => (
+        </div>
+      </div>
+    );
+
+  return (
+    <div className="inline-block relative chat-message text-white p-3 rounded-lg max-w-2xl self-end">
+      {isError && <MdError className="text-red-700 inline m-1 size-5" />}
+      {displayState.payload.length > 0 && (
+        <span className={ErrorClass}>{displayState.payload}</span>
+      )}
+      {displayState.isCompeleted && (
+        <div className=" flex justify-between bottom-20">
+          <div className="absolute right-2 flex gap-2">
+            <button
+              className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
+              onClick={() => handleButtonClick("oui")}
+            >
+              <FaThumbsUp />
+            </button>
+            <button
+              className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
+              onClick={() => handleButtonClick("non")}
+            >
+              <FaThumbsDown />
+            </button>
+            <button
+              className="text-white p-2 bg-gray-800 rounded-full hover:bg-gray-600"
+              onClick={() => handleButtonClick("plus")}
+            >
+              <FaRedo />
+            </button>
+          </div>
+          <div className="absolute flex gap-[16px]">
+            {animate &&
+              suggestions &&
+              suggestions.map((el, index) => (
                 <button
                   key={index}
                   className="max-w-[200px] truncate border-[1px] rounded-lg p-[4px]"
@@ -101,20 +111,10 @@ const GPTResponseDisplay = ({
                   {el}
                 </button>
               ))}
-            </div>
           </div>
         </div>
-      </div>
-    );
-
-  return (
-    <div className="chat-message text-white p-3 rounded-lg max-w-2xl self-end">
-      {isError && <MdError className="text-red-700 inline m-1 size-5" />}
-      {displayState.payload.length > 0 && (
-        <span className={ErrorClass}>{displayState.payload}</span>
       )}
       {!displayState.isCompeleted && <div ref={bottomRef} />}
-      {displayState.isCompeleted && shouldAskQuestion && <>buttons here</>}
     </div>
   );
 };

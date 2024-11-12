@@ -37,11 +37,11 @@ const ConversationFactory = ({
               <GPTResponseDisplay
                 key={index}
                 message={message}
-                shouldAskQuestion
                 animate={animate}
                 isError={false}
                 setCanSendQuery={setCanSendQuery}
                 handleSendMessage={handleSendMessage}
+                suggestions={null}
               />
             );
           case "question":
@@ -49,11 +49,11 @@ const ConversationFactory = ({
               <GPTResponseDisplay
                 key={index}
                 message={message}
-                shouldAskQuestion={false}
                 animate={animate}
                 isError={false}
                 setCanSendQuery={setCanSendQuery}
                 handleSendMessage={handleSendMessage}
+                suggestions={message.suggestions}
               />
             );
           case "error":
@@ -61,10 +61,11 @@ const ConversationFactory = ({
               <GPTResponseDisplay
                 key={index}
                 message={message}
-                shouldAskQuestion={false}
                 animate={animate}
                 isError
                 setCanSendQuery={setCanSendQuery}
+                handleSendMessage={handleSendMessage}
+                suggestions={null}
               />
             );
           default:

@@ -40,35 +40,43 @@ const Chat = () => {
   }, [currentChatId]);
 
   const handleSendMessage = async (el: string | null) => {
-    if (el == null) {
-      if (!prompt.trim() || !canSendQuery || !currentChatId || !userId) return;
-      const latestPromp = prompt.trim();
-      setConversations((oldConversation) => [
-        ...oldConversation,
-        latestPromp,
-        new BaseIAResponse(),
-      ]);
-      setPrompt("");
-      // const iaResponse = await handleCreateConversationAction(
-      //   userId,
-      //   currentChatId,
-      //   latestPromp
-      // );
-      const iaResponse = {
-        type: "response",
-        payload:
-          "ISI refers to the Institut Supérieur d’Informatique, which is a higher education institution specializing in computer science. It is recognized for its role in providing diploma education (Licence, Master, and engineer) in the field of computer science and its applications, performing scientific research and innovation, and providing continuous training and outreach to the professional environment. The vision of ISI is to be a recognized leader in higher education in computer science, offering excellent programs and training professionals who are at the forefront of technological advances. It aspires to be a hub for innovation, research, and knowledge transfer, contributing to societal advancement and digital transformation.",
-      };
-      fetchMessagesCounter();
-      setConversations((oldConversation) => [
-        ...oldConversation.slice(0, -1),
-        iaResponse,
-      ]);
-    } else {
+    let latestPromp = prompt.trim();
+    if (el) {
       const req = conversations.slice(-2);
-      // setConversations((oldConversation) => [...oldConversation.slice(-2), el]);
-      console.log(req);
+      latestPromp = `
+      ${req[0]}
+      ${req[1].payload}
+      ${el.trim()}
+      `;
     }
+    if (!latestPromp || !canSendQuery || !currentChatId || !userId) return;
+    setConversations((oldConversation) => [
+      ...oldConversation,
+      el ? el : latestPromp,
+      {},
+    ]);
+    setPrompt("");
+    // const iaResponse = await handleCreateConversationAction(
+    //   userId,
+    //   currentChatId,
+    //   latestPromp
+    // );
+    const iaResponse = {
+      type: "question",
+      payload:
+        "Could you please specify for which semester and year you would like to know the schedule?",
+      suggestions: [
+        "1st semester 2022-2023",
+        "2nd semester 2022-2023",
+        "1st semester 2023-2024",
+        "2nd semester 2023-2024",
+      ],
+    };
+    fetchMessagesCounter();
+    setConversations((oldConversation) => [
+      ...oldConversation.slice(0, -1),
+      { ...iaResponse, source: IAResponseSourceEnum.local },
+    ]);
   };
 
   if (isLoading || !currentChatId)
@@ -92,11 +100,14 @@ const Chat = () => {
           type="text"
           value={prompt}
           onChange={(e) => setPrompt(e.target.value)}
-          onKeyDown={(e) => e.key === "Enter" && handleSendMessage()}
+          onKeyDown={(e) => e.key === "Enter" && handleSendMessage(null)}
           placeholder="Type your message..."
           className="flex-1 p-4 rounded-full mr-2 focus:outline-none focus:ring-0"
         />
-        <button onClick={handleSendMessage} className="btn btn-secondary">
+        <button
+          onClick={() => handleSendMessage(null)}
+          className="btn btn-secondary"
+        >
           {canSendQuery && "Send"}
           {!canSendQuery && <FaPause />}
         </button>
