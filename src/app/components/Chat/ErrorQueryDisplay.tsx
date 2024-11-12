@@ -32,7 +32,7 @@ const ErrorQueryDisplay = ({
 
     const timer = setTimeout(() => {
       setDisplayState((prevDisplayState) =>
-        updateIAResponseDisplayState(prevDisplayState, message, [])
+        updateIAResponseDisplayState(prevDisplayState, message)
       );
     }, 50);
     return () => clearTimeout(timer);

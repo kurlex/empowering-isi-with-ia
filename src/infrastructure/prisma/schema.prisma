@@ -11,7 +11,6 @@ generator client {
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
-  directUrl = env("DIRECT_URL")
 }
 
 model Chat {
@@ -30,7 +29,6 @@ model Conversation {
   chat Chat @relation(fields: [chatId], references: [id])
   chatId String
   isTreated Boolean @default(false)
-  metaData   Json?
 }
 
 model Word {

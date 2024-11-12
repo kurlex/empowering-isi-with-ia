@@ -1,4 +1,4 @@
-import { Conversation } from "@prisma/client";
+import { Conversation, Prisma } from "@prisma/client";
 import { IConversationRepository } from "../../domain/interfaces/IConversationRepository";
 import prisma from "../prisma/prismaClient";
 
@@ -25,15 +25,13 @@ export class ConversationRepository implements IConversationRepository {
   addChatConversations = async (
     chatId: string,
     request: string,
-    response: string,
-    metaData: JSON
+    response: string
   ): Promise<Conversation> => {
     return await prisma.conversation.create({
       data: {
         chatId,
         request,
         response,
-        metaData
       },
     });
   };

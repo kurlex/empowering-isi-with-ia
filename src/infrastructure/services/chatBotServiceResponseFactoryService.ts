@@ -1,7 +1,14 @@
-export class ChatBotServiceResponseFactoryService {
+class ChatBotServiceResponseFactoryService {
   constructor() {}
 
-  getResponse(response: string) {
+  static getResponse(response: string | null) {
+    const errorResponse = {
+      type: "error",
+      payload: "we are sorry, we can't",
+    };
+
+    if (!response) return errorResponse;
+
     const jsResp = JSON.parse(response);
     switch (jsResp.type) {
       case "question": {
@@ -10,7 +17,7 @@ export class ChatBotServiceResponseFactoryService {
           payload: jsResp.response,
         };
       }
-      case "response": {
+      case "answer": {
         return {
           type: "response",
           payload: jsResp.response,
@@ -18,10 +25,9 @@ export class ChatBotServiceResponseFactoryService {
         };
       }
       default:
-        return {
-          type: "error",
-          payload: "we are sorry, we can t",
-        };
+        return errorResponse;
     }
   }
 }
+
+export default ChatBotServiceResponseFactoryService;

@@ -8,7 +8,6 @@ import WordCloud from "./components/WordCloud";
 import Message from "./components/Message";
 import Loader from "./components/Loader";
 import supabase from "./lib/supabase/supabaseClient";
-import { handleTestiTestAction } from "./serverActions/HandleCreateChatAction";
 
 enum HomeActionStatusEnum {
   userNotReady,
@@ -28,7 +27,6 @@ export default function Home() {
   };
 
   const onSubmitEmail = async (event: MouseEvent<HTMLButtonElement>) => {
-    await handleTestiTestAction("wa ya sahbi");
     event.preventDefault();
     setHomeActionStatus(HomeActionStatusEnum.userWaitingForAuth);
     const urlToRedirectTo = `${window.location.origin}/dashboard`;

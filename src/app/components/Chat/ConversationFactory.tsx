@@ -8,13 +8,13 @@ import {
 } from "./IAResponseFactory";
 import UserMessage from "./UserMessage";
 import VenueSuggestionDisplay from "./VenueSuggestionDisplay";
-import LogisticalQueryDisplay from "./LogisticalQueryDisplay";
+import GPTResponseDisplay from "./GPTResponseDisplay";
 import QueryHandlingDisplay from "./QueryHandlingDisplay";
 import LoadingDots from "./LoadingDots";
 import ErrorQueryDisplay from "./ErrorQueryDisplay";
 import { IAResponseCategoryEnum } from "../../../domain/enums/IAResponseCategoryEnum";
 
-export type conversation = string | BaseIAResponse;
+export type conversation = any;
 interface IConversationFactoryProps {
   conversation: conversation[];
   setCanSendQuery: Dispatch<React.SetStateAction<boolean>>;
@@ -44,48 +44,29 @@ const ConversationFactory = ({
         let animate =
           conversation.length - 1 === index &&
           message.source === IAResponseSourceEnum.local;
-
-        switch (message.category) {
-          case IAResponseCategoryEnum.logistical_query:
-            let logisticalQuery = message as LogisticalQuery;
+        console.log("front", message);
+        switch (message.type) {
+          case "response":
             return (
-              <LogisticalQueryDisplay
+              <GPTResponseDisplay
                 key={index}
-                logisticalQuery={logisticalQuery}
+                message={message}
+                shouldAskQuestion
                 animate={animate}
                 setCanSendQuery={setCanSendQuery}
               />
             );
-          case IAResponseCategoryEnum.query_handling:
-            let queryHandling = message as QueryHandling;
+          case "question":
             return (
-              <QueryHandlingDisplay
+              <GPTResponseDisplay
                 key={index}
-                queryHandling={queryHandling}
+                message={message}
+                shouldAskQuestion={false}
                 animate={animate}
                 setCanSendQuery={setCanSendQuery}
               />
             );
-          case IAResponseCategoryEnum.venue_suggestion:
-            let venueSuggestion = message as VenueSuggestion;
-            return (
-              <VenueSuggestionDisplay
-                key={index}
-                venueSuggestion={venueSuggestion}
-                animate={animate}
-                setCanSendQuery={setCanSendQuery}
-              />
-            );
-          case IAResponseCategoryEnum.none:
-            return (
-              <ErrorQueryDisplay
-                message={unsupportedQueryMessage}
-                key={index}
-                animate={animate}
-                setCanSendQuery={setCanSendQuery}
-              />
-            );
-          case IAResponseCategoryEnum.error:
+          case "error":
             return (
               <ErrorQueryDisplay
                 message={errorMessage}

@@ -9,8 +9,7 @@ export interface IConversationRepository {
   addChatConversations(
     chatId: string,
     request: string,
-    response: string,
-    metaData: Prisma.JsonValue
+    response: string
   ): Promise<Conversation>;
 
   deleteAllChatConversations(chatId: string): Promise<void>;

@@ -1,24 +1,23 @@
 import React, { Dispatch, useEffect, useRef, useState } from "react";
-import { item, LogisticalQuery } from "./IAResponseFactory";
 import { updateIAResponseDisplayState } from "../../utils/IAResponseHelper";
 
-const LogisticalQueryDisplay = ({
-  logisticalQuery,
+const GPTResponseDisplay = ({
+  message,
   animate,
   setCanSendQuery,
+  shouldAskQuestion = false,
 }: {
-  logisticalQuery: LogisticalQuery;
+  message: any;
   animate: boolean;
+  shouldAskQuestion: boolean;
   setCanSendQuery: Dispatch<React.SetStateAction<boolean>>;
 }) => {
   const bottomRef = useRef<HTMLDivElement | null>(null);
   const [displayState, setDisplayState] = useState<{
-    intro: string;
-    items: item[];
+    payload: string;
     isCompeleted: boolean;
   }>({
-    intro: "",
-    items: [],
+    payload: "",
     isCompeleted: false,
   });
 
@@ -27,22 +26,17 @@ const LogisticalQueryDisplay = ({
   }, [animate, setCanSendQuery]);
 
   useEffect(() => {
-    const attributeOrder = ["type", "examples"];
     setCanSendQuery((canSendQuery) =>
       animate ? displayState.isCompeleted : canSendQuery
     );
     if (!animate || displayState.isCompeleted) return;
     const timer = setTimeout(() => {
       setDisplayState((prevDisplayState) =>
-        updateIAResponseDisplayState(
-          prevDisplayState,
-          logisticalQuery,
-          attributeOrder
-        )
+        updateIAResponseDisplayState(prevDisplayState, message)
       );
     }, 50);
     return () => clearTimeout(timer);
-  }, [logisticalQuery, displayState, animate, setCanSendQuery]);
+  }, [message, displayState, animate, setCanSendQuery]);
 
   useEffect(() => {
     if (bottomRef.current) {
@@ -53,34 +47,17 @@ const LogisticalQueryDisplay = ({
   if (!animate)
     return (
       <div className="chat-message text-white p-3 rounded-lg max-w-2xl self-end">
-        <p>{logisticalQuery.intro}</p>
-        <ol className="list-decimal">
-          {logisticalQuery.items.map((item, i) => (
-            <li key={i} className="p-2 ml-4">
-              <strong>{item.type}: </strong>
-              <span>{item.examples}</span>
-            </li>
-          ))}
-        </ol>
+        <p>{message.payload}</p>
       </div>
     );
 
   return (
     <div className="chat-message text-white p-3 rounded-lg max-w-2xl self-end">
-      {displayState.intro.length > 0 && <p>{displayState.intro}</p>}
-      {displayState.items.length > 0 && (
-        <ol className="list-decimal">
-          {displayState.items.map((item, i) => (
-            <li key={i} className="p-2 ml-4">
-              <strong>{item.type}: </strong>
-              <span>{item.examples}</span>
-            </li>
-          ))}
-        </ol>
-      )}
+      {displayState.payload.length > 0 && <p>{displayState.payload}</p>}
       {!displayState.isCompeleted && <div ref={bottomRef} />}
+      {displayState.isCompeleted && shouldAskQuestion && <>buttons here</>}
     </div>
   );
 };
 
-export default LogisticalQueryDisplay;
+export default GPTResponseDisplay;

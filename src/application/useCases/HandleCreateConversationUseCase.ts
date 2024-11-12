@@ -1,10 +1,5 @@
-import { PromptInstructionTypeEnum } from "../../domain/enums/PromptInstructionTypeEnum";
 import { IConversationRepository } from "../../domain/interfaces/IConversationRepository";
-import { IGPTService } from "../../domain/interfaces/IGPTService";
-import { IPromptService } from "../../domain/interfaces/IPromptService";
 import ChatBotService from "../../infrastructure/services/ChatBotService";
-import { ChatBotServiceResponseFactoryService } from "../../infrastructure/services/chatBotServiceResponseFactoryService";
-import { Prisma } from "@prisma/client";
 
 export class HandleCreateConversationUseCase {
   constructor(
@@ -24,8 +19,7 @@ export class HandleCreateConversationUseCase {
       this.conversationRepository.addChatConversations(
         chatId,
         request,
-        chatBotServiceResponse.payload,
-        { type: chatBotServiceResponse.type }
+        JSON.stringify(chatBotServiceResponse)
       );
     return chatBotServiceResponse;
   }

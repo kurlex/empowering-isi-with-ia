@@ -1,4 +1,4 @@
-import { ChatOpenAI } from "@langchain/openai";
+import { AzureChatOpenAI, ChatOpenAI } from "@langchain/openai";
 import { IGPTService } from "../../domain/interfaces/IGPTService";
 import { GPTService } from "../services/GPTService";
 import OpenAIService from "../services/OpenAIService";
@@ -25,9 +25,16 @@ import TranslationService from "../services/TranslationService";
 
 const isProd = process.env.RUNTIME_ENV === "production";
 console.log("Project Started at", isProd ? "Prod" : "Dev", "environment");
-// const chatGPTModel = new ChatOpenAI({
-//   apiKey: process.env.OPENAI_API_KEY,
-// });
+console.log(process.env.G_OPENAI_API_DEPLOYMENT_NAME);
+console.log(process.env.G_OPENAI_API_INSTANCE_NAME);
+console.log(process.env.G_OPENAI_API_VERSION);
+console.log(process.env.G_OPENAI_API_KEY);
+const chatGPTModel = new AzureChatOpenAI({
+  azureOpenAIApiDeploymentName: process.env.G_OPENAI_API_DEPLOYMENT_NAME,
+  azureOpenAIApiInstanceName: "isiai",
+  azureOpenAIApiVersion: process.env.G_OPENAI_API_VERSION,
+  azureOpenAIApiKey: process.env.G_OPENAI_API_KEY,
+});
 
 // repositories
 export const conversationRepository = new ConversationRepository();
@@ -42,10 +49,8 @@ const translateService = new TranslationService(
   process.env.TRANSLATION_ENDPOINT!,
   process.env.TRANSLATION_LOCATION!
 );
-// const gptService: IGPTService = isProd
-//   ? new GPTService(chatGPTModel)
-//   : new MockGPTService();
-const gptService: IGPTService = new MockGPTService();
+const gptService: IGPTService = new GPTService(chatGPTModel);
+// const gptService: IGPTService = new MockGPTService();
 
 const chatBotService = new ChatBotService(
   indexingService,
@@ -77,11 +82,7 @@ export const handleGetCloudWordUseCase = new HandleGetCloudWordUseCase(
 handleGetCloudWordUseCase.execute();
 
 export const handleCreateConversationUseCase =
-  new HandleCreateConversationUseCase(
-    gptService,
-    promptService,
-    conversationRepository
-  );
+  new HandleCreateConversationUseCase(conversationRepository, chatBotService);
 
 export const handleGetConversationUseCase = new HandleGetConversationUseCase(
   conversationRepository
@@ -98,5 +99,5 @@ export const handleGetChatUserCase = new HandleGetChatUserCase(chatRepository);
 
 export const handleCreateChatUseCase = new HandleCreateChatUseCase(
   chatRepository,
-  openAIService
+  chatBotService
 );

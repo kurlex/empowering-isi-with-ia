@@ -12,6 +12,7 @@ export class GPTService implements IGPTService {
       const response = await this.chatGptModel.invoke(prompt);
       return response.content as string;
     } catch (error) {
+      console.log("gptService", error);
       return null;
     }
   }

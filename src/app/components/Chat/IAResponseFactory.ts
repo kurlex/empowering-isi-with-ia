@@ -74,13 +74,12 @@ export class ErrorCategory extends BaseIAResponse {
 }
 
 export function IAResponseFactory(
-  jsonStr: string | null,
+  json: any,
   source: IAResponseSourceEnum
 ): BaseIAResponse {
-  if (jsonStr === null) return new ErrorCategory();
+  if (json === null) return new ErrorCategory();
   try {
-    let json = JSON.parse(jsonStr);
-    switch (json.category) {
+    switch (json.type) {
       case IAResponseCategoryEnum.venue_suggestion:
         return new VenueSuggestion(
           json.content.intro,
